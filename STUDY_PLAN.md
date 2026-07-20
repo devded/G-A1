@@ -1,6 +1,6 @@
-# 🇩🇪 German A1 Self-Study — Perfect 30-Min/Day Course
+# German A1 Self-Study — Perfect 30-Min/Day Course
 
-## 📋 Course Overview
+## Course Overview
 
 | Detail | Value |
 |:---|:---|
@@ -14,16 +14,16 @@
 
 ---
 
-## ⏱️ Your Perfect 30-Minute Session
+## Your Perfect 30-Minute Session
 
 Every single day follows this exact structure:
 
 | Block | Time | Activity |
 |:---|:---:|:---|
-| 📚 **Vocabulary** | 8 min | Learn 8 new words with audio, IPA, example sentences |
-| 📖 **Grammar Bite** | 10 min | One focused grammar rule + conjugation table |
-| ✏️ **Practice** | 9 min | Fill-in exercises + interactive quiz + flash cards |
-| ✅ **Review** | 3 min | Daily checklist + note any difficult words |
+| **Vocabulary** | 8 min | Learn 8 new words with audio, IPA, example sentences |
+| **Grammar Bite** | 10 min | One focused grammar rule + conjugation table |
+| **Practice** | 9 min | Fill-in exercises + interactive quiz + flash cards |
+| **Review** | 3 min | Daily checklist + note any difficult words |
 
 **Total: 30 minutes**
 
@@ -31,9 +31,9 @@ Every single day follows this exact structure:
 
 ---
 
-## 📅 84-Day Schedule (30 Min/Day)
+## 84-Day Schedule (30 Min/Day)
 
-### 📌 Week 1 — Alphabet, Sounds & First Greetings
+### Week 1 — Alphabet, Sounds & First Greetings
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 01 | Alphabet, Sounds, Greetings (Hallo, Tschüss, Danke, Bitte...) | German sounds (ä,ö,ü,ß,ei,ie) |
@@ -44,7 +44,7 @@ Every single day follows this exact structure:
 | Day 06 | Question Words (was/wer/wie/wo/woher) | W-questions + word order |
 | Day 07 | **WEEK 1 REVIEW** — Speaking exercise | All Week 1 grammar |
 
-### 📌 Week 2 — Family & Possessives
+### Week 2 — Family & Possessives
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 08 | Family vocabulary (Mutter, Vater, Bruder...) | Family nouns + plurals |
@@ -55,7 +55,7 @@ Every single day follows this exact structure:
 | Day 13 | Numbers 21–100 | Compound numbers |
 | Day 14 | **WEEK 2 REVIEW** | All Week 2 grammar |
 
-### 📌 Week 3 — Home, Rooms & Furniture
+### Week 3 — Home, Rooms & Furniture
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 15 | House rooms (Küche, Badezimmer, Schlafzimmer) | Noun gender practice |
@@ -66,7 +66,7 @@ Every single day follows this exact structure:
 | Day 20 | Apartment hunting dialogue | Practice dialogue |
 | Day 21 | **WEEK 3 REVIEW** | All Week 3 grammar |
 
-### 📌 Week 4 — Jobs, School & Daily Life
+### Week 4 — Jobs, School & Daily Life
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 22 | Occupations (Arzt, Lehrer, Student...) | Indefinite article with jobs |
@@ -77,7 +77,7 @@ Every single day follows this exact structure:
 | Day 27 | Negation: nicht and kein | Nicht vs kein |
 | Day 28 | **WEEK 4 REVIEW** | All Week 4 grammar |
 
-### 📌 Week 5 — Time, Days & Daily Routine
+### Week 5 — Time, Days & Daily Routine
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 29 | Clock time — official (8:00 Uhr) | Official time expressions |
@@ -88,7 +88,7 @@ Every single day follows this exact structure:
 | Day 34 | My daily routine dialogue | Full routine paragraph |
 | Day 35 | **WEEK 5 REVIEW** | All Week 5 grammar |
 
-### 📌 Week 6 — Hobbies, Sports & Free Time
+### Week 6 — Hobbies, Sports & Free Time
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 36 | Hobbies vocabulary (Lesen, Kochen, Sport...) | Infinitive as noun |
@@ -99,7 +99,7 @@ Every single day follows this exact structure:
 | Day 41 | Expressing likes/dislikes | Mag, gern, nicht gern |
 | Day 42 | **WEEK 6 REVIEW** | All Week 6 grammar |
 
-### 📌 Week 7 — Food, Drinks & Shopping
+### Week 7 — Food, Drinks & Shopping
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 43 | Food vocabulary (Brot, Fleisch, Gemüse...) | Food nouns + quantities |
@@ -110,7 +110,7 @@ Every single day follows this exact structure:
 | Day 48 | At the supermarket dialogue | Full dialogue |
 | Day 49 | **WEEK 7 REVIEW** | All Week 7 grammar |
 
-### 📌 Week 8 — Restaurants & Preferences
+### Week 8 — Restaurants & Preferences
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 50 | Restaurant vocabulary (Speisekarte, Kellner) | Restaurant nouns |
@@ -121,7 +121,7 @@ Every single day follows this exact structure:
 | Day 55 | Colors, sizes, clothing basics | Adjective basics |
 | Day 56 | **WEEK 8 REVIEW** | All Week 8 grammar |
 
-### 📌 Week 9 — City, Transport & Directions
+### Week 9 — City, Transport & Directions
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 57 | City places (Bahnhof, Supermarkt, Post...) | Place nouns |
@@ -132,7 +132,7 @@ Every single day follows this exact structure:
 | Day 62 | Getting around dialogue | Navigation dialogue |
 | Day 63 | **WEEK 9 REVIEW** | All Week 9 grammar |
 
-### 📌 Week 10 — Weather, Seasons & Nature
+### Week 10 — Weather, Seasons & Nature
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 64 | Weather vocabulary (Sonne, Regen, Wind...) | Impersonal es |
@@ -143,7 +143,7 @@ Every single day follows this exact structure:
 | Day 69 | Talking about weather + plans | Combining modals + weather |
 | Day 70 | **WEEK 10 REVIEW** | All Week 10 grammar |
 
-### 📌 Week 11 — Health & Helping Language
+### Week 11 — Health & Helping Language
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 71 | Body parts (Kopf, Arm, Bein, Magen...) | Body vocabulary |
@@ -154,7 +154,7 @@ Every single day follows this exact structure:
 | Day 76 | Basic Perfekt tense (past tense) | haben/sein + Partizip II |
 | Day 77 | **WEEK 11 REVIEW** | All Week 11 grammar |
 
-### 📌 Week 12 — Exam Preparation
+### Week 12 — Exam Preparation
 | Day | Focus | Grammar |
 |:---:|:---|:---|
 | Day 78 | Goethe A1 Listening strategies | Exam listening tips |
@@ -167,7 +167,7 @@ Every single day follows this exact structure:
 
 ---
 
-## 📊 Vocabulary by Week
+## Vocabulary by Week
 
 | Week | New Words | Running Total |
 |:---:|:---:|:---:|
@@ -188,7 +188,7 @@ Every single day follows this exact structure:
 
 ---
 
-## 🎯 Exam Alignment
+## Exam Alignment
 
 | Goethe A1 Skill | Where Practised |
 |:---|:---|
@@ -199,7 +199,7 @@ Every single day follows this exact structure:
 
 ---
 
-## 📝 Catch-Up Policy
+## Catch-Up Policy
 
 > Missed a day? No problem! Don't double up on full sessions. Instead:
 > - Do the 8 vocab words from the missed day

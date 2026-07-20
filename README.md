@@ -81,6 +81,6 @@ The vocabulary collection is built from a Goethe-aligned A1 source deck and orig
 
 ## Begin
 
-➡️ [Day 1 — German Sounds, Alphabet and Greetings](Weeks/Week-01/Days/Day-01.md)
+[Day 1 — German Sounds, Alphabet and Greetings](Weeks/Week-01/Days/Day-01.md)
 
 **Los geht's!**
