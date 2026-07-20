@@ -64,6 +64,7 @@
 
 <script setup>
 import { ref, computed, watch } from 'vue'
+import { withBase } from 'vitepress'
 
 const props = defineProps({
   cards: { type: Array, required: true }
@@ -141,7 +142,7 @@ function playAudio(text, slow = false) {
 
   const slug   = slugify(text)
   const suffix = slow ? '_slow' : ''
-  const url    = `/audio/${slug}${suffix}.mp3`
+  const url    = withBase(`/audio/${slug}${suffix}.mp3`)
 
   const a = new Audio(url)
   audioEl = a

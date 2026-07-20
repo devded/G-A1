@@ -76,6 +76,7 @@
 
 <script setup>
 import { ref, computed, watch } from 'vue'
+import { withBase } from 'vitepress'
 
 const props = defineProps({
   questions: { type: Array, required: true }
@@ -145,7 +146,7 @@ let audioEl = null
 function playAudio(text) {
   if (!text) return
   if (audioEl) { audioEl.pause(); audioEl = null }
-  const a = new Audio(`/audio/${slugify(text)}.mp3`)
+  const a = new Audio(withBase(`/audio/${slugify(text)}.mp3`))
   audioEl = a
   a.play().catch(() => speechFallback(text))
   a.onerror = () => speechFallback(text)

@@ -44,6 +44,7 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 
 const props = defineProps({
   text:     { type: String, required: true },
@@ -72,10 +73,10 @@ function slugify(text) {
 }
 
 function audioUrl(text, slow = false) {
-  if (props.audioSrc && !slow) return props.audioSrc
+  if (props.audioSrc && !slow) return withBase(props.audioSrc)
   const slug = slugify(text)
   const suffix = slow ? '_slow' : ''
-  return `/audio/${slug}${suffix}.mp3`
+  return withBase(`/audio/${slug}${suffix}.mp3`)
 }
 
 function speak(mode = 'normal') {
