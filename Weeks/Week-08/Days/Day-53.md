@@ -132,11 +132,11 @@ In Germany, you tell the waiter the **total amount including tip** when handing 
 
 ### 3A — Complete the sentences
 
-**1.** Wir möchten bitte ___ (pay). → <details><summary>Answer</summary>**bezahlen**</details>
-**2.** Zusammen oder ___ (separately)? → <details><summary>Answer</summary>**getrennt**</details>
-**3.** 25 Euro, ___ (keep the change)! → <details><summary>Answer</summary>**stimmt so**</details>
-**4.** Entschuldigung, die Suppe ist ___ (cold). → <details><summary>Answer</summary>**kalt**</details>
-**5.** Hier ___ (is missing) ein Messer. → <details><summary>Answer</summary>**fehlt**</details>
+**1.** Wir möchten bitte ___ (pay). → <details><summary>Answer</summary>**bezahlen** <SpeakButton text="bezahlen" /></details>
+**2.** Zusammen oder ___ (separately)? → <details><summary>Answer</summary>**getrennt** <SpeakButton text="getrennt" /></details>
+**3.** 25 Euro, ___ (keep the change)! → <details><summary>Answer</summary>**stimmt so** <SpeakButton text="stimmt so" /></details>
+**4.** Entschuldigung, die Suppe ist ___ (cold). → <details><summary>Answer</summary>**kalt** <SpeakButton text="kalt" /></details>
+**5.** Hier ___ (is missing) ein Messer. → <details><summary>Answer</summary>**fehlt** <SpeakButton text="fehlt" /></details>
 
 ### 3B — Flash Cards
 

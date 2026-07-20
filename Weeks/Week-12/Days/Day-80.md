@@ -141,11 +141,11 @@ Viele Grüße / Mit freundlichen Grüßen,
 
 ### 3A — Complete the sentences
 
-**1.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular**</details>
-**2.** Tragen Sie Ihr ___ (date of birth) ein. → <details><summary>Answer</summary>**Geburtsdatum**</details>
-**3.** Schreiben Sie eine kurze ___ (message). → <details><summary>Answer</summary>**Nachricht**</details>
-**4.** ___ (Answer) Sie alle 3 Punkte. → <details><summary>Answer</summary>**Beantworten**</details>
-**5.** Der ___ (subject line) ist: Urlaubsanfrage. → <details><summary>Answer</summary>**Betreff**</details>
+**1.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Formular" /></details>
+**2.** Tragen Sie Ihr ___ (date of birth) ein. → <details><summary>Answer</summary>**Geburtsdatum** <SpeakButton text="Geburtsdatum" /></details>
+**3.** Schreiben Sie eine kurze ___ (message). → <details><summary>Answer</summary>**Nachricht** <SpeakButton text="Nachricht" /></details>
+**4.** ___ (Answer) Sie alle 3 Punkte. → <details><summary>Answer</summary>**Beantworten** <SpeakButton text="Beantworten" /></details>
+**5.** Der ___ (subject line) ist: Urlaubsanfrage. → <details><summary>Answer</summary>**Betreff** <SpeakButton text="Betreff" /></details>
 
 ### 3B — Flash Cards
 

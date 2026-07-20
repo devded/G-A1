@@ -128,11 +128,11 @@ German loves sticking nouns together to create compound words!
 
 ### 3A — Complete the sentences
 
-**1.** das Büro + der Stuhl = ___ Bürostuhl. → <details><summary>Answer</summary>**der**</details>
-**2.** das Handy + die Nummer = ___ Handynummer. → <details><summary>Answer</summary>**die**</details>
-**3.** Ich arbeite ___ (at) Computer. → <details><summary>Answer</summary>**am**</details>
-**4.** Ich schreibe eine ___ (email). → <details><summary>Answer</summary>**E-Mail**</details>
-**5.** Er arbeitet bei einer großen ___ (company). → <details><summary>Answer</summary>**Firma**</details>
+**1.** das Büro + der Stuhl = ___ Bürostuhl. → <details><summary>Answer</summary>**der** <SpeakButton text="der" /></details>
+**2.** das Handy + die Nummer = ___ Handynummer. → <details><summary>Answer</summary>**die** <SpeakButton text="die" /></details>
+**3.** Ich arbeite ___ (at) Computer. → <details><summary>Answer</summary>**am** <SpeakButton text="am" /></details>
+**4.** Ich schreibe eine ___ (email). → <details><summary>Answer</summary>**E-Mail** <SpeakButton text="E-Mail" /></details>
+**5.** Er arbeitet bei einer großen ___ (company). → <details><summary>Answer</summary>**Firma** <SpeakButton text="Firma" /></details>
 
 ### 3B — Flash Cards
 

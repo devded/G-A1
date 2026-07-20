@@ -128,11 +128,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist eine sehr gute ___ (idea). → <details><summary>Answer</summary>**Idee**</details>
-**2.** Der Film ist wirklich ___ (exciting). → <details><summary>Answer</summary>**spannend**</details>
-**3.** Gehen wir ___ (together) ins Café? → <details><summary>Answer</summary>**zusammen**</details>
-**4.** ___ (Maybe) habe ich am Freitag Zeit. → <details><summary>Answer</summary>**Vielleicht**</details>
-**5.** ___ (By the way), hast du schon Karten? → <details><summary>Answer</summary>**Übrigens**</details>
+**1.** Das ist eine sehr gute ___ (idea). → <details><summary>Answer</summary>**Idee** <SpeakButton text="Idee" /></details>
+**2.** Der Film ist wirklich ___ (exciting). → <details><summary>Answer</summary>**spannend** <SpeakButton text="spannend" /></details>
+**3.** Gehen wir ___ (together) ins Café? → <details><summary>Answer</summary>**zusammen** <SpeakButton text="zusammen" /></details>
+**4.** ___ (Maybe) habe ich am Freitag Zeit. → <details><summary>Answer</summary>**Vielleicht** <SpeakButton text="Vielleicht" /></details>
+**5.** ___ (By the way), hast du schon Karten? → <details><summary>Answer</summary>**Übrigens** <SpeakButton text="Übrigens" /></details>
 
 ### 3B — Flash Cards
 

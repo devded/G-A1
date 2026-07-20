@@ -131,11 +131,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (haben) eine große Familie. → <details><summary>Answer</summary>**habe**</details>
-**2.** ___ (du / haben) einen Bruder? → <details><summary>Answer</summary>**Hast du**</details>
-**3.** Er ___ (haben) zwei Schwestern. → <details><summary>Answer</summary>**hat**</details>
-**4.** Wir ___ (haben) eine liebe Großmutter. → <details><summary>Answer</summary>**haben**</details>
-**5.** Ich habe ___ (no / not a) Bruder. → <details><summary>Answer</summary>**keinen**</details>
+**1.** Ich ___ (haben) eine große Familie. → <details><summary>Answer</summary>**habe** <SpeakButton text="habe" /></details>
+**2.** ___ (du / haben) einen Bruder? → <details><summary>Answer</summary>**Hast du** <SpeakButton text="Hast du" /></details>
+**3.** Er ___ (haben) zwei Schwestern. → <details><summary>Answer</summary>**hat** <SpeakButton text="hat" /></details>
+**4.** Wir ___ (haben) eine liebe Großmutter. → <details><summary>Answer</summary>**haben** <SpeakButton text="haben" /></details>
+**5.** Ich habe ___ (no / not a) Bruder. → <details><summary>Answer</summary>**keinen** <SpeakButton text="keinen" /></details>
 
 ### 3B — Flash Cards
 

@@ -131,11 +131,11 @@ You must formulate a **polite request / command** to your partner, and your part
 
 ### 3A — Complete the sentences
 
-**1.** Ich hätte ___ (gladly) einen Tee, bitte. → <details><summary>Answer</summary>**gern**</details>
-**2.** Geben Sie ___ (me) bitte die Karte! → <details><summary>Answer</summary>**mir**</details>
-**3.** ___ (Here you go), bitte sehr! → <details><summary>Answer</summary>**Hier**</details>
-**4.** Ja, ___ (of course), kein Problem! → <details><summary>Answer</summary>**natürlich**</details>
-**5.** Das ___ (topic) ist Reisen. → <details><summary>Answer</summary>**Thema**</details>
+**1.** Ich hätte ___ (gladly) einen Tee, bitte. → <details><summary>Answer</summary>**gern** <SpeakButton text="gern" /></details>
+**2.** Geben Sie ___ (me) bitte die Karte! → <details><summary>Answer</summary>**mir** <SpeakButton text="mir" /></details>
+**3.** ___ (Here you go), bitte sehr! → <details><summary>Answer</summary>**Hier** <SpeakButton text="Hier" /></details>
+**4.** Ja, ___ (of course), kein Problem! → <details><summary>Answer</summary>**natürlich** <SpeakButton text="natürlich" /></details>
+**5.** Das ___ (topic) ist Reisen. → <details><summary>Answer</summary>**Thema** <SpeakButton text="Thema" /></details>
 
 ### 3B — Flash Cards
 

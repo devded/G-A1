@@ -125,11 +125,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich bin ___ (lost)! Wo ist das Zentrum? → <details><summary>Answer</summary>**verloren**</details>
-**2.** Wo ist der ___ (exit)? → <details><summary>Answer</summary>**Ausgang**</details>
-**3.** Der ___ (entrance) ist vorne. → <details><summary>Answer</summary>**Eingang**</details>
-**4.** Die Post ist gleich ___ (around the corner). → <details><summary>Answer</summary>**um die Ecke**</details>
-**5.** Sie haben Ihr ___ (destination) erreicht. → <details><summary>Answer</summary>**Ziel**</details>
+**1.** Ich bin ___ (lost)! Wo ist das Zentrum? → <details><summary>Answer</summary>**verloren** <SpeakButton text="verloren" /></details>
+**2.** Wo ist der ___ (exit)? → <details><summary>Answer</summary>**Ausgang** <SpeakButton text="Ausgang" /></details>
+**3.** Der ___ (entrance) ist vorne. → <details><summary>Answer</summary>**Eingang** <SpeakButton text="Eingang" /></details>
+**4.** Die Post ist gleich ___ (around the corner). → <details><summary>Answer</summary>**um die Ecke** <SpeakButton text="um die Ecke" /></details>
+**5.** Sie haben Ihr ___ (destination) erreicht. → <details><summary>Answer</summary>**Ziel** <SpeakButton text="Ziel" /></details>
 
 ### 3B — Flash Cards
 

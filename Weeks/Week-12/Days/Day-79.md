@@ -127,11 +127,11 @@ The A1 Reading exam has **3 Parts (Teile)**:
 
 ### 3A — Complete the sentences
 
-**1.** ___ (Underline) Sie wichtige Wörter im Text. → <details><summary>Answer</summary>**Unterstreichen**</details>
-**2.** Lesen Sie zuerst die ___ (heading). → <details><summary>Answer</summary>**Überschrift**</details>
-**3.** Was ist der ___ (main idea) des Textes? → <details><summary>Answer</summary>**Hauptgedanke**</details>
-**4.** Suchen Sie im Text nach ___ (details). → <details><summary>Answer</summary>**Details**</details>
-**5.** Lesen Sie jeden ___ (sentence) aufmerksam. → <details><summary>Answer</summary>**Satz**</details>
+**1.** ___ (Underline) Sie wichtige Wörter im Text. → <details><summary>Answer</summary>**Unterstreichen** <SpeakButton text="Unterstreichen" /></details>
+**2.** Lesen Sie zuerst die ___ (heading). → <details><summary>Answer</summary>**Überschrift** <SpeakButton text="Überschrift" /></details>
+**3.** Was ist der ___ (main idea) des Textes? → <details><summary>Answer</summary>**Hauptgedanke** <SpeakButton text="Hauptgedanke" /></details>
+**4.** Suchen Sie im Text nach ___ (details). → <details><summary>Answer</summary>**Details** <SpeakButton text="Details" /></details>
+**5.** Lesen Sie jeden ___ (sentence) aufmerksam. → <details><summary>Answer</summary>**Satz** <SpeakButton text="Satz" /></details>
 
 ### 3B — Flash Cards
 

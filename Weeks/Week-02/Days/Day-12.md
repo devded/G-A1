@@ -133,11 +133,11 @@ In German, numbers from 21 onwards are spoken **backwards**:
 
 ### 3A — Complete the sentences
 
-**1.** 25 in German is: fünfund___. → <details><summary>Answer</summary>**zwanzig**</details>
-**2.** 41 in German is: ___undvierzig. → <details><summary>Answer</summary>**ein**</details>
-**3.** 30 is written with 'ß': ___. → <details><summary>Answer</summary>**dreißig**</details>
-**4.** 70 in German is: ___ (not siebenzig). → <details><summary>Answer</summary>**siebzig**</details>
-**5.** Mein Vater ist 54 Jahre alt: ___undfünfzig. → <details><summary>Answer</summary>**vier**</details>
+**1.** 25 in German is: fünfund___. → <details><summary>Answer</summary>**zwanzig** <SpeakButton text="zwanzig" /></details>
+**2.** 41 in German is: ___undvierzig. → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
+**3.** 30 is written with 'ß': ___. → <details><summary>Answer</summary>**dreißig** <SpeakButton text="dreißig" /></details>
+**4.** 70 in German is: ___ (not siebenzig). → <details><summary>Answer</summary>**siebzig** <SpeakButton text="siebzig" /></details>
+**5.** Mein Vater ist 54 Jahre alt: ___undfünfzig. → <details><summary>Answer</summary>**vier** <SpeakButton text="vier" /></details>
 
 ### 3B — Flash Cards
 

@@ -134,11 +134,11 @@ In German, you can turn any verb into a noun simply by capitalizing the first le
 
 ### 3A — Complete the sentences
 
-**1.** Mein Hobby ist ___ (reading). → <details><summary>Answer</summary>**Lesen**</details>
-**2.** Ich ___ (listen) gerne Musik. → <details><summary>Answer</summary>**höre**</details>
-**3.** Meine Hobbies sind ___ (cooking) und Tanzen. → <details><summary>Answer</summary>**Kochen**</details>
-**4.** In der Freizeit ___ (travel) wir nach Deutschland. → <details><summary>Answer</summary>**reisen**</details>
-**5.** Er ___ (takes photos) in der Natur. → <details><summary>Answer</summary>**fotografiert**</details>
+**1.** Mein Hobby ist ___ (reading). → <details><summary>Answer</summary>**Lesen** <SpeakButton text="Lesen" /></details>
+**2.** Ich ___ (listen) gerne Musik. → <details><summary>Answer</summary>**höre** <SpeakButton text="höre" /></details>
+**3.** Meine Hobbies sind ___ (cooking) und Tanzen. → <details><summary>Answer</summary>**Kochen** <SpeakButton text="Kochen" /></details>
+**4.** In der Freizeit ___ (travel) wir nach Deutschland. → <details><summary>Answer</summary>**reisen** <SpeakButton text="reisen" /></details>
+**5.** Er ___ (takes photos) in der Natur. → <details><summary>Answer</summary>**fotografiert** <SpeakButton text="fotografiert" /></details>
 
 ### 3B — Flash Cards
 

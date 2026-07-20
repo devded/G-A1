@@ -132,11 +132,11 @@ Always use **mit + Dative** when stating how you travel:
 
 ### 3A — Complete the sentences
 
-**1.** Ich fahre mit ___ (the, f) U-Bahn. → <details><summary>Answer</summary>**der**</details>
-**2.** Er fährt mit ___ (the, m) Bus. → <details><summary>Answer</summary>**dem**</details>
-**3.** Wir müssen am Marienplatz ___ (change trains). → <details><summary>Answer</summary>**umsteigen**</details>
-**4.** Wo steigen wir ___ (get off)? → <details><summary>Answer</summary>**aus**</details>
-**5.** Bitte alle ___ (board/get on)! → <details><summary>Answer</summary>**einsteigen**</details>
+**1.** Ich fahre mit ___ (the, f) U-Bahn. → <details><summary>Answer</summary>**der** <SpeakButton text="der" /></details>
+**2.** Er fährt mit ___ (the, m) Bus. → <details><summary>Answer</summary>**dem** <SpeakButton text="dem" /></details>
+**3.** Wir müssen am Marienplatz ___ (change trains). → <details><summary>Answer</summary>**umsteigen** <SpeakButton text="umsteigen" /></details>
+**4.** Wo steigen wir ___ (get off)? → <details><summary>Answer</summary>**aus** <SpeakButton text="aus" /></details>
+**5.** Bitte alle ___ (board/get on)! → <details><summary>Answer</summary>**einsteigen** <SpeakButton text="einsteigen" /></details>
 
 ### 3B — Flash Cards
 

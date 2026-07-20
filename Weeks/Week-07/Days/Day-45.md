@@ -131,11 +131,11 @@ The Accusative case receives the action of the verb (*kaufen, bestellen, brauche
 
 ### 3A — Complete the sentences
 
-**1.** der Apfel: Ich kaufe ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen**</details>
-**2.** der Fisch: Er isst ___ (no, m) Fisch. → <details><summary>Answer</summary>**keinen**</details>
-**3.** die Pizza: Wir bestellen ___ (a, f) Pizza. → <details><summary>Answer</summary>**eine**</details>
-**4.** das Brot: Sie braucht ___ (a, n) Brot. → <details><summary>Answer</summary>**ein**</details>
-**5.** der Schlüssel: Ich suche ___ (my, m) Schlüssel. → <details><summary>Answer</summary>**meinen**</details>
+**1.** der Apfel: Ich kaufe ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
+**2.** der Fisch: Er isst ___ (no, m) Fisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="keinen" /></details>
+**3.** die Pizza: Wir bestellen ___ (a, f) Pizza. → <details><summary>Answer</summary>**eine** <SpeakButton text="eine" /></details>
+**4.** das Brot: Sie braucht ___ (a, n) Brot. → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
+**5.** der Schlüssel: Ich suche ___ (my, m) Schlüssel. → <details><summary>Answer</summary>**meinen** <SpeakButton text="meinen" /></details>
 
 ### 3B — Flash Cards
 

@@ -121,7 +121,8 @@ def render_day(d, week_num, max_days=84):
         lines.append('## ✏️ Step 3 — Practice (9 min)\n')
         lines.append('### 3A — Complete the sentences\n')
         for idx, f in enumerate(d["fillIns"], 1):
-            lines.append(f'**{idx}.** {f["q"]} → <details><summary>Answer</summary>**{f["a"]}**</details>')
+            ans_clean = f["a"].strip()
+            lines.append(f'**{idx}.** {f["q"]} → <details><summary>Answer</summary>**{ans_clean}** <SpeakButton text="{ans_clean}" /></details>')
         lines.append('')
         
         lines.append('### 3B — Flash Cards\n')

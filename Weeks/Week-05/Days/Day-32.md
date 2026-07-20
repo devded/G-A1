@@ -131,11 +131,11 @@ In German, separable verbs have a prefix (like *auf-*, *an-*, *ein-*, *fern-*) t
 
 ### 3A — Complete the sentences
 
-**1.** Ich stehe um 7 Uhr ___ (aufstehen). → <details><summary>Answer</summary>**auf**</details>
-**2.** Er kauft im Supermarkt ___ (einkaufen). → <details><summary>Answer</summary>**ein**</details>
-**3.** Wir sehen abends ___ (fernsehen). → <details><summary>Answer</summary>**fern**</details>
-**4.** Ich rufe dich morgen ___ (anrufen). → <details><summary>Answer</summary>**an**</details>
-**5.** Das Kind schläft schnell ___ (einschlafen). → <details><summary>Answer</summary>**ein**</details>
+**1.** Ich stehe um 7 Uhr ___ (aufstehen). → <details><summary>Answer</summary>**auf** <SpeakButton text="auf" /></details>
+**2.** Er kauft im Supermarkt ___ (einkaufen). → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
+**3.** Wir sehen abends ___ (fernsehen). → <details><summary>Answer</summary>**fern** <SpeakButton text="fern" /></details>
+**4.** Ich rufe dich morgen ___ (anrufen). → <details><summary>Answer</summary>**an** <SpeakButton text="an" /></details>
+**5.** Das Kind schläft schnell ___ (einschlafen). → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
 
 ### 3B — Flash Cards
 

@@ -134,11 +134,11 @@ The modal verb goes in **Position 2**, and the main verb goes to the **VERY END 
 
 ### 3A — Complete the sentences
 
-**1.** ___ (Canst) du am Freitag? → <details><summary>Answer</summary>**Kannst**</details>
-**2.** Wir können uns im Park ___ (to meet). → <details><summary>Answer</summary>**treffen**</details>
-**3.** ___ (Does it suit) es dir um 18 Uhr? → <details><summary>Answer</summary>**Passt**</details>
-**4.** Ich ___ (can) morgen leider nicht. → <details><summary>Answer</summary>**kann**</details>
-**5.** Ja, super! Ich bin ___ (agreed). → <details><summary>Answer</summary>**einverstanden**</details>
+**1.** ___ (Canst) du am Freitag? → <details><summary>Answer</summary>**Kannst** <SpeakButton text="Kannst" /></details>
+**2.** Wir können uns im Park ___ (to meet). → <details><summary>Answer</summary>**treffen** <SpeakButton text="treffen" /></details>
+**3.** ___ (Does it suit) es dir um 18 Uhr? → <details><summary>Answer</summary>**Passt** <SpeakButton text="Passt" /></details>
+**4.** Ich ___ (can) morgen leider nicht. → <details><summary>Answer</summary>**kann** <SpeakButton text="kann" /></details>
+**5.** Ja, super! Ich bin ___ (agreed). → <details><summary>Answer</summary>**einverstanden** <SpeakButton text="einverstanden" /></details>
 
 ### 3B — Flash Cards
 

@@ -132,11 +132,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Was ___ (do you recommend) Sie? → <details><summary>Answer</summary>**empfehlen**</details>
-**2.** Die Getränke kommen ___ (immediately). → <details><summary>Answer</summary>**sofort**</details>
-**3.** Einen ___ (moment), bitte! → <details><summary>Answer</summary>**Moment**</details>
-**4.** Als ___ (dessert) nehme ich Kuchen. → <details><summary>Answer</summary>**Nachtisch**</details>
-**5.** Möchten Sie den Wein ___ (try/taste)? → <details><summary>Answer</summary>**probieren**</details>
+**1.** Was ___ (do you recommend) Sie? → <details><summary>Answer</summary>**empfehlen** <SpeakButton text="empfehlen" /></details>
+**2.** Die Getränke kommen ___ (immediately). → <details><summary>Answer</summary>**sofort** <SpeakButton text="sofort" /></details>
+**3.** Einen ___ (moment), bitte! → <details><summary>Answer</summary>**Moment** <SpeakButton text="Moment" /></details>
+**4.** Als ___ (dessert) nehme ich Kuchen. → <details><summary>Answer</summary>**Nachtisch** <SpeakButton text="Nachtisch" /></details>
+**5.** Möchten Sie den Wein ___ (try/taste)? → <details><summary>Answer</summary>**probieren** <SpeakButton text="probieren" /></details>
 
 ### 3B — Flash Cards
 

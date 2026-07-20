@@ -128,11 +128,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich bin ___ (only child). → <details><summary>Answer</summary>**Einzelkind**</details>
-**2.** Wir wohnen ___ (together) in München. → <details><summary>Answer</summary>**zusammen**</details>
-**3.** Ich habe zwei ___ (siblings). → <details><summary>Answer</summary>**Geschwister**</details>
-**4.** Mein Bruder ist ___ (already) 30 Jahre alt. → <details><summary>Answer</summary>**schon**</details>
-**5.** Ich wohne ___ (still) bei den Eltern. → <details><summary>Answer</summary>**noch**</details>
+**1.** Ich bin ___ (only child). → <details><summary>Answer</summary>**Einzelkind** <SpeakButton text="Einzelkind" /></details>
+**2.** Wir wohnen ___ (together) in München. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="zusammen" /></details>
+**3.** Ich habe zwei ___ (siblings). → <details><summary>Answer</summary>**Geschwister** <SpeakButton text="Geschwister" /></details>
+**4.** Mein Bruder ist ___ (already) 30 Jahre alt. → <details><summary>Answer</summary>**schon** <SpeakButton text="schon" /></details>
+**5.** Ich wohne ___ (still) bei den Eltern. → <details><summary>Answer</summary>**noch** <SpeakButton text="noch" /></details>
 
 ### 3B — Flash Cards
 

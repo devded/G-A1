@@ -130,11 +130,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Brauchen Sie eine ___ (bag)? → <details><summary>Answer</summary>**Tüte**</details>
-**2.** Kann ich mit ___ (card) zahlen? → <details><summary>Answer</summary>**Karte**</details>
-**3.** Das macht ___ (together) 12 Euro 50. → <details><summary>Answer</summary>**zusammen**</details>
-**4.** Ich habe meine ___ (shopping list) dabei. → <details><summary>Answer</summary>**Einkaufsliste**</details>
-**5.** Wo ist der ___ (bottle deposit) Automat? → <details><summary>Answer</summary>**Pfand**</details>
+**1.** Brauchen Sie eine ___ (bag)? → <details><summary>Answer</summary>**Tüte** <SpeakButton text="Tüte" /></details>
+**2.** Kann ich mit ___ (card) zahlen? → <details><summary>Answer</summary>**Karte** <SpeakButton text="Karte" /></details>
+**3.** Das macht ___ (together) 12 Euro 50. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="zusammen" /></details>
+**4.** Ich habe meine ___ (shopping list) dabei. → <details><summary>Answer</summary>**Einkaufsliste** <SpeakButton text="Einkaufsliste" /></details>
+**5.** Wo ist der ___ (bottle deposit) Automat? → <details><summary>Answer</summary>**Pfand** <SpeakButton text="Pfand" /></details>
 
 ### 3B — Flash Cards
 

@@ -127,11 +127,11 @@ Use **nicht** for EVERYTHING else (verbs, adjectives, names, adverbs, possessive
 
 ### 3A — Complete the sentences
 
-**1.** Ich habe ___ (no) Zeit. → <details><summary>Answer</summary>**keine**</details>
-**2.** Das ist ___ (not) gut. → <details><summary>Answer</summary>**nicht**</details>
-**3.** Er wohnt ___ (not) in Deutschland. → <details><summary>Answer</summary>**nicht**</details>
-**4.** Ich trinke ___ (no) Bier. → <details><summary>Answer</summary>**kein**</details>
-**5.** Ich bin ___ (not yet) fertig. → <details><summary>Answer</summary>**noch nicht**</details>
+**1.** Ich habe ___ (no) Zeit. → <details><summary>Answer</summary>**keine** <SpeakButton text="keine" /></details>
+**2.** Das ist ___ (not) gut. → <details><summary>Answer</summary>**nicht** <SpeakButton text="nicht" /></details>
+**3.** Er wohnt ___ (not) in Deutschland. → <details><summary>Answer</summary>**nicht** <SpeakButton text="nicht" /></details>
+**4.** Ich trinke ___ (no) Bier. → <details><summary>Answer</summary>**kein** <SpeakButton text="kein" /></details>
+**5.** Ich bin ___ (not yet) fertig. → <details><summary>Answer</summary>**noch nicht** <SpeakButton text="noch nicht" /></details>
 
 ### 3B — Flash Cards
 

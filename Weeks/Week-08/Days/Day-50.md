@@ -128,11 +128,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich möchte einen ___ (table) für zwei Personen reservieren. → <details><summary>Answer</summary>**Tisch**</details>
-**2.** Die ___ (menu), bitte! → <details><summary>Answer</summary>**Speisekarte**</details>
-**3.** Ist dieser ___ (seat) frei? → <details><summary>Answer</summary>**Platz**</details>
-**4.** Auf welchen ___ (name)? → <details><summary>Answer</summary>**Namen**</details>
-**5.** Der ___ (waiter) bringt das Essen. → <details><summary>Answer</summary>**Kellner**</details>
+**1.** Ich möchte einen ___ (table) für zwei Personen reservieren. → <details><summary>Answer</summary>**Tisch** <SpeakButton text="Tisch" /></details>
+**2.** Die ___ (menu), bitte! → <details><summary>Answer</summary>**Speisekarte** <SpeakButton text="Speisekarte" /></details>
+**3.** Ist dieser ___ (seat) frei? → <details><summary>Answer</summary>**Platz** <SpeakButton text="Platz" /></details>
+**4.** Auf welchen ___ (name)? → <details><summary>Answer</summary>**Namen** <SpeakButton text="Namen" /></details>
+**5.** Der ___ (waiter) bringt das Essen. → <details><summary>Answer</summary>**Kellner** <SpeakButton text="Kellner" /></details>
 
 ### 3B — Flash Cards
 

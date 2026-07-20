@@ -133,11 +133,11 @@ When calling 112/110, answer these 5 questions clearly:
 
 ### 3A — Complete the sentences
 
-**1.** Rufen Sie sofort die ___ (police, 110)! → <details><summary>Answer</summary>**Polizei**</details>
-**2.** Der ___ (ambulance) ist unterwegs. → <details><summary>Answer</summary>**Krankenwagen**</details>
-**3.** ___ (Help)! Helfen Sie mir! → <details><summary>Answer</summary>**Hilfe**</details>
-**4.** Ein Mann ist schwer ___ (injured). → <details><summary>Answer</summary>**verletzt**</details>
-**5.** Rufen Sie die ___ (fire brigade, 112)! → <details><summary>Answer</summary>**Feuerwehr**</details>
+**1.** Rufen Sie sofort die ___ (police, 110)! → <details><summary>Answer</summary>**Polizei** <SpeakButton text="Polizei" /></details>
+**2.** Der ___ (ambulance) ist unterwegs. → <details><summary>Answer</summary>**Krankenwagen** <SpeakButton text="Krankenwagen" /></details>
+**3.** ___ (Help)! Helfen Sie mir! → <details><summary>Answer</summary>**Hilfe** <SpeakButton text="Hilfe" /></details>
+**4.** Ein Mann ist schwer ___ (injured). → <details><summary>Answer</summary>**verletzt** <SpeakButton text="verletzt" /></details>
+**5.** Rufen Sie die ___ (fire brigade, 112)! → <details><summary>Answer</summary>**Feuerwehr** <SpeakButton text="Feuerwehr" /></details>
 
 ### 3B — Flash Cards
 

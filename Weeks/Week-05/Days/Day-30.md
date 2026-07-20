@@ -129,11 +129,11 @@ In German, *halb* looks ahead to the **NEXT** hour!
 
 ### 3A — Complete the sentences
 
-**1.** 2:30 in informal German is: halb ___. → <details><summary>Answer</summary>**drei**</details>
-**2.** 8:15 is: Viertel ___ acht. → <details><summary>Answer</summary>**nach**</details>
-**3.** 8:45 is: Viertel ___ neun. → <details><summary>Answer</summary>**vor**</details>
-**4.** 7:30 is: halb ___. → <details><summary>Answer</summary>**acht**</details>
-**5.** Ich komme ___ (around) 7 Uhr. → <details><summary>Answer</summary>**gegen**</details>
+**1.** 2:30 in informal German is: halb ___. → <details><summary>Answer</summary>**drei** <SpeakButton text="drei" /></details>
+**2.** 8:15 is: Viertel ___ acht. → <details><summary>Answer</summary>**nach** <SpeakButton text="nach" /></details>
+**3.** 8:45 is: Viertel ___ neun. → <details><summary>Answer</summary>**vor** <SpeakButton text="vor" /></details>
+**4.** 7:30 is: halb ___. → <details><summary>Answer</summary>**acht** <SpeakButton text="acht" /></details>
+**5.** Ich komme ___ (around) 7 Uhr. → <details><summary>Answer</summary>**gegen** <SpeakButton text="gegen" /></details>
 
 ### 3B — Flash Cards
 

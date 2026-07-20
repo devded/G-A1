@@ -131,11 +131,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Bitte stellen Sie sich ___ (sich vorstellen). → <details><summary>Answer</summary>**vor**</details>
-**2.** Stellen Sie eine ___ (question). → <details><summary>Answer</summary>**Frage**</details>
-**3.** Sie sind an der ___ (turn). → <details><summary>Answer</summary>**Reihe**</details>
-**4.** Können Sie das bitte ___ (repeat)? → <details><summary>Answer</summary>**wiederholen**</details>
-**5.** ___ (Pardon)? Ich habe das nicht gehört. → <details><summary>Answer</summary>**Wie bitte**</details>
+**1.** Bitte stellen Sie sich ___ (sich vorstellen). → <details><summary>Answer</summary>**vor** <SpeakButton text="vor" /></details>
+**2.** Stellen Sie eine ___ (question). → <details><summary>Answer</summary>**Frage** <SpeakButton text="Frage" /></details>
+**3.** Sie sind an der ___ (turn). → <details><summary>Answer</summary>**Reihe** <SpeakButton text="Reihe" /></details>
+**4.** Können Sie das bitte ___ (repeat)? → <details><summary>Answer</summary>**wiederholen** <SpeakButton text="wiederholen" /></details>
+**5.** ___ (Pardon)? Ich habe das nicht gehört. → <details><summary>Answer</summary>**Wie bitte** <SpeakButton text="Wie bitte" /></details>
 
 ### 3B — Flash Cards
 

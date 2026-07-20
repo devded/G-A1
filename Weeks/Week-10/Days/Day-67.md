@@ -134,11 +134,11 @@ Notice the **umlaut drops** in all singular forms!
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (must) morgen früh aufstehen. → <details><summary>Answer</summary>**muss**</details>
-**2.** ___ (May) ich hier sitzen? → <details><summary>Answer</summary>**Darf**</details>
-**3.** Rauchen ist hier streng ___ (forbidden). → <details><summary>Answer</summary>**verboten**</details>
-**4.** Hier ___ (must not) man nicht parken! → <details><summary>Answer</summary>**darf**</details>
-**5.** Du ___ (don't have to) nicht kommen, wenn du krank bist. → <details><summary>Answer</summary>**musst**</details>
+**1.** Ich ___ (must) morgen früh aufstehen. → <details><summary>Answer</summary>**muss** <SpeakButton text="muss" /></details>
+**2.** ___ (May) ich hier sitzen? → <details><summary>Answer</summary>**Darf** <SpeakButton text="Darf" /></details>
+**3.** Rauchen ist hier streng ___ (forbidden). → <details><summary>Answer</summary>**verboten** <SpeakButton text="verboten" /></details>
+**4.** Hier ___ (must not) man nicht parken! → <details><summary>Answer</summary>**darf** <SpeakButton text="darf" /></details>
+**5.** Du ___ (don't have to) nicht kommen, wenn du krank bist. → <details><summary>Answer</summary>**musst** <SpeakButton text="musst" /></details>
 
 ### 3B — Flash Cards
 

@@ -128,11 +128,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich gehe jetzt ___ (home / direction). → <details><summary>Answer</summary>**nach Hause**</details>
-**2.** Am Sonntag bin ich ___ (at home / location). → <details><summary>Answer</summary>**zu Hause**</details>
-**3.** Der Weg zur Arbeit ___ (takes) 20 Minuten. → <details><summary>Answer</summary>**dauert**</details>
-**4.** Um 12 Uhr mache ich ___ (break). → <details><summary>Answer</summary>**Pause**</details>
-**5.** Ich ziehe mich um 7 Uhr ___ (anziehen). → <details><summary>Answer</summary>**an**</details>
+**1.** Ich gehe jetzt ___ (home / direction). → <details><summary>Answer</summary>**nach Hause** <SpeakButton text="nach Hause" /></details>
+**2.** Am Sonntag bin ich ___ (at home / location). → <details><summary>Answer</summary>**zu Hause** <SpeakButton text="zu Hause" /></details>
+**3.** Der Weg zur Arbeit ___ (takes) 20 Minuten. → <details><summary>Answer</summary>**dauert** <SpeakButton text="dauert" /></details>
+**4.** Um 12 Uhr mache ich ___ (break). → <details><summary>Answer</summary>**Pause** <SpeakButton text="Pause" /></details>
+**5.** Ich ziehe mich um 7 Uhr ___ (anziehen). → <details><summary>Answer</summary>**an** <SpeakButton text="an" /></details>
 
 ### 3B — Flash Cards
 

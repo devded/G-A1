@@ -129,11 +129,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Er ___ (play) am Sonntag Fußball. → <details><summary>Answer</summary>**spielt**</details>
-**2.** Meine Frau macht morgens ___ (yoga). → <details><summary>Answer</summary>**Yoga**</details>
-**3.** Wir gehen im Sommer ___ (hiking). → <details><summary>Answer</summary>**wandern**</details>
-**4.** Er ___ (ride a bike) gerne in der Stadt. → <details><summary>Answer</summary>**fährt Fahrrad**</details>
-**5.** Machst du gerne ___ (sports)? → <details><summary>Answer</summary>**Sport**</details>
+**1.** Er ___ (play) am Sonntag Fußball. → <details><summary>Answer</summary>**spielt** <SpeakButton text="spielt" /></details>
+**2.** Meine Frau macht morgens ___ (yoga). → <details><summary>Answer</summary>**Yoga** <SpeakButton text="Yoga" /></details>
+**3.** Wir gehen im Sommer ___ (hiking). → <details><summary>Answer</summary>**wandern** <SpeakButton text="wandern" /></details>
+**4.** Er ___ (ride a bike) gerne in der Stadt. → <details><summary>Answer</summary>**fährt Fahrrad** <SpeakButton text="fährt Fahrrad" /></details>
+**5.** Machst du gerne ___ (sports)? → <details><summary>Answer</summary>**Sport** <SpeakButton text="Sport" /></details>
 
 ### 3B — Flash Cards
 

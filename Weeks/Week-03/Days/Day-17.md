@@ -127,11 +127,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Singular: das Fenster → Plural: die ___. → <details><summary>Answer</summary>**Fenster**</details>
-**2.** Singular: der Tisch → Plural: die ___. → <details><summary>Answer</summary>**Tische**</details>
-**3.** Singular: das Buch → Plural: die ___. → <details><summary>Answer</summary>**Bücher**</details>
-**4.** Singular: die Tür → Plural: die ___. → <details><summary>Answer</summary>**Türen**</details>
-**5.** Singular: das Sofa → Plural: die ___. → <details><summary>Answer</summary>**Sofas**</details>
+**1.** Singular: das Fenster → Plural: die ___. → <details><summary>Answer</summary>**Fenster** <SpeakButton text="Fenster" /></details>
+**2.** Singular: der Tisch → Plural: die ___. → <details><summary>Answer</summary>**Tische** <SpeakButton text="Tische" /></details>
+**3.** Singular: das Buch → Plural: die ___. → <details><summary>Answer</summary>**Bücher** <SpeakButton text="Bücher" /></details>
+**4.** Singular: die Tür → Plural: die ___. → <details><summary>Answer</summary>**Türen** <SpeakButton text="Türen" /></details>
+**5.** Singular: das Sofa → Plural: die ___. → <details><summary>Answer</summary>**Sofas** <SpeakButton text="Sofas" /></details>
 
 ### 3B — Flash Cards
 

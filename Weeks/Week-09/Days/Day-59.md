@@ -128,11 +128,11 @@ Dative is used for **location (Wo?)** and after direction prepositions like **zu
 
 ### 3A — Complete the sentences
 
-**1.** Wie komme ich ___ (to the, m) Bahnhof? → <details><summary>Answer</summary>**zum**</details>
-**2.** Wie komme ich ___ (to the, f) Apotheke? → <details><summary>Answer</summary>**zur**</details>
-**3.** Ich bin ___ (at the, m) Arzt. → <details><summary>Answer</summary>**beim**</details>
-**4.** Er ist ___ (in the, n) Krankenhaus. → <details><summary>Answer</summary>**im**</details>
-**5.** Die Post ist ___ (opposite) der Bank. → <details><summary>Answer</summary>**gegenüber von**</details>
+**1.** Wie komme ich ___ (to the, m) Bahnhof? → <details><summary>Answer</summary>**zum** <SpeakButton text="zum" /></details>
+**2.** Wie komme ich ___ (to the, f) Apotheke? → <details><summary>Answer</summary>**zur** <SpeakButton text="zur" /></details>
+**3.** Ich bin ___ (at the, m) Arzt. → <details><summary>Answer</summary>**beim** <SpeakButton text="beim" /></details>
+**4.** Er ist ___ (in the, n) Krankenhaus. → <details><summary>Answer</summary>**im** <SpeakButton text="im" /></details>
+**5.** Die Post ist ___ (opposite) der Bank. → <details><summary>Answer</summary>**gegenüber von** <SpeakButton text="gegenüber von" /></details>
 
 ### 3B — Flash Cards
 

@@ -130,11 +130,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Eine Fahrkarte nach Berlin, ___ (one-way), bitte. → <details><summary>Answer</summary>**einfach**</details>
-**2.** Ich möchte ein Ticket ___ (return). → <details><summary>Answer</summary>**hin und zurück**</details>
-**3.** Der Zug fährt von ___ (platform) 7 ab. → <details><summary>Answer</summary>**Gleis**</details>
-**4.** Der ICE hat 20 Minuten ___ (delay). → <details><summary>Answer</summary>**Verspätung**</details>
-**5.** Wann ist die ___ (departure)? → <details><summary>Answer</summary>**Abfahrt**</details>
+**1.** Eine Fahrkarte nach Berlin, ___ (one-way), bitte. → <details><summary>Answer</summary>**einfach** <SpeakButton text="einfach" /></details>
+**2.** Ich möchte ein Ticket ___ (return). → <details><summary>Answer</summary>**hin und zurück** <SpeakButton text="hin und zurück" /></details>
+**3.** Der Zug fährt von ___ (platform) 7 ab. → <details><summary>Answer</summary>**Gleis** <SpeakButton text="Gleis" /></details>
+**4.** Der ICE hat 20 Minuten ___ (delay). → <details><summary>Answer</summary>**Verspätung** <SpeakButton text="Verspätung" /></details>
+**5.** Wann ist die ___ (departure)? → <details><summary>Answer</summary>**Abfahrt** <SpeakButton text="Abfahrt" /></details>
 
 ### 3B — Flash Cards
 

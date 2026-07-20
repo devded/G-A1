@@ -132,11 +132,11 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (would like) einen Kaffee, bitte. → <details><summary>Answer</summary>**möchte**</details>
-**2.** Was ___ (would like) du trinken? → <details><summary>Answer</summary>**möchtest**</details>
-**3.** Wir ___ (would like) bestellen. → <details><summary>Answer</summary>**möchten**</details>
-**4.** Ich möchte einen Kaffee mit ___ (milk). → <details><summary>Answer</summary>**Milch**</details>
-**5.** Kaffee: der → Ich möchte ___ (a, m) Kaffee. → <details><summary>Answer</summary>**einen**</details>
+**1.** Ich ___ (would like) einen Kaffee, bitte. → <details><summary>Answer</summary>**möchte** <SpeakButton text="möchte" /></details>
+**2.** Was ___ (would like) du trinken? → <details><summary>Answer</summary>**möchtest** <SpeakButton text="möchtest" /></details>
+**3.** Wir ___ (would like) bestellen. → <details><summary>Answer</summary>**möchten** <SpeakButton text="möchten" /></details>
+**4.** Ich möchte einen Kaffee mit ___ (milk). → <details><summary>Answer</summary>**Milch** <SpeakButton text="Milch" /></details>
+**5.** Kaffee: der → Ich möchte ___ (a, m) Kaffee. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
 
 ### 3B — Flash Cards
 

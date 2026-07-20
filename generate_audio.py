@@ -244,6 +244,20 @@ def collect_texts(all_days, include_slow=False):
             for opt in q.get("options", []):
                 add(opt)
 
+    # Scan all Day markdown files for explicit <SpeakButton text="..." /> tags (e.g. Grammar section examples)
+    import glob, re
+    md_files = glob.glob("Weeks/Week-*/Days/Day-*.md")
+    for fpath in md_files:
+        try:
+            content = open(fpath, encoding="utf-8").read()
+            matches = re.findall(r'<SpeakButton\s+(?:[^>]*?\s+)?text=["\']([^"\']+)["\']', content)
+            for m in matches:
+                add(m)
+                if include_slow:
+                    add(m, "slow")
+        except Exception:
+            pass
+
     return items
 
 # ── Manifest ─────────────────────────────────────────────────

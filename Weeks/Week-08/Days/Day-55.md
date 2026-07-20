@@ -131,11 +131,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Die Tomate ist ___ (red). → <details><summary>Answer</summary>**rot**</details>
-**2.** Die Jeanshose ist ___ (blue). → <details><summary>Answer</summary>**blau**</details>
-**3.** Das ___ (shirt) ist weiß. → <details><summary>Answer</summary>**Hemd**</details>
-**4.** Die ___ (trousers) ist grün. → <details><summary>Answer</summary>**Hose**</details>
-**5.** Meine ___ (shoes) sind schwarz. → <details><summary>Answer</summary>**Schuhe**</details>
+**1.** Die Tomate ist ___ (red). → <details><summary>Answer</summary>**rot** <SpeakButton text="rot" /></details>
+**2.** Die Jeanshose ist ___ (blue). → <details><summary>Answer</summary>**blau** <SpeakButton text="blau" /></details>
+**3.** Das ___ (shirt) ist weiß. → <details><summary>Answer</summary>**Hemd** <SpeakButton text="Hemd" /></details>
+**4.** Die ___ (trousers) ist grün. → <details><summary>Answer</summary>**Hose** <SpeakButton text="Hose" /></details>
+**5.** Meine ___ (shoes) sind schwarz. → <details><summary>Answer</summary>**Schuhe** <SpeakButton text="Schuhe" /></details>
 
 ### 3B — Flash Cards
 

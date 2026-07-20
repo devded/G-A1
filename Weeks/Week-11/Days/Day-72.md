@@ -130,11 +130,11 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 
 ### 3A — Complete the sentences
 
-**1.** Ich fühle ___ (myself) heute nicht gut. → <details><summary>Answer</summary>**mich**</details>
-**2.** Er hat 39 Grad ___ (fever). → <details><summary>Answer</summary>**Fieber**</details>
-**3.** Ich habe eine starke ___ (cold). → <details><summary>Answer</summary>**Erkältung**</details>
-**4.** Mein Sohn ist ___ (sick) und bleibt im Bett. → <details><summary>Answer</summary>**krank**</details>
-**5.** Wie fühlst du ___ (yourself)? → <details><summary>Answer</summary>**dich**</details>
+**1.** Ich fühle ___ (myself) heute nicht gut. → <details><summary>Answer</summary>**mich** <SpeakButton text="mich" /></details>
+**2.** Er hat 39 Grad ___ (fever). → <details><summary>Answer</summary>**Fieber** <SpeakButton text="Fieber" /></details>
+**3.** Ich habe eine starke ___ (cold). → <details><summary>Answer</summary>**Erkältung** <SpeakButton text="Erkältung" /></details>
+**4.** Mein Sohn ist ___ (sick) und bleibt im Bett. → <details><summary>Answer</summary>**krank** <SpeakButton text="krank" /></details>
+**5.** Wie fühlst du ___ (yourself)? → <details><summary>Answer</summary>**dich** <SpeakButton text="dich" /></details>
 
 ### 3B — Flash Cards
 

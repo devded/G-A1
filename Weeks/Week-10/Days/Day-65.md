@@ -128,11 +128,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** ___ (In summer) fahren wir ans Meer. → <details><summary>Answer</summary>**Im Sommer**</details>
-**2.** Im ___ (winter) ist es sehr kalt. → <details><summary>Answer</summary>**Winter**</details>
-**3.** Im Juli ist es wirklich ___ (hot). → <details><summary>Answer</summary>**heiß**</details>
-**4.** Heute ist der 10. ___ (October). → <details><summary>Answer</summary>**Oktober**</details>
-**5.** Im ___ (spring) scheint die Sonne. → <details><summary>Answer</summary>**Frühling**</details>
+**1.** ___ (In summer) fahren wir ans Meer. → <details><summary>Answer</summary>**Im Sommer** <SpeakButton text="Im Sommer" /></details>
+**2.** Im ___ (winter) ist es sehr kalt. → <details><summary>Answer</summary>**Winter** <SpeakButton text="Winter" /></details>
+**3.** Im Juli ist es wirklich ___ (hot). → <details><summary>Answer</summary>**heiß** <SpeakButton text="heiß" /></details>
+**4.** Heute ist der 10. ___ (October). → <details><summary>Answer</summary>**Oktober** <SpeakButton text="Oktober" /></details>
+**5.** Im ___ (spring) scheint die Sonne. → <details><summary>Answer</summary>**Frühling** <SpeakButton text="Frühling" /></details>
 
 ### 3B — Flash Cards
 

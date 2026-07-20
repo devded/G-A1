@@ -127,11 +127,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich arbeite ___ (full-time). → <details><summary>Answer</summary>**Vollzeit**</details>
-**2.** Er sucht eine neue ___ (position). → <details><summary>Answer</summary>**Stelle**</details>
-**3.** Ich ___ (find/think) meine Arbeit sehr interessant. → <details><summary>Answer</summary>**finde**</details>
-**4.** Die Arbeit ist manchmal ___ (exhausting). → <details><summary>Answer</summary>**anstrengend**</details>
-**5.** Was machst du ___ (professionally)? → <details><summary>Answer</summary>**beruflich**</details>
+**1.** Ich arbeite ___ (full-time). → <details><summary>Answer</summary>**Vollzeit** <SpeakButton text="Vollzeit" /></details>
+**2.** Er sucht eine neue ___ (position). → <details><summary>Answer</summary>**Stelle** <SpeakButton text="Stelle" /></details>
+**3.** Ich ___ (find/think) meine Arbeit sehr interessant. → <details><summary>Answer</summary>**finde** <SpeakButton text="finde" /></details>
+**4.** Die Arbeit ist manchmal ___ (exhausting). → <details><summary>Answer</summary>**anstrengend** <SpeakButton text="anstrengend" /></details>
+**5.** Was machst du ___ (professionally)? → <details><summary>Answer</summary>**beruflich** <SpeakButton text="beruflich" /></details>
 
 ### 3B — Flash Cards
 

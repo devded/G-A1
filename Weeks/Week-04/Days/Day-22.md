@@ -126,11 +126,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Er arbeitet ___ (as) Koch. → <details><summary>Answer</summary>**als**</details>
-**2.** Meine Mutter ist ___ (nurse). → <details><summary>Answer</summary>**Krankenschwester**</details>
-**3.** Sie ist ___ (engineer, f) bei BMW. → <details><summary>Answer</summary>**Ingenieurin**</details>
-**4.** Mein Bruder arbeitet als ___ (mechanic). → <details><summary>Answer</summary>**Mechaniker**</details>
-**5.** Ich bin ___ (no article needed) Polizist. → <details><summary>Answer</summary>**—**</details>
+**1.** Er arbeitet ___ (as) Koch. → <details><summary>Answer</summary>**als** <SpeakButton text="als" /></details>
+**2.** Meine Mutter ist ___ (nurse). → <details><summary>Answer</summary>**Krankenschwester** <SpeakButton text="Krankenschwester" /></details>
+**3.** Sie ist ___ (engineer, f) bei BMW. → <details><summary>Answer</summary>**Ingenieurin** <SpeakButton text="Ingenieurin" /></details>
+**4.** Mein Bruder arbeitet als ___ (mechanic). → <details><summary>Answer</summary>**Mechaniker** <SpeakButton text="Mechaniker" /></details>
+**5.** Ich bin ___ (no article needed) Polizist. → <details><summary>Answer</summary>**—** <SpeakButton text="—" /></details>
 
 ### 3B — Flash Cards
 

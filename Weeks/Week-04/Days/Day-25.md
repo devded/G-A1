@@ -128,11 +128,11 @@ In English, both mean "to study". In German, they have **strict separate meaning
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (learn) jeden Tag Deutsch. → <details><summary>Answer</summary>**lerne**</details>
-**2.** Meine Schwester ___ (majors in) Medizin in München. → <details><summary>Answer</summary>**studiert**</details>
-**3.** Schüler gehen in die ___ (school). → <details><summary>Answer</summary>**Schule**</details>
-**4.** Ich mache meine ___ (homework). → <details><summary>Answer</summary>**Hausaufgaben**</details>
-**5.** Was ist dein Lieblings___ (subject)? → <details><summary>Answer</summary>**fach**</details>
+**1.** Ich ___ (learn) jeden Tag Deutsch. → <details><summary>Answer</summary>**lerne** <SpeakButton text="lerne" /></details>
+**2.** Meine Schwester ___ (majors in) Medizin in München. → <details><summary>Answer</summary>**studiert** <SpeakButton text="studiert" /></details>
+**3.** Schüler gehen in die ___ (school). → <details><summary>Answer</summary>**Schule** <SpeakButton text="Schule" /></details>
+**4.** Ich mache meine ___ (homework). → <details><summary>Answer</summary>**Hausaufgaben** <SpeakButton text="Hausaufgaben" /></details>
+**5.** Was ist dein Lieblings___ (subject)? → <details><summary>Answer</summary>**fach** <SpeakButton text="fach" /></details>
 
 ### 3B — Flash Cards
 

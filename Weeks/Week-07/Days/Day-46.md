@@ -127,11 +127,11 @@ In English, you say "a kilo **of** apples" or "a bottle **of** water". In German
 
 ### 3A — Complete the sentences
 
-**1.** Ein Kilo ___ (apples), bitte. → <details><summary>Answer</summary>**Äpfel**</details>
-**2.** Eine ___ (bottle) Wasser, bitte. → <details><summary>Answer</summary>**Flasche**</details>
-**3.** Ein ___ (piece) Kuchen, bitte. → <details><summary>Answer</summary>**Stück**</details>
-**4.** Ich brauche zwei ___ (kilos) Kartoffeln. → <details><summary>Answer</summary>**Kilo**</details>
-**5.** Ich esse ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen**</details>
+**1.** Ein Kilo ___ (apples), bitte. → <details><summary>Answer</summary>**Äpfel** <SpeakButton text="Äpfel" /></details>
+**2.** Eine ___ (bottle) Wasser, bitte. → <details><summary>Answer</summary>**Flasche** <SpeakButton text="Flasche" /></details>
+**3.** Ein ___ (piece) Kuchen, bitte. → <details><summary>Answer</summary>**Stück** <SpeakButton text="Stück" /></details>
+**4.** Ich brauche zwei ___ (kilos) Kartoffeln. → <details><summary>Answer</summary>**Kilo** <SpeakButton text="Kilo" /></details>
+**5.** Ich esse ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
 
 ### 3B — Flash Cards
 

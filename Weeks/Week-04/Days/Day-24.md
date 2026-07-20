@@ -129,11 +129,11 @@ In German present tense, irregular verbs change their vowel in the **2nd (du)** 
 
 ### 3A — Complete the sentences
 
-**1.** Er ___ (lesen) jeden Tag ein Buch. → <details><summary>Answer</summary>**liest**</details>
-**2.** ___ (du / fahren) nach Berlin? → <details><summary>Answer</summary>**Fährst du**</details>
-**3.** Sie ___ (sprechen) sehr gut Deutsch. → <details><summary>Answer</summary>**spricht**</details>
-**4.** Das Kind ___ (schlafen) schon. → <details><summary>Answer</summary>**schläft**</details>
-**5.** Was ___ (essen) du gerne? → <details><summary>Answer</summary>**isst**</details>
+**1.** Er ___ (lesen) jeden Tag ein Buch. → <details><summary>Answer</summary>**liest** <SpeakButton text="liest" /></details>
+**2.** ___ (du / fahren) nach Berlin? → <details><summary>Answer</summary>**Fährst du** <SpeakButton text="Fährst du" /></details>
+**3.** Sie ___ (sprechen) sehr gut Deutsch. → <details><summary>Answer</summary>**spricht** <SpeakButton text="spricht" /></details>
+**4.** Das Kind ___ (schlafen) schon. → <details><summary>Answer</summary>**schläft** <SpeakButton text="schläft" /></details>
+**5.** Was ___ (essen) du gerne? → <details><summary>Answer</summary>**isst** <SpeakButton text="isst" /></details>
 
 ### 3B — Flash Cards
 

@@ -129,11 +129,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Als ___ (starter) nehme ich eine Suppe. → <details><summary>Answer</summary>**Vorspeise**</details>
-**2.** Als ___ (main course) nehme ich das Schnitzel. → <details><summary>Answer</summary>**Hauptspeise**</details>
-**3.** Als ___ (dessert) möchte ich ein Eis. → <details><summary>Answer</summary>**Nachspeise**</details>
-**4.** Für ___ (me) ein Wasser, bitte. → <details><summary>Answer</summary>**mich**</details>
-**5.** Ich nehme ___ (a, m) gemischten Salat. → <details><summary>Answer</summary>**einen**</details>
+**1.** Als ___ (starter) nehme ich eine Suppe. → <details><summary>Answer</summary>**Vorspeise** <SpeakButton text="Vorspeise" /></details>
+**2.** Als ___ (main course) nehme ich das Schnitzel. → <details><summary>Answer</summary>**Hauptspeise** <SpeakButton text="Hauptspeise" /></details>
+**3.** Als ___ (dessert) möchte ich ein Eis. → <details><summary>Answer</summary>**Nachspeise** <SpeakButton text="Nachspeise" /></details>
+**4.** Für ___ (me) ein Wasser, bitte. → <details><summary>Answer</summary>**mich** <SpeakButton text="mich" /></details>
+**5.** Ich nehme ___ (a, m) gemischten Salat. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
 
 ### 3B — Flash Cards
 

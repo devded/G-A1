@@ -127,11 +127,11 @@ The A1 Listening exam has **3 Parts (Teile)**:
 
 ### 3A — Complete the sentences
 
-**1.** Kreuzen Sie die richtige Antwort ___ (ankreuzen). → <details><summary>Answer</summary>**an**</details>
-**2.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular**</details>
-**3.** Achten Sie auf den ___ (clue/hint) im Text. → <details><summary>Answer</summary>**Hinweis**</details>
-**4.** Ist die Aussage richtig oder ___ (false)? → <details><summary>Answer</summary>**falsch**</details>
-**5.** Lesen Sie zuerst die ___ (task). → <details><summary>Answer</summary>**Aufgabe**</details>
+**1.** Kreuzen Sie die richtige Antwort ___ (ankreuzen). → <details><summary>Answer</summary>**an** <SpeakButton text="an" /></details>
+**2.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Formular" /></details>
+**3.** Achten Sie auf den ___ (clue/hint) im Text. → <details><summary>Answer</summary>**Hinweis** <SpeakButton text="Hinweis" /></details>
+**4.** Ist die Aussage richtig oder ___ (false)? → <details><summary>Answer</summary>**falsch** <SpeakButton text="falsch" /></details>
+**5.** Lesen Sie zuerst die ___ (task). → <details><summary>Answer</summary>**Aufgabe** <SpeakButton text="Aufgabe" /></details>
 
 ### 3B — Flash Cards
 

@@ -129,11 +129,11 @@ In German, *es gibt* means both "there is" and "there are".
 
 ### 3A — Complete the sentences
 
-**1.** In der Wohnung gibt es ___ (a, m) Balkon. → <details><summary>Answer</summary>**einen**</details>
-**2.** Es gibt ___ (no, f) Küche. → <details><summary>Answer</summary>**keine**</details>
-**3.** ___ (there is) ein großes Wohnzimmer. → <details><summary>Answer</summary>**Es gibt**</details>
-**4.** Gibt es ___ (a, n) Badezimmer? → <details><summary>Answer</summary>**ein**</details>
-**5.** Es gibt ___ (no, m) Garten. → <details><summary>Answer</summary>**keinen**</details>
+**1.** In der Wohnung gibt es ___ (a, m) Balkon. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
+**2.** Es gibt ___ (no, f) Küche. → <details><summary>Answer</summary>**keine** <SpeakButton text="keine" /></details>
+**3.** ___ (there is) ein großes Wohnzimmer. → <details><summary>Answer</summary>**Es gibt** <SpeakButton text="Es gibt" /></details>
+**4.** Gibt es ___ (a, n) Badezimmer? → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
+**5.** Es gibt ___ (no, m) Garten. → <details><summary>Answer</summary>**keinen** <SpeakButton text="keinen" /></details>
 
 ### 3B — Flash Cards
 

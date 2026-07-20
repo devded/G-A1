@@ -130,11 +130,11 @@ In official contexts (train stations, news, schedules), German uses the 24-hour 
 
 ### 3A — Complete the sentences
 
-**1.** Der Film beginnt ___ (at) 20 Uhr. → <details><summary>Answer</summary>**um**</details>
-**2.** 08:30 official: Es ist acht Uhr ___. → <details><summary>Answer</summary>**dreißig**</details>
-**3.** ___ (In the morning) trinke ich Tee. → <details><summary>Answer</summary>**Am Morgen**</details>
-**4.** 15:15 official: Es ist fünfzehn Uhr ___. → <details><summary>Answer</summary>**fünfzehn**</details>
-**5.** In ___ (the night) ist es ruhig. → <details><summary>Answer</summary>**der Nacht**</details>
+**1.** Der Film beginnt ___ (at) 20 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="um" /></details>
+**2.** 08:30 official: Es ist acht Uhr ___. → <details><summary>Answer</summary>**dreißig** <SpeakButton text="dreißig" /></details>
+**3.** ___ (In the morning) trinke ich Tee. → <details><summary>Answer</summary>**Am Morgen** <SpeakButton text="Am Morgen" /></details>
+**4.** 15:15 official: Es ist fünfzehn Uhr ___. → <details><summary>Answer</summary>**fünfzehn** <SpeakButton text="fünfzehn" /></details>
+**5.** In ___ (the night) ist es ruhig. → <details><summary>Answer</summary>**der Nacht** <SpeakButton text="der Nacht" /></details>
 
 ### 3B — Flash Cards
 

@@ -130,11 +130,11 @@ In Germany, decimals use a **comma (,)** instead of a point (.)!
 
 ### 3A — Complete the sentences
 
-**1.** Was ___ (costs) das? → <details><summary>Answer</summary>**kostet**</details>
-**2.** Das kostet zwei ___ (euros) fünfzig. → <details><summary>Answer</summary>**Euro**</details>
-**3.** Das ist sehr ___ (expensive)! → <details><summary>Answer</summary>**teuer**</details>
-**4.** Wo ist die ___ (checkout/till)? → <details><summary>Answer</summary>**Kasse**</details>
-**5.** Heute ist das ein ___ (special offer). → <details><summary>Answer</summary>**Sonderangebot**</details>
+**1.** Was ___ (costs) das? → <details><summary>Answer</summary>**kostet** <SpeakButton text="kostet" /></details>
+**2.** Das kostet zwei ___ (euros) fünfzig. → <details><summary>Answer</summary>**Euro** <SpeakButton text="Euro" /></details>
+**3.** Das ist sehr ___ (expensive)! → <details><summary>Answer</summary>**teuer** <SpeakButton text="teuer" /></details>
+**4.** Wo ist die ___ (checkout/till)? → <details><summary>Answer</summary>**Kasse** <SpeakButton text="Kasse" /></details>
+**5.** Heute ist das ein ___ (special offer). → <details><summary>Answer</summary>**Sonderangebot** <SpeakButton text="Sonderangebot" /></details>
 
 ### 3B — Flash Cards
 

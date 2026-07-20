@@ -128,11 +128,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** ___ (On) Montag gehe ich zum Arzt. → <details><summary>Answer</summary>**Am**</details>
-**2.** ___ (In) Juli haben wir Urlaub. → <details><summary>Answer</summary>**Im**</details>
-**3.** Was machst du ___ (at the) Wochenende? → <details><summary>Answer</summary>**am**</details>
-**4.** ___ (Today) ist ein schöner Tag. → <details><summary>Answer</summary>**Heute**</details>
-**5.** Der Kurs beginnt ___ (at) 9 Uhr. → <details><summary>Answer</summary>**um**</details>
+**1.** ___ (On) Montag gehe ich zum Arzt. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am" /></details>
+**2.** ___ (In) Juli haben wir Urlaub. → <details><summary>Answer</summary>**Im** <SpeakButton text="Im" /></details>
+**3.** Was machst du ___ (at the) Wochenende? → <details><summary>Answer</summary>**am** <SpeakButton text="am" /></details>
+**4.** ___ (Today) ist ein schöner Tag. → <details><summary>Answer</summary>**Heute** <SpeakButton text="Heute" /></details>
+**5.** Der Kurs beginnt ___ (at) 9 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="um" /></details>
 
 ### 3B — Flash Cards
 

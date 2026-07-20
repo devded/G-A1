@@ -126,11 +126,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Gibt es hier ___ (a, m) Bahnhof? → <details><summary>Answer</summary>**einen**</details>
-**2.** Gibt es hier ___ (a, f) Apotheke? → <details><summary>Answer</summary>**eine**</details>
-**3.** Wo ist ___ (the, n) Krankenhaus? → <details><summary>Answer</summary>**das**</details>
-**4.** Er arbeitet auf der ___ (post office). → <details><summary>Answer</summary>**Post**</details>
-**5.** Das ___ (town hall) ist im Zentrum. → <details><summary>Answer</summary>**Rathaus**</details>
+**1.** Gibt es hier ___ (a, m) Bahnhof? → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
+**2.** Gibt es hier ___ (a, f) Apotheke? → <details><summary>Answer</summary>**eine** <SpeakButton text="eine" /></details>
+**3.** Wo ist ___ (the, n) Krankenhaus? → <details><summary>Answer</summary>**das** <SpeakButton text="das" /></details>
+**4.** Er arbeitet auf der ___ (post office). → <details><summary>Answer</summary>**Post** <SpeakButton text="Post" /></details>
+**5.** Das ___ (town hall) ist im Zentrum. → <details><summary>Answer</summary>**Rathaus** <SpeakButton text="Rathaus" /></details>
 
 ### 3B — Flash Cards
 

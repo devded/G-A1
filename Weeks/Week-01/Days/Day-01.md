@@ -147,22 +147,22 @@ German uses the same 26 letters as English, **plus 4 special characters**: **ä,
 
 | Sound | German | Example | Sounds like |
 |:---:|:---:|:---|:---|
-| **ä** | like "e" in "bed" | Bäcker (baker) | "becker" |
-| **ö** | like "u" in "burn" | schön (beautiful) | "shern" |
-| **ü** | like "u" + pucker lips | über (over) | "ue-ber" |
-| **ß** | like double "ss" | Straße (street) | "strasse" |
-| **ei** | like "eye" | nein (no) | "nine" |
-| **ie** | like "ee" | hier (here) | "here" |
-| **eu/äu** | like "oy" | neu (new) | "noy" |
-| **ch** | throat sound | ich (I) | "ikh" |
+| **ä** | like "e" in "bed" | Bäcker <SpeakButton text="Bäcker" /> | "becker" |
+| **ö** | like "u" in "burn" | schön <SpeakButton text="schön" /> | "shern" |
+| **ü** | like "u" + pucker lips | über <SpeakButton text="über" /> | "ue-ber" |
+| **ß** | like double "ss" | Straße <SpeakButton text="Straße" /> | "strasse" |
+| **ei** | like "eye" | nein <SpeakButton text="nein" /> | "nine" |
+| **ie** | like "ee" | hier <SpeakButton text="hier" /> | "here" |
+| **eu/äu** | like "oy" | neu <SpeakButton text="neu" /> | "noy" |
+| **ch** | throat sound | ich <SpeakButton text="ich" /> | "ikh" |
 
 ### Formal vs Informal Greetings
 
 | Situation | German | English |
 |:---|:---|:---|
-| Friends / younger people | Hallo! Tschüss! | Hi! Bye! |
-| Adults / strangers / work | Guten Tag! Auf Wiedersehen! | Hello! Goodbye! |
-| Phone / formal | Guten Tag! / Auf Wiederhören! | Hello! / Goodbye! (phone) |
+| Friends / younger people | Hallo! <SpeakButton text="Hallo" /> Tschüss! <SpeakButton text="Tschüss" /> | Hi! Bye! |
+| Adults / strangers / work | Guten Tag! <SpeakButton text="Guten Tag" /> Auf Wiedersehen! <SpeakButton text="Auf Wiedersehen" /> | Hello! Goodbye! |
+| Phone / formal | Guten Tag! <SpeakButton text="Guten Tag" /> Auf Wiederhören! <SpeakButton text="Auf Wiederhören" /> | Hello! / Goodbye! (phone) |
 
 > 🎯 **Rule:** Use **du** (informal) with friends and children. Use **Sie** (formal, always capital S!) with adults you don't know well.
 
@@ -178,23 +178,23 @@ Read each situation and write the correct German greeting. Answers are revealed 
 
 **1.** You arrive at work at 8am and see your colleague. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Guten Morgen!**</details>
+> <details><summary>💡 Answer</summary>**Guten Morgen!** <SpeakButton text="Guten Morgen!" /></details>
 
 **2.** You meet a stranger at a shop at 2pm. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Guten Tag!**</details>
+> <details><summary>💡 Answer</summary>**Guten Tag!** <SpeakButton text="Guten Tag!" /></details>
 
 **3.** You're saying goodbye to your best friend. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Tschüss!**</details>
+> <details><summary>💡 Answer</summary>**Tschüss!** <SpeakButton text="Tschüss!" /></details>
 
 **4.** A waiter brings your coffee. You respond:
 > `___________`
-> <details><summary>💡 Answer</summary>**Danke!** or **Danke schön!**</details>
+> <details><summary>💡 Answer</summary>**Danke!** <SpeakButton text="Danke!" /> or **Danke schön!** <SpeakButton text="Danke schön!" /></details>
 
 **5.** You're leaving a formal meeting. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Auf Wiedersehen!**</details>
+> <details><summary>💡 Answer</summary>**Auf Wiedersehen!** <SpeakButton text="Auf Wiedersehen!" /></details>
 
 ---
 

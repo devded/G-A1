@@ -127,11 +127,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Mein ___ (head) tut sehr weh. → <details><summary>Answer</summary>**Kopf**</details>
-**2.** Ich habe starke ___ (headache). → <details><summary>Answer</summary>**Kopfschmerzen**</details>
-**3.** Mein ___ (back) tut weh. → <details><summary>Answer</summary>**Rücken**</details>
-**4.** Meine Beine ___ (hurt, pl). → <details><summary>Answer</summary>**tun weh**</details>
-**5.** Er hat ___ (toothache). → <details><summary>Answer</summary>**Zahnschmerzen**</details>
+**1.** Mein ___ (head) tut sehr weh. → <details><summary>Answer</summary>**Kopf** <SpeakButton text="Kopf" /></details>
+**2.** Ich habe starke ___ (headache). → <details><summary>Answer</summary>**Kopfschmerzen** <SpeakButton text="Kopfschmerzen" /></details>
+**3.** Mein ___ (back) tut weh. → <details><summary>Answer</summary>**Rücken** <SpeakButton text="Rücken" /></details>
+**4.** Meine Beine ___ (hurt, pl). → <details><summary>Answer</summary>**tun weh** <SpeakButton text="tun weh" /></details>
+**5.** Er hat ___ (toothache). → <details><summary>Answer</summary>**Zahnschmerzen** <SpeakButton text="Zahnschmerzen" /></details>
 
 ### 3B — Flash Cards
 

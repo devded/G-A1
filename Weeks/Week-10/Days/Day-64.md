@@ -134,11 +134,11 @@ Weather expressions in German use the **impersonal pronoun 'es'** (it):
 
 ### 3A — Complete the sentences
 
-**1.** Wie ist das ___ (weather) heute? → <details><summary>Answer</summary>**Wetter**</details>
-**2.** ___ (It is raining) heute in Berlin. → <details><summary>Answer</summary>**Es regnet**</details>
-**3.** Es ist heute sehr ___ (sunny) und warm. → <details><summary>Answer</summary>**sonnig**</details>
-**4.** Im Dezember ___ (it is snowing) es oft. → <details><summary>Answer</summary>**schneit**</details>
-**5.** Die ___ (sun) scheint den ganzen Tag. → <details><summary>Answer</summary>**Sonne**</details>
+**1.** Wie ist das ___ (weather) heute? → <details><summary>Answer</summary>**Wetter** <SpeakButton text="Wetter" /></details>
+**2.** ___ (It is raining) heute in Berlin. → <details><summary>Answer</summary>**Es regnet** <SpeakButton text="Es regnet" /></details>
+**3.** Es ist heute sehr ___ (sunny) und warm. → <details><summary>Answer</summary>**sonnig** <SpeakButton text="sonnig" /></details>
+**4.** Im Dezember ___ (it is snowing) es oft. → <details><summary>Answer</summary>**schneit** <SpeakButton text="schneit" /></details>
+**5.** Die ___ (sun) scheint den ganzen Tag. → <details><summary>Answer</summary>**Sonne** <SpeakButton text="Sonne" /></details>
 
 ### 3B — Flash Cards
 

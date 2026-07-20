@@ -127,11 +127,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Was fehlt ___ (you, formal)? → <details><summary>Answer</summary>**Ihnen**</details>
-**2.** ___ (Since when) haben Sie die Schmerzen? → <details><summary>Answer</summary>**Seit wann**</details>
-**3.** Ich habe die Schmerzen ___ (since yesterday). → <details><summary>Answer</summary>**seit gestern**</details>
-**4.** Der Arzt schreibt ein ___ (prescription). → <details><summary>Answer</summary>**Rezept**</details>
-**5.** Ich brauche dringend einen ___ (appointment). → <details><summary>Answer</summary>**Termin**</details>
+**1.** Was fehlt ___ (you, formal)? → <details><summary>Answer</summary>**Ihnen** <SpeakButton text="Ihnen" /></details>
+**2.** ___ (Since when) haben Sie die Schmerzen? → <details><summary>Answer</summary>**Seit wann** <SpeakButton text="Seit wann" /></details>
+**3.** Ich habe die Schmerzen ___ (since yesterday). → <details><summary>Answer</summary>**seit gestern** <SpeakButton text="seit gestern" /></details>
+**4.** Der Arzt schreibt ein ___ (prescription). → <details><summary>Answer</summary>**Rezept** <SpeakButton text="Rezept" /></details>
+**5.** Ich brauche dringend einen ___ (appointment). → <details><summary>Answer</summary>**Termin** <SpeakButton text="Termin" /></details>
 
 ### 3B — Flash Cards
 
