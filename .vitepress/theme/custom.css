@@ -179,38 +179,91 @@ body {
 }
 
 /* ── Details / Answer reveal ────────────────────────────── */
+/*
+  The practice sentences look like:
+    **1.** ___! Wie heißt du? → <details><summary>Answer</summary>**Hallo** <SpeakButton/></details>
+
+  We style the details as a full block row, making it clear and scannable.
+*/
+
+/* Each answer line is a paragraph in vp-doc, but details is inline —
+   we turn the whole <p> containing a details into a styled sentence row. */
+.vp-doc p:has(details) {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 12px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin: 6px 0 !important;
+  transition: border-color 0.18s;
+}
+
+.vp-doc p:has(details):hover {
+  border-color: var(--vp-c-brand-1);
+}
+
 .vp-doc details {
-  display: inline;
+  display: contents;
 }
 
 .vp-doc details summary {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   cursor: pointer;
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
-  border: 1px solid var(--vp-c-brand-1);
-  border-radius: 6px;
-  padding: 2px 10px;
-  margin-left: 6px;
-  transition: background 0.15s, color 0.15s;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--g-practice);
+  background: transparent;
+  border: 1.5px solid var(--g-practice);
+  border-radius: 20px;
+  padding: 4px 14px;
+  white-space: nowrap;
+  transition: background 0.18s, color 0.18s;
   user-select: none;
   list-style: none;
+  letter-spacing: 0.02em;
 }
 
 .vp-doc details summary::-webkit-details-marker { display: none; }
 .vp-doc details summary::marker { display: none; }
 
-.vp-doc details summary:hover {
-  background: var(--vp-c-brand-1);
-  color: #fff;
+.vp-doc details summary::before {
+  content: '▶';
+  font-size: 0.6em;
+  transition: transform 0.2s;
+  display: inline-block;
 }
 
+.vp-doc details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.vp-doc details summary:hover,
 .vp-doc details[open] summary {
-  background: var(--vp-c-brand-1);
+  background: var(--g-practice);
   color: #fff;
-  margin-bottom: 0;
+  border-color: var(--g-practice);
+}
+
+/* The answer text that shows when open */
+.vp-doc details[open] {
+  grid-column: 1 / -1;
+  margin-top: 8px;
+  padding: 10px 14px;
+  background: var(--g-gold-soft);
+  border-left: 3px solid var(--g-gold);
+  border-radius: 0 8px 8px 0;
+  font-size: 0.95rem;
+  animation: reveal-in 0.2s ease;
+}
+
+@keyframes reveal-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
 /* ── Timer Bar ──────────────────────────────────────────── */
@@ -331,42 +384,104 @@ body {
   margin-top: 2px;
 }
 
-/* ── Section Boxes ──────────────────────────────────────── */
-.grammar-box,
-.practice-box {
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 12px;
-  padding: 20px 22px;
-  margin: 1.5rem 0;
-  position: relative;
+/* ── Grammar Box — redesigned ───────────────────────────── */
+.grammar-box {
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-card-border);
+  border-radius: 14px;
+  overflow: hidden;
+  margin: 1.8rem 0;
+  box-shadow: var(--g-card-shadow);
 }
 
-/* Colored top border instead of left rule + floating label */
-.grammar-box  { border-top: 3px solid var(--g-grammar); }
-.practice-box { border-top: 3px solid var(--g-practice); }
-
-.grammar-box::before,
-.practice-box::before {
-  position: absolute;
-  top: -1px;
-  left: 18px;
-  font-size: 0.65rem;
-  font-weight: 800;
-  letter-spacing: 0.1em;
-  padding: 0 8px;
-  border-radius: 0 0 6px 6px;
-  color: #fff;
-}
-
+/* Header strip */
 .grammar-box::before {
-  content: 'GRAMMAR';
-  background: var(--g-grammar);
+  content: '📖  GRAMMAR BITE';
+  display: block;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  padding: 8px 20px;
+  text-transform: uppercase;
+}
+
+.dark .grammar-box::before {
+  background: var(--vp-c-brand-2);
+}
+
+/* Inner content area */
+.grammar-box > *:not(:first-child),
+.grammar-box > h3,
+.grammar-box > h4,
+.grammar-box > p,
+.grammar-box > ul,
+.grammar-box > ol,
+.grammar-box > table,
+.grammar-box > blockquote {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.grammar-box > h3:first-of-type {
+  padding-top: 16px;
+}
+
+.grammar-box > *:last-child {
+  padding-bottom: 20px;
+}
+
+/* h3 inside grammar box — smaller, gold underline */
+.grammar-box h3 {
+  font-size: 0.95rem !important;
+  font-weight: 700 !important;
+  color: var(--vp-c-text-1) !important;
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-bottom: 6px;
+  margin-top: 18px !important;
+  margin-bottom: 10px !important;
+}
+
+.grammar-box h3::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 1em;
+  background: var(--g-gold);
+  border-radius: 2px;
+  margin-right: 8px;
+  vertical-align: -0.1em;
+}
+
+/* bullet points inside grammar box */
+.grammar-box p {
+  font-size: 0.9rem;
+  line-height: 1.65;
+  color: var(--vp-c-text-1);
+  margin: 0 0 6px;
+}
+
+/* ── Practice Box — redesigned ──────────────────────────── */
+.practice-box {
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-card-border);
+  border-radius: 14px;
+  overflow: hidden;
+  margin: 1.8rem 0;
+  box-shadow: var(--g-card-shadow);
 }
 
 .practice-box::before {
-  content: 'PRACTICE';
+  content: '✏️  PRACTICE';
+  display: block;
   background: var(--g-practice);
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  padding: 8px 20px;
+  text-transform: uppercase;
 }
 
 /* ── Grammar Table ──────────────────────────────────────── */
