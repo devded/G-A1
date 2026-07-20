@@ -73,7 +73,6 @@ function slugify(text) {
 }
 
 function audioUrl(text, slow = false) {
-  if (props.audioSrc && !slow) return withBase(props.audioSrc)
   const slug = slugify(text)
   const suffix = slow ? '_slow' : ''
   return withBase(`/audio/${slug}${suffix}.mp3`)

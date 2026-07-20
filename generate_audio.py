@@ -244,10 +244,12 @@ def collect_texts(all_days, include_slow=False):
             for opt in q.get("options", []):
                 add(opt)
 
-    # Scan all Day markdown files for explicit <SpeakButton text="..." /> tags (e.g. Grammar section examples)
+    # Scan ALL markdown files across the entire site for explicit <SpeakButton text="..." /> tags
     import glob, re
-    md_files = glob.glob("Weeks/Week-*/Days/Day-*.md")
+    md_files = glob.glob("**/*.md", recursive=True)
     for fpath in md_files:
+        if "node_modules" in fpath or ".vitepress/cache" in fpath:
+            continue
         try:
             content = open(fpath, encoding="utf-8").read()
             matches = re.findall(r'<SpeakButton\s+(?:[^>]*?\s+)?text=["\']([^"\']+)["\']', content)
