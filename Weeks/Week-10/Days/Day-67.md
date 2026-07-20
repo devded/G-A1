@@ -100,12 +100,12 @@ Notice the **umlaut drops** in all singular forms!
 
 | Pronoun | **müssen** (must) | **dürfen** (may) |
 |:---:|:---:|:---:|
-| ich | m**u**ss <SpeakButton text="ich muss" /> | d**a**rf |
-| du | m**u**sst <SpeakButton text="du musst" /> | d**a**rfst |
-| er/sie/es | m**u**ss <SpeakButton text="er oder sie oder es muss" /> | d**a**rf |
-| wir | m**ü**ssen <SpeakButton text="wir müssen" /> | d**ü**rfen |
-| ihr | m**ü**sst <SpeakButton text="ihr müsst" /> | d**ü**rft |
-| Sie/sie | m**ü**ssen <SpeakButton text="Sie oder sie müssen" /> | d**ü**rfen |
+| ich <SpeakButton text="ich" /> | m**u**ss <SpeakButton text="muss" /> | d**a**rf <SpeakButton text="darf" /> |
+| du <SpeakButton text="du" /> | m**u**sst <SpeakButton text="musst" /> | d**a**rfst <SpeakButton text="darfst" /> |
+| er/sie/es <SpeakButton text="er/sie/es" /> | m**u**ss <SpeakButton text="muss" /> | d**a**rf <SpeakButton text="darf" /> |
+| wir <SpeakButton text="wir" /> | m**ü**ssen <SpeakButton text="müssen" /> | d**ü**rfen <SpeakButton text="dürfen" /> |
+| ihr <SpeakButton text="ihr" /> | m**ü**sst <SpeakButton text="müsst" /> | d**ü**rft <SpeakButton text="dürft" /> |
+| Sie/sie <SpeakButton text="Sie/sie" /> | m**ü**ssen <SpeakButton text="müssen" /> | d**ü**rfen <SpeakButton text="dürfen" /> |
 
 ### Negation Difference: nicht müssen vs. nicht dürfen!
 

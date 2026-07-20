@@ -111,9 +111,9 @@ In spoken German, past events are expressed using the **Perfekt** tense!
 
 | Person | Auxiliary (haben) | Rest | Partizip II (END) |
 |:---:|:---:|:---:|:---:|
-| Ich | **habe** <SpeakButton text="Ich habe" /> | gestern im Büro | **gearbeitet**. |
-| Er | **hat** <SpeakButton text="Er hat" /> | eine Pizza | **gegessen**. |
-| Wir | **sind** <SpeakButton text="Wir sind" /> | nach Berlin | **gefahren**. |
+| Ich <SpeakButton text="Ich" /> | **habe** <SpeakButton text="habe" /> | gestern im Büro <SpeakButton text="gestern im Büro" /> | **gearbeitet**. <SpeakButton text="gearbeitet." /> |
+| Er <SpeakButton text="Er" /> | **hat** <SpeakButton text="hat" /> | eine Pizza <SpeakButton text="eine Pizza" /> | **gegessen**. <SpeakButton text="gegessen." /> |
+| Wir <SpeakButton text="Wir" /> | **sind** <SpeakButton text="sind" /> | nach Berlin <SpeakButton text="nach Berlin" /> | **gefahren**. <SpeakButton text="gefahren." /> |
 
 </div>
 

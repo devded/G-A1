@@ -119,7 +119,7 @@ Viele Grüße / Mit freundlichen Grüßen,
 [Your Name]
 ```
 
-> <Icon name="alert-triangle" /> **Critical Rule:** You MUST cover **ALL 3 prompt points** to get full points!
+> <Icon name="alert-triangle" /> **Critical Rule:** You MUST cover **ALL 3 prompt points** to get full points! <SpeakButton text="alert-triangle" />
 
 </div>
 

@@ -101,11 +101,11 @@ Use **nicht** for EVERYTHING else (verbs, adjectives, names, adverbs, possessive
 
 | Target to Negate | Use... | Example |
 |:---|:---:|:---|
-| **Noun with ein/no article** | **kein / keine** | Ich habe *kein* Auto. / Er hat *keine* Zeit. |
-| **Verb (Action)** | **nicht** | Ich komme *nicht*. / Er schläft *nicht*. |
-| **Adjective** | **nicht** | Das Haus ist *nicht* groß. |
-| **Name / Specific noun** | **nicht** | Das ist *nicht* Klaus. / Ich kenne *den* Mann *nicht*. |
-| **Adverb / Place** | **nicht** | Er wohnt *nicht* in Berlin. |
+| **Noun with ein/no article** <SpeakButton text="Noun with ein/no article" /> | **kein <SpeakButton text="kein" /> / keine** <SpeakButton text="keine" /> | Ich habe *kein* Auto. <SpeakButton text="Ich habe kein Auto." /> / Er hat *keine* Zeit. <SpeakButton text="Er hat keine Zeit." /> |
+| **Verb (Action)** <SpeakButton text="Verb (Action)" /> | **nicht** <SpeakButton text="nicht" /> | Ich komme *nicht*. <SpeakButton text="Ich komme nicht." /> / Er schläft *nicht*. <SpeakButton text="Er schläft nicht." /> |
+| **Adjective** <SpeakButton text="Adjective" /> | **nicht** <SpeakButton text="nicht" /> | Das Haus ist *nicht* groß. <SpeakButton text="Das Haus ist nicht groß." /> |
+| **Name <SpeakButton text="Name" /> / Specific noun** <SpeakButton text="Specific noun" /> | **nicht** <SpeakButton text="nicht" /> | Das ist *nicht* Klaus. <SpeakButton text="Das ist nicht Klaus." /> / Ich kenne *den* Mann *nicht*. <SpeakButton text="Ich kenne den Mann nicht." /> |
+| **Adverb <SpeakButton text="Adverb" /> / Place** <SpeakButton text="Place" /> | **nicht** <SpeakButton text="nicht" /> | Er wohnt *nicht* in Berlin. <SpeakButton text="Er wohnt nicht in Berlin." /> |
 
 </div>
 

@@ -107,8 +107,8 @@ In official contexts (train stations, news, schedules), German uses the 24-hour 
 
 | Time Unit | Preposition | Example |
 |:---:|:---:|:---|
-| **Clock Time** | **um** | *um* 8 Uhr, *um* 14:30 |
-| **Parts of Day** | **am** | *am* Morgen, *am* Abend (Exception: *in der* Nacht!) |
+| **Clock Time** <SpeakButton text="Clock Time" /> | **um** <SpeakButton text="um" /> | *um* 8 Uhr, *um* 14:30 <SpeakButton text="um 8 Uhr, um 14:30" /> |
+| **Parts of Day** <SpeakButton text="Parts of Day" /> | **am** <SpeakButton text="am" /> | *am* Morgen, *am* Abend (Exception: *in der* Nacht!) <SpeakButton text="am Morgen, am Abend (Exception: in der Nacht!)" /> |
 
 </div>
 

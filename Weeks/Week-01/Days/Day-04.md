@@ -1,4 +1,4 @@
-# Day 04 — Numbers 1–20 & German Alphabet Spelling
+# Day 04 — Days of the Week & Basic Colors
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-03">← Day 03</a>
@@ -18,72 +18,70 @@
 
 ## Step 1 — Vocabulary (8 min)
 
-Today's 8 words are the **core numbers** you'll use in every real-life situation.
-
 <div class="vocab-grid">
 
 <div class="vocab-card">
-  <div class="word">eins / ein <span class="badge badge-phrase">number</span> <SpeakButton text="eins" /></div>
-  <div class="translation">one (1)</div>
-  <div class="ipa">/aɪns/</div>
-  <div class="example">Ich habe ein Kind. <SpeakButton text="Ich habe ein Kind." /></div>
-  <div class="example-en">I have one child.</div>
+  <div class="word"><span class="article-badge article-der">der</span> Montag <span class="badge badge-noun">noun</span> <SpeakButton text="der Montag" /></div>
+  <div class="translation">Monday</div>
+  <div class="ipa">/ˈmoːntaːk/</div>
+  <div class="example">Heute ist Montag. <SpeakButton text="Heute ist Montag." /></div>
+  <div class="example-en">Today is Monday.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">zwei / drei <span class="badge badge-phrase">number</span> <SpeakButton text="zwei, drei" /></div>
-  <div class="translation">two (2) / three (3)</div>
-  <div class="ipa">/tsvaɪ/ /dʁaɪ/</div>
-  <div class="example">Ich habe zwei Kinder. <SpeakButton text="Ich habe zwei Kinder." /></div>
-  <div class="example-en">I have two children.</div>
+  <div class="word"><span class="article-badge article-der">der</span> Dienstag <span class="badge badge-noun">noun</span> <SpeakButton text="der Dienstag" /></div>
+  <div class="translation">Tuesday</div>
+  <div class="ipa">/ˈdiːnstaːk/</div>
+  <div class="example">Am Dienstag lerne ich Deutsch. <SpeakButton text="Am Dienstag lerne ich Deutsch." /></div>
+  <div class="example-en">On Tuesday I learn German.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">vier / fünf <span class="badge badge-phrase">number</span> <SpeakButton text="vier, fünf" /></div>
-  <div class="translation">four (4) / five (5)</div>
-  <div class="ipa">/fiːɐ/ /fʏnf/</div>
-  <div class="example">Zimmer Nummer vier. <SpeakButton text="Zimmer Nummer vier." /></div>
-  <div class="example-en">Room number four.</div>
+  <div class="word"><span class="article-badge article-der">der</span> Mittwoch <span class="badge badge-noun">noun</span> <SpeakButton text="der Mittwoch" /></div>
+  <div class="translation">Wednesday</div>
+  <div class="ipa">/ˈmɪtvɔx/</div>
+  <div class="example">Mittwoch ist die Mitte der Woche. <SpeakButton text="Mittwoch ist die Mitte der Woche." /></div>
+  <div class="example-en">Wednesday is the middle of the week.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">sechs / sieben <span class="badge badge-phrase">number</span> <SpeakButton text="sechs, sieben" /></div>
-  <div class="translation">six (6) / seven (7)</div>
-  <div class="ipa">/zɛks/ /ˈziːbən/</div>
-  <div class="example">Ich bin sieben Jahre alt. <SpeakButton text="Ich bin sieben Jahre alt." /></div>
-  <div class="example-en">I am seven years old.</div>
+  <div class="word"><span class="article-badge article-der">der</span> Donnerstag <span class="badge badge-noun">noun</span> <SpeakButton text="der Donnerstag" /></div>
+  <div class="translation">Thursday</div>
+  <div class="ipa">/ˈdɔnɐstaːk/</div>
+  <div class="example">Donnerstag habe ich frei. <SpeakButton text="Donnerstag habe ich frei." /></div>
+  <div class="example-en">On Thursday I have the day off.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">acht / neun <span class="badge badge-phrase">number</span> <SpeakButton text="acht, neun" /></div>
-  <div class="translation">eight (8) / nine (9)</div>
-  <div class="ipa">/axt/ /nɔʏn/</div>
-  <div class="example">Meine Telefonnummer endet mit neun. <SpeakButton text="Meine Telefonnummer endet mit neun." /></div>
-  <div class="example-en">My phone number ends with nine.</div>
+  <div class="word"><span class="article-badge article-der">der</span> Freitag <span class="badge badge-noun">noun</span> <SpeakButton text="der Freitag" /></div>
+  <div class="translation">Friday</div>
+  <div class="ipa">/ˈfʁaɪtaːk/</div>
+  <div class="example">Freitag ist mein Lieblingstag. <SpeakButton text="Freitag ist mein Lieblingstag." /></div>
+  <div class="example-en">Friday is my favorite day.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">zehn / zwanzig <span class="badge badge-phrase">number</span> <SpeakButton text="zehn, zwanzig" /></div>
-  <div class="translation">ten (10) / twenty (20)</div>
-  <div class="ipa">/tseːn/ /ˈtsvantsɪç/</div>
-  <div class="example">Es kostet zehn Euro. <SpeakButton text="Es kostet zehn Euro." /></div>
-  <div class="example-en">It costs ten euros.</div>
+  <div class="word">rot <span class="badge badge-adjective">adjective</span> <SpeakButton text="rot" /></div>
+  <div class="translation">red</div>
+  <div class="ipa">/ʁoːt/</div>
+  <div class="example">Das Auto ist rot. <SpeakButton text="Das Auto ist rot." /></div>
+  <div class="example-en">The car is red.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">die Nummer <span class="badge badge-noun">noun</span> <SpeakButton text="die Nummer" /></div>
-  <div class="translation">the number</div>
-  <div class="ipa">/diː ˈnʊmɐ/</div>
-  <div class="example">Was ist Ihre Telefonnummer? <SpeakButton text="Was ist Ihre Telefonnummer?" /></div>
-  <div class="example-en">What is your phone number?</div>
+  <div class="word">blau <span class="badge badge-adjective">adjective</span> <SpeakButton text="blau" /></div>
+  <div class="translation">blue</div>
+  <div class="ipa">/blaʊ/</div>
+  <div class="example">Der Himmel ist blau. <SpeakButton text="Der Himmel ist blau." /></div>
+  <div class="example-en">The sky is blue.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">buchstabieren <span class="badge badge-verb">verb</span> <SpeakButton text="buchstabieren" /></div>
-  <div class="translation">to spell</div>
-  <div class="ipa">/ˌbʊxʃtaˈbiːʁən/</div>
-  <div class="example">Bitte buchstabieren Sie Ihren Namen. <SpeakButton text="Bitte buchstabieren Sie Ihren Namen." /></div>
-  <div class="example-en">Please spell your name.</div>
+  <div class="word">grün <span class="badge badge-adjective">adjective</span> <SpeakButton text="grün" /></div>
+  <div class="translation">green</div>
+  <div class="ipa">/ɡʁyːn/</div>
+  <div class="example">Das Gras ist grün. <SpeakButton text="Das Gras ist grün." /></div>
+  <div class="example-en">The grass is green.</div>
 </div>
 
 </div>
@@ -94,36 +92,17 @@ Today's 8 words are the **core numbers** you'll use in every real-life situation
 
 <div class="grammar-box">
 
-### Numbers 1–20
+### Days of the Week & Preposition am
 
-| 1–5 | 6–10 | 11–15 | 16–20 |
-|:---:|:---:|:---:|:---:|
-| eins | sechs | elf | sechzehn |
-| zwei | sieben | zwölf | siebzehn |
-| drei | acht | dreizehn | achtzehn |
-| vier | neun | vierzehn | neunzehn |
-| fünf | zehn | fünfzehn | zwanzig |
+### The 7 Days of the Week (All Masculine: der)
+• **der Montag, der Dienstag, der Mittwoch** <SpeakButton text="der Montag, der Dienstag, der Mittwoch" />
+• **der Donnerstag, der Freitag** <SpeakButton text="der Donnerstag, der Freitag" />
+• **der Samstag, der Sonntag** <SpeakButton text="der Samstag, der Sonntag" />
 
-> <Icon name="alert-triangle" /> **Watch out:** *zwölf* (12) is irregular — not "zweizehn"! And *siebzehn* (17) drops the -en from sieben.
-
-### Giving Your Phone Number
-
-In German, phone numbers are usually said in pairs:
-- 030 48 27 63 → **null dreißig · acht und vierzig · siebenundzwanzig · dreiundsechzig**
-- Or simply digit by digit: **null - drei - null - vier - acht...**
-
-### The German Alphabet
-
-| Letter | Pronunciation | Like English... |
-|:---:|:---:|:---|
-| A | /aː/ | "ah" |
-| E | /eː/ | "ay" |
-| I | /iː/ | "ee" |
-| O | /oː/ | "oh" |
-| U | /uː/ | "oo" |
-| Ä | /ɛː/ | "eh" |
-| Ö | /øː/ | "ur" (British) |
-| Ü | /yː/ | "ue" (lip pout) |
+> <Icon name="target" /> **Preposition Rule for Days:**  
+> Always use **am** (on) before days of the week:  
+> • **am** Montag <SpeakButton text="am Montag" />(on Monday)
+> • **am** Wochenende <SpeakButton text="am Wochenende" />(on the weekend)
 
 </div>
 
@@ -131,35 +110,21 @@ In German, phone numbers are usually said in pairs:
 
 ## Step 3 — Practice (9 min)
 
-### 3A — Write the number in German
+### 3A — Complete the sentences
 
-**1.** 7 → <details><summary>Answer</summary>**sieben**</details>
-**2.** 12 → <details><summary>Answer</summary>**zwölf**</details>
-**3.** 15 → <details><summary>Answer</summary>**fünfzehn**</details>
-**4.** 20 → <details><summary>Answer</summary>**zwanzig**</details>
-**5.** 8 + 4 = ? → <details><summary>Answer</summary>**zwölf** (8 + 4 = 12)</details>
+**1.** ___ (On) Montag habe ich Deutschunterricht. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am Montag habe ich Deutschunterricht." /></details>
+**2.** Heute ist ___ (Monday). → <details><summary>Answer</summary>**Montag** <SpeakButton text="Heute ist Montag." /></details>
+**3.** Der Himmel ist ___ (blue). → <details><summary>Answer</summary>**blau** <SpeakButton text="Der Himmel ist blau." /></details>
+**4.** Das Auto ist ___ (red). → <details><summary>Answer</summary>**rot** <SpeakButton text="Das Auto ist rot." /></details>
+**5.** Freitag ist mein ___ (favorite day). → <details><summary>Answer</summary>**Lieblingstag** <SpeakButton text="Freitag ist mein Lieblingstag." /></details>
 
 ### 3B — Flash Cards
 
-<FlipDeck :cards="[
-  { german: 'eins', english: 'one (1)', ipa: '/aɪns/', example: 'Ich habe ein Kind.' },
-  { german: 'zwei', english: 'two (2)', ipa: '/tsvaɪ/', example: 'Ich habe zwei Kinder.' },
-  { german: 'drei', english: 'three (3)', ipa: '/dʁaɪ/', example: 'Drei Kaffee, bitte.' },
-  { german: 'zehn', english: 'ten (10)', ipa: '/tseːn/', example: 'Es kostet zehn Euro.' },
-  { german: 'zwölf', english: 'twelve (12)', ipa: '/tsvœlf/', example: 'Es ist zwölf Uhr.' },
-  { german: 'zwanzig', english: 'twenty (20)', ipa: '/ˈtsvantsɪç/', example: 'Ich bin zwanzig Jahre alt.' },
-  { german: 'die Nummer', english: 'the number', ipa: '/ˈnʊmɐ/', example: 'Was ist Ihre Telefonnummer?' },
-  { german: 'buchstabieren', english: 'to spell', ipa: '/ˌbʊxʃtaˈbiːʁən/', example: 'Bitte buchstabieren Sie Ihren Namen.' }
-]" />
+<FlipDeck :cards="[{&quot;german&quot;: &quot;der Montag&quot;, &quot;article&quot;: &quot;der&quot;, &quot;english&quot;: &quot;Monday&quot;, &quot;ipa&quot;: &quot;/ˈmoːntaːk/&quot;, &quot;example&quot;: &quot;Heute ist Montag.&quot;}, {&quot;german&quot;: &quot;der Dienstag&quot;, &quot;article&quot;: &quot;der&quot;, &quot;english&quot;: &quot;Tuesday&quot;, &quot;ipa&quot;: &quot;/ˈdiːnstaːk/&quot;, &quot;example&quot;: &quot;Am Dienstag lerne ich Deutsch.&quot;}, {&quot;german&quot;: &quot;der Mittwoch&quot;, &quot;article&quot;: &quot;der&quot;, &quot;english&quot;: &quot;Wednesday&quot;, &quot;ipa&quot;: &quot;/ˈmɪtvɔx/&quot;, &quot;example&quot;: &quot;Mittwoch ist die Mitte der Woche.&quot;}, {&quot;german&quot;: &quot;der Donnerstag&quot;, &quot;article&quot;: &quot;der&quot;, &quot;english&quot;: &quot;Thursday&quot;, &quot;ipa&quot;: &quot;/ˈdɔnɐstaːk/&quot;, &quot;example&quot;: &quot;Donnerstag habe ich frei.&quot;}, {&quot;german&quot;: &quot;der Freitag&quot;, &quot;article&quot;: &quot;der&quot;, &quot;english&quot;: &quot;Friday&quot;, &quot;ipa&quot;: &quot;/ˈfʁaɪtaːk/&quot;, &quot;example&quot;: &quot;Freitag ist mein Lieblingstag.&quot;}, {&quot;german&quot;: &quot;rot&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;red&quot;, &quot;ipa&quot;: &quot;/ʁoːt/&quot;, &quot;example&quot;: &quot;Das Auto ist rot.&quot;}, {&quot;german&quot;: &quot;blau&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;blue&quot;, &quot;ipa&quot;: &quot;/blaʊ/&quot;, &quot;example&quot;: &quot;Der Himmel ist blau.&quot;}, {&quot;german&quot;: &quot;grün&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;green&quot;, &quot;ipa&quot;: &quot;/ɡʁyːn/&quot;, &quot;example&quot;: &quot;Das Gras ist grün.&quot;}]" />
 
 ### 3C — Quiz
 
-<VocabQuiz :questions="[
-  { question: 'What is the German word for 12?', answer: 'zwölf', options: ['zwanzig', 'zwölf', 'zweitzehn', 'zehnzwei'] },
-  { question: 'Wie viel ist 8 + 9?', answer: 'siebzehn', options: ['sechzehn', 'achtzehn', 'siebzehn', 'neunzehn'] },
-  { question: 'What does buchstabieren mean?', answer: 'to spell', options: ['to count', 'to write', 'to spell', 'to read'] },
-  { question: 'What is die Nummer?', answer: 'the number', options: ['the name', 'the number', 'the letter', 'the word'] }
-]" />
+<VocabQuiz :questions="[{&quot;question&quot;: &quot;What preposition is used before days of the week?&quot;, &quot;answer&quot;: &quot;am&quot;, &quot;options&quot;: [&quot;im&quot;, &quot;am&quot;, &quot;um&quot;, &quot;an&quot;]}, {&quot;question&quot;: &quot;All days of the week have which gender in German?&quot;, &quot;answer&quot;: &quot;masculine (der)&quot;, &quot;options&quot;: [&quot;masculine (der)&quot;, &quot;feminine (die)&quot;, &quot;neuter (das)&quot;, &quot;plural&quot;]}, {&quot;question&quot;: &quot;What is the German word for Wednesday?&quot;, &quot;answer&quot;: &quot;Mittwoch&quot;, &quot;options&quot;: [&quot;Montag&quot;, &quot;Dienstag&quot;, &quot;Mittwoch&quot;, &quot;Donnerstag&quot;]}, {&quot;question&quot;: &quot;Translate: 'The sky is blue.'&quot;, &quot;answer&quot;: &quot;Der Himmel ist blau.&quot;, &quot;options&quot;: [&quot;Der Himmel ist rot.&quot;, &quot;Der Himmel ist blau.&quot;, &quot;Der Himmel ist grün.&quot;, &quot;Der Himmel ist gelb.&quot;]}]" />
 
 ---
 
@@ -168,14 +133,14 @@ In German, phone numbers are usually said in pairs:
 <div class="mastery-checklist">
 <h3>Before you finish:</h3>
 <ul>
-  <li>I can count 1–10 without looking</li>
-  <li>I know zwölf (12), fünfzehn (15) and zwanzig (20)</li>
-  <li>I can say Bitte buchstabieren Sie Ihren Namen</li>
-  <li>I understand that eins becomes ein before nouns (ein Kind)</li>
+  <li>I know all 7 days of the week in German</li>
+  <li>I know to use am before days</li>
+  <li>I can name basic colors in German</li>
+  <li>I know all days of the week are der</li>
 </ul>
 </div>
 
-> <Icon name="arrow-right" /> **Tomorrow (Day 05):** Definite articles (der, die, das) and noun genders — one of the most important German concepts!
+> <Icon name="arrow-right" /> **Tomorrow (Day 05):** Definite and indefinite articles (der, die, das)!
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-03">← Day 03</a>

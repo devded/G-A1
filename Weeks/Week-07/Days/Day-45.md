@@ -101,15 +101,15 @@ The Accusative case receives the action of the verb (*kaufen, bestellen, brauche
 
 | Gender | Definite (the) | Indefinite (a / an) | Negative (no / none) | Possessive (my) |
 |:---:|:---:|:---:|:---:|:---:|
-| **Masculine** | **den** | **einen** | **keinen** | **meinen** <SpeakButton text="meinen" /> |
-| **Feminine** | **die** | **eine** | **keine** | **meine** <SpeakButton text="meine" /> |
-| **Neuter** | **das** | **ein** | **kein** | **mein** <SpeakButton text="mein" /> |
-| **Plural** | **die** | **—** | **keine** | **meine** <SpeakButton text="meine" /> |
+| **Masculine** <SpeakButton text="Masculine" /> | **den** <SpeakButton text="den" /> | **einen** <SpeakButton text="einen" /> | **keinen** <SpeakButton text="keinen" /> | **meinen** <SpeakButton text="meinen" /> |
+| **Feminine** <SpeakButton text="Feminine" /> | **die** <SpeakButton text="die" /> | **eine** <SpeakButton text="eine" /> | **keine** <SpeakButton text="keine" /> | **meine** <SpeakButton text="meine" /> |
+| **Neuter** <SpeakButton text="Neuter" /> | **das** <SpeakButton text="das" /> | **ein** <SpeakButton text="ein" /> | **kein** <SpeakButton text="kein" /> | **mein** <SpeakButton text="mein" /> |
+| **Plural** <SpeakButton text="Plural" /> | **die** <SpeakButton text="die" /> | **—** | **keine** <SpeakButton text="keine" /> | **meine** <SpeakButton text="meine" /> |
 
 > <Icon name="target" /> **Examples:**  
-> • der Apfel → *Ich esse* <SpeakButton text="Ich esse" />*den** Apfel / **einen** Apfel / **keinen** Apfel.
-> • die Banane → *Ich esse* <SpeakButton text="Ich esse" />*die** Banane / **eine** Banane.
-> • das Ei → *Ich esse* <SpeakButton text="Ich esse" />*das** Ei / **ein** Ei.
+> • der Apfel → Ich esse **den** Apfel / **einen** Apfel / **keinen** Apfel.   <SpeakButton text="Apfel /" />
+> • die Banane → Ich esse **die** Banane / **eine** Banane.   <SpeakButton text="Banane /" />
+> • das Ei → Ich esse **das** Ei / **ein** Ei. <SpeakButton text="Ei /" />
 
 </div>
 

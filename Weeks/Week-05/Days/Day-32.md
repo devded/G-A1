@@ -103,13 +103,13 @@ In German, separable verbs have a prefix (like *auf-*, *an-*, *ein-*, *fern-*) t
 
 | Infinitive | Conjugated Sentence |
 |:---|:---|
-| **aufstehen** | Ich **stehe** um 7 Uhr **auf**. |
-| **einkaufen** | Er **kauft** im Supermarkt **ein**. |
-| **anrufen** | Ich **rufe** meine Mutter **an**. |
-| **fernsehen** | Wir **sehen** abends **fern**. |
-| **einschlafen** | Das Baby **schläft** um 20 Uhr **ein**. |
+| **aufstehen** <SpeakButton text="aufstehen" /> | Ich **stehe** um 7 Uhr **auf**. <SpeakButton text="Ich stehe um 7 Uhr auf." /> |
+| **einkaufen** <SpeakButton text="einkaufen" /> | Er **kauft** im Supermarkt **ein**. <SpeakButton text="Er kauft im Supermarkt ein." /> |
+| **anrufen** <SpeakButton text="anrufen" /> | Ich **rufe** meine Mutter **an**. <SpeakButton text="Ich rufe meine Mutter an." /> |
+| **fernsehen** <SpeakButton text="fernsehen" /> | Wir **sehen** abends **fern**. <SpeakButton text="Wir sehen abends fern." /> |
+| **einschlafen** <SpeakButton text="einschlafen" /> | Das Baby **schläft** um 20 Uhr **ein**. <SpeakButton text="Das Baby schläft um 20 Uhr ein." /> |
 
-> <Icon name="lightbulb" /> **Common Separable Prefixes:** *auf-, an-, ab-, ein-, aus-, mit-, fern-, los-*
+> <Icon name="lightbulb" /> **Common Separable Prefixes:** *auf-, an-, ab-, ein-, aus-, mit-, fern-, los-* <SpeakButton text="lightbulb" />
 
 </div>
 

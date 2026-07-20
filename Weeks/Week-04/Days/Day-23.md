@@ -99,14 +99,14 @@
 German loves sticking nouns together to create compound words!  
 <Icon name="arrow-right" /> **Golden Rule:** The **LAST noun** determines the gender (article) and plural!
 
-| Word 1 | Word 2 | Compound Noun | Gender Rule <SpeakButton text="Gender Rule" /> |
+| Word 1 <SpeakButton text="Word 1" /> | Word 2 <SpeakButton text="Word 2" /> | Compound Noun <SpeakButton text="Compound Noun" /> | Gender Rule <SpeakButton text="Gender Rule" /> |
 |:---:|:---:|:---:|:---|
-| das Büro + | der Stuhl = | **der Bürostuhl** | masculine (from Stuhl) <SpeakButton text="masculine (from Stuhl)" /> |
-| das Handy + | die Nummer = | **die Handynummer** | feminine (from Nummer) <SpeakButton text="feminine (from Nummer)" /> |
-| die Firma + | das Auto = | **das Firmenauto** | neuter (from Auto) <SpeakButton text="neuter (from Auto)" /> |
-| die Arbeit + | der Tag = | **der Arbeitstag** | masculine (from Tag) <SpeakButton text="masculine (from Tag)" /> |
+| das Büro + <SpeakButton text="das Büro +" /> | der Stuhl = <SpeakButton text="der Stuhl =" /> | **der Bürostuhl** <SpeakButton text="der Bürostuhl" /> | masculine (from Stuhl) <SpeakButton text="masculine (from Stuhl)" /> |
+| das Handy + <SpeakButton text="das Handy +" /> | die Nummer = <SpeakButton text="die Nummer =" /> | **die Handynummer** <SpeakButton text="die Handynummer" /> | feminine (from Nummer) <SpeakButton text="feminine (from Nummer)" /> |
+| die Firma + <SpeakButton text="die Firma +" /> | das Auto = <SpeakButton text="das Auto =" /> | **das Firmenauto** <SpeakButton text="das Firmenauto" /> | neuter (from Auto) <SpeakButton text="neuter (from Auto)" /> |
+| die Arbeit + <SpeakButton text="die Arbeit +" /> | der Tag = <SpeakButton text="der Tag =" /> | **der Arbeitstag** <SpeakButton text="der Arbeitstag" /> | masculine (from Tag) <SpeakButton text="masculine (from Tag)" /> |
 
-> <Icon name="lightbulb" /> **Notice:** Sometimes an **-n-** or **-s-** is inserted to join the words smoothly (*Arbeit**s**tag*, *Firme**n**auto*).
+> <Icon name="lightbulb" /> **Notice:** Sometimes an **-n-** or **-s-** is inserted to join the words smoothly (*Arbeit**s**tag*, *Firme**n**auto*). <SpeakButton text="lightbulb" />
 
 </div>
 

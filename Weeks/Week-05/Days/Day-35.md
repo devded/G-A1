@@ -28,16 +28,16 @@
 
 ### Week 5 Master Summary
 
-1. **Clock Time:**  
-   - Official: *Es ist 14 Uhr 30.*  
-   - Informal: *halb drei* (= 2:30!), *Viertel nach acht* (= 8:15), *Viertel vor neun* (= 8:45).
-2. **Time Prepositions:**  
-   - **um** + clock time (*um 8 Uhr*)  
-   - **am** + day/weekend (*am Montag, am Wochenende*)  
-   - **im** + month/season (*im Januar, im Sommer*)
-3. **Separable Verbs:** Prefix splits and goes to the VERY END (*Ich stehe um 7 Uhr auf*).
-4. **V2 Word Order:** Verb ALWAYS stays in Position 2! Starting with time flips subject to Pos 3 (*Dann esse ich...*).
-5. **Home Expressions:** *nach Hause* (going home) vs. *zu Hause* (being at home).
+1. **Clock Time:** <SpeakButton text="Clock Time:" />
+- Official: *Es ist 14 Uhr 30.* <SpeakButton text="Official: Es ist 14 Uhr 30." />
+- Informal: *halb drei* <SpeakButton text="Informal: halb drei" />(= 2:30!), *Viertel nach acht* (= 8:15), *Viertel vor neun* (= 8:45).
+2. **Time Prepositions:** <SpeakButton text="Time Prepositions:" />
+- **um** + clock time <SpeakButton text="um + clock time" />(*um 8 Uhr*)
+- **am** + day/weekend <SpeakButton text="am + day/weekend" />(*am Montag, am Wochenende*)
+- **im** + month/season <SpeakButton text="im + month/season" />(*im Januar, im Sommer*)
+3. **Separable Verbs:** Prefix splits and goes to the VERY END (*Ich stehe um 7 Uhr auf*). <SpeakButton text="Separable Verbs:" />
+4. **V2 Word Order:** Verb ALWAYS stays in Position 2! Starting with time flips subject to Pos 3 (*Dann esse ich...*). <SpeakButton text="V2 Word Order:" />
+5. **Home Expressions:** *nach Hause* (going home) vs. *zu Hause* (being at home). <SpeakButton text="Home Expressions:" />
 
 </div>
 
@@ -55,7 +55,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Ich beschreibe meinen Tag: Ich stehe normalerweise um [Time] Uhr auf. Zuerst gehe ich ins Bad und dusche. Um [Time] Uhr frühstücke ich. Um [Time] Uhr fahre ich zur Arbeit. Ich arbeite von [Time] bis [Time] Uhr. Um 13 Uhr esse ich zu Mittag. Um [Time] Uhr komme ich nach Hause. Am Abend sehe ich fern oder lese ein Buch. Ich schlafe gegen [Time] Uhr ein."*
+> *"Ich beschreibe meinen Tag: Ich stehe normalerweise um [Time] Uhr auf. Zuerst gehe ich ins Bad und dusche. Um [Time] Uhr frühstücke ich. Um [Time] Uhr fahre ich zur Arbeit. Ich arbeite von [Time] bis [Time] Uhr. Um 13 Uhr esse ich zu Mittag. Um [Time] Uhr komme ich nach Hause. Am Abend sehe ich fern oder lese ein Buch. Ich schlafe gegen [Time] Uhr ein."* <SpeakButton text="Ich beschreibe meinen Tag: Ich stehe normalerweise um [Time] Uhr auf. Zuerst gehe ich ins Bad und dusche. Um [Time] Uhr frühstücke ich. Um [Time] Uhr fahre ich zur Arbeit. Ich arbeite von [Time] bis [Time] Uhr. Um 13 Uhr esse ich zu Mittag. Um [Time] Uhr komme ich nach Hause. Am Abend sehe ich fern oder lese ein Buch. Ich schlafe gegen [Time] Uhr ein." />
 
 ---
 

@@ -98,12 +98,12 @@
 
 | Gender | my | your (informal) | Example |
 |:---:|:---:|:---:|:---|
-| **Masculine** | **mein** | **dein** | mein Vater <SpeakButton text="mein Vater" />, dein Opa <SpeakButton text="dein Opa" /> |
-| **Feminine** | **meine** | **deine** | meine Mutter <SpeakButton text="meine Mutter" />, deine Oma <SpeakButton text="deine Oma" /> |
-| **Neuter** | **mein** | **dein** | mein Kind <SpeakButton text="mein Kind" />, dein Baby <SpeakButton text="dein Baby" /> |
-| **Plural** | **meine** | **deine** | meine Eltern <SpeakButton text="meine Eltern" />, deine Tanten <SpeakButton text="deine Tanten" /> |
+| **Masculine** <SpeakButton text="Masculine" /> | **mein** <SpeakButton text="mein" /> | **dein** <SpeakButton text="dein" /> | mein Vater, dein Opa <SpeakButton text="mein Vater, dein Opa" /> |
+| **Feminine** <SpeakButton text="Feminine" /> | **meine** <SpeakButton text="meine" /> | **deine** <SpeakButton text="deine" /> | meine Mutter, deine Oma <SpeakButton text="meine Mutter, deine Oma" /> |
+| **Neuter** <SpeakButton text="Neuter" /> | **mein** <SpeakButton text="mein" /> | **dein** <SpeakButton text="dein" /> | mein Kind, dein Baby <SpeakButton text="mein Kind, dein Baby" /> |
+| **Plural** <SpeakButton text="Plural" /> | **meine** <SpeakButton text="meine" /> | **deine** <SpeakButton text="deine" /> | meine Eltern, deine Tanten <SpeakButton text="meine Eltern, deine Tanten" /> |
 
-> <Icon name="lightbulb" /> **Golden Rule:** If the noun is **feminine or plural**, add **-e**!  
+> <Icon name="lightbulb" /> **Golden Rule:** If the noun is **feminine or plural**, add **-e**!   <SpeakButton text="lightbulb" />
 > • mein Sohn <SpeakButton text="mein Sohn" />(masc) vs. meine Tochter (fem)
 > • dein Opa <SpeakButton text="dein Opa" />(masc) vs. deine Oma (fem)
 

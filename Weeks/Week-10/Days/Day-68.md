@@ -98,18 +98,18 @@
 
 Remember: In all 6 modals, **ich** and **er/sie/es** have identical forms, and singular forms change vowels!
 
-| Infinitive | Meaning | ich / er / sie / es | du <SpeakButton text="du" /> |
+| Infinitive | Meaning | ich / er / sie / es | du |
 |:---:|:---:|:---:|:---:|
-| **können** | can / ability | **kann** | kannst <SpeakButton text="kannst" /> |
-| **müssen** | must / necessity | **muss** | musst <SpeakButton text="musst" /> |
-| **dürfen** | may / permission | **darf** | darfst <SpeakButton text="darfst" /> |
-| **sollen** | should / recommendation | **soll** | sollst <SpeakButton text="sollst" /> |
-| **wollen** | want / intention | **will** | willst <SpeakButton text="willst" /> |
-| **mögen** | like | **mag** | magst <SpeakButton text="magst" /> |
+| **können** <SpeakButton text="können" /> | can <SpeakButton text="can" /> / ability <SpeakButton text="ability" /> | **kann** <SpeakButton text="kann" /> | kannst <SpeakButton text="kannst" /> |
+| **müssen** <SpeakButton text="müssen" /> | must <SpeakButton text="must" /> / necessity <SpeakButton text="necessity" /> | **muss** <SpeakButton text="muss" /> | musst <SpeakButton text="musst" /> |
+| **dürfen** <SpeakButton text="dürfen" /> | may <SpeakButton text="may" /> / permission <SpeakButton text="permission" /> | **darf** <SpeakButton text="darf" /> | darfst <SpeakButton text="darfst" /> |
+| **sollen** <SpeakButton text="sollen" /> | should <SpeakButton text="should" /> / recommendation <SpeakButton text="recommendation" /> | **soll** <SpeakButton text="soll" /> | sollst <SpeakButton text="sollst" /> |
+| **wollen** <SpeakButton text="wollen" /> | want <SpeakButton text="want" /> / intention <SpeakButton text="intention" /> | **will** <SpeakButton text="will" /> | willst <SpeakButton text="willst" /> |
+| **mögen** <SpeakButton text="mögen" /> | like <SpeakButton text="like" /> | **mag** <SpeakButton text="mag" /> | magst <SpeakButton text="magst" /> |
 
 > <Icon name="target" /> **Sentence Structure Rule:**  
-> Modal verb in **Position 2** + Main verb in **Infinitive at the VERY END**!  
-> • *Ich* **will** *heute Abend ins Kino* **gehen**. <SpeakButton text="Ich will heute Abend ins Kino gehen." />
+> Modal verb in **Position 2** + Main verb in **Infinitive at the VERY END**!   <SpeakButton text="Position 2" />
+> • *Ich* **will** *heute Abend ins Kino* **gehen**. <SpeakButton text="will" />
 
 </div>
 

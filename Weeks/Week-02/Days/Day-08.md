@@ -98,18 +98,18 @@
 
 | Pronoun | Form | Pronunciation |
 |:---:|:---:|:---:|
-| ich | hab**e** <SpeakButton text="ich habe" /> | /ˈhaːbə/ |
-| du | ha**st** <SpeakButton text="du hast" /> | /hast/ |
-| er/sie/es | ha**t** <SpeakButton text="er oder sie oder es hat" /> | /hat/ |
-| wir | hab**en** <SpeakButton text="wir haben" /> | /ˈhaːbən/ |
-| ihr | hab**t** <SpeakButton text="ihr habt" /> | /hapt/ |
-| Sie/sie | hab**en** <SpeakButton text="Sie oder sie haben" /> | /ˈhaːbən/ |
+| ich <SpeakButton text="ich" /> | hab**e** <SpeakButton text="habe" /> | /ˈhaːbə/ |
+| du <SpeakButton text="du" /> | ha**st** <SpeakButton text="hast" /> | /hast/ |
+| er/sie/es <SpeakButton text="er/sie/es" /> | ha**t** <SpeakButton text="hat" /> | /hat/ |
+| wir <SpeakButton text="wir" /> | hab**en** <SpeakButton text="haben" /> | /ˈhaːbən/ |
+| ihr <SpeakButton text="ihr" /> | hab**t** <SpeakButton text="habt" /> | /hapt/ |
+| Sie/sie <SpeakButton text="Sie/sie" /> | hab**en** <SpeakButton text="haben" /> | /ˈhaːbən/ |
 
 > <Icon name="target" /> **Expressing Family:** Use *haben* + accusative article:  
-> • Ich habe **einen** Bruder. (masculine → *einen)* <SpeakButton text="einen)" />
-> • Ich habe **eine** Schwester. (feminine → *eine)* <SpeakButton text="eine)" />
+> • Ich habe **einen** Bruder. (masculine → einen)   <SpeakButton text="einen" />
+> • Ich habe **eine** Schwester. (feminine → eine)   <SpeakButton text="eine" />
 > • Ich habe **ein** Baby. (neuter → *ein)* <SpeakButton text="ein)" />
-> • Ich habe **keine** Geschwister. (negative → *keine)* <SpeakButton text="keine)" />
+> • Ich habe **keine** Geschwister. (negative → keine) <SpeakButton text="keine" />
 
 </div>
 

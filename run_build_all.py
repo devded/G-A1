@@ -2,6 +2,7 @@ import os
 
 from course_renderer import render_day, render_readme, ensure_dir, fmt_day
 
+from data_w1 import weeks_data as w1_list
 from data_w2 import weeks_data as w2_list
 from data_w3 import weeks_3_to_6 as w3_list
 from data_w4 import w4
@@ -15,6 +16,7 @@ from data_w11 import w11
 from data_w12 import w12
 
 all_weeks = []
+all_weeks.extend(w1_list)
 all_weeks.extend(w2_list)
 all_weeks.extend(w3_list)
 all_weeks.append(w4)

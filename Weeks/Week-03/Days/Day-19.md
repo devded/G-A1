@@ -96,13 +96,13 @@
 
 ### Key Location Adverbs
 
-| Direction | German | Example |
+| Direction <SpeakButton text="Direction" /> | German <SpeakButton text="German" /> | Example <SpeakButton text="Example" /> |
 |:---:|:---:|:---|
-| ⬅️ **Left** | **links** | Das Bad ist *links*. |
-| ➡️ **Right** | **rechts** | Die Küche ist *rechts*. |
-| ⬆️ **Straight** | **geradeaus** | Gehen Sie *geradeaus*. |
-| ↗️ **Upstairs** | **oben** | Das Zimmer ist *oben*. |
-| ↘️ **Downstairs** | **unten** | Der Keller ist *unten*. |
+| ⬅️ **Left** <SpeakButton text="⬅️ Left" /> | **links** <SpeakButton text="links" /> | Das Bad ist *links*. <SpeakButton text="Das Bad ist links." /> |
+| ➡️ **Right** <SpeakButton text="➡️ Right" /> | **rechts** <SpeakButton text="rechts" /> | Die Küche ist *rechts*. <SpeakButton text="Die Küche ist rechts." /> |
+| ⬆️ **Straight** <SpeakButton text="⬆️ Straight" /> | **geradeaus** <SpeakButton text="geradeaus" /> | Gehen Sie *geradeaus*. <SpeakButton text="Gehen Sie geradeaus." /> |
+| ↗️ **Upstairs** <SpeakButton text="↗️ Upstairs" /> | **oben** <SpeakButton text="oben" /> | Das Zimmer ist *oben*. <SpeakButton text="Das Zimmer ist oben." /> |
+| ↘️ **Downstairs** <SpeakButton text="↘️ Downstairs" /> | **unten** <SpeakButton text="unten" /> | Der Keller ist *unten*. <SpeakButton text="Der Keller ist unten." /> |
 
 ### Fixed Preposition Phrases (Location)
 

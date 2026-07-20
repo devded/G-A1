@@ -28,16 +28,16 @@
 
 ### Week 2 Master Summary
 
-1. **haben (to have):** ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben
-2. **Accusative after haben:** Ich habe *einen* Bruder (m), *eine* Schwester (f), *ein* Kind (n).
-3. **Possessives (Nominative):**
-   - ich → mein / meine
-   - du → dein / deine
-   - er → sein / seine
-   - sie → ihr / ihre
-   - wir → unser / unsere
-4. **Professions:** NO ARTICLE after *sein* or *arbeiten als*! Add *-in* for feminine forms (Lehrer → Lehrerin).
-5. **Numbers 21–99:** Spoken backwards! *einundzwanzig* (21), *fünfunddreißig* (35).
+1. **haben (to have):** ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben <SpeakButton text="haben (to have):" />
+2. **Accusative after haben:** Ich habe *einen* Bruder (m), *eine* Schwester (f), *ein* Kind (n). <SpeakButton text="Accusative after haben:" />
+3. **Possessives (Nominative):** <SpeakButton text="Possessives (Nominative):" />
+- ich → *mein / meine* <SpeakButton text="mein / meine" />
+- du → *dein / deine* <SpeakButton text="dein / deine" />
+- er → *sein / seine* <SpeakButton text="sein / seine" />
+- sie → *ihr / ihre* <SpeakButton text="ihr / ihre" />
+- wir → *unser / unsere* <SpeakButton text="unser / unsere" />
+4. **Professions:** NO ARTICLE after *sein* or *arbeiten als*! Add *-in* for feminine forms (Lehrer → *Lehrerin).* <SpeakButton text="Lehrerin)." />
+5. **Numbers 21–99:** Spoken backwards! *einundzwanzig* (21), *fünfunddreißig* (35). <SpeakButton text="Numbers 21–99:" />
 
 </div>
 
@@ -55,7 +55,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Hallo! Ich heiße [Name]. Ich bin [Age] Jahre alt. Ich bin [ledig / verheiratet]. Ich arbeite als [Job / Student]. Ich habe [Number] Geschwister: [einen Bruder / eine Schwester]. Mein Vater heißt [Name] und meine Mutter heißt [Name]. Wir wohnen in [City]."*
+> *"Hallo! Ich heiße [Name]. Ich bin [Age] Jahre alt. Ich bin [ledig / verheiratet]. Ich arbeite als [Job / Student]. Ich habe [Number] Geschwister: [einen Bruder / eine Schwester]. Mein Vater heißt [Name] und meine Mutter heißt [Name]. Wir wohnen in [City]."* <SpeakButton text="Hallo! Ich heiße [Name]. Ich bin [Age] Jahre alt. Ich bin [ledig / verheiratet]. Ich arbeite als [Job / Student]. Ich habe [Number] Geschwister: [einen Bruder / eine Schwester]. Mein Vater heißt [Name] und meine Mutter heißt [Name]. Wir wohnen in [City]." />
 
 ---
 

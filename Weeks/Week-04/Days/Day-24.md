@@ -98,14 +98,14 @@
 
 In German present tense, irregular verbs change their vowel in the **2nd (du)** and **3rd (er/sie/es)** person singular only! *ich, wir, ihr, sie/Sie* remain regular!
 
-| Change Pattern | Verb | du (you) | er/sie/es (he/she/it) <SpeakButton text="er/sie/es (he/she/it)" /> |
+| Change Pattern <SpeakButton text="Change Pattern" /> | Verb <SpeakButton text="Verb" /> | du (you) <SpeakButton text="du (you)" /> | er/sie/es (he/she/it) <SpeakButton text="er/sie/es (he/she/it)" /> |
 |:---:|:---:|:---:|:---:|
-| **e → ie** | **lesen** | du l**ie**st | er l**ie**st <SpeakButton text="er liest" /> |
-| **e → ie** | **sehen** | du s**ie**hst | er s**ie**ht <SpeakButton text="er sieht" /> |
-| **e → i** | **sprechen** | du sp**ri**chst | er sp**ri**cht <SpeakButton text="er spricht" /> |
-| **e → i** | **essen** | du **is**st | er **is**st <SpeakButton text="er isst" /> |
-| **a → ä** | **fahren** | du f**ä**hrst | er f**ä**hrt <SpeakButton text="er fährt" /> |
-| **a → ä** | **schlafen** | du schl**ä**fst | er schl**ä**ft <SpeakButton text="er schläft" /> |
+| **e → ie** <SpeakButton text="e → ie" /> | **lesen** <SpeakButton text="lesen" /> | du l**ie**st <SpeakButton text="du liest" /> | er l**ie**st <SpeakButton text="er liest" /> |
+| **e → ie** <SpeakButton text="e → ie" /> | **sehen** <SpeakButton text="sehen" /> | du s**ie**hst <SpeakButton text="du siehst" /> | er s**ie**ht <SpeakButton text="er sieht" /> |
+| **e → i** <SpeakButton text="e → i" /> | **sprechen** <SpeakButton text="sprechen" /> | du sp**ri**chst <SpeakButton text="du sprichst" /> | er sp**ri**cht <SpeakButton text="er spricht" /> |
+| **e → i** <SpeakButton text="e → i" /> | **essen** <SpeakButton text="essen" /> | du **is**st <SpeakButton text="du isst" /> | er **is**st <SpeakButton text="er isst" /> |
+| **a → ä** <SpeakButton text="a → ä" /> | **fahren** <SpeakButton text="fahren" /> | du f**ä**hrst <SpeakButton text="du fährst" /> | er f**ä**hrt <SpeakButton text="er fährt" /> |
+| **a → ä** <SpeakButton text="a → ä" /> | **schlafen** <SpeakButton text="schlafen" /> | du schl**ä**fst <SpeakButton text="du schläfst" /> | er schl**ä**ft <SpeakButton text="er schläft" /> |
 
 > <Icon name="target" /> **Notice:** *ich lese*, *wir lesen*, *ihr lest* — NO change for these forms!
 

@@ -96,17 +96,17 @@
 
 ### Sample Family Profile Paragraph
 
-> *"Hallo! Ich heiße Lukas. Ich bin 28 Jahre alt und wohne in Berlin. Ich bin ledig und habe zwei Geschwister: einen Bruder und eine Schwester. Mein Bruder heißt Stefan, er ist 25 und arbeitet als Ingenieur. Meine Schwester heißt Lisa, sie ist 22 und ist Studentin. Unsere Eltern wohnen in Hamburg."*
+> *"Hallo! Ich heiße Lukas. Ich bin 28 Jahre alt und wohne in Berlin. Ich bin ledig und habe zwei Geschwister: einen Bruder und eine Schwester. Mein Bruder heißt Stefan, er ist 25 und arbeitet als Ingenieur. Meine Schwester heißt Lisa, sie ist 22 und ist Studentin. Unsere Eltern wohnen in Hamburg."* <SpeakButton text="Hallo! Ich heiße Lukas. Ich bin 28 Jahre alt und wohne in Berlin. Ich bin ledig und habe zwei Geschwister: einen Bruder und eine Schwester. Mein Bruder heißt Stefan, er ist 25 und arbeitet als Ingenieur. Meine Schwester heißt Lisa, sie ist 22 und ist Studentin. Unsere Eltern wohnen in Hamburg." />
 
 ### Key Sentence Connectors
 
 | German | English | Usage |
 |:---:|:---:|:---|
-| **und** | and | connects similar ideas |
-| **aber** | but | contrasts ideas (Ich bin 25, *aber* mein Bruder ist 30) |
-| **auch** | also | adds info (Meine Schwester ist *auch* Studentin) |
-| **schon** | already | time progress (Er ist *schon* 60) |
-| **noch** | still | ongoing state (Ich wohne *noch* zu Hause) |
+| **und** <SpeakButton text="und" /> | and | connects similar ideas |
+| **aber** <SpeakButton text="aber" /> | but | contrasts ideas (Ich bin 25, *aber* mein Bruder ist 30) <SpeakButton text="contrasts ideas (Ich bin 25, aber mein Bruder ist 30)" /> |
+| **auch** <SpeakButton text="auch" /> | also | adds info (Meine Schwester ist *auch* Studentin) <SpeakButton text="adds info (Meine Schwester ist auch Studentin)" /> |
+| **schon** <SpeakButton text="schon" /> | already | time progress (Er ist *schon* 60) <SpeakButton text="time progress (Er ist schon 60)" /> |
+| **noch** <SpeakButton text="noch" /> | still | ongoing state (Ich wohne *noch* zu Hause) <SpeakButton text="ongoing state (Ich wohne noch zu Hause)" /> |
 
 </div>
 

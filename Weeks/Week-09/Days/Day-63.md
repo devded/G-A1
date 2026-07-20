@@ -28,19 +28,19 @@
 
 ### Week 9 Master Summary
 
-1. **Asking & Giving Directions:**  
-   - *Wie komme ich zum Bahnhof / zur Apotheke?*  
-   - *Gehen Sie geradeaus. Biegen Sie an der Ampel links ab.*  
-   - *Es ist 10 Minuten zu Fuß.*
-2. **Dative Location Contractions:**  
-   - *zu + dem =* **zum** (masc/neut: *zum Bahnhof, zum Krankenhaus*)  
-   - *zu + der =* **zur** (fem: *zur Apotheke, zur Post*)  
-   - *in + dem =* **im**, *an + dem =* **am**, *bei + dem =* **beim**.
-3. **Transport with 'mit' + Dative:**  
-   - *mit dem* Bus / Zug / Auto.  
-   - *mit der* U-Bahn / S-Bahn / Straßenbahn.
-4. **Transport Verbs:** *einsteigen* (get on), *aussteigen* (get off), *umsteigen* (transfer).
-5. **Tickets:** *einfach* (one-way) vs. *hin und zurück* (return).
+1. **Asking & Giving Directions:** <SpeakButton text="Asking & Giving Directions:" />
+- *Wie komme ich zum Bahnhof / zur Apotheke?* <SpeakButton text="Wie komme ich zum Bahnhof / zur Apotheke?" />
+- *Gehen Sie geradeaus. Biegen Sie an der Ampel links ab.* <SpeakButton text="Gehen Sie geradeaus. Biegen Sie an der Ampel links ab." />
+- *Es ist 10 Minuten zu Fuß.* <SpeakButton text="Es ist 10 Minuten zu Fuß." />
+2. **Dative Location Contractions:** <SpeakButton text="Dative Location Contractions:" />
+- *zu + dem =* **zum** <SpeakButton text="zu + dem = zum" />(masc/neut: *zum Bahnhof, zum Krankenhaus*)
+- *zu + der =* **zur** <SpeakButton text="zu + der = zur" />(fem: *zur Apotheke, zur Post*)
+- *in + dem =* **im**, *an + dem =* **am**, *bei + dem =* **beim**. <SpeakButton text="in + dem = im, an + dem = am, bei + dem = beim." />
+3. **Transport with 'mit' + Dative:** <SpeakButton text="Transport with 'mit' + Dative:" />
+- *mit dem* Bus / Zug / Auto. <SpeakButton text="mit dem Bus / Zug / Auto." />
+- *mit der* U-Bahn / S-Bahn / Straßenbahn. <SpeakButton text="mit der U-Bahn / S-Bahn / Straßenbahn." />
+4. **Transport Verbs:** *einsteigen* (get on), *aussteigen* (get off), *umsteigen* (transfer). <SpeakButton text="Transport Verbs:" />
+5. **Tickets:** *einfach* (one-way) vs. *hin und zurück* (return). <SpeakButton text="Tickets:" />
 
 </div>
 
@@ -58,7 +58,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Entschuldigung! Wie komme ich zum Hauptbahnhof? Ach so, gehen Sie hier die Straße geradeaus, dann an der Ampel rechts abbiegen. Der Bahnhof ist direkt um die Ecke, gegenüber von der Post! ... Am Bahnhof: Guten Tag! Ich möchte eine Fahrkarte nach München, bitte. Hin und zurück. Von welchem Gleis fährt der Zug ab? Gleis 5? Hat der Zug Verspätung? Nein, er ist pünktlich. Vielen Dank!"*
+> *"Entschuldigung! Wie komme ich zum Hauptbahnhof? Ach so, gehen Sie hier die Straße geradeaus, dann an der Ampel rechts abbiegen. Der Bahnhof ist direkt um die Ecke, gegenüber von der Post! ... Am Bahnhof: Guten Tag! Ich möchte eine Fahrkarte nach München, bitte. Hin und zurück. Von welchem Gleis fährt der Zug ab? Gleis 5? Hat der Zug Verspätung? Nein, er ist pünktlich. Vielen Dank!"* <SpeakButton text="Entschuldigung! Wie komme ich zum Hauptbahnhof? Ach so, gehen Sie hier die Straße geradeaus, dann an der Ampel rechts abbiegen. Der Bahnhof ist direkt um die Ecke, gegenüber von der Post! ... Am Bahnhof: Guten Tag! Ich möchte eine Fahrkarte nach München, bitte. Hin und zurück. Von welchem Gleis fährt der Zug ab? Gleis 5? Hat der Zug Verspätung? Nein, er ist pünktlich. Vielen Dank!" />
 
 ---
 

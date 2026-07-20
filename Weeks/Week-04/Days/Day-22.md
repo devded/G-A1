@@ -104,7 +104,7 @@
 • *Er arbeitet als Mechaniker.* <SpeakButton text="Er arbeitet als Mechaniker." />(He works as a mechanic.)
 • *Ich arbeite als Verkäuferin.* <SpeakButton text="Ich arbeite als Verkäuferin." />(I work as a shop assistant.)
 
-> <Icon name="alert-triangle" /> **Reminder:** Never say *Ich bin ein Ingenieur*. Keep it simple: **Ich bin Ingenieur**!
+> <Icon name="alert-triangle" /> **Reminder:** Never say *Ich bin ein Ingenieur*. Keep it simple: **Ich bin Ingenieur**! <SpeakButton text="alert-triangle" />
 
 </div>
 

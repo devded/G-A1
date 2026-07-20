@@ -28,17 +28,17 @@
 
 ### Week 8 Master Summary
 
-1. **Table Reservations:** *Ich möchte einen Tisch für [X] Personen auf den Namen [Name] reservieren.*
-2. **Ordering:**  
-   - *Ich möchte einen [Item + Accusative], bitte.*  
-   - *Als Vorspeise / Hauptspeise / Nachspeise nehme ich...*
-3. **Food Preferences & schmecken:**  
-   - *Das Essen schmeckt mir gut.* (Person is in Dative: *mir*)  
-   - Descriptors: *lecker, köstlich, süß, salzig, scharf, frisch*.
-4. **Paying & Tipping:**  
-   - *Zusammen oder getrennt?* (Together or separate?)  
-   - *Stimmt so!* (Keep the change!). Tipping is 5-10% in Germany.
-5. **Colours:** *rot, blau, grün, gelb, schwarz, weiß, braun*. No endings after *ist/sind*!
+1. **Table Reservations:** *Ich möchte einen Tisch für [X] Personen auf den Namen [Name] reservieren.* <SpeakButton text="Table Reservations:" />
+2. **Ordering:** <SpeakButton text="Ordering:" />
+- *Ich möchte einen [Item + Accusative], bitte.* <SpeakButton text="Ich möchte einen [Item + Accusative], bitte." />
+- *Als Vorspeise / Hauptspeise / Nachspeise nehme ich...* <SpeakButton text="Als Vorspeise / Hauptspeise / Nachspeise nehme ich..." />
+3. **Food Preferences & schmecken:** <SpeakButton text="Food Preferences & schmecken:" />
+- *Das Essen schmeckt mir gut.* <SpeakButton text="Das Essen schmeckt mir gut." />(Person is in Dative: *mir*)
+- Descriptors: *lecker, köstlich, süß, salzig, scharf, frisch*. <SpeakButton text="Descriptors: lecker, köstlich, süß, salzig, scharf, frisch." />
+4. **Paying & Tipping:** <SpeakButton text="Paying & Tipping:" />
+- *Zusammen oder getrennt?* <SpeakButton text="Zusammen oder getrennt?" />(Together or separate?)
+- *Stimmt so!* <SpeakButton text="Stimmt so!" />(Keep the change!). Tipping is 5-10% in Germany.
+5. **Colours:** *rot, blau, grün, gelb, schwarz, weiß, braun*. No endings after *ist/sind*! <SpeakButton text="Colours:" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Guten Abend! Wir haben einen Tisch für zwei Personen auf den Namen Schmidt reserviert. Danke! Als Vorspeise nehme ich eine Tomatensuppe. Als Hauptspeise nehme ich ein Wiener Schnitzel mit Pommes und einen gemischten Salat. Zum Trinken möchte ich ein Mineralwasser. Das Essen ist wirklich lecker und sehr frisch! Wir möchten jetzt zahlen. Getrennt, bitte. Das macht 22 Euro? Hier sind 25 Euro, stimmt so! Auf Wiedersehen!"*
+> *"Guten Abend! Wir haben einen Tisch für zwei Personen auf den Namen Schmidt reserviert. Danke! Als Vorspeise nehme ich eine Tomatensuppe. Als Hauptspeise nehme ich ein Wiener Schnitzel mit Pommes und einen gemischten Salat. Zum Trinken möchte ich ein Mineralwasser. Das Essen ist wirklich lecker und sehr frisch! Wir möchten jetzt zahlen. Getrennt, bitte. Das macht 22 Euro? Hier sind 25 Euro, stimmt so! Auf Wiedersehen!"* <SpeakButton text="Guten Abend! Wir haben einen Tisch für zwei Personen auf den Namen Schmidt reserviert. Danke! Als Vorspeise nehme ich eine Tomatensuppe. Als Hauptspeise nehme ich ein Wiener Schnitzel mit Pommes und einen gemischten Salat. Zum Trinken möchte ich ein Mineralwasser. Das Essen ist wirklich lecker und sehr frisch! Wir möchten jetzt zahlen. Getrennt, bitte. Das macht 22 Euro? Hier sind 25 Euro, stimmt so! Auf Wiedersehen!" />
 
 ---
 

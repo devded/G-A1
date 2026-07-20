@@ -1,4 +1,4 @@
-# Day 05 — Nouns, Articles (der/die/das) & Gender
+# Day 05 — Nouns & Gender: der, die, das
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-04">← Day 04</a>
@@ -18,72 +18,70 @@
 
 ## Step 1 — Vocabulary (8 min)
 
-Today's words showcase all three genders. **Always learn the article with the noun!**
-
 <div class="vocab-grid">
 
 <div class="vocab-card">
   <div class="word"><span class="article-badge article-der">der</span> Mann <span class="badge badge-noun">noun</span> <SpeakButton text="der Mann" /></div>
   <div class="translation">the man</div>
-  <div class="ipa">/dɛɐ man/</div>
-  <div class="example">Der Mann heißt Klaus. <SpeakButton text="Der Mann heißt Klaus." /></div>
-  <div class="example-en">The man's name is Klaus.</div>
+  <div class="ipa">/man/</div>
+  <div class="example">Der Mann ist freundlich. <SpeakButton text="Der Mann ist freundlich." /></div>
+  <div class="example-en">The man is friendly.</div>
 </div>
 
 <div class="vocab-card">
   <div class="word"><span class="article-badge article-die">die</span> Frau <span class="badge badge-noun">noun</span> <SpeakButton text="die Frau" /></div>
-  <div class="translation">the woman / Mrs</div>
-  <div class="ipa">/diː fʁaʊ/</div>
-  <div class="example">Die Frau kommt aus Österreich. <SpeakButton text="Die Frau kommt aus Österreich." /></div>
-  <div class="example-en">The woman comes from Austria.</div>
+  <div class="translation">the woman</div>
+  <div class="ipa">/fʁaʊ/</div>
+  <div class="example">Die Frau arbeitet hier. <SpeakButton text="Die Frau arbeitet hier." /></div>
+  <div class="example-en">The woman works here.</div>
 </div>
 
 <div class="vocab-card">
   <div class="word"><span class="article-badge article-das">das</span> Kind <span class="badge badge-noun">noun</span> <SpeakButton text="das Kind" /></div>
   <div class="translation">the child</div>
-  <div class="ipa">/das kɪnt/</div>
-  <div class="example">Das Kind ist fünf Jahre alt. <SpeakButton text="Das Kind ist fünf Jahre alt." /></div>
-  <div class="example-en">The child is five years old.</div>
+  <div class="ipa">/kɪnt/</div>
+  <div class="example">Das Kind spielt. <SpeakButton text="Das Kind spielt." /></div>
+  <div class="example-en">The child is playing.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word"><span class="article-badge article-der">der</span> Herr <span class="badge badge-noun">noun</span> <SpeakButton text="der Herr" /></div>
-  <div class="translation">the gentleman / Mr</div>
-  <div class="ipa">/dɛɐ hɛɐ/</div>
-  <div class="example">Guten Tag, Herr Müller! <SpeakButton text="Guten Tag, Herr Müller!" /></div>
-  <div class="example-en">Good day, Mr Müller!</div>
+  <div class="word"><span class="article-badge article-der">der</span> Tisch <span class="badge badge-noun">noun</span> <SpeakButton text="der Tisch" /></div>
+  <div class="translation">the table</div>
+  <div class="ipa">/tɪʃ/</div>
+  <div class="example">Der Tisch ist neu. <SpeakButton text="Der Tisch ist neu." /></div>
+  <div class="example-en">The table is new.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word"><span class="article-badge article-die">die</span> Stadt <span class="badge badge-noun">noun</span> <SpeakButton text="die Stadt" /></div>
-  <div class="translation">the city / town</div>
-  <div class="ipa">/diː ʃtat/</div>
-  <div class="example">Berlin ist eine große Stadt. <SpeakButton text="Berlin ist eine große Stadt." /></div>
-  <div class="example-en">Berlin is a big city.</div>
+  <div class="word"><span class="article-badge article-die">die</span> Tasche <span class="badge badge-noun">noun</span> <SpeakButton text="die Tasche" /></div>
+  <div class="translation">the bag</div>
+  <div class="ipa">/ˈtaʃə/</div>
+  <div class="example">Die Tasche ist groß. <SpeakButton text="Die Tasche ist groß." /></div>
+  <div class="example-en">The bag is big.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word"><span class="article-badge article-das">das</span> Land <span class="badge badge-noun">noun</span> <SpeakButton text="das Land" /></div>
-  <div class="translation">the country</div>
-  <div class="ipa">/das lant/</div>
-  <div class="example">Deutschland ist ein schönes Land. <SpeakButton text="Deutschland ist ein schönes Land." /></div>
-  <div class="example-en">Germany is a beautiful country.</div>
+  <div class="word"><span class="article-badge article-das">das</span> Buch <span class="badge badge-noun">noun</span> <SpeakButton text="das Buch" /></div>
+  <div class="translation">the book</div>
+  <div class="ipa">/buːx/</div>
+  <div class="example">Das Buch ist gut. <SpeakButton text="Das Buch ist gut." /></div>
+  <div class="example-en">The book is good.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word"><span class="article-badge article-der">ein</span> / <span class="article-badge article-die">eine</span> <span class="badge badge-phrase">article</span> <SpeakButton text="ein, eine" /></div>
-  <div class="translation">a / an (indefinite)</div>
-  <div class="ipa">/aɪn/ /ˈaɪnə/</div>
-  <div class="example">Ich bin ein Student. <SpeakButton text="Ich bin ein Student." /></div>
-  <div class="example-en">I am a student.</div>
+  <div class="word">ein <span class="badge badge-article">article</span> <SpeakButton text="ein" /></div>
+  <div class="translation">a / an (masculine & neuter)</div>
+  <div class="ipa">/aɪn/</div>
+  <div class="example">Das ist ein Tisch. <SpeakButton text="Das ist ein Tisch." /></div>
+  <div class="example-en">That is a table.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word"><span class="article-badge article-die">die</span> Person <span class="badge badge-noun">noun</span> <SpeakButton text="die Person" /></div>
-  <div class="translation">the person</div>
-  <div class="ipa">/diː pɛʁˈzoːn/</div>
-  <div class="example">Diese Person spricht sehr gut Deutsch. <SpeakButton text="Diese Person spricht sehr gut Deutsch." /></div>
-  <div class="example-en">This person speaks German very well.</div>
+  <div class="word">eine <span class="badge badge-article">article</span> <SpeakButton text="eine" /></div>
+  <div class="translation">a / an (feminine)</div>
+  <div class="ipa">/ˈaɪnə/</div>
+  <div class="example">Das ist eine Tasche. <SpeakButton text="Das ist eine Tasche." /></div>
+  <div class="example-en">That is a bag.</div>
 </div>
 
 </div>
@@ -94,26 +92,19 @@ Today's words showcase all three genders. **Always learn the article with the no
 
 <div class="grammar-box">
 
-### German Articles — The Big Three
+### German Noun Genders & Indefinite Articles
 
-German has 3 genders. Every noun has one. **Always learn: article + noun!**
+### The 3 Genders in German
+• **der** <SpeakButton text="der" />(Masculine): der Mann, der Tisch
+• **die** <SpeakButton text="die" />(Feminine): die Frau, die Tasche
+• **das** <SpeakButton text="das" />(Neuter): das Kind, das Buch
 
-| Gender | Definite (the) | Indefinite (a/an) | Example |
-|:---:|:---:|:---:|:---|
-| **Masculine** | **der** | **ein** | der Mann, ein Mann |
-| **Feminine** | **die** | **eine** | die Frau, eine Frau |
-| **Neuter** | **das** | **ein** | das Kind, ein Kind |
+### Indefinite Articles (a / an)
+• **Masculine <SpeakButton text="Masculine" />(der)** → **ein** (ein Mann, ein Tisch)
+• **Feminine <SpeakButton text="Feminine" />(die)** → **eine** (eine Frau, eine Tasche)
+• **Neuter <SpeakButton text="Neuter" />(das)** → **ein** (ein Kind, ein Buch)
 
-### Helpful Gender Hints
-
-| Hint | Rule | Examples |
-|:---|:---|:---|
-| **-ung endings** | always **die** | die Wohnung, die Zeitung |
-| **-er endings (people)** | usually **der** | der Lehrer, der Bäcker |
-| **-chen / -lein endings** | always **das** | das Mädchen, das Häuschen |
-| **Languages, metals** | usually **das** | das Deutsch, das Gold |
-
-> <Icon name="target" /> **Golden rule:** When you see a new noun, **always** learn it with its article. Don't separate them! Say "der Mann" not just "Mann."
+> <Icon name="target" /> **Rule:** ALWAYS learn nouns together with their article (der/die/das)!
 
 </div>
 
@@ -121,35 +112,21 @@ German has 3 genders. Every noun has one. **Always learn: article + noun!**
 
 ## Step 3 — Practice (9 min)
 
-### 3A — Add the correct article (der / die / das)
+### 3A — Complete the sentences
 
-**1.** ___ Mann → <details><summary>Answer</summary>**der** Mann</details>
-**2.** ___ Kind → <details><summary>Answer</summary>**das** Kind</details>
-**3.** ___ Stadt → <details><summary>Answer</summary>**die** Stadt</details>
-**4.** ___ Land → <details><summary>Answer</summary>**das** Land</details>
-**5.** Ich bin ___ Student. (a/an) → <details><summary>Answer</summary>**ein** Student</details>
+**1.** Das ist ___ (a) Mann. → <details><summary>Answer</summary>**ein** <SpeakButton text="Das ist ein Mann." /></details>
+**2.** Das ist ___ (a) Frau. → <details><summary>Answer</summary>**eine** <SpeakButton text="Das ist eine Frau." /></details>
+**3.** Das ist ___ (a) Buch. → <details><summary>Answer</summary>**ein** <SpeakButton text="Das ist ein Buch." /></details>
+**4.** ___ (The) Tisch ist neu. → <details><summary>Answer</summary>**Der** <SpeakButton text="Der Tisch ist neu." /></details>
+**5.** ___ (The) Tasche ist schön. → <details><summary>Answer</summary>**Die** <SpeakButton text="Die Tasche ist schön." /></details>
 
 ### 3B — Flash Cards
 
-<FlipDeck :cards="[
-  { german: 'der Mann', article: 'der → masculine', english: 'the man', ipa: '/dɛɐ man/', example: 'Der Mann heißt Klaus.' },
-  { german: 'die Frau', article: 'die → feminine', english: 'the woman / Mrs', ipa: '/diː fʁaʊ/', example: 'Die Frau kommt aus Österreich.' },
-  { german: 'das Kind', article: 'das → neuter', english: 'the child', ipa: '/das kɪnt/', example: 'Das Kind ist fünf Jahre alt.' },
-  { german: 'der Herr', article: 'der → masculine', english: 'the gentleman / Mr', ipa: '/dɛɐ hɛɐ/', example: 'Guten Tag, Herr Müller!' },
-  { german: 'die Stadt', article: 'die → feminine', english: 'the city', ipa: '/diː ʃtat/', example: 'Berlin ist eine große Stadt.' },
-  { german: 'das Land', article: 'das → neuter', english: 'the country', ipa: '/das lant/', example: 'Deutschland ist schön.' },
-  { german: 'ein / eine / ein', english: 'a / an (indefinite)', ipa: '/aɪn/ /ˈaɪnə/', example: 'Ich bin ein Student.' },
-  { german: 'die Person', article: 'die → feminine', english: 'the person', ipa: '/pɛʁˈzoːn/', example: 'Diese Person spricht gut Deutsch.' }
-]" />
+<FlipDeck :cards="[{&quot;german&quot;: &quot;der Mann&quot;, &quot;article&quot;: &quot;der&quot;, &quot;english&quot;: &quot;the man&quot;, &quot;ipa&quot;: &quot;/man/&quot;, &quot;example&quot;: &quot;Der Mann ist freundlich.&quot;}, {&quot;german&quot;: &quot;die Frau&quot;, &quot;article&quot;: &quot;die&quot;, &quot;english&quot;: &quot;the woman&quot;, &quot;ipa&quot;: &quot;/fʁaʊ/&quot;, &quot;example&quot;: &quot;Die Frau arbeitet hier.&quot;}, {&quot;german&quot;: &quot;das Kind&quot;, &quot;article&quot;: &quot;das&quot;, &quot;english&quot;: &quot;the child&quot;, &quot;ipa&quot;: &quot;/kɪnt/&quot;, &quot;example&quot;: &quot;Das Kind spielt.&quot;}, {&quot;german&quot;: &quot;der Tisch&quot;, &quot;article&quot;: &quot;der&quot;, &quot;english&quot;: &quot;the table&quot;, &quot;ipa&quot;: &quot;/tɪʃ/&quot;, &quot;example&quot;: &quot;Der Tisch ist neu.&quot;}, {&quot;german&quot;: &quot;die Tasche&quot;, &quot;article&quot;: &quot;die&quot;, &quot;english&quot;: &quot;the bag&quot;, &quot;ipa&quot;: &quot;/ˈtaʃə/&quot;, &quot;example&quot;: &quot;Die Tasche ist groß.&quot;}, {&quot;german&quot;: &quot;das Buch&quot;, &quot;article&quot;: &quot;das&quot;, &quot;english&quot;: &quot;the book&quot;, &quot;ipa&quot;: &quot;/buːx/&quot;, &quot;example&quot;: &quot;Das Buch ist gut.&quot;}, {&quot;german&quot;: &quot;ein&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;a / an (masculine & neuter)&quot;, &quot;ipa&quot;: &quot;/aɪn/&quot;, &quot;example&quot;: &quot;Das ist ein Tisch.&quot;}, {&quot;german&quot;: &quot;eine&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;a / an (feminine)&quot;, &quot;ipa&quot;: &quot;/ˈaɪnə/&quot;, &quot;example&quot;: &quot;Das ist eine Tasche.&quot;}]" />
 
 ### 3C — Quiz
 
-<VocabQuiz :questions="[
-  { question: 'What article does Frau take?', answer: 'die', options: ['der', 'die', 'das', 'ein'] },
-  { question: 'What article does Kind take?', answer: 'das', options: ['der', 'die', 'das', 'eine'] },
-  { question: 'Ich bin ___ Student. (a student)', answer: 'ein', options: ['der', 'die', 'ein', 'eine'] },
-  { question: 'Words ending in -ung are always...', answer: 'feminine (die)', options: ['masculine (der)', 'feminine (die)', 'neuter (das)', 'plural (die)'] }
-]" />
+<VocabQuiz :questions="[{&quot;question&quot;: &quot;What is the indefinite article for feminine nouns?&quot;, &quot;answer&quot;: &quot;eine&quot;, &quot;options&quot;: [&quot;ein&quot;, &quot;eine&quot;, &quot;einen&quot;, &quot;eines&quot;]}, {&quot;question&quot;: &quot;Which article goes with 'Kind'?&quot;, &quot;answer&quot;: &quot;das&quot;, &quot;options&quot;: [&quot;der&quot;, &quot;die&quot;, &quot;das&quot;, &quot;den&quot;]}, {&quot;question&quot;: &quot;What is 'a table' in German?&quot;, &quot;answer&quot;: &quot;ein Tisch&quot;, &quot;options&quot;: [&quot;ein Tisch&quot;, &quot;eine Tisch&quot;, &quot;das Tisch&quot;, &quot;der Tisch&quot;]}, {&quot;question&quot;: &quot;Which article is used for 'Tasche'?&quot;, &quot;answer&quot;: &quot;die&quot;, &quot;options&quot;: [&quot;der&quot;, &quot;die&quot;, &quot;das&quot;, &quot;den&quot;]}]" />
 
 ---
 
@@ -158,14 +135,14 @@ German has 3 genders. Every noun has one. **Always learn: article + noun!**
 <div class="mastery-checklist">
 <h3>Before you finish:</h3>
 <ul>
-  <li>I know der (masculine), die (feminine), das (neuter)</li>
-  <li>I know to say "der Mann" — never just "Mann"</li>
-  <li>I know ein/eine for the indefinite article</li>
-  <li>I know the -ung hint (always die)</li>
+  <li>I know the 3 German genders (der, die, das)</li>
+  <li>I can use indefinite articles ein and eine correctly</li>
+  <li>I know to memorize every noun with its gender</li>
+  <li>I can form simple sentences with nouns</li>
 </ul>
 </div>
 
-> <Icon name="arrow-right" /> **Tomorrow (Day 06):** Questions words (was, wer, wie, wo) and your first full dialogue!
+> <Icon name="arrow-right" /> **Tomorrow (Day 06):** Core Verbs: sein & haben deep dive!
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-04">← Day 04</a>

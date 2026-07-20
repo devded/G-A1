@@ -28,16 +28,16 @@
 
 ### Week 3 Master Summary
 
-1. **es gibt + Accusative:** *Es gibt einen Balkon (m) / eine Küche (f) / ein Bad (n).*
-2. **haben + Accusative:** Only masculine changes! *der Tisch → den/einen/keinen Tisch.*
-3. **Plural Patterns:** 
-   - No change (das Fenster → die Fenster)
-   - Add -e (der Tisch → die Tische)
-   - Add -er + Umlaut (das Buch → die Bücher)
-   - Add -(e)n (die Tür → die Türen)
-   - Add -s (das Sofa → die Sofas)
-4. **Adjectives after sein:** NO ENDINGS! *Das Zimmer ist groß / hell / gemütlich.*
-5. **Location Adverbs:** *links, rechts, geradeaus, oben, unten.*
+1. **es gibt + Accusative:** *Es gibt einen Balkon (m) / eine Küche (f) / ein Bad (n).* <SpeakButton text="es gibt + Accusative:" />
+2. **haben + Accusative:** Only masculine changes! *der Tisch → *den/einen/keinen Tisch.* <SpeakButton text="den/einen/keinen Tisch." />
+3. **Plural Patterns:** <SpeakButton text="Plural Patterns:" />
+- No change (das Fenster → *die Fenster)* <SpeakButton text="die Fenster)" />
+- Add -e (der Tisch → *die Tische)* <SpeakButton text="die Tische)" />
+- Add -er + Umlaut (das Buch → *die Bücher)* <SpeakButton text="die Bücher)" />
+- Add -(e)n (die Tür → *die Türen)* <SpeakButton text="die Türen)" />
+- Add -s (das Sofa → *die Sofas)* <SpeakButton text="die Sofas)" />
+4. **Adjectives after sein:** NO ENDINGS! *Das Zimmer ist groß / hell / gemütlich.* <SpeakButton text="Adjectives after sein:" />
+5. **Location Adverbs:** *links, rechts, geradeaus, oben, unten.* <SpeakButton text="Location Adverbs:" />
 
 </div>
 
@@ -55,7 +55,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Ich wohne in [einer Wohnung / einem Haus] in [City]. Meine Wohnung hat [Number] Zimmer. Es gibt ein Wohnzimmer, ein Schlafzimmer, eine Küche und ein Bad. Mein Lieblingszimmer ist das [Wohnzimmer]. Es ist [groß / hell / gemütlich]. Im Wohnzimmer gibt es ein Sofa, einen Tisch und ein Regal. Die Miete ist [Amount] Euro."*
+> *"Ich wohne in [einer Wohnung / einem Haus] in [City]. Meine Wohnung hat [Number] Zimmer. Es gibt ein Wohnzimmer, ein Schlafzimmer, eine Küche und ein Bad. Mein Lieblingszimmer ist das [Wohnzimmer]. Es ist [groß / hell / gemütlich]. Im Wohnzimmer gibt es ein Sofa, einen Tisch und ein Regal. Die Miete ist [Amount] Euro."* <SpeakButton text="Ich wohne in [einer Wohnung / einem Haus] in [City]. Meine Wohnung hat [Number] Zimmer. Es gibt ein Wohnzimmer, ein Schlafzimmer, eine Küche und ein Bad. Mein Lieblingszimmer ist das [Wohnzimmer]. Es ist [groß / hell / gemütlich]. Im Wohnzimmer gibt es ein Sofa, einen Tisch und ein Regal. Die Miete ist [Amount] Euro." />
 
 ---
 

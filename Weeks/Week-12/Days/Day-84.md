@@ -31,15 +31,15 @@
 You have completed **84 days** of 30-minute daily study, mastered **672 A1 vocabulary words**, and covered **all 24 core A1 grammar topics**!
 
 ### Your Complete A1 Grammar Toolkit
-1. **Pronouns & Verbs:** *sein, haben*, regular verbs, stem-changing irregular verbs (*lesen, fahren, sprechen*).
-2. **Articles & Nouns:** *der, die, das*, *ein/eine*, gender rules, 5 plural patterns.
-3. **Cases:** Nominative & Accusative (*der → den, ein → einen*), Dative location contractions (*im, am, beim, zum, zur*).
-4. **Modal Verbs:** *können, müssen, dürfen, sollen, wollen, mögen* & modal bracket word order.
-5. **Time & Syntax:** 24h & informal clock (*halb drei = 2:30*), V2 word order, separable verbs (*aufstehen*).
-6. **Past Tense:** Present Perfect / *Perfekt* (*haben/sein + Partizip II*).
-7. **Exam Skills:** Full competency in A1 Hören, Lesen, Schreiben & Sprechen!
+1. **Pronouns & Verbs:** *sein, haben*, regular verbs, stem-changing irregular verbs (*lesen, fahren, sprechen*). <SpeakButton text="Pronouns & Verbs:" />
+2. **Articles & Nouns:** *der, die, das*, *ein/eine*, gender rules, 5 plural patterns. <SpeakButton text="Articles & Nouns:" />
+3. **Cases:** Nominative & Accusative (*der → den, ein → *einen* <SpeakButton text="einen" />), Dative location contractions (*im, am, beim, zum, zur*).
+4. **Modal Verbs:** *können, müssen, dürfen, sollen, wollen, mögen* & modal bracket word order. <SpeakButton text="Modal Verbs:" />
+5. **Time & Syntax:** 24h & informal clock (*halb drei = 2:30*), V2 word order, separable verbs (*aufstehen*). <SpeakButton text="Time & Syntax:" />
+6. **Past Tense:** Present Perfect / *Perfekt* (*haben/sein + Partizip II*). <SpeakButton text="Past Tense:" />
+7. **Exam Skills:** Full competency in A1 Hören, Lesen, Schreiben & Sprechen! <SpeakButton text="Exam Skills:" />
 
-> <Icon name="play" /> **What's Next?** You are officially ready for the official Goethe-Institut, TELC, or ÖSD A1 Exam, or to advance straight into **German A2**!
+> <Icon name="play" /> **What's Next?** You are officially ready for the official Goethe-Institut, TELC, or ÖSD A1 Exam, or to advance straight into **German A2**! <SpeakButton text="play" />
 
 </div>
 
@@ -57,7 +57,7 @@ You have completed **84 days** of 30-minute daily study, mastered **672 A1 vocab
 
 Record your final, complete A1 German speech:
 
-> *"Hallo zusammen! Ich heiße [Name]. Ich habe 84 Tage Deutsch gelernt! Jeden Tag habe ich 30 Minuten gelernt und jetzt kenne ich über 600 deutsche Wörter. Ich kann über meine Familie, mein Haus, meine Arbeit, mein Lieblingsessen und meine Hobbies sprechen. Ich kann Uhrzeiten verstehen, im Supermarkt und im Restaurant bestellen und nach dem Weg fragen. Ich bin jetzt stolz und bereit für die A1-Prüfung! Vielen Dank und auf Wiedersehen!"*
+> *"Hallo zusammen! Ich heiße [Name]. Ich habe 84 Tage Deutsch gelernt! Jeden Tag habe ich 30 Minuten gelernt und jetzt kenne ich über 600 deutsche Wörter. Ich kann über meine Familie, mein Haus, meine Arbeit, mein Lieblingsessen und meine Hobbies sprechen. Ich kann Uhrzeiten verstehen, im Supermarkt und im Restaurant bestellen und nach dem Weg fragen. Ich bin jetzt stolz und bereit für die A1-Prüfung! Vielen Dank und auf Wiedersehen!"* <SpeakButton text="Hallo zusammen! Ich heiße [Name]. Ich habe 84 Tage Deutsch gelernt! Jeden Tag habe ich 30 Minuten gelernt und jetzt kenne ich über 600 deutsche Wörter. Ich kann über meine Familie, mein Haus, meine Arbeit, mein Lieblingsessen und meine Hobbies sprechen. Ich kann Uhrzeiten verstehen, im Supermarkt und im Restaurant bestellen und nach dem Weg fragen. Ich bin jetzt stolz und bereit für die A1-Prüfung! Vielen Dank und auf Wiedersehen!" />
 
 ---
 

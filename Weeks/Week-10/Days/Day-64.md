@@ -110,9 +110,9 @@ Weather expressions in German use the **impersonal pronoun 'es'** (it):
 • *Es schneit.* <SpeakButton text="Es schneit." />(It is snowing.)
 • *Die Sonne scheint.* <SpeakButton text="Die Sonne scheint." />(The sun is shining.)
 
-> <Icon name="message-square" /> **Asking about weather:**  
-> • *Wie ist das Wetter heute?* <SpeakButton text="Wie ist das Wetter heute?" />(What is the weather like today?)
-> • *Wie viel Grad sind es?* (How many degrees is it?) → *Es sind 22 Grad.* <SpeakButton text="Es sind 22 Grad." />
+> <Icon name="message-square" /> **Asking about weather:**   <SpeakButton text="message-square" />
+> • *Wie ist das Wetter heute?* (What is the weather like today?)   <SpeakButton text="Wie ist das Wetter heute?" />
+> • *Wie viel Grad sind es?* (How many degrees is it?) → *Es sind 22 Grad.* <SpeakButton text="Wie viel Grad sind es?" />
 
 </div>
 

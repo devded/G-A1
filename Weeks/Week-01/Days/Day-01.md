@@ -1,7 +1,7 @@
 # Day 01 — Alphabet, Sounds & First Greetings
 
 <div class="day-nav">
-  <a href="/Weeks/Week-01/">← Week 1 Overview</a>
+  <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>
   <span class="day-center"><Icon name="calendar" /> Week 1 · Day 1 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-01/Days/Day-02">Day 02 →</a>
 </div>
@@ -18,15 +18,10 @@
 
 ## Step 1 — Vocabulary (8 min)
 
-**Goal:** Learn these 8 words. Say each one aloud **3 times** before moving on. Click <Icon name="volume-2" /> to hear the pronunciation.
-
 <div class="vocab-grid">
 
 <div class="vocab-card">
-  <div class="word">
-    Hallo <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Hallo" />
-  </div>
+  <div class="word">Hallo <span class="badge badge-phrase">phrase</span> <SpeakButton text="Hallo" /></div>
   <div class="translation">Hello / Hi</div>
   <div class="ipa">/ˈhaloː/</div>
   <div class="example">Hallo! Wie heißt du? <SpeakButton text="Hallo! Wie heißt du?" /></div>
@@ -34,10 +29,7 @@
 </div>
 
 <div class="vocab-card">
-  <div class="word">
-    Guten Morgen <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Guten Morgen" />
-  </div>
+  <div class="word">Guten Morgen <span class="badge badge-phrase">phrase</span> <SpeakButton text="Guten Morgen" /></div>
   <div class="translation">Good morning</div>
   <div class="ipa">/ˈɡuːtən ˈmɔʁɡən/</div>
   <div class="example">Guten Morgen, Herr Schmidt! <SpeakButton text="Guten Morgen, Herr Schmidt!" /></div>
@@ -45,10 +37,7 @@
 </div>
 
 <div class="vocab-card">
-  <div class="word">
-    Guten Tag <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Guten Tag" />
-  </div>
+  <div class="word">Guten Tag <span class="badge badge-phrase">phrase</span> <SpeakButton text="Guten Tag" /></div>
   <div class="translation">Good day / Hello (formal)</div>
   <div class="ipa">/ˈɡuːtən taːk/</div>
   <div class="example">Guten Tag! Ich bin Anna. <SpeakButton text="Guten Tag! Ich bin Anna." /></div>
@@ -56,10 +45,7 @@
 </div>
 
 <div class="vocab-card">
-  <div class="word">
-    Guten Abend <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Guten Abend" />
-  </div>
+  <div class="word">Guten Abend <span class="badge badge-phrase">phrase</span> <SpeakButton text="Guten Abend" /></div>
   <div class="translation">Good evening</div>
   <div class="ipa">/ˈɡuːtən ˈaːbənt/</div>
   <div class="example">Guten Abend, wie geht es Ihnen? <SpeakButton text="Guten Abend, wie geht es Ihnen?" /></div>
@@ -67,10 +53,7 @@
 </div>
 
 <div class="vocab-card">
-  <div class="word">
-    Tschüss <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Tschüss" />
-  </div>
+  <div class="word">Tschüss <span class="badge badge-phrase">phrase</span> <SpeakButton text="Tschüss" /></div>
   <div class="translation">Bye / See you (informal)</div>
   <div class="ipa">/tʃʏs/</div>
   <div class="example">Tschüss, bis morgen! <SpeakButton text="Tschüss, bis morgen!" /></div>
@@ -78,10 +61,7 @@
 </div>
 
 <div class="vocab-card">
-  <div class="word">
-    Auf Wiedersehen <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Auf Wiedersehen" />
-  </div>
+  <div class="word">Auf Wiedersehen <span class="badge badge-phrase">phrase</span> <SpeakButton text="Auf Wiedersehen" /></div>
   <div class="translation">Goodbye (formal)</div>
   <div class="ipa">/aʊf ˈviːdɐzeːən/</div>
   <div class="example">Auf Wiedersehen, Frau Müller! <SpeakButton text="Auf Wiedersehen, Frau Müller!" /></div>
@@ -89,10 +69,7 @@
 </div>
 
 <div class="vocab-card">
-  <div class="word">
-    Bitte <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Bitte" />
-  </div>
+  <div class="word">Bitte <span class="badge badge-phrase">phrase</span> <SpeakButton text="Bitte" /></div>
   <div class="translation">Please / You're welcome</div>
   <div class="ipa">/ˈbɪtə/</div>
   <div class="example">Ein Kaffee, bitte. <SpeakButton text="Ein Kaffee, bitte." /></div>
@@ -100,10 +77,7 @@
 </div>
 
 <div class="vocab-card">
-  <div class="word">
-    Danke <span class="badge badge-phrase">phrase</span>
-    <SpeakButton text="Danke" />
-  </div>
+  <div class="word">Danke <span class="badge badge-phrase">phrase</span> <SpeakButton text="Danke" /></div>
   <div class="translation">Thank you</div>
   <div class="ipa">/ˈdaŋkə/</div>
   <div class="example">Danke schön! <SpeakButton text="Danke schön!" /></div>
@@ -112,38 +86,29 @@
 
 </div>
 
-> <Icon name="lightbulb" /> **Memory trick:** Think of German greetings as time-based: **Morgen** (morning) → **Tag** (day) → **Abend** (evening). Then **Tschüss** for friends, **Auf Wiedersehen** for formal goodbyes.
-
 ---
 
 ## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
-### The German Alphabet & Key Sounds
+### The German Alphabet & Special Sounds
 
-German uses the same 26 letters as English, **plus 4 special characters**: **ä, ö, ü, ß**
+### Key Sounds & Special Characters
+German uses the same 26 letters as English, plus 4 special characters: **ä, ö, ü, ß**
 
-| Sound | German | Example | Sounds like |
-|:---:|:---:|:---|:---|
-| **ä** | like "e" in "bed" | Bäcker <SpeakButton text="Bäcker" /> | "becker" |
-| **ö** | like "u" in "burn" | schön <SpeakButton text="schön" /> | "shern" |
-| **ü** | like "u" + pucker lips | über <SpeakButton text="über" /> | "ue-ber" |
-| **ß** | like double "ss" | Straße <SpeakButton text="Straße" /> | "strasse" |
-| **ei** | like "eye" | nein <SpeakButton text="nein" /> | "nine" |
-| **ie** | like "ee" | hier <SpeakButton text="hier" /> | "here" |
-| **eu/äu** | like "oy" | neu <SpeakButton text="neu" /> | "noy" |
-| **ch** | throat sound | ich <SpeakButton text="ich" /> | "ikh" |
+• **ä** (like "e" in "bed"): Bäcker
+• **ö** (like "u" in "burn"): schön
+• **ü** (like "u" + pucker lips): über
+• **ß** (like double "ss"): Straße
+• **ei** (like "eye"): nein
+• **ie** (like "ee"): hier
+• **eu / äu** <SpeakButton text="eu / äu" />(like "oy"): neu
 
 ### Formal vs Informal Greetings
-
-| Situation | German | English |
-|:---|:---|:---|
-| Friends / younger people | Hallo! <SpeakButton text="Hallo" /> Tschüss! <SpeakButton text="Tschüss" /> | Hi! Bye! |
-| Adults / strangers / work | Guten Tag! <SpeakButton text="Guten Tag" /> Auf Wiedersehen! <SpeakButton text="Auf Wiedersehen" /> | Hello! Goodbye! |
-| Phone / formal | Guten Tag! <SpeakButton text="Guten Tag" /> Auf Wiederhören! <SpeakButton text="Auf Wiederhören" /> | Hello! / Goodbye! (phone) |
-
-> <Icon name="target" /> **Rule:** Use **du** (informal) with friends and children. Use **Sie** (formal, always capital S!) with adults you don't know well.
+• **Friends / family**: Hallo! Tschüss! <SpeakButton text="Friends / family: Hallo! Tschüss!" />
+• **Adults / strangers**: Guten Tag! Auf Wiedersehen! <SpeakButton text="Adults / strangers: Guten Tag! Auf Wiedersehen!" />
+• **On the phone**: Guten Tag! Auf Wiederhören! <SpeakButton text="On the phone: Guten Tag! Auf Wiederhören!" />
 
 </div>
 
@@ -151,93 +116,40 @@ German uses the same 26 letters as English, **plus 4 special characters**: **ä,
 
 ## Step 3 — Practice (9 min)
 
-### 3A — Fill in the Gap
+### 3A — Complete the sentences
 
-Read each situation and write the correct German greeting. Answers are revealed when you check below.
+**1.** ___! Wie heißt du? → <details><summary>Answer</summary>**Hallo** <SpeakButton text="Hallo! Wie heißt du?" /></details>
+**2.** Guten ___! Ich bin Anna. → <details><summary>Answer</summary>**Tag** <SpeakButton text="Guten Tag! Ich bin Anna." /></details>
+**3.** Guten ___! Wie geht es Ihnen? → <details><summary>Answer</summary>**Abend** <SpeakButton text="Guten Abend! Wie geht es Ihnen?" /></details>
+**4.** Ein Kaffee, ___. → <details><summary>Answer</summary>**bitte** <SpeakButton text="Ein Kaffee, bitte." /></details>
+**5.** ___, bis morgen! → <details><summary>Answer</summary>**Tschüss** <SpeakButton text="Tschüss, bis morgen!" /></details>
 
-**1.** You arrive at work at 8am and see your colleague. You say:
-> `___________`
-> <details><summary><Icon name="lightbulb" /> Answer</summary>**Guten Morgen!** <SpeakButton text="Guten Morgen!" /></details>
+### 3B — Flash Cards
 
-**2.** You meet a stranger at a shop at 2pm. You say:
-> `___________`
-> <details><summary><Icon name="lightbulb" /> Answer</summary>**Guten Tag!** <SpeakButton text="Guten Tag!" /></details>
+<FlipDeck :cards="[{&quot;german&quot;: &quot;Hallo&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Hello / Hi&quot;, &quot;ipa&quot;: &quot;/ˈhaloː/&quot;, &quot;example&quot;: &quot;Hallo! Wie heißt du?&quot;}, {&quot;german&quot;: &quot;Guten Morgen&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Good morning&quot;, &quot;ipa&quot;: &quot;/ˈɡuːtən ˈmɔʁɡən/&quot;, &quot;example&quot;: &quot;Guten Morgen, Herr Schmidt!&quot;}, {&quot;german&quot;: &quot;Guten Tag&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Good day / Hello (formal)&quot;, &quot;ipa&quot;: &quot;/ˈɡuːtən taːk/&quot;, &quot;example&quot;: &quot;Guten Tag! Ich bin Anna.&quot;}, {&quot;german&quot;: &quot;Guten Abend&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Good evening&quot;, &quot;ipa&quot;: &quot;/ˈɡuːtən ˈaːbənt/&quot;, &quot;example&quot;: &quot;Guten Abend, wie geht es Ihnen?&quot;}, {&quot;german&quot;: &quot;Tschüss&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Bye / See you (informal)&quot;, &quot;ipa&quot;: &quot;/tʃʏs/&quot;, &quot;example&quot;: &quot;Tschüss, bis morgen!&quot;}, {&quot;german&quot;: &quot;Auf Wiedersehen&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Goodbye (formal)&quot;, &quot;ipa&quot;: &quot;/aʊf ˈviːdɐzeːən/&quot;, &quot;example&quot;: &quot;Auf Wiedersehen, Frau Müller!&quot;}, {&quot;german&quot;: &quot;Bitte&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Please / You're welcome&quot;, &quot;ipa&quot;: &quot;/ˈbɪtə/&quot;, &quot;example&quot;: &quot;Ein Kaffee, bitte.&quot;}, {&quot;german&quot;: &quot;Danke&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;Thank you&quot;, &quot;ipa&quot;: &quot;/ˈdaŋkə/&quot;, &quot;example&quot;: &quot;Danke schön!&quot;}]" />
 
-**3.** You're saying goodbye to your best friend. You say:
-> `___________`
-> <details><summary><Icon name="lightbulb" /> Answer</summary>**Tschüss!** <SpeakButton text="Tschüss!" /></details>
+### 3C — Quiz
 
-**4.** A waiter brings your coffee. You respond:
-> `___________`
-> <details><summary><Icon name="lightbulb" /> Answer</summary>**Danke!** <SpeakButton text="Danke!" /> or **Danke schön!** <SpeakButton text="Danke schön!" /></details>
-
-**5.** You're leaving a formal meeting. You say:
-> `___________`
-> <details><summary><Icon name="lightbulb" /> Answer</summary>**Auf Wiedersehen!** <SpeakButton text="Auf Wiedersehen!" /></details>
-
----
-
-### 3B — Vocabulary Flash Cards
-
-<FlipDeck :cards="[
-  { german: 'Hallo', english: 'Hello / Hi', ipa: '/ˈhaloː/', example: 'Hallo! Wie heißt du?' },
-  { german: 'Guten Morgen', english: 'Good morning', ipa: '/ˈɡuːtən ˈmɔʁɡən/', example: 'Guten Morgen, wie geht es Ihnen?' },
-  { german: 'Guten Tag', english: 'Good day (formal hello)', ipa: '/ˈɡuːtən taːk/', example: 'Guten Tag! Ich bin Anna.' },
-  { german: 'Guten Abend', english: 'Good evening', ipa: '/ˈɡuːtən ˈaːbənt/', example: 'Guten Abend!' },
-  { german: 'Tschüss', english: 'Bye (informal)', ipa: '/tʃʏs/', example: 'Tschüss, bis morgen!' },
-  { german: 'Auf Wiedersehen', english: 'Goodbye (formal)', ipa: '/aʊf ˈviːdɐzeːən/', example: 'Auf Wiedersehen, Frau Müller!' },
-  { german: 'Bitte', english: 'Please / You\'re welcome', ipa: '/ˈbɪtə/', example: 'Ein Kaffee, bitte.' },
-  { german: 'Danke', english: 'Thank you', ipa: '/ˈdaŋkə/', example: 'Danke schön!' }
-]" />
-
----
-
-### 3C — Quick Quiz
-
-<VocabQuiz :questions="[
-  {
-    question: 'How do you say Good morning in German?',
-    answer: 'Guten Morgen',
-    options: ['Guten Tag', 'Guten Morgen', 'Guten Abend', 'Auf Wiedersehen']
-  },
-  {
-    question: 'Which phrase is INFORMAL goodbye?',
-    answer: 'Tschüss',
-    options: ['Auf Wiedersehen', 'Guten Tag', 'Tschüss', 'Bitte']
-  },
-  {
-    question: 'What does Bitte mean?',
-    answer: 'Please / You\'re welcome',
-    options: ['Thank you', 'Goodbye', 'Good evening', 'Please / You\'re welcome']
-  },
-  {
-    question: 'How do you say Thank you in German?',
-    answer: 'Danke',
-    options: ['Hallo', 'Danke', 'Bitte', 'Tschüss']
-  }
-]" />
+<VocabQuiz :questions="[{&quot;question&quot;: &quot;How do you say Good Morning in German?&quot;, &quot;answer&quot;: &quot;Guten Morgen&quot;, &quot;options&quot;: [&quot;Guten Morgen&quot;, &quot;Guten Tag&quot;, &quot;Guten Abend&quot;, &quot;Tschüss&quot;]}, {&quot;question&quot;: &quot;Which special character sounds like a double 'ss'?&quot;, &quot;answer&quot;: &quot;ß&quot;, &quot;options&quot;: [&quot;ä&quot;, &quot;ö&quot;, &quot;ü&quot;, &quot;ß&quot;]}, {&quot;question&quot;: &quot;How do you say goodbye formally on the phone?&quot;, &quot;answer&quot;: &quot;Auf Wiederhören&quot;, &quot;options&quot;: [&quot;Tschüss&quot;, &quot;Auf Wiedersehen&quot;, &quot;Auf Wiederhören&quot;, &quot;Guten Tag&quot;]}, {&quot;question&quot;: &quot;What does 'Danke' mean?&quot;, &quot;answer&quot;: &quot;Thank you&quot;, &quot;options&quot;: [&quot;Please&quot;, &quot;Thank you&quot;, &quot;Goodbye&quot;, &quot;Hello&quot;]}]" />
 
 ---
 
 ## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>Before you finish — can you do these?</h3>
+<h3>Before you finish:</h3>
 <ul>
-  <li>I can say all 8 words/phrases aloud from memory</li>
-  <li>I know when to use formal (Guten Tag, Auf Wiedersehen) vs informal (Hallo, Tschüss)</li>
-  <li>I know what ä, ö, ü and ß sound like</li>
-  <li>I scored at least 3/4 on the quiz above</li>
-  <li>I listened to all 8 words with the <Icon name="volume-2" /> button at least once</li>
+  <li>I know the 4 special German characters (ä, ö, ü, ß)</li>
+  <li>I can greet someone formally and informally</li>
+  <li>I know when to use Tschüss vs Auf Wiedersehen</li>
+  <li>I can say please and thank you in German</li>
 </ul>
 </div>
 
-> <Icon name="arrow-right" /> **Tomorrow (Day 02):** You'll learn 8 personal pronouns + how to introduce yourself with "Ich bin..." and "Ich heiße...". The groundwork you built today makes tomorrow's lesson easy!
-
----
+> <Icon name="arrow-right" /> **Tomorrow (Day 02):** Personal pronouns and introducing yourself!
 
 <div class="day-nav">
-  <a href="/Weeks/Week-01/">← Week 1 Overview</a>
+  <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>
   <span class="day-center">Day 1 of 84 · Week 1</span>
   <a href="/Weeks/Week-01/Days/Day-02">Day 02 →</a>
 </div>

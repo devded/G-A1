@@ -98,16 +98,16 @@
 
 | Subject | Masculine / Neuter | Feminine / Plural | Example |
 |:---:|:---:|:---:|:---|
-| **ich** (I) | mein | meine | mein Bruder <SpeakButton text="mein Bruder" /> |
-| **du** (you) | dein | deine | deine Schwester <SpeakButton text="deine Schwester" /> |
-| **er** (he) | **sein** | **seine** | sein Vater / seine Mutter <SpeakButton text="sein Vater / seine Mutter" /> |
-| **sie** (she) | **ihr** | **ihre** | ihr Sohn / ihre Tochter <SpeakButton text="ihr Sohn / ihre Tochter" /> |
-| **wir** (we) | **unser** | **unsere** | unser Haus / unsere Eltern <SpeakButton text="unser Haus / unsere Eltern" /> |
-| **Sie** (you, formal) | **Ihr** | **Ihre** | Ihr Mann / Ihre Frau <SpeakButton text="Ihr Mann / Ihre Frau" /> |
+| **ich** (I) <SpeakButton text="ich (I)" /> | mein <SpeakButton text="mein" /> | meine <SpeakButton text="meine" /> | mein Bruder <SpeakButton text="mein Bruder" /> |
+| **du** (you) <SpeakButton text="du (you)" /> | dein <SpeakButton text="dein" /> | deine <SpeakButton text="deine" /> | deine Schwester <SpeakButton text="deine Schwester" /> |
+| **er** (he) <SpeakButton text="er (he)" /> | **sein** <SpeakButton text="sein" /> | **seine** <SpeakButton text="seine" /> | sein Vater <SpeakButton text="sein Vater" /> / seine Mutter <SpeakButton text="seine Mutter" /> |
+| **sie** (she) <SpeakButton text="sie (she)" /> | **ihr** <SpeakButton text="ihr" /> | **ihre** <SpeakButton text="ihre" /> | ihr Sohn <SpeakButton text="ihr Sohn" /> / ihre Tochter <SpeakButton text="ihre Tochter" /> |
+| **wir** (we) <SpeakButton text="wir (we)" /> | **unser** <SpeakButton text="unser" /> | **unsere** <SpeakButton text="unsere" /> | unser Haus <SpeakButton text="unser Haus" /> / unsere Eltern <SpeakButton text="unsere Eltern" /> |
+| **Sie** (you, formal) <SpeakButton text="Sie (you, formal)" /> | **Ihr** <SpeakButton text="Ihr" /> | **Ihre** <SpeakButton text="Ihre" /> | Ihr Mann <SpeakButton text="Ihr Mann" /> / Ihre Frau <SpeakButton text="Ihre Frau" /> |
 
 > <Icon name="target" /> **Key Distinction:**  
-> • **sein** = his <SpeakButton text="sein = his" />(describing a man's family: Peter und *sein* Bruder)
-> • **ihr** = her <SpeakButton text="ihr = her" />(describing a woman's family: Anna und *ihre* Schwester)
+> • **sein** = his (describing a man's family: Peter und *sein* Bruder)   <SpeakButton text="sein" />
+> • **ihr** = her (describing a woman's family: Anna und *ihre* Schwester) <SpeakButton text="= her (describing a woman's family: Anna und" />
 
 </div>
 

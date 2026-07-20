@@ -99,13 +99,13 @@
 In German main clauses, the conjugated verb **MUST be the 2nd element**!  
 If you start the sentence with a **time word** (zuerst, dann, am Montag, um 8 Uhr), the **subject flips to Position 3**!
 
-| Position 1 (Element) | Position 2 (VERB) | Position 3 (Subject) | Rest of Sentence <SpeakButton text="Rest of Sentence" /> |
+| Position 1 (Element) <SpeakButton text="Position 1 (Element)" /> | Position 2 (VERB) <SpeakButton text="Position 2 (VERB)" /> | Position 3 (Subject) <SpeakButton text="Position 3 (Subject)" /> | Rest of Sentence <SpeakButton text="Rest of Sentence" /> |
 |:---:|:---:|:---:|:---|
-| **Ich** | **stehe** <SpeakButton text="Ich stehe" /> | — | um 7 Uhr auf. |
-| **Um 7 Uhr** | **stehe** | **ich** | auf. <SpeakButton text="auf." /> |
-| **Dann** | **frühstücke** | **ich** | in der Küche. <SpeakButton text="in der Küche." /> |
-| **Am Montag** | **fahre** | **ich** | nach Berlin. <SpeakButton text="nach Berlin." /> |
-| **Zuerst** | **mache** | **ich** | Hausaufgaben. <SpeakButton text="Hausaufgaben." /> |
+| **Ich** <SpeakButton text="Ich" /> | **stehe** <SpeakButton text="stehe" /> | — | um 7 Uhr auf. <SpeakButton text="um 7 Uhr auf." /> |
+| **Um 7 Uhr** <SpeakButton text="Um 7 Uhr" /> | **stehe** <SpeakButton text="stehe" /> | **ich** <SpeakButton text="ich" /> | auf. <SpeakButton text="auf." /> |
+| **Dann** <SpeakButton text="Dann" /> | **frühstücke** <SpeakButton text="frühstücke" /> | **ich** <SpeakButton text="ich" /> | in der Küche. <SpeakButton text="in der Küche." /> |
+| **Am Montag** <SpeakButton text="Am Montag" /> | **fahre** <SpeakButton text="fahre" /> | **ich** <SpeakButton text="ich" /> | nach Berlin. <SpeakButton text="nach Berlin." /> |
+| **Zuerst** <SpeakButton text="Zuerst" /> | **mache** <SpeakButton text="mache" /> | **ich** <SpeakButton text="ich" /> | Hausaufgaben. <SpeakButton text="Hausaufgaben." /> |
 
 > <Icon name="target" /> **Notice:** Starting with *dann* or *danach* forces the subject behind the verb: **Dann esse ich...** (NOT: *Dann ich esse...*)!
 

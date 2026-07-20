@@ -1,4 +1,4 @@
-# Day 07 — Week 1 Review & Speaking Practice
+# Day 07 — Week 1 Mastery Review
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-06">← Day 06</a>
@@ -14,31 +14,11 @@
   <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
-> <Icon name="award" /> Congratulations! You've completed Week 1! Today we review everything — 48 words + grammar — and do your first speaking exercise.
-
 ---
 
 ## Step 1 — Vocabulary Review (8 min)
 
-Review all of Week 1's key vocabulary with flash cards:
-
-<FlipDeck :cards="[
-  { german: 'Hallo', english: 'Hello / Hi', example: 'Hallo! Wie heißt du?' },
-  { german: 'Guten Morgen', english: 'Good morning', example: 'Guten Morgen, Herr Schmidt!' },
-  { german: 'Auf Wiedersehen', english: 'Goodbye (formal)', example: 'Auf Wiedersehen, Frau Müller!' },
-  { german: 'Danke / Bitte', english: 'Thank you / Please', example: 'Danke schön! Bitte!' },
-  { german: 'ich bin', english: 'I am', example: 'Ich bin Anna.' },
-  { german: 'du bist', english: 'you are (informal)', example: 'Du bist sehr nett!' },
-  { german: 'er/sie/es ist', english: 'he/she/it is', example: 'Er ist mein Freund.' },
-  { german: 'Ich heiße...', english: 'My name is...', example: 'Ich heiße Klaus.' },
-  { german: 'Ich komme aus...', english: 'I come from...', example: 'Ich komme aus Deutschland.' },
-  { german: 'Ich wohne in...', english: 'I live in...', example: 'Ich wohne in Berlin.' },
-  { german: 'Woher kommst du?', english: 'Where are you from?', example: 'Woher kommst du? — Aus England!' },
-  { german: 'Wie alt bist du?', english: 'How old are you?', example: 'Ich bin 25 Jahre alt.' },
-  { german: 'der / die / das', english: 'the (m/f/n)', example: 'der Mann, die Frau, das Kind' },
-  { german: 'ein / eine / ein', english: 'a/an (m/f/n)', example: 'ein Mann, eine Frau, ein Kind' },
-  { german: 'Sehr angenehm!', english: 'Pleased to meet you!', example: 'Hallo! Sehr angenehm!' }
-]" />
+<FlipDeck :cards="[{&quot;german&quot;: &quot;Hallo&quot;, &quot;english&quot;: &quot;Hello / Hi&quot;, &quot;ipa&quot;: &quot;/ˈhaloː/&quot;, &quot;example&quot;: &quot;Hallo! Wie heißt du?&quot;}, {&quot;german&quot;: &quot;Guten Morgen&quot;, &quot;english&quot;: &quot;Good morning&quot;, &quot;ipa&quot;: &quot;/ˈɡuːtən ˈmɔʁɡən/&quot;, &quot;example&quot;: &quot;Guten Morgen, Herr Schmidt!&quot;}, {&quot;german&quot;: &quot;Guten Tag&quot;, &quot;english&quot;: &quot;Good day / Hello&quot;, &quot;ipa&quot;: &quot;/ˈɡuːtən taːk/&quot;, &quot;example&quot;: &quot;Guten Tag! Ich bin Anna.&quot;}, {&quot;german&quot;: &quot;Guten Abend&quot;, &quot;english&quot;: &quot;Good evening&quot;, &quot;ipa&quot;: &quot;/ˈɡuːtən ˈaːbənt/&quot;, &quot;example&quot;: &quot;Guten Abend, wie geht es Ihnen?&quot;}, {&quot;german&quot;: &quot;Tschüss&quot;, &quot;english&quot;: &quot;Bye (informal)&quot;, &quot;ipa&quot;: &quot;/tʃʏs/&quot;, &quot;example&quot;: &quot;Tschüss, bis morgen!&quot;}, {&quot;german&quot;: &quot;Auf Wiedersehen&quot;, &quot;english&quot;: &quot;Goodbye (formal)&quot;, &quot;ipa&quot;: &quot;/aʊf ˈviːdɐzeːən/&quot;, &quot;example&quot;: &quot;Auf Wiedersehen, Frau Müller!&quot;}, {&quot;german&quot;: &quot;ich / du / er / sie&quot;, &quot;english&quot;: &quot;I / you / he / she&quot;, &quot;ipa&quot;: &quot;/ɪç/ /duː/&quot;, &quot;example&quot;: &quot;Ich bin Student.&quot;}, {&quot;german&quot;: &quot;sein (bin/bist/ist)&quot;, &quot;english&quot;: &quot;to be&quot;, &quot;ipa&quot;: &quot;/zaɪn/&quot;, &quot;example&quot;: &quot;Ich bin aus Deutschland.&quot;}, {&quot;german&quot;: &quot;haben (habe/hast/hat)&quot;, &quot;english&quot;: &quot;to have&quot;, &quot;ipa&quot;: &quot;/ˈhaːbən/&quot;, &quot;example&quot;: &quot;Ich habe eine Frage.&quot;}, {&quot;german&quot;: &quot;der / die / das&quot;, &quot;english&quot;: &quot;the (m/f/n)&quot;, &quot;ipa&quot;: &quot;/deːɐ/ /diː/ /das/&quot;, &quot;example&quot;: &quot;der Mann, die Frau, das Kind&quot;}]" />
 
 ---
 
@@ -46,29 +26,14 @@ Review all of Week 1's key vocabulary with flash cards:
 
 <div class="grammar-box">
 
-### Week 1 Grammar Summary
+### Week 1 Grammar Recap
 
-**1. Verb sein (to be)**
-
-| ich | du | er/sie/es | wir | ihr | Sie/sie |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| bin | bist | ist | sind | seid | sind |
-
-**2. Regular verb endings (-en verbs)**
-
-| ich | du | er/sie/es | wir | ihr | Sie/sie |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| -e | -st | -t | -en | -t | -en |
-
-**3. Articles**
-
-| | Definite (the) | Indefinite (a/an) |
-|:---|:---:|:---:|
-| Masculine | **der** | **ein** |
-| Feminine | **die** | **eine** |
-| Neuter | **das** | **ein** |
-
-**4. Question words:** Wie · Was · Wer · Wo · Woher · Wie alt · Wann
+• **Greetings**: Guten Morgen, Guten Tag, Guten Abend, Tschüss, Auf Wiedersehen <SpeakButton text="Greetings: Guten Morgen, Guten Tag, Guten Abend, Tschüss, Auf Wiedersehen" />
+• **Personal Pronouns**: ich, du, er/sie/es, wir, ihr, sie/Sie <SpeakButton text="Personal Pronouns: ich, du, er/sie/es, wir, ihr, sie/Sie" />
+• **Verbs**: sein <SpeakButton text="Verbs: sein" />(bin, bist, ist, sind, seid) & haben (habe, hast, hat, haben, habt)
+• **Numbers 1-20**: eins, zwei, drei ... zwanzig <SpeakButton text="Numbers 1-20: eins, zwei, drei ... zwanzig" />
+• **Nouns & Gender**: der Mann <SpeakButton text="Nouns & Gender: der Mann" />(m), die Frau (f), das Kind (n)
+• **Indefinite Articles**: ein Mann <SpeakButton text="Indefinite Articles: ein Mann" />(m), eine Frau (f), ein Kind (n)
 
 </div>
 
@@ -76,41 +41,16 @@ Review all of Week 1's key vocabulary with flash cards:
 
 ## Step 3 — Big Week 1 Quiz (12 min)
 
-<VocabQuiz :questions="[
-  { question: 'How do you say I am from Germany?', answer: 'Ich komme aus Deutschland.', options: ['Ich wohne in Deutschland.', 'Ich komme aus Deutschland.', 'Ich bin Deutschland.', 'Ich heiße Deutschland.'] },
-  { question: 'What is the feminine article for the?', answer: 'die', options: ['der', 'die', 'das', 'den'] },
-  { question: 'Complete: Wir ___ Freunde.', answer: 'sind', options: ['bin', 'bist', 'ist', 'sind'] },
-  { question: 'How do you ask What is your name? (informal)', answer: 'Wie heißt du?', options: ['Wie alt bist du?', 'Was bist du?', 'Wie heißt du?', 'Wer bist du?'] },
-  { question: 'What does Tschüss mean?', answer: 'Bye (informal)', options: ['Good morning', 'Please', 'Thank you', 'Bye (informal)'] },
-  { question: 'Ich bin dreißig ___ alt.', answer: 'Jahre', options: ['Monate', 'Jahre', 'Tage', 'Stunden'] },
-  { question: 'What article does Kind (child) take?', answer: 'das', options: ['der', 'die', 'das', 'ein'] },
-  { question: 'What does Sehr angenehm! mean?', answer: 'Pleased to meet you!', options: ['Very good!', 'Pleased to meet you!', 'See you soon!', 'Very old!'] }
-]" />
+<VocabQuiz :questions="[{&quot;question&quot;: &quot;How do you introduce yourself formally in German?&quot;, &quot;answer&quot;: &quot;Guten Tag, ich heiße...&quot;, &quot;options&quot;: [&quot;Hallo, ich bin...&quot;, &quot;Guten Tag, ich heiße...&quot;, &quot;Tschüss, ich bin...&quot;, &quot;Danke, ich bin...&quot;]}, {&quot;question&quot;: &quot;What is the correct conjugation: Wir ___ (sein) aus Deutschland.&quot;, &quot;answer&quot;: &quot;sind&quot;, &quot;options&quot;: [&quot;bin&quot;, &quot;bist&quot;, &quot;ist&quot;, &quot;sind&quot;]}, {&quot;question&quot;: &quot;What is the indefinite article for 'Frau'?&quot;, &quot;answer&quot;: &quot;eine&quot;, &quot;options&quot;: [&quot;ein&quot;, &quot;eine&quot;, &quot;einen&quot;, &quot;eines&quot;]}, {&quot;question&quot;: &quot;How do you ask someone's age?&quot;, &quot;answer&quot;: &quot;Wie alt bist du?&quot;, &quot;options&quot;: [&quot;Wie alt bist du?&quot;, &quot;Wie bist du?&quot;, &quot;Wie alt hast du?&quot;, &quot;Wie heißt du?&quot;]}]" />
 
 ---
 
 ## Step 4 — Speaking Exercise (3 min)
 
-**Record yourself (or say aloud) the following introduction:**
-
-> Speak naturally at a comfortable pace. It's ok to look at notes!
-
-```
-Hallo! Ich heiße [your name].
-Ich komme aus [your country].
-Ich wohne in [your city].
-Ich spreche [languages].
-Ich bin [your age] Jahre alt.
-Auf Wiedersehen!
-```
-
-<div class="practice-box">
-
-**Example (Tom from England):**
-
-*Hallo! Ich heiße Tom. Ich komme aus England. Ich wohne in Berlin. Ich spreche Englisch und Deutsch. Ich bin siebenundzwanzig Jahre alt. Auf Wiedersehen!*
-
-</div>
+> <Icon name="mic" /> **Speaking Challenge:** Introduce yourself in 3 complete German sentences:  
+> 1. *Hallo, ich heiße [Name].*   <SpeakButton text="Hallo, ich heiße [Name]." />
+> 2. *Ich komme aus [Country].*   <SpeakButton text="Ich komme aus [Country]." />
+> 3. *Ich bin [Age] Jahre alt.* <SpeakButton text="Ich bin [Age] Jahre alt." />
 
 ---
 
@@ -119,22 +59,17 @@ Auf Wiedersehen!
 <div class="mastery-checklist">
 <h3>Week 1 Complete — Can you do all of these?</h3>
 <ul>
-  <li>I can greet people formally and informally at any time of day</li>
-  <li>I can introduce myself: name, origin, city, language, age</li>
-  <li>I know all 6 forms of sein (bin, bist, ist, sind, seid, sind)</li>
-  <li>I know the 3 German articles: der, die, das</li>
-  <li>I know at least 6 W-question words</li>
-  <li>I can count 1–20 in German</li>
-  <li>I scored at least 6/8 on today's quiz</li>
+  <li>I can introduce myself fluently in German</li>
+  <li>I know all numbers 1-20 and days of the week</li>
+  <li>I understand der, die, das and ein, eine</li>
+  <li>I am confident to start Week 2!</li>
 </ul>
 </div>
-
-> <Icon name="play" /> **Next Week (Week 2):** Family vocabulary, possessive pronouns (mein, dein, sein), and describing people! You're building real conversational skills.
 
 ---
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-06">← Day 06</a>
-  <span class="day-center">Week 1 Complete! <Icon name="award" /> </span>
+  <span class="day-center"><Icon name="check-circle" /> Week 1 Complete!</span>
   <a href="/Weeks/Week-02/Days/Day-08">Start Week 2 →</a>
 </div>

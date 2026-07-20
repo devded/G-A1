@@ -1,4 +1,4 @@
-# Day 03 — Countries, Nationalities & Asking Questions
+# Day 03 — Numbers 1-20 & Stating Your Age
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-02">← Day 02</a>
@@ -21,67 +21,67 @@
 <div class="vocab-grid">
 
 <div class="vocab-card">
-  <div class="word">Deutschland <span class="badge badge-noun">noun</span> <SpeakButton text="Deutschland" /></div>
-  <div class="translation">Germany</div>
-  <div class="ipa">/ˈdɔʏtʃlant/</div>
-  <div class="example">Ich wohne in Deutschland. <SpeakButton text="Ich wohne in Deutschland." /></div>
-  <div class="example-en">I live in Germany.</div>
+  <div class="word">eins <span class="badge badge-number">number</span> <SpeakButton text="eins" /></div>
+  <div class="translation">one (1)</div>
+  <div class="ipa">/aɪns/</div>
+  <div class="example">Ich habe eins. <SpeakButton text="Ich habe eins." /></div>
+  <div class="example-en">I have one.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">die Schweiz <span class="badge badge-noun">noun</span> <SpeakButton text="die Schweiz" /></div>
-  <div class="translation">Switzerland</div>
-  <div class="ipa">/diː ʃvaɪts/</div>
-  <div class="example">Er kommt aus der Schweiz. <SpeakButton text="Er kommt aus der Schweiz." /></div>
-  <div class="example-en">He comes from Switzerland.</div>
+  <div class="word">zwei <span class="badge badge-number">number</span> <SpeakButton text="zwei" /></div>
+  <div class="translation">two (2)</div>
+  <div class="ipa">/tsvaɪ/</div>
+  <div class="example">Zwei Kaffee, bitte. <SpeakButton text="Zwei Kaffee, bitte." /></div>
+  <div class="example-en">Two coffees, please.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">Österreich <span class="badge badge-noun">noun</span> <SpeakButton text="Österreich" /></div>
-  <div class="translation">Austria</div>
-  <div class="ipa">/ˈøːstɐˌʁaɪç/</div>
-  <div class="example">Wien ist in Österreich. <SpeakButton text="Wien ist in Österreich." /></div>
-  <div class="example-en">Vienna is in Austria.</div>
+  <div class="word">drei <span class="badge badge-number">number</span> <SpeakButton text="drei" /></div>
+  <div class="translation">three (3)</div>
+  <div class="ipa">/dʁaɪ/</div>
+  <div class="example">Er hat drei Kinder. <SpeakButton text="Er hat drei Kinder." /></div>
+  <div class="example-en">He has three children.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">woher <span class="badge badge-phrase">question</span> <SpeakButton text="woher" /></div>
-  <div class="translation">from where</div>
-  <div class="ipa">/voˈheːɐ/</div>
-  <div class="example">Woher kommst du? <SpeakButton text="Woher kommst du?" /></div>
-  <div class="example-en">Where do you come from?</div>
+  <div class="word">zehn <span class="badge badge-number">number</span> <SpeakButton text="zehn" /></div>
+  <div class="translation">ten (10)</div>
+  <div class="ipa">/tseːn/</div>
+  <div class="example">Es ist zehn Uhr. <SpeakButton text="Es ist zehn Uhr." /></div>
+  <div class="example-en">It is ten o'clock.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">wo <span class="badge badge-phrase">question</span> <SpeakButton text="wo" /></div>
-  <div class="translation">where</div>
-  <div class="ipa">/voː/</div>
-  <div class="example">Wo wohnst du? <SpeakButton text="Wo wohnst du?" /></div>
-  <div class="example-en">Where do you live?</div>
+  <div class="word">zwölf <span class="badge badge-number">number</span> <SpeakButton text="zwölf" /></div>
+  <div class="translation">twelve (12)</div>
+  <div class="ipa">/tsvœlf/</div>
+  <div class="example">Zwölf Monate. <SpeakButton text="Zwölf Monate." /></div>
+  <div class="example-en">Twelve months.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">wohnen <span class="badge badge-verb">verb</span> <SpeakButton text="wohnen" /></div>
-  <div class="translation">to live / reside</div>
-  <div class="ipa">/ˈvoːnən/</div>
-  <div class="example">Ich wohne in Berlin. <SpeakButton text="Ich wohne in Berlin." /></div>
-  <div class="example-en">I live in Berlin.</div>
+  <div class="word">zwanzig <span class="badge badge-number">number</span> <SpeakButton text="zwanzig" /></div>
+  <div class="translation">twenty (20)</div>
+  <div class="ipa">/ˈtsvantsɪç/</div>
+  <div class="example">Ich bin zwanzig Jahre alt. <SpeakButton text="Ich bin zwanzig Jahre alt." /></div>
+  <div class="example-en">I am twenty years old.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">die Sprache <span class="badge badge-noun">noun</span> <SpeakButton text="die Sprache" /></div>
-  <div class="translation">the language</div>
-  <div class="ipa">/diː ˈʃpraːxə/</div>
-  <div class="example">Welche Sprache sprichst du? <SpeakButton text="Welche Sprache sprichst du?" /></div>
-  <div class="example-en">Which language do you speak?</div>
+  <div class="word"><span class="article-badge article-das">das</span> Jahr <span class="badge badge-noun">noun</span> <SpeakButton text="das Jahr" /></div>
+  <div class="translation">the year</div>
+  <div class="ipa">/jaːʁ/</div>
+  <div class="example">Ein gutes Jahr. <SpeakButton text="Ein gutes Jahr." /></div>
+  <div class="example-en">A good year.</div>
 </div>
 
 <div class="vocab-card">
-  <div class="word">sprechen <span class="badge badge-verb">verb</span> <SpeakButton text="sprechen" /></div>
-  <div class="translation">to speak</div>
-  <div class="ipa">/ˈʃpʁɛçən/</div>
-  <div class="example">Ich spreche Deutsch und Englisch. <SpeakButton text="Ich spreche Deutsch und Englisch." /></div>
-  <div class="example-en">I speak German and English.</div>
+  <div class="word">alt <span class="badge badge-adjective">adjective</span> <SpeakButton text="alt" /></div>
+  <div class="translation">old</div>
+  <div class="ipa">/alt/</div>
+  <div class="example">Wie alt bist du? <SpeakButton text="Wie alt bist du?" /></div>
+  <div class="example-en">How old are you?</div>
 </div>
 
 </div>
@@ -92,28 +92,19 @@
 
 <div class="grammar-box">
 
-### Regular Verb Conjugation: **wohnen** (to live)
+### Numbers 1-20 & Stating Age
 
-| Pronoun | Conjugation | Pronunciation |
-|:---:|:---:|:---:|
-| ich | wohn**e** | /ˈvoːnə/ |
-| du | wohn**st** | /ˈvoːnst/ |
-| er/sie/es | wohn**t** | /voːnt/ |
-| wir | wohn**en** | /ˈvoːnən/ |
-| ihr | wohn**t** | /voːnt/ |
-| Sie/sie | wohn**en** | /ˈvoːnən/ |
+### German Numbers 1 to 20
+• **1-4**: eins, zwei, drei, vier <SpeakButton text="1-4: eins, zwei, drei, vier" />
+• **5-8**: fünf, sechs, sieben, acht <SpeakButton text="5-8: fünf, sechs, sieben, acht" />
+• **9-12**: neun, zehn, elf, zwölf <SpeakButton text="9-12: neun, zehn, elf, zwölf" />
+• **13-19**: dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn <SpeakButton text="13-19: dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn" />
+• **20**: zwanzig <SpeakButton text="20: zwanzig" />
 
-> <Icon name="target" /> **Pattern:** For most regular verbs, take the stem (remove -en) and add: **-e, -st, -t, -en, -t, -en**
-
-### Asking "Where from?" and "Where?"
-
-| Question | Answer pattern |
-|:---|:---|
-| **Woher kommst du?** (Where are you from?) | Ich komme **aus** + country |
-| **Wo wohnst du?** (Where do you live?) | Ich wohne **in** + city/country |
-| **Welche Sprache sprichst du?** (What language?) | Ich spreche + language |
-
-> <Icon name="lightbulb" /> **Note:** Most countries need no article: *Ich komme aus Deutschland/England/Frankreich.* But Switzerland needs one: *Ich komme aus **der** Schweiz.*
+> <Icon name="target" /> **Stating Age Formula:**  
+> Use **sein** + [Number] + **Jahre alt**:   <SpeakButton text="sein" />
+> • Ich bin 25 Jahre alt. <SpeakButton text="Ich bin 25 Jahre alt." />
+> • Wie alt bist du? / Wie alt sind Sie? <SpeakButton text="Wie alt bist du? / Wie alt sind Sie?" />
 
 </div>
 
@@ -123,33 +114,19 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ in München. (wohnen) → <details><summary>Answer</summary>**wohne**</details>
-**2.** Du ___ aus England. (kommen) → <details><summary>Answer</summary>**kommst**</details>
-**3.** Woher ___ Sie? (kommen, formal) → <details><summary>Answer</summary>**kommen**</details>
-**4.** Er ___ Französisch. (sprechen) → <details><summary>Answer</summary>**spricht**</details>
-**5.** Wir ___ in Deutschland. (wohnen) → <details><summary>Answer</summary>**wohnen**</details>
+**1.** Ich bin ___ (20) Jahre alt. → <details><summary>Answer</summary>**zwanzig** <SpeakButton text="Ich bin zwanzig Jahre alt." /></details>
+**2.** Wie alt ___ (bist/sind) du? → <details><summary>Answer</summary>**bist** <SpeakButton text="Wie alt bist du?" /></details>
+**3.** Zwei + drei = ___ (5). → <details><summary>Answer</summary>**fünf** <SpeakButton text="Zwei + drei = fünf." /></details>
+**4.** Zehn + zehn = ___ (20). → <details><summary>Answer</summary>**zwanzig** <SpeakButton text="Zehn + zehn = zwanzig." /></details>
+**5.** Er ist 18 ___ (years) alt. → <details><summary>Answer</summary>**Jahre** <SpeakButton text="Er ist 18 Jahre alt." /></details>
 
 ### 3B — Flash Cards
 
-<FlipDeck :cards="[
-  { german: 'Deutschland', english: 'Germany', ipa: '/ˈdɔʏtʃlant/', example: 'Ich wohne in Deutschland.' },
-  { german: 'die Schweiz', english: 'Switzerland', ipa: '/ˈʃvaɪts/', example: 'Er kommt aus der Schweiz.' },
-  { german: 'Österreich', english: 'Austria', ipa: '/ˈøːstɐˌʁaɪç/', example: 'Wien ist in Österreich.' },
-  { german: 'woher', english: 'from where', ipa: '/voˈheːɐ/', example: 'Woher kommst du?' },
-  { german: 'wo', english: 'where', ipa: '/voː/', example: 'Wo wohnst du?' },
-  { german: 'wohnen', english: 'to live / reside', ipa: '/ˈvoːnən/', example: 'Ich wohne in Berlin.' },
-  { german: 'die Sprache', english: 'the language', ipa: '/ˈʃpraːxə/', example: 'Welche Sprache sprichst du?' },
-  { german: 'sprechen', english: 'to speak', ipa: '/ˈʃpʁɛçən/', example: 'Ich spreche Deutsch.' }
-]" />
+<FlipDeck :cards="[{&quot;german&quot;: &quot;eins&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;one (1)&quot;, &quot;ipa&quot;: &quot;/aɪns/&quot;, &quot;example&quot;: &quot;Ich habe eins.&quot;}, {&quot;german&quot;: &quot;zwei&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;two (2)&quot;, &quot;ipa&quot;: &quot;/tsvaɪ/&quot;, &quot;example&quot;: &quot;Zwei Kaffee, bitte.&quot;}, {&quot;german&quot;: &quot;drei&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;three (3)&quot;, &quot;ipa&quot;: &quot;/dʁaɪ/&quot;, &quot;example&quot;: &quot;Er hat drei Kinder.&quot;}, {&quot;german&quot;: &quot;zehn&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;ten (10)&quot;, &quot;ipa&quot;: &quot;/tseːn/&quot;, &quot;example&quot;: &quot;Es ist zehn Uhr.&quot;}, {&quot;german&quot;: &quot;zwölf&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;twelve (12)&quot;, &quot;ipa&quot;: &quot;/tsvœlf/&quot;, &quot;example&quot;: &quot;Zwölf Monate.&quot;}, {&quot;german&quot;: &quot;zwanzig&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;twenty (20)&quot;, &quot;ipa&quot;: &quot;/ˈtsvantsɪç/&quot;, &quot;example&quot;: &quot;Ich bin zwanzig Jahre alt.&quot;}, {&quot;german&quot;: &quot;das Jahr&quot;, &quot;article&quot;: &quot;das&quot;, &quot;english&quot;: &quot;the year&quot;, &quot;ipa&quot;: &quot;/jaːʁ/&quot;, &quot;example&quot;: &quot;Ein gutes Jahr.&quot;}, {&quot;german&quot;: &quot;alt&quot;, &quot;article&quot;: &quot;&quot;, &quot;english&quot;: &quot;old&quot;, &quot;ipa&quot;: &quot;/alt/&quot;, &quot;example&quot;: &quot;Wie alt bist du?&quot;}]" />
 
 ### 3C — Quiz
 
-<VocabQuiz :questions="[
-  { question: 'How do you ask Where do you come from? (informal)', answer: 'Woher kommst du?', options: ['Wo wohnst du?', 'Woher kommst du?', 'Wie heißt du?', 'Was sprichst du?'] },
-  { question: 'Ich wohne ___ Berlin.', answer: 'in', options: ['aus', 'in', 'von', 'zu'] },
-  { question: 'Ich komme ___ Deutschland.', answer: 'aus', options: ['in', 'nach', 'aus', 'von'] },
-  { question: 'What is die Sprache?', answer: 'the language', options: ['the country', 'the city', 'the language', 'the name'] }
-]" />
+<VocabQuiz :questions="[{&quot;question&quot;: &quot;How do you say 'How old are you?' in German?&quot;, &quot;answer&quot;: &quot;Wie alt bist du?&quot;, &quot;options&quot;: [&quot;Wie bist du?&quot;, &quot;Wie alt bist du?&quot;, &quot;Wie alt hast du?&quot;, &quot;Wie heißt du?&quot;]}, {&quot;question&quot;: &quot;What is the German word for 12?&quot;, &quot;answer&quot;: &quot;zwölf&quot;, &quot;options&quot;: [&quot;zehn&quot;, &quot;elf&quot;, &quot;zwölf&quot;, &quot;zwanzig&quot;]}, {&quot;question&quot;: &quot;What is 7 + 8 in German?&quot;, &quot;answer&quot;: &quot;fünfzehn&quot;, &quot;options&quot;: [&quot;vierzehn&quot;, &quot;fünfzehn&quot;, &quot;sechzehn&quot;, &quot;siebzehn&quot;]}, {&quot;question&quot;: &quot;Complete: Er ist 30 Jahre ___.&quot;, &quot;answer&quot;: &quot;alt&quot;, &quot;options&quot;: [&quot;jung&quot;, &quot;alt&quot;, &quot;Jahre&quot;, &quot;sein&quot;]}]" />
 
 ---
 
@@ -158,14 +135,14 @@
 <div class="mastery-checklist">
 <h3>Before you finish:</h3>
 <ul>
-  <li>I can conjugate wohnen for ich, du, er, wir</li>
-  <li>I know "Woher kommst du?" = Where are you from?</li>
-  <li>I can say where I live and what language I speak</li>
-  <li>I scored at least 3/4 on the quiz</li>
+  <li>I can count from 1 to 20 in German</li>
+  <li>I can ask someone their age in German</li>
+  <li>I can state my age in German using sein</li>
+  <li>I know the spelling of numbers 1-20</li>
 </ul>
 </div>
 
-> <Icon name="arrow-right" /> **Tomorrow (Day 04):** Numbers 1–10, German alphabet spelling, and giving your phone number — very practical for real life!
+> <Icon name="arrow-right" /> **Tomorrow (Day 04):** Days of the week, colors, and basic sentences!
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-02">← Day 02</a>

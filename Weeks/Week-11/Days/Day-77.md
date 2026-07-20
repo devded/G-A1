@@ -28,16 +28,16 @@
 
 ### Week 11 Master Summary
 
-1. **Expressing Pain:**  
-   - *Mein Kopf tut weh.* (Singular body part) / *Meine Beine tun weh.* (Plural)  
-   - *Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen.*
-2. **Reflexive sich fühlen:** *ich fühle mich, du fühlst dich, er fühlt sich*.
-3. **Doctor & Duration:** *Was fehlt Ihnen?* Answering duration: *seit gestern / seit drei Tagen*.
-4. **Imperative Dosage:** *Nehmen Sie zwei Tabletten täglich vor/nach dem Essen.*
-5. **Emergencies:** Polizei = **110**, Feuerwehr/Krankenwagen = **112**. *Hilfe! Rufen Sie einen Arzt!*
-6. **Perfekt Tense:** Subject + **haben/sein** (Pos 2) + ... + **Partizip II** (VERY END!).  
-   - Most verbs: *haben* (*Ich habe gemacht / gegessen / geschlafen*).  
-   - Movement verbs: *sein* (*Ich bin gefahren / gegangen / gekommen*).
+1. **Expressing Pain:** <SpeakButton text="Expressing Pain:" />
+- *Mein Kopf tut weh.* <SpeakButton text="Mein Kopf tut weh." />(Singular body part) / *Meine Beine tun weh.* (Plural)
+- *Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen.* <SpeakButton text="Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen." />
+2. **Reflexive sich fühlen:** *ich fühle mich, du fühlst dich, er fühlt sich*. <SpeakButton text="Reflexive sich fühlen:" />
+3. **Doctor & Duration:** *Was fehlt Ihnen?* Answering duration: *seit gestern / seit drei Tagen*. <SpeakButton text="Doctor & Duration:" />
+4. **Imperative Dosage:** *Nehmen Sie zwei Tabletten täglich vor/nach dem Essen.* <SpeakButton text="Imperative Dosage:" />
+5. **Emergencies:** Polizei = **110**, Feuerwehr/Krankenwagen = **112**. *Hilfe! Rufen Sie einen Arzt!* <SpeakButton text="Emergencies:" />
+6. **Perfekt Tense:** Subject + **haben/sein** (Pos 2) + ... + **Partizip II** (VERY END!). <SpeakButton text="Perfekt Tense:" />
+- Most verbs: *haben* <SpeakButton text="Most verbs: haben" />(*Ich habe gemacht / gegessen / geschlafen*).
+- Movement verbs: *sein* <SpeakButton text="Movement verbs: sein" />(*Ich bin gefahren / gegangen / gekommen*).
 
 </div>
 
@@ -55,7 +55,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Guten Tag! Ich habe mich gestern gar nicht gut gefühlt. Ich habe Kopfschmerzen und Fieber gehabt. Deshalb bin ich nicht zur Arbeit gegangen! Ich habe zu Hause geblieben und viel Tee getrunken. Ich habe auch beim Arzt angerufen und einen Termin gemacht. Die Ärztin hat mich untersucht und mir ein Rezept gegeben. Ich habe Medikamente in der Apotheke gekauft. Heute habe ich gut geschlafen und ich fühle mich schon besser!"*
+> *"Guten Tag! Ich habe mich gestern gar nicht gut gefühlt. Ich habe Kopfschmerzen und Fieber gehabt. Deshalb bin ich nicht zur Arbeit gegangen! Ich habe zu Hause geblieben und viel Tee getrunken. Ich habe auch beim Arzt angerufen und einen Termin gemacht. Die Ärztin hat mich untersucht und mir ein Rezept gegeben. Ich habe Medikamente in der Apotheke gekauft. Heute habe ich gut geschlafen und ich fühle mich schon besser!"* <SpeakButton text="Guten Tag! Ich habe mich gestern gar nicht gut gefühlt. Ich habe Kopfschmerzen und Fieber gehabt. Deshalb bin ich nicht zur Arbeit gegangen! Ich habe zu Hause geblieben und viel Tee getrunken. Ich habe auch beim Arzt angerufen und einen Termin gemacht. Die Ärztin hat mich untersucht und mir ein Rezept gegeben. Ich habe Medikamente in der Apotheke gekauft. Heute habe ich gut geschlafen und ich fühle mich schon besser!" />
 
 ---
 

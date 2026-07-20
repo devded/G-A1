@@ -105,16 +105,16 @@ In German, when saying what someone's job is after *sein* or *arbeiten als*, **D
 
 Most female job titles are formed by adding **-in** to the masculine form (and sometimes adding an umlaut):
 
-| Masculine | Feminine | Meaning |
+| Masculine | Feminine | Meaning <SpeakButton text="Meaning" /> |
 |:---:|:---:|:---:|
-| der Lehrer | die Lehrer**in** | teacher |
-| der Student | die Student**in** | university student |
-| der Arzt | die **Ä**rzt**in** | doctor |
-| der Kellner | die Kellner**in** | waiter / waitress |
+| der Lehrer <SpeakButton text="der Lehrer" /> | die Lehrer**in** <SpeakButton text="die Lehrerin" /> | teacher <SpeakButton text="teacher" /> |
+| der Student <SpeakButton text="der Student" /> | die Student**in** <SpeakButton text="die Studentin" /> | university student <SpeakButton text="university student" /> |
+| der Arzt <SpeakButton text="der Arzt" /> | die **Ä**rzt**in** <SpeakButton text="die Ärztin" /> | doctor <SpeakButton text="doctor" /> |
+| der Kellner <SpeakButton text="der Kellner" /> | die Kellner**in** <SpeakButton text="die Kellnerin" /> | waiter <SpeakButton text="waiter" /> / waitress <SpeakButton text="waitress" /> |
 
-> <Icon name="message-square" /> **Asking someone's job:**  
-> • Informal: *Was bist du von Beruf?* / *Was machst du?* <SpeakButton text="Informal: Was bist du von Beruf? / Was machst du?" />
-> • Formal: *Was sind Sie von Beruf?* / *Was arbeiten Sie?* <SpeakButton text="Formal: Was sind Sie von Beruf? / Was arbeiten Sie?" />
+> <Icon name="message-square" /> **Asking someone's job:**   <SpeakButton text="message-square" />
+> • Informal: *Was bist du von Beruf?* / *Was machst du?*   <SpeakButton text="Was bist du von Beruf?" />
+> • Formal: *Was sind Sie von Beruf?* / *Was arbeiten Sie?* <SpeakButton text="Was sind Sie von Beruf?" />
 
 </div>
 

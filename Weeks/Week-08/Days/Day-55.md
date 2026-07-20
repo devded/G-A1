@@ -96,19 +96,19 @@
 
 ### Basic Colours in German
 
-| Colour | German | Example |
+| Colour <SpeakButton text="Colour" /> | German <SpeakButton text="German" /> | Example <SpeakButton text="Example" /> |
 |:---:|:---:|:---|
-| 🔴 **Red** | **rot** | Das Kleid ist *rot*. |
-| 🔵 **Blue** | **blau** | Die Hose ist *blau*. |
-| 🟢 **Green** | **grün** | Der Apfel ist *grün*. |
-| 🟡 **Yellow** | **gelb** | Die Sonne ist *gelb*. |
-| ⚫ **Black** | **schwarz** | Der Schuh ist *schwarz*. |
-| ⚪ **White** | **weiß** | Das Hemd ist *weiß*. |
-| 🟤 **Brown** | **braun** | Der Koffer ist *braun*. |
+| 🔴 **Red** <SpeakButton text="🔴 Red" /> | **rot** <SpeakButton text="rot" /> | Das Kleid ist *rot*. <SpeakButton text="Das Kleid ist rot." /> |
+| 🔵 **Blue** <SpeakButton text="🔵 Blue" /> | **blau** <SpeakButton text="blau" /> | Die Hose ist *blau*. <SpeakButton text="Die Hose ist blau." /> |
+| 🟢 **Green** <SpeakButton text="🟢 Green" /> | **grün** <SpeakButton text="grün" /> | Der Apfel ist *grün*. <SpeakButton text="Der Apfel ist grün." /> |
+| 🟡 **Yellow** <SpeakButton text="🟡 Yellow" /> | **gelb** <SpeakButton text="gelb" /> | Die Sonne ist *gelb*. <SpeakButton text="Die Sonne ist gelb." /> |
+| ⚫ **Black** <SpeakButton text="⚫ Black" /> | **schwarz** <SpeakButton text="schwarz" /> | Der Schuh ist *schwarz*. <SpeakButton text="Der Schuh ist schwarz." /> |
+| ⚪ **White** <SpeakButton text="⚪ White" /> | **weiß** <SpeakButton text="weiß" /> | Das Hemd ist *weiß*. <SpeakButton text="Das Hemd ist weiß." /> |
+| 🟤 **Brown** <SpeakButton text="🟤 Brown" /> | **braun** <SpeakButton text="braun" /> | Der Koffer ist *braun*. <SpeakButton text="Der Koffer ist braun." /> |
 
 > <Icon name="target" /> **Predicate Adjectives (After sein):**  
 > Just like room adjectives, colours placed AFTER *ist* or *sind* take **NO endings**!  
-> • *Das Hemd ist weiß.* <SpeakButton text="Das Hemd ist weiß." />
+> • *Das Hemd ist weiß.*   <SpeakButton text="Das Hemd ist weiß." />
 > • *Die Schuhe sind schwarz.* <SpeakButton text="Die Schuhe sind schwarz." />
 
 </div>

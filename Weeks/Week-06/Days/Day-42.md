@@ -28,11 +28,11 @@
 
 ### Week 6 Master Summary
 
-1. **Nominalized Verbs:** Turn verbs into neuter nouns by capitalizing (*das Lesen, das Schwimmen*).
-2. **Sports Verbs:** *spielen* (ball/games), *machen* (fitness/yoga), *gehen* (schwimmen gehen, wandern gehen).
-3. **Preference Scale:** *gern* (like) → *lieber* (prefer) → *am liebsten* (like best). Compare with **als**: *Ich trinke lieber Tee als Kaffee.*
-4. **Modal Verb können:** *ich kann, du kannst, er kann, wir können*. Main verb goes to END in infinitive!
-5. **Ongoing Duration (seit):** Present tense + *seit* (*Ich wohne seit 2 Jahren hier* = I have lived here for 2 years).
+1. **Nominalized Verbs:** Turn verbs into neuter nouns by capitalizing (*das Lesen, das Schwimmen*). <SpeakButton text="Nominalized Verbs:" />
+2. **Sports Verbs:** *spielen* (ball/games), *machen* (fitness/yoga), *gehen* (schwimmen gehen, wandern gehen). <SpeakButton text="Sports Verbs:" />
+3. **Preference Scale:** *gern* (like) → *lieber* (prefer) → *am liebsten* <SpeakButton text="am liebsten" /> (like best). Compare with **als**: *Ich trinke lieber Tee als Kaffee.*
+4. **Modal Verb können:** *ich kann, du kannst, er kann, wir können*. Main verb goes to END in infinitive! <SpeakButton text="Modal Verb können:" />
+5. **Ongoing Duration (seit):** Present tense + *seit* (*Ich wohne seit 2 Jahren hier* = I have lived here for 2 years). <SpeakButton text="Ongoing Duration (seit):" />
 
 </div>
 
@@ -50,7 +50,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"In meiner Freizeit mache ich sehr gerne Sport. Mein Lieblingshobby ist [Lesen / Fußball spielen / Kochen]. Ich lerne seit [Number] Monaten Deutsch. Ich lerne täglich 30 Minuten. Am Wochenende treffe ich gerne Freunde. Wir gehen zusammen ins Café oder ins Kino. Am liebsten esse ich Pizza und trinke gerne Kaffee!"*
+> *"In meiner Freizeit mache ich sehr gerne Sport. Mein Lieblingshobby ist [Lesen / Fußball spielen / Kochen]. Ich lerne seit [Number] Monaten Deutsch. Ich lerne täglich 30 Minuten. Am Wochenende treffe ich gerne Freunde. Wir gehen zusammen ins Café oder ins Kino. Am liebsten esse ich Pizza und trinke gerne Kaffee!"* <SpeakButton text="In meiner Freizeit mache ich sehr gerne Sport. Mein Lieblingshobby ist [Lesen / Fußball spielen / Kochen]. Ich lerne seit [Number] Monaten Deutsch. Ich lerne täglich 30 Minuten. Am Wochenende treffe ich gerne Freunde. Wir gehen zusammen ins Café oder ins Kino. Am liebsten esse ich Pizza und trinke gerne Kaffee!" />
 
 ---
 

@@ -100,13 +100,13 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 
 | Gender | Nominative (Subject) | Accusative (Object) | Example |
 |:---:|:---:|:---:|:---|
-| **Masculine** | **der / ein / kein** | **den / einen / keinen** | Ich habe *einen* Tisch. <SpeakButton text="Ich habe einen Tisch." /> |
-| **Feminine** | **die / eine / keine** | **die / eine / keine** | Ich habe *eine* Lampe. <SpeakButton text="Ich habe eine Lampe." /> |
-| **Neuter** | **das / ein / kein** | **das / ein / kein** | Ich habe *ein* Bett. <SpeakButton text="Ich habe ein Bett." /> |
-| **Plural** | **die / - / keine** | **die / - / keine** | Ich habe *zwei* Stühle. <SpeakButton text="Ich habe zwei Stühle." /> |
+| **Masculine** <SpeakButton text="Masculine" /> | **der <SpeakButton text="der" /> / ein <SpeakButton text="ein" /> / kein** <SpeakButton text="kein" /> | **den <SpeakButton text="den" /> / einen <SpeakButton text="einen" /> / keinen** <SpeakButton text="keinen" /> | Ich habe *einen* Tisch. <SpeakButton text="Ich habe einen Tisch." /> |
+| **Feminine** <SpeakButton text="Feminine" /> | **die <SpeakButton text="die" /> / eine <SpeakButton text="eine" /> / keine** <SpeakButton text="keine" /> | **die <SpeakButton text="die" /> / eine <SpeakButton text="eine" /> / keine** <SpeakButton text="keine" /> | Ich habe *eine* Lampe. <SpeakButton text="Ich habe eine Lampe." /> |
+| **Neuter** <SpeakButton text="Neuter" /> | **das <SpeakButton text="das" /> / ein <SpeakButton text="ein" /> / kein** <SpeakButton text="kein" /> | **das <SpeakButton text="das" /> / ein <SpeakButton text="ein" /> / kein** <SpeakButton text="kein" /> | Ich habe *ein* Bett. <SpeakButton text="Ich habe ein Bett." /> |
+| **Plural** <SpeakButton text="Plural" /> | **die <SpeakButton text="die" /> / - / keine** <SpeakButton text="keine" /> | **die <SpeakButton text="die" /> / - / keine** <SpeakButton text="keine" /> | Ich habe *zwei* Stühle. <SpeakButton text="Ich habe zwei Stühle." /> |
 
 > <Icon name="target" /> **Key takeaway:**  
-> • der Tisch → *Ich brauche* <SpeakButton text="Ich brauche" />*den** Tisch / Ich kaufe **einen** Tisch.
+> • der Tisch → Ich brauche **den** Tisch / Ich kaufe **einen** Tisch. <SpeakButton text="Tisch / Ich kaufe" />
 
 </div>
 

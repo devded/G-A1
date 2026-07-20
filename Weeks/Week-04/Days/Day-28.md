@@ -28,14 +28,14 @@
 
 ### Week 4 Master Summary
 
-1. **Professions:** NO ARTICLE after *sein* or *arbeiten als*! (Ich bin Arzt / Er arbeitet als Koch).
-2. **Compound Nouns:** The LAST noun determines gender & plural (das Büro + der Stuhl = *der* Bürostuhl).
-3. **Irregular Present Tense (du & er/sie/es only):**
-   - e → ie: *lesen* (du liest, er liest), *sehen* (du siehst)
-   - e → i: *sprechen* (du sprichst), *essen* (du isst)
-   - a → ä: *fahren* (du fährst), *schlafen* (du schläft)
-4. **lernen vs. studieren:** *lernen* = general learning/studying for tests; *studieren* = enrolled in a university degree!
-5. **nicht vs. kein:** *kein* only for indefinite/unarticled nouns; *nicht* for verbs, adjectives, names, locations.
+1. **Professions:** NO ARTICLE after *sein* or *arbeiten als*! (Ich bin Arzt / Er arbeitet als Koch). <SpeakButton text="Professions:" />
+2. **Compound Nouns:** The LAST noun determines gender & plural (das Büro + der Stuhl = *der* Bürostuhl). <SpeakButton text="Compound Nouns:" />
+3. **Irregular Present Tense (du & er/sie/es only):** <SpeakButton text="Irregular Present Tense (du & er/sie/es only):" />
+- e → *ie:* <SpeakButton text="ie:" />lesen* (du liest, er liest), *sehen* (du siehst)
+- e → i: *sprechen* <SpeakButton text="e → i: sprechen" />(du sprichst), *essen* (du isst)
+- a → ä: *fahren* <SpeakButton text="a → ä: fahren" />(du fährst), *schlafen* (du schläft)
+4. **lernen vs. studieren:** *lernen* = general learning/studying for tests; *studieren* = enrolled in a university degree! <SpeakButton text="lernen vs. studieren:" />
+5. **nicht vs. kein:** *kein* only for indefinite/unarticled nouns; *nicht* for verbs, adjectives, names, locations. <SpeakButton text="nicht vs. kein:" />
 
 </div>
 
@@ -53,7 +53,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Ich heiße [Name]. Von Beruf bin ich [Job] / Ich bin Student(in). Ich arbeite bei [Company] in [City]. Ich arbeite [Vollzeit / Teilzeit]. Ich finde meine Arbeit [interessant / anstrengend]. In meiner Freizeit lerne ich Deutsch. Ich lerne jeden Tag 30 Minuten Deutsch!"*
+> *"Ich heiße [Name]. Von Beruf bin ich [Job] / Ich bin Student(in). Ich arbeite bei [Company] in [City]. Ich arbeite [Vollzeit / Teilzeit]. Ich finde meine Arbeit [interessant / anstrengend]. In meiner Freizeit lerne ich Deutsch. Ich lerne jeden Tag 30 Minuten Deutsch!"* <SpeakButton text="Ich heiße [Name]. Von Beruf bin ich [Job] / Ich bin Student(in). Ich arbeite bei [Company] in [City]. Ich arbeite [Vollzeit / Teilzeit]. Ich finde meine Arbeit [interessant / anstrengend]. In meiner Freizeit lerne ich Deutsch. Ich lerne jeden Tag 30 Minuten Deutsch!" />
 
 ---
 

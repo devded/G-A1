@@ -100,13 +100,13 @@ Dative is used for **location (Wo?)** and after direction prepositions like **zu
 
 | Gender | Nominative | Dative | Contraction Formula |
 |:---:|:---:|:---:|:---|
-| **Masculine** | der | **dem** | in + dem = **im** / bei + dem = **beim** / zu + dem = **zum** <SpeakButton text="in + dem = im / bei + dem = beim / zu + dem = zum" /> |
-| **Neuter** | das | **dem** | in + dem = **im** / zu + dem = **zum** <SpeakButton text="in + dem = im / zu + dem = zum" /> |
-| **Feminine** | die | **der** | zu + der = **zur** / in + der = **in der** <SpeakButton text="zu + der = zur / in + der = in der" /> |
+| **Masculine** <SpeakButton text="Masculine" /> | der <SpeakButton text="der" /> | **dem** <SpeakButton text="dem" /> | in + dem = **im** <SpeakButton text="in + dem = im" /> / bei + dem = **beim** <SpeakButton text="bei + dem = beim" /> / zu + dem = **zum** <SpeakButton text="zu + dem = zum" /> |
+| **Neuter** <SpeakButton text="Neuter" /> | das <SpeakButton text="das" /> | **dem** <SpeakButton text="dem" /> | in + dem = **im** <SpeakButton text="in + dem = im" /> / zu + dem = **zum** <SpeakButton text="zu + dem = zum" /> |
+| **Feminine** <SpeakButton text="Feminine" /> | die <SpeakButton text="die" /> | **der** <SpeakButton text="der" /> | zu + der = **zur** <SpeakButton text="zu + der = zur" /> / in + der = **in der** <SpeakButton text="in + der = in der" /> |
 
 > <Icon name="target" /> **Master Rule for 'to the' (direction):**  
-> • Masculine / Neuter: **zum** <SpeakButton text="Masculine / Neuter: zum" />(*zum Bahnhof*, *zum Krankenhaus*)
-> • Feminine: **zur** <SpeakButton text="Feminine: zur" />(*zur Apotheke*, *zur Bank*, *zur Post*)
+> • Masculine / Neuter: **zum** (*zum Bahnhof*, *zum Krankenhaus*)   <SpeakButton text="zum Bahnhof" />
+> • Feminine: **zur** (*zur Apotheke*, *zur Bank*, *zur Post*) <SpeakButton text="zur Apotheke" />
 
 </div>
 

@@ -100,17 +100,17 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 
 | Pronoun | Form | Example |
 |:---:|:---:|:---|
-| ich | möch**te** <SpeakButton text="ich möchte" /> | Ich *möchte* einen Kaffee. |
-| du | möch**test** <SpeakButton text="du möchtest" /> | Was *möchtest* du trinken? |
-| er/sie/es | möch**te** <SpeakButton text="er oder sie oder es möchte" /> | Er *möchte* ein Bier. |
-| wir | möch**ten** <SpeakButton text="wir möchten" /> | Wir *möchten* bestellen. |
-| ihr | möch**tet** <SpeakButton text="ihr möchtet" /> | Was *möchtet* ihr essen? |
-| Sie/sie | möch**ten** <SpeakButton text="Sie oder sie möchten" /> | Was *möchten* Sie, bitte? |
+| ich <SpeakButton text="ich" /> | möch**te** <SpeakButton text="möchte" /> | Ich *möchte* einen Kaffee. <SpeakButton text="Ich möchte einen Kaffee." /> |
+| du <SpeakButton text="du" /> | möch**test** <SpeakButton text="möchtest" /> | Was *möchtest* du trinken? <SpeakButton text="Was möchtest du trinken?" /> |
+| er/sie/es <SpeakButton text="er/sie/es" /> | möch**te** <SpeakButton text="möchte" /> | Er *möchte* ein Bier. <SpeakButton text="Er möchte ein Bier." /> |
+| wir <SpeakButton text="wir" /> | möch**ten** <SpeakButton text="möchten" /> | Wir *möchten* bestellen. <SpeakButton text="Wir möchten bestellen." /> |
+| ihr <SpeakButton text="ihr" /> | möch**tet** <SpeakButton text="möchtet" /> | Was *möchtet* ihr essen? <SpeakButton text="Was möchtet ihr essen?" /> |
+| Sie/sie <SpeakButton text="Sie/sie" /> | möch**ten** <SpeakButton text="möchten" /> | Was *möchten* Sie, bitte? <SpeakButton text="Was möchten Sie, bitte?" /> |
 
 > <Icon name="target" /> **Accusative Reminder:**  
-> • der Kaffee → Ich möchte **einen** Kaffee. (masculine → *einen)* <SpeakButton text="einen)" />
+> • der Kaffee → Ich möchte **einen** Kaffee. (masculine → einen)   <SpeakButton text="einen" />
 > • das Wasser → Ich möchte **ein** Wasser. (neuter → *ein)* <SpeakButton text="ein)" />
-> • die Milch → Ich möchte **eine** Milch. (feminine → *eine)* <SpeakButton text="eine)" />
+> • die Milch → Ich möchte **eine** Milch. (feminine → eine) <SpeakButton text="eine" />
 
 </div>
 

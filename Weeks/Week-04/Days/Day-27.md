@@ -98,14 +98,14 @@
 
 | Question | Answer Pattern |
 |:---|:---|
-| **Was machst du beruflich?** | Ich bin [Job] / Ich arbeite als [Job]. |
-| **Arbeitest du Vollzeit oder Teilzeit?** | Ich arbeite Vollzeit (40 Stunden pro Woche). |
-| **Wie findest du deine Arbeit?** | Ich finde meine Arbeit *interessant* / *anstrengend*. |
-| **Suchst du eine neue Stelle?** | Ja, ich suche eine Stelle in Berlin. |
+| **Was machst du beruflich?** <SpeakButton text="Was machst du beruflich?" /> | Ich bin [Job] <SpeakButton text="Ich bin [Job]" /> / Ich arbeite als [Job]. <SpeakButton text="Ich arbeite als [Job]." /> |
+| **Arbeitest du Vollzeit oder Teilzeit?** <SpeakButton text="Arbeitest du Vollzeit oder Teilzeit?" /> | Ich arbeite Vollzeit (40 Stunden pro Woche). <SpeakButton text="Ich arbeite Vollzeit (40 Stunden pro Woche)." /> |
+| **Wie findest du deine Arbeit?** <SpeakButton text="Wie findest du deine Arbeit?" /> | Ich finde meine Arbeit *interessant* <SpeakButton text="Ich finde meine Arbeit interessant" /> / *anstrengend*. <SpeakButton text="anstrengend." /> |
+| **Suchst du eine neue Stelle?** <SpeakButton text="Suchst du eine neue Stelle?" /> | Ja, ich suche eine Stelle in Berlin. <SpeakButton text="Ja, ich suche eine Stelle in Berlin." /> |
 
 > <Icon name="target" /> **Expressing Opinion:**  
-> • *Ich finde den Job super.* <SpeakButton text="Ich finde den Job super." />(I think the job is great.)
-> • *Die Arbeit ist sehr anstrengend.* <SpeakButton text="Die Arbeit ist sehr anstrengend." />(The work is very demanding.)
+> • *Ich finde den Job super.* (I think the job is great.)   <SpeakButton text="Ich finde den Job super." />
+> • *Die Arbeit ist sehr anstrengend.* (The work is very demanding.) <SpeakButton text="Die Arbeit ist sehr anstrengend." />
 
 </div>
 

@@ -100,15 +100,15 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 
 | Pronoun | Form | Example |
 |:---:|:---:|:---|
-| ich | fühle **mich** <SpeakButton text="ich fühle mich" /> | Ich fühle *mich* schlecht. |
-| du | fühlst **dich** <SpeakButton text="du fühlst dich" /> | Wie fühlst du *dich*? |
-| er/sie/es | fühlt **sich** <SpeakButton text="er oder sie oder es fühlt sich" /> | Er fühlt *sich* krank. |
-| wir | fühlen **uns** <SpeakButton text="wir fühlen uns" /> | Wir fühlen *uns* gut. |
+| ich <SpeakButton text="ich" /> | fühle **mich** <SpeakButton text="fühle mich" /> | Ich fühle *mich* schlecht. <SpeakButton text="Ich fühle mich schlecht." /> |
+| du <SpeakButton text="du" /> | fühlst **dich** <SpeakButton text="fühlst dich" /> | Wie fühlst du *dich*? <SpeakButton text="Wie fühlst du dich?" /> |
+| er/sie/es <SpeakButton text="er/sie/es" /> | fühlt **sich** <SpeakButton text="fühlt sich" /> | Er fühlt *sich* krank. <SpeakButton text="Er fühlt sich krank." /> |
+| wir <SpeakButton text="wir" /> | fühlen **uns** <SpeakButton text="fühlen uns" /> | Wir fühlen *uns* gut. <SpeakButton text="Wir fühlen uns gut." /> |
 
-> <Icon name="message-square" /> **Common Illness Expressions:**  
-> • *Ich habe eine Erkältung.* <SpeakButton text="Ich habe eine Erkältung." />(I have a cold.)
-> • *Ich habe Fieber / Husten / Schnupfen.* <SpeakButton text="Ich habe Fieber / Husten / Schnupfen." />
-> • *Mir ist schlecht / schwindlig.* <SpeakButton text="Mir ist schlecht / schwindlig." />(I feel nauseous / dizzy.)
+> <Icon name="message-square" /> **Common Illness Expressions:**   <SpeakButton text="message-square" />
+> • *Ich habe eine Erkältung.* (I have a cold.)   <SpeakButton text="Ich habe eine Erkältung." />
+> • *Ich habe Fieber / Husten / Schnupfen.*   <SpeakButton text="Ich habe Fieber / Husten / Schnupfen." />
+> • *Mir ist schlecht / schwindlig.* (I feel nauseous / dizzy.) <SpeakButton text="Mir ist schlecht / schwindlig." />
 
 </div>
 

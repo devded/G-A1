@@ -99,19 +99,19 @@
 In German, numbers from 21 onwards are spoken **backwards**:  
 <Icon name="arrow-right" /> **Ones + und + Tens** (written as a single long word!)
 
-| Number | Breakdown | German |
+| Number <SpeakButton text="Number" /> | Breakdown <SpeakButton text="Breakdown" /> | German <SpeakButton text="German" /> |
 |:---:|:---:|:---|
-| **21** | 1 + and + 20 | **ein**undzwanzig |
-| **35** | 5 + and + 30 | fünfund**dreißig** |
-| **42** | 2 + and + 40 | zweiundvierzig |
-| **67** | 7 + and + 60 | siebenundsechzig |
-| **89** | 9 + and + 80 | neunundachtzig |
+| **21** | 1 + and + 20 <SpeakButton text="1 + and + 20" /> | **ein**undzwanzig <SpeakButton text="einundzwanzig" /> |
+| **35** | 5 + and + 30 <SpeakButton text="5 + and + 30" /> | fünfund**dreißig** <SpeakButton text="fünfunddreißig" /> |
+| **42** | 2 + and + 40 <SpeakButton text="2 + and + 40" /> | zweiundvierzig <SpeakButton text="zweiundvierzig" /> |
+| **67** | 7 + and + 60 <SpeakButton text="7 + and + 60" /> | siebenundsechzig <SpeakButton text="siebenundsechzig" /> |
+| **89** | 9 + and + 80 <SpeakButton text="9 + and + 80" /> | neunundachtzig <SpeakButton text="neunundachtzig" /> |
 
-> <Icon name="alert-triangle" /> **Watch Out:**  
+> <Icon name="alert-triangle" /> **Watch Out:**   <SpeakButton text="alert-triangle" />
 > • 21 is *ein*undzwanzig <SpeakButton text="21 is einundzwanzig" />(no 's' on eins!)
-> • 30 is *drei**ß**ig* <SpeakButton text="30 is dreißig" />(uses 'ß', not 'z')
-> • 60 is *sechzig* <SpeakButton text="60 is sechzig" />(drops 's' from sechs)
-> • 70 is *siebzig* <SpeakButton text="70 is siebzig" />(drops 'en' from sieben)
+> • 30 is *drei**ß**ig* (uses 'ß', not 'z')   <SpeakButton text="drei" />
+> • 60 is *sechzig* (drops 's' from sechs)   <SpeakButton text="sechzig" />
+> • 70 is *siebzig* (drops 'en' from sieben) <SpeakButton text="siebzig" />
 
 </div>
 

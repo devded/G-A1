@@ -103,9 +103,9 @@ When an adjective comes **after** the verb *sein* (is/are), it **does not take a
 • *Das Bett ist* **groß**. <SpeakButton text="Das Bett ist groß." />(neuter)
 • *Die Zimmer sind* **groß**. <SpeakButton text="Die Zimmer sind groß." />(plural)
 
-> <Icon name="lightbulb" /> **Comparison Words:**  
-> • *sehr* = very <SpeakButton text="sehr = very" />(sehr groß)
-> • *ziemlich* = quite <SpeakButton text="ziemlich = quite" />(ziemlich dunkel)
+> <Icon name="lightbulb" /> **Comparison Words:**   <SpeakButton text="lightbulb" />
+> • *sehr* = very (sehr groß)   <SpeakButton text="sehr" />
+> • *ziemlich* = quite (ziemlich dunkel)   <SpeakButton text="ziemlich" />
 > • *zu* = too <SpeakButton text="zu = too" />(zu klein)
 
 </div>

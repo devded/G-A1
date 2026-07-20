@@ -104,8 +104,8 @@
 | **4. Add -(e)n** | die Tür → *die* <SpeakButton text="die" />*Türen** | **-(e)n** | 90% of feminine nouns |
 | **5. Add -s** | das Sofa → *die* <SpeakButton text="die" />*Sofas** | **-s** | foreign words & acronyms |
 
-> <Icon name="lightbulb" /> **Golden Rule:** When learning a new noun, ALWAYS learn: **Article + Singular + Plural**  
-> Example: *das Buch, die Bücher*
+> <Icon name="lightbulb" /> **Golden Rule:** When learning a new noun, ALWAYS learn: **Article + Singular + Plural**   <SpeakButton text="lightbulb" />
+> Example: *das Buch, die Bücher* <SpeakButton text="das Buch, die Bücher" />
 
 </div>
 

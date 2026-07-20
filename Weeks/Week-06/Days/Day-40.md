@@ -105,8 +105,8 @@ In German, use **seit + Present Tense**!
 • *Ich wohne seit zwei Jahren in Berlin.* <SpeakButton text="Ich wohne seit zwei Jahren in Berlin." />(I have lived in Berlin for 2 years.)
 • *Er lernt seit drei Monaten Deutsch.* <SpeakButton text="Er lernt seit drei Monaten Deutsch." />(He has been learning German for 3 months.)
 
-> <Icon name="lightbulb" /> **Frequency Scale:**  
-> **täglich** (daily) → **regelmäßig** (regularly) → **meistens** (mostly) → **ab und zu** (now & then) → **selten** (rarely) → **nie** (never)
+> <Icon name="lightbulb" /> **Frequency Scale:**   <SpeakButton text="lightbulb" />
+> **täglich** (daily) → **regelmäßig** (regularly) → **meistens** (mostly) → **ab und zu** (now & then) → **selten** (rarely) → **nie** (never) <SpeakButton text="täglich" />
 
 </div>
 

@@ -28,13 +28,13 @@
 
 ### Week 7 Master Summary
 
-1. **Uncountable / General Food:** No article used when stating general food preferences (*Ich esse Brot, ich trinke Wasser*).
-2. **Polite Verb möchten:** *ich möchte, du möchtest, er/sie/es möchte, wir möchten*.
-3. **Accusative Case Master Rule:** ONLY masculine changes!
-   - Nom: *der / ein / kein / mein*
-   - Acc: **den / einen / keinen / meinen**
-4. **Quantities:** Do NOT use 'von'! (*ein Kilo Äpfel, eine Flasche Wasser, ein Stück Kuchen*).
-5. **Prices & Supermarket:** *Was kostet das?* Prices read: *2,50 € = zwei Euro fünfzig*. Pay by card: *Kann ich mit Karte zahlen?*
+1. **Uncountable / General Food:** No article used when stating general food preferences (*Ich esse Brot, ich trinke Wasser*). <SpeakButton text="Uncountable / General Food:" />
+2. **Polite Verb möchten:** *ich möchte, du möchtest, er/sie/es möchte, wir möchten*. <SpeakButton text="Polite Verb möchten:" />
+3. **Accusative Case Master Rule:** ONLY masculine changes! <SpeakButton text="Accusative Case Master Rule:" />
+- Nom: *der / ein / kein / mein* <SpeakButton text="Nom: der / ein / kein / mein" />
+- Acc: **den / einen / keinen / meinen** <SpeakButton text="Acc: den / einen / keinen / meinen" />
+4. **Quantities:** Do NOT use 'von'! (*ein Kilo Äpfel, eine Flasche Wasser, ein Stück Kuchen*). <SpeakButton text="Quantities:" />
+5. **Prices & Supermarket:** *Was kostet das?* Prices read: *2,50 € = zwei Euro fünfzig*. Pay by card: *Kann ich mit Karte zahlen?* <SpeakButton text="Prices & Supermarket:" />
 
 </div>
 
@@ -52,7 +52,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Guten Tag! Ich brauche ein Kilo Äpfel, eine Flasche Wasser und ein Stück Käse. Was kostet das Kilo Äpfel? 2 Euro 50? Das ist günstig! Ich nehme auch noch ein Brot. Wo ist die Kasse? Ah, danke. Ich möchte gerne mit Karte zahlen. Ich brauche keinen Kassenbon. Vielen Dank und einen schönen Tag!"*
+> *"Guten Tag! Ich brauche ein Kilo Äpfel, eine Flasche Wasser und ein Stück Käse. Was kostet das Kilo Äpfel? 2 Euro 50? Das ist günstig! Ich nehme auch noch ein Brot. Wo ist die Kasse? Ah, danke. Ich möchte gerne mit Karte zahlen. Ich brauche keinen Kassenbon. Vielen Dank und einen schönen Tag!"* <SpeakButton text="Guten Tag! Ich brauche ein Kilo Äpfel, eine Flasche Wasser und ein Stück Käse. Was kostet das Kilo Äpfel? 2 Euro 50? Das ist günstig! Ich nehme auch noch ein Brot. Wo ist die Kasse? Ah, danke. Ich möchte gerne mit Karte zahlen. Ich brauche keinen Kassenbon. Vielen Dank und einen schönen Tag!" />
 
 ---
 

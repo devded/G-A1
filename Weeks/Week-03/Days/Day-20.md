@@ -98,12 +98,12 @@
 
 | Question | Meaning | Sample Answer |
 |:---|:---|:---|
-| **Wie groß ist die Wohnung?** | How big is the apartment? | Sie hat 75 Quadratmeter. |
-| **Wie hoch ist die Miete?** | How high is the rent? | Die Miete ist 800 Euro. |
-| **Wie viele Zimmer gibt es?** | How many rooms are there? | Es gibt drei Zimmer. |
-| **Gibt es einen Balkon?** | Is there a balcony? | Ja, es gibt einen Balkon. |
-| **Wann ist sie frei?** | When is it vacant? | Ab 1. Oktober. |
-| **Ist die Wohnung möbliert?** | Is the apartment furnished? | Ja, sie ist komplett möbliert. |
+| **Wie groß ist die Wohnung?** <SpeakButton text="Wie groß ist die Wohnung?" /> | How big is the apartment? <SpeakButton text="How big is the apartment?" /> | Sie hat 75 Quadratmeter. <SpeakButton text="Sie hat 75 Quadratmeter." /> |
+| **Wie hoch ist die Miete?** <SpeakButton text="Wie hoch ist die Miete?" /> | How high is the rent? <SpeakButton text="How high is the rent?" /> | Die Miete ist 800 Euro. <SpeakButton text="Die Miete ist 800 Euro." /> |
+| **Wie viele Zimmer gibt es?** <SpeakButton text="Wie viele Zimmer gibt es?" /> | How many rooms are there? <SpeakButton text="How many rooms are there?" /> | Es gibt drei Zimmer. <SpeakButton text="Es gibt drei Zimmer." /> |
+| **Gibt es einen Balkon?** <SpeakButton text="Gibt es einen Balkon?" /> | Is there a balcony? <SpeakButton text="Is there a balcony?" /> | Ja, es gibt einen Balkon. <SpeakButton text="Ja, es gibt einen Balkon." /> |
+| **Wann ist sie frei?** <SpeakButton text="Wann ist sie frei?" /> | When is it vacant? <SpeakButton text="When is it vacant?" /> | Ab 1. Oktober. <SpeakButton text="Ab 1. Oktober." /> |
+| **Ist die Wohnung möbliert?** <SpeakButton text="Ist die Wohnung möbliert?" /> | Is the apartment furnished? <SpeakButton text="Is the apartment furnished?" /> | Ja, sie ist komplett möbliert. <SpeakButton text="Ja, sie ist komplett möbliert." /> |
 
 </div>
 

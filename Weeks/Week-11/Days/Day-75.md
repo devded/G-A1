@@ -109,9 +109,9 @@ When calling 112/110, answer these 5 questions clearly:
 4. **Welche** Verletzungen? *(What kind of injuries?)* <SpeakButton text="Welche" />
 5. **Warten** auf Rückfragen! *(Wait for questions, don't hang up!)* <SpeakButton text="Warten" />
 
-> <Icon name="alert-triangle" /> **Crucial Phrases:**  
-> • *Rufen Sie den Notarzt!* <SpeakButton text="Rufen Sie den Notarzt!" />(Call the emergency doctor!)
-> • *Es gibt einen Unfall.* <SpeakButton text="Es gibt einen Unfall." />(There is an accident.)
+> <Icon name="alert-triangle" /> **Crucial Phrases:**   <SpeakButton text="alert-triangle" />
+> • *Rufen Sie den Notarzt!* (Call the emergency doctor!)   <SpeakButton text="Rufen Sie den Notarzt!" />
+> • *Es gibt einen Unfall.* (There is an accident.) <SpeakButton text="Es gibt einen Unfall." />
 
 </div>
 

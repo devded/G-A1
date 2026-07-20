@@ -103,13 +103,13 @@
 
 ### Giving Directions (Polite Formal: Sie)
 
-| Command | Meaning |
+| Command <SpeakButton text="Command" /> | Meaning <SpeakButton text="Meaning" /> |
 |:---|:---|
-| **Gehen Sie geradeaus.** | Walk straight ahead. |
-| **Biegen Sie links / rechts ab.** | Turn left / right. |
-| **Nehmen Sie die erste / zweite Straße links.** | Take the 1st / 2nd street on the left. |
-| **An der Ampel / Kreuzung...** | At the traffic lights / junction... |
-| **Es ist auf der linken / rechten Seite.** | It is on the left / right side. |
+| **Gehen Sie geradeaus.** <SpeakButton text="Gehen Sie geradeaus." /> | Walk straight ahead. <SpeakButton text="Walk straight ahead." /> |
+| **Biegen Sie links <SpeakButton text="Biegen Sie links" /> / rechts ab.** <SpeakButton text="rechts ab." /> | Turn left <SpeakButton text="Turn left" /> / right. <SpeakButton text="right." /> |
+| **Nehmen Sie die erste <SpeakButton text="Nehmen Sie die erste" /> / zweite Straße links.** <SpeakButton text="zweite Straße links." /> | Take the 1st <SpeakButton text="Take the 1st" /> / 2nd street on the left. <SpeakButton text="2nd street on the left." /> |
+| **An der Ampel <SpeakButton text="An der Ampel" /> / Kreuzung...** <SpeakButton text="Kreuzung..." /> | At the traffic lights <SpeakButton text="At the traffic lights" /> / junction... <SpeakButton text="junction..." /> |
+| **Es ist auf der linken <SpeakButton text="Es ist auf der linken" /> / rechten Seite.** <SpeakButton text="rechten Seite." /> | It is on the left <SpeakButton text="It is on the left" /> / right side. <SpeakButton text="right side." /> |
 
 </div>
 

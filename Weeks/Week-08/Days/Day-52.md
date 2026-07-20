@@ -106,7 +106,7 @@ In German, the **food is the subject**, and the **person is the dative object**!
 • *Hat es Ihnen geschmeckt?* <SpeakButton text="Hat es Ihnen geschmeckt?" />(Did you enjoy your meal?)
 
 > <Icon name="target" /> **Key Adjectives for Food:**  
-> • *lecker* <SpeakButton text="lecker" />(tasty/yummy), *köstlich* (exquisite), *süß* (sweet), *salzig* (salty), *scharf* (spicy).
+> • *lecker* (tasty/yummy), *köstlich* (exquisite), *süß* (sweet), *salzig* (salty), *scharf* (spicy). <SpeakButton text="lecker" />
 
 </div>
 

@@ -101,13 +101,13 @@ In German, *halb* looks ahead to the **NEXT** hour!
 
 | Time | Structure | German |
 |:---:|:---:|:---|
-| **8:05** | 5 past 8 | **fünf nach acht** |
-| **8:15** | quarter past 8 | **Viertel nach acht** |
-| **8:25** | 5 before half 9 | **fünf vor halb neun** |
-| **8:30** | half before 9 | **halb neun** |
-| **8:35** | 5 past half 9 | **fünf nach halb neun** |
-| **8:45** | quarter to 9 | **Viertel vor neun** |
-| **8:55** | 5 to 9 | **fünf vor neun** |
+| **8:05** <SpeakButton text="8:05" /> | 5 past 8 <SpeakButton text="5 past 8" /> | **fünf nach acht** <SpeakButton text="fünf nach acht" /> |
+| **8:15** <SpeakButton text="8:15" /> | quarter past 8 <SpeakButton text="quarter past 8" /> | **Viertel nach acht** <SpeakButton text="Viertel nach acht" /> |
+| **8:25** <SpeakButton text="8:25" /> | 5 before half 9 <SpeakButton text="5 before half 9" /> | **fünf vor halb neun** <SpeakButton text="fünf vor halb neun" /> |
+| **8:30** <SpeakButton text="8:30" /> | half before 9 <SpeakButton text="half before 9" /> | **halb neun** <SpeakButton text="halb neun" /> |
+| **8:35** <SpeakButton text="8:35" /> | 5 past half 9 <SpeakButton text="5 past half 9" /> | **fünf nach halb neun** <SpeakButton text="fünf nach halb neun" /> |
+| **8:45** <SpeakButton text="8:45" /> | quarter to 9 <SpeakButton text="quarter to 9" /> | **Viertel vor neun** <SpeakButton text="Viertel vor neun" /> |
+| **8:55** <SpeakButton text="8:55" /> | 5 to 9 <SpeakButton text="5 to 9" /> | **fünf vor neun** <SpeakButton text="fünf vor neun" /> |
 
 </div>
 

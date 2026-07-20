@@ -105,7 +105,7 @@
 > **Kellner:** *Kommt sofort! Und was möchten Sie essen? Was kann ich Ihnen empfehlen?* <SpeakButton text="Kommt sofort! Und was möchten Sie essen? Was kann ich Ihnen empfehlen?" />
 > **Gast:** *Ich nehme als Vorspeise eine Tomatensuppe und als Hauptspeise das Schnitzel.* <SpeakButton text="Ich nehme als Vorspeise eine Tomatensuppe und als Hauptspeise das Schnitzel." />
 > **Kellner:** *Sehr gute Wahl!* <SpeakButton text="Sehr gute Wahl!" />
-> *(After the meal)*  
+> *(After the meal)*   <SpeakButton text="(After the meal)" />
 > **Kellner:** *Hat es Ihnen geschmeckt?* <SpeakButton text="Hat es Ihnen geschmeckt?" />
 > **Gast:** *Ja, es war köstlich! Wir möchten bitte zahlen. Zusammen, bitte.* <SpeakButton text="Ja, es war köstlich! Wir möchten bitte zahlen. Zusammen, bitte." />
 > **Kellner:** *Das macht 34 Euro 50.* <SpeakButton text="Das macht 34 Euro 50." />

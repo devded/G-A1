@@ -28,16 +28,16 @@
 
 ### Full Mock Exam 1 Schedule (Total: ~80 minutes)
 
-1. **Hören (Listening — 20 min):**  
-   - 3 Parts, 15 Questions. Target: 10+/15 points.
-2. **Lesen (Reading — 25 min):**  
-   - 3 Parts, 15 Questions. Target: 10+/15 points.
-3. **Schreiben (Writing — 20 min):**  
-   - Teil 1 (Form Filling — 5 points) + Teil 2 (Email — 10 points). Target: 10+/15 points.
-4. **Sprechen (Speaking — 15 min):**  
-   - Teil 1 (Intro), Teil 2 (Questions), Teil 3 (Requests). Target: 10+/15 points.
+1. **Hören (Listening — 20 min):** <SpeakButton text="Hören (Listening — 20 min):" />
+- 3 Parts, 15 Questions. Target: 10+/15 points. <SpeakButton text="3 Parts, 15 Questions. Target: 10+/15 points." />
+2. **Lesen (Reading — 25 min):** <SpeakButton text="Lesen (Reading — 25 min):" />
+- 3 Parts, 15 Questions. Target: 10+/15 points. <SpeakButton text="3 Parts, 15 Questions. Target: 10+/15 points." />
+3. **Schreiben (Writing — 20 min):** <SpeakButton text="Schreiben (Writing — 20 min):" />
+- Teil 1 <SpeakButton text="Teil 1" />(Form Filling — 5 points) + Teil 2 (Email — 10 points). Target: 10+/15 points.
+4. **Sprechen (Speaking — 15 min):** <SpeakButton text="Sprechen (Speaking — 15 min):" />
+- Teil 1 <SpeakButton text="Teil 1" />(Intro), Teil 2 (Questions), Teil 3 (Requests). Target: 10+/15 points.
 
-> <Icon name="trophy" /> **Goethe A1 Passing Grade:** 60 out of 100 overall points!
+> <Icon name="trophy" /> **Goethe A1 Passing Grade:** 60 out of 100 overall points! <SpeakButton text="trophy" />
 
 </div>
 
@@ -55,9 +55,9 @@
 
 Execute the full 3-part speaking simulation out loud:
 
-1. **Part 1 (Intro):** Give your 1-minute intro (Name, Alter, Land, Wohnort, Sprachen, Beruf, Hobby), spell your surname letter by letter, and state your phone number digit by digit.
-2. **Part 2 (Question Card):** Draw topic *Essen*. Formulate: *"Trinken Sie morgens gerne Kaffee?"* Answer: *"Ja, ich trinke morgens immer Kaffee."*
-3. **Part 3 (Request Card):** Picture of a glass of water. Formulate: *"Geben Sie mir bitte ein Glas Wasser!"* Answer: *"Ja, natürlich! Hier, bitte sehr!"*
+1. **Part 1 (Intro):** Give your 1-minute intro (Name, Alter, Land, Wohnort, Sprachen, Beruf, Hobby), spell your surname letter by letter, and state your phone number digit by digit. <SpeakButton text="Part 1 (Intro):" />
+2. **Part 2 (Question Card):** Draw topic *Essen*. Formulate: *"Trinken Sie morgens gerne Kaffee?"* Answer: *"Ja, ich trinke morgens immer Kaffee."* <SpeakButton text="Part 2 (Question Card):" />
+3. **Part 3 (Request Card):** Picture of a glass of water. Formulate: *"Geben Sie mir bitte ein Glas Wasser!"* Answer: *"Ja, natürlich! Hier, bitte sehr!"* <SpeakButton text="Part 3 (Request Card):" />
 
 ---
 

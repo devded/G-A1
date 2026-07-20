@@ -103,8 +103,8 @@ In German, **man** (spelled with ONE 'n', unlike *der Mann*) refers to people in
 • **Bei Regen sollte man eine Jacke anziehen.** <SpeakButton text="Bei Regen sollte man eine Jacke anziehen." />(In rain one should put on a jacket.)
 
 > <Icon name="target" /> **Conjugation Rule:**  
-> *man* uses the exact same 3rd person singular verb form as **er / sie / es**!  
-> • *man kann*, *man muss*, *man darf*, *man soll*, *man will*, *man mag*. <SpeakButton text="man kann, man muss, man darf, man soll, man will, man mag." />
+> *man* uses the exact same 3rd person singular verb form as **er / sie / es**!   <SpeakButton text="uses the exact same 3rd person singular verb form as" />
+> • *man kann*, *man muss*, *man darf*, *man soll*, *man will*, *man mag*. <SpeakButton text="man kann" />
 
 </div>
 

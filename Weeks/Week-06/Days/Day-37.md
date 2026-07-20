@@ -105,9 +105,9 @@
 3. **gehen** = activities involving movement to a venue (gehen + Infinitive) <SpeakButton text="gehen" />
 • *schwimmen gehen* <SpeakButton text="schwimmen gehen" />(to go swimming), *wandern gehen* (to go hiking), *spazieren gehen* (to go for a walk)
 
-> <Icon name="message-square" /> **Asking about sports:**  
-> • *Treibst du Sport?* / *Machst du Sport?* <SpeakButton text="Treibst du Sport? / Machst du Sport?" />(Do you do sports?)
-> • *Welchen Sport machst du?* <SpeakButton text="Welchen Sport machst du?" />(What sport do you do?)
+> <Icon name="message-square" /> **Asking about sports:**   <SpeakButton text="message-square" />
+> • *Treibst du Sport?* / *Machst du Sport?* (Do you do sports?)   <SpeakButton text="Treibst du Sport?" />
+> • *Welchen Sport machst du?* (What sport do you do?) <SpeakButton text="Welchen Sport machst du?" />
 
 </div>
 

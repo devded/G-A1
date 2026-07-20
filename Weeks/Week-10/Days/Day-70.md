@@ -28,17 +28,17 @@
 
 ### Week 10 Master Summary
 
-1. **Weather Expressions:** Use impersonal *es*: *Es regnet, Es schneit, Es ist bewölkt/sonnig/warm/kalt*.
-2. **Seasons & Dates:** All seasons are *der* (*der Sommer*). Use preposition **im** (*im Sommer, im Winter*).
-3. **All 6 Modal Verbs (Singular Forms):**
-   - *können* → ich/er **kann**
-   - *müssen* → ich/er **muss**
-   - *dürfen* → ich/er **darf**
-   - *sollen* → ich/er **soll**
-   - *wollen* → ich/er **will**
-   - *mögen* → ich/er **mag**
-4. **Modal Bracket:** Modal verb at Pos 2 + Main verb in Infinitive at END (*Ich muss heute Deutsch lernen*).
-5. **Impersonal 'man':** Uses 3rd person singular (*man kann, man muss*).
+1. **Weather Expressions:** Use impersonal *es*: *Es regnet, Es schneit, Es ist bewölkt/sonnig/warm/kalt*. <SpeakButton text="Weather Expressions:" />
+2. **Seasons & Dates:** All seasons are *der* (*der Sommer*). Use preposition **im** (*im Sommer, im Winter*). <SpeakButton text="Seasons & Dates:" />
+3. **All 6 Modal Verbs (Singular Forms):** <SpeakButton text="All 6 Modal Verbs (Singular Forms):" />
+- *können* → *ich/er* <SpeakButton text="ich/er" />*kann**
+- *müssen* → *ich/er* <SpeakButton text="ich/er" />*muss**
+- *dürfen* → *ich/er* <SpeakButton text="ich/er" />*darf**
+- *sollen* → *ich/er* <SpeakButton text="ich/er" />*soll**
+- *wollen* → *ich/er* <SpeakButton text="ich/er" />*will**
+- *mögen* → *ich/er* <SpeakButton text="ich/er" />*mag**
+4. **Modal Bracket:** Modal verb at Pos 2 + Main verb in Infinitive at END (*Ich muss heute Deutsch lernen*). <SpeakButton text="Modal Bracket:" />
+5. **Impersonal 'man':** Uses 3rd person singular (*man kann, man muss*). <SpeakButton text="Impersonal 'man':" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 Read this script aloud and record yourself or practice with a partner:
 
-> *"Wie ist das Wetter heute bei mir? Heute ist es bewölkt und relativ kalt. Es sind 12 Grad und es regnet manchmal. Im Winter schneit es hier oft. Weil es heute regnet, kann man nicht im Park spazieren gehen. Man muss drinnen bleiben! Aber das macht nichts. Ich will heute einen guten Film sehen und Tee trinken. Wenn es morgen sonnig ist, möchte ich wandern gehen!"*
+> *"Wie ist das Wetter heute bei mir? Heute ist es bewölkt und relativ kalt. Es sind 12 Grad und es regnet manchmal. Im Winter schneit es hier oft. Weil es heute regnet, kann man nicht im Park spazieren gehen. Man muss drinnen bleiben! Aber das macht nichts. Ich will heute einen guten Film sehen und Tee trinken. Wenn es morgen sonnig ist, möchte ich wandern gehen!"* <SpeakButton text="Wie ist das Wetter heute bei mir? Heute ist es bewölkt und relativ kalt. Es sind 12 Grad und es regnet manchmal. Im Winter schneit es hier oft. Weil es heute regnet, kann man nicht im Park spazieren gehen. Man muss drinnen bleiben! Aber das macht nichts. Ich will heute einen guten Film sehen und Tee trinken. Wenn es morgen sonnig ist, möchte ich wandern gehen!" />
 
 ---
 

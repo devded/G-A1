@@ -100,12 +100,12 @@ Notice the vowel change **ö → a** in singular forms!
 
 | Pronoun | Form | Pronunciation |
 |:---:|:---:|:---:|
-| ich | k**a**nn <SpeakButton text="ich kann" /> | /kan/ |
-| du | k**a**nnst <SpeakButton text="du kannst" /> | /kanst/ |
-| er/sie/es | k**a**nn <SpeakButton text="er oder sie oder es kann" /> | /kan/ |
-| wir | k**ö**nnen <SpeakButton text="wir können" /> | /ˈkœnən/ |
-| ihr | k**ö**nnt <SpeakButton text="ihr könnt" /> | /kœnt/ |
-| Sie/sie | k**ö**nnen <SpeakButton text="Sie oder sie können" /> | /ˈkœnən/ |
+| ich <SpeakButton text="ich" /> | k**a**nn <SpeakButton text="kann" /> | /kan/ |
+| du <SpeakButton text="du" /> | k**a**nnst <SpeakButton text="kannst" /> | /kanst/ |
+| er/sie/es <SpeakButton text="er/sie/es" /> | k**a**nn <SpeakButton text="kann" /> | /kan/ |
+| wir <SpeakButton text="wir" /> | k**ö**nnen <SpeakButton text="können" /> | /ˈkœnən/ |
+| ihr <SpeakButton text="ihr" /> | k**ö**nnt <SpeakButton text="könnt" /> | /kœnt/ |
+| Sie/sie <SpeakButton text="Sie/sie" /> | k**ö**nnen <SpeakButton text="können" /> | /ˈkœnən/ |
 
 ### Modal Sentence Bracket (Satzklammer)
 

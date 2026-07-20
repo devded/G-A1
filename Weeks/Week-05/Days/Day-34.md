@@ -106,7 +106,7 @@
 
 ### Sample Daily Routine Text
 
-> *"Ich stehe um 6:30 Uhr auf. Zuerst dusche ich und ziehe mich an. Um 7:00 Uhr frühstücke ich. Danach fahre ich zur Arbeit. Der Weg dauert 30 Minuten. Ich arbeite von 8:00 bis 16:30 Uhr. Um 17:00 Uhr komme ich nach Hause. Am Abend sehe ich fern oder lese ein Buch. Um 23:00 Uhr schlafe ich ein."*
+> *"Ich stehe um 6:30 Uhr auf. Zuerst dusche ich und ziehe mich an. Um 7:00 Uhr frühstücke ich. Danach fahre ich zur Arbeit. Der Weg dauert 30 Minuten. Ich arbeite von 8:00 bis 16:30 Uhr. Um 17:00 Uhr komme ich nach Hause. Am Abend sehe ich fern oder lese ein Buch. Um 23:00 Uhr schlafe ich ein."* <SpeakButton text="Ich stehe um 6:30 Uhr auf. Zuerst dusche ich und ziehe mich an. Um 7:00 Uhr frühstücke ich. Danach fahre ich zur Arbeit. Der Weg dauert 30 Minuten. Ich arbeite von 8:00 bis 16:30 Uhr. Um 17:00 Uhr komme ich nach Hause. Am Abend sehe ich fern oder lese ein Buch. Um 23:00 Uhr schlafe ich ein." />
 
 </div>
 

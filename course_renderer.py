@@ -12,17 +12,27 @@ def process_grammar_content(content):
             continue
         stripped = line.strip()
         
-        # 1. Dialogue lines: > **Kellner:** *Guten Abend! Haben Sie reserviert?*
+        # 1. Dialogue lines & Blockquotes: > **Kellner:** *Guten Abend! Haben Sie reserviert?* or > *"Hallo! Ich heiße Lukas..."*
         m_diag = re.match(r'^(>\s*\*\*[^*]+:\*\*\s*)(?:\*|_)?([^*_\n\r]+)(?:\*|_)?(.*)$', stripped)
         if m_diag and len(m_diag.group(2).strip()) > 3:
             role_prefix = m_diag.group(1)
             text_raw = m_diag.group(2).strip()
             rest = m_diag.group(3)
             text_clean = re.sub(r'[*_`]', '', text_raw).strip()
-            if text_clean and not any(text_clean.startswith(x) for x in ['Note', 'Rule', 'Formula', 'Notice']):
+            if text_clean and not any(text_clean.lower().startswith(x) for x in ['note', 'rule', 'formula', 'notice', 'target', 'icon', 'critical']):
                 line = f'{role_prefix}*{text_raw}* <SpeakButton text="{text_clean}" />{rest}'
                 lines.append(line)
                 continue
+
+        if stripped.startswith('>'):
+            m_quote = re.search(r'[*_"]([^*_"]{4,})[*_"]', stripped)
+            if m_quote:
+                raw_text = m_quote.group(1).strip()
+                clean_text = re.sub(r'[*_`]', '', raw_text).strip()
+                if len(clean_text) > 3 and not any(clean_text.lower().startswith(x) for x in ['rule', 'note', 'notice', 'formula', 'critical', 'target', 'icon']):
+                    line = f'{line} <SpeakButton text="{clean_text}" />'
+                    lines.append(line)
+                    continue
 
         # 2. Dialogue arrows: *(Is this seat free?)* → *Ja, bitte nehmen Sie Platz!*
         m_arrow = re.match(r'^(.*→\s*)(?:\*|_)?([^*_\n\r]+)(?:\*|_)?(.*)$', stripped)
@@ -57,29 +67,40 @@ def process_grammar_content(content):
             lines.append(line)
             continue
 
-        # 5. Table rows: | ich | hab**e** | /ˈhaːbə/ |
+        # 5. Table rows: | ... | ... | ... |
         if stripped.startswith('|') and stripped.endswith('|'):
             cells = [c.strip() for c in stripped.split('|')[1:-1]]
             if not any(':---' in c or '---:' in c for c in cells) and len(cells) >= 2:
-                col0 = cells[0].lower()
-                if not any(h in col0 for h in ['gender', 'pronoun', 'subject', 'situation', 'sound', 'person']):
-                    p_cell = re.sub(r'[*_`]', '', cells[0]).strip()
-                    v_cell = re.sub(r'[*_`]', '', cells[1]).strip()
-                    if p_cell.lower() in ['ich', 'du', 'er/sie/es', 'er', 'sie', 'es', 'wir', 'ihr', 'sie/sie', 'sie (formal)']:
-                        speak_phrase = f"{p_cell} {v_cell}".replace('/', ' oder ')
-                        cells[1] = f'{cells[1]} <SpeakButton text="{speak_phrase}" />'
-                        line = '| ' + ' | '.join(cells) + ' |'
-                    elif len(cells) >= 4 and cells[-1]:
-                        examples = [ex.strip() for ex in cells[-1].split(',')]
-                        new_examples = []
-                        for ex in examples:
-                            ex_clean = re.sub(r'[*_`]', '', ex).strip()
-                            if ex_clean and not ex_clean.lower().startswith('e.g.') and len(ex_clean) > 1:
-                                new_examples.append(f'{ex} <SpeakButton text="{ex_clean}" />')
-                            else:
-                                new_examples.append(ex)
-                        cells[-1] = ', '.join(new_examples)
-                        line = '| ' + ' | '.join(cells) + ' |'
+                col0_low = cells[0].lower()
+                headers = ['gender', 'pronoun', 'subject', 'situation', 'sound', 'person', 'target to negate', 'infinitive', 'singular', 'question', 'time', 'structure', 'german', 'english', 'meaning', 'example']
+                if not any(col0_low.startswith(h) for h in headers):
+                    new_cells = list(cells)
+                    modified = False
+                    for c_idx, cell in enumerate(cells):
+                        if cell.startswith('/') and cell.endswith('/'):
+                            continue
+                        if cell.lower() in ['masculine', 'feminine', 'neuter', 'plural', 'and', 'but', 'also', 'already', 'still', 'connects similar ideas', 'contrasts ideas']:
+                            continue
+                        cell_clean = re.sub(r'[*_`]', '', cell).strip()
+                        if cell_clean and not cell_clean.lower().startswith('http') and len(cell_clean) > 1:
+                            if ' / ' in cell and len(cell_clean) > 10:
+                                parts = cell.split(' / ')
+                                new_parts = []
+                                for p in parts:
+                                    p_clean = re.sub(r'[*_`]', '', p).strip()
+                                    if len(p_clean) > 2 and not p_clean.lower().startswith('e.g.'):
+                                        new_parts.append(f'{p} <SpeakButton text="{p_clean}" />')
+                                    else:
+                                        new_parts.append(p)
+                                new_cells[c_idx] = ' / '.join(new_parts)
+                                modified = True
+                            elif not cell_clean.replace('.', '').isdigit():
+                                if '<SpeakButton' not in cell and len(cell_clean) > 1:
+                                    new_cells[c_idx] = f'{cell} <SpeakButton text="{cell_clean}" />'
+                                    modified = True
+                    if modified:
+                        line = '| ' + ' | '.join(new_cells) + ' |'
+
         lines.append(line)
     return '\n'.join(lines)
 
@@ -239,7 +260,7 @@ def render_day(d, week_num, max_days=84):
         
         lines.append('## Step 2 — Grammar Quick Recap (7 min)\n')
         lines.append('<div class="grammar-box">\n')
-        lines.append(d["grammarSummary"].strip())
+        lines.append(process_grammar_content(d["grammarSummary"]).strip())
         lines.append('\n</div>\n')
         lines.append('---\n')
         
@@ -248,7 +269,7 @@ def render_day(d, week_num, max_days=84):
         lines.append('---\n')
         
         lines.append('## Step 4 — Speaking Exercise (3 min)\n')
-        lines.append(d["speakingPrompt"].strip())
+        lines.append(process_grammar_content(d["speakingPrompt"]).strip())
         lines.append('\n---\n')
         
         lines.append(f'## Week {week_num} Mastery Checklist\n')

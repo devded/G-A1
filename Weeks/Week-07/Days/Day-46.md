@@ -105,7 +105,7 @@ In English, you say "a kilo **of** apples" or "a bottle **of** water". In German
 • **ein Glas Saft** = a glass of juice <SpeakButton text="ein Glas Saft = a glass of juice" />
 
 > <Icon name="target" /> **Plural of Quantities:**  
-> • Units of measurement stay **singular** after numbers: *zwei Kilo Äpfel* <SpeakButton text="Units of measurement stay singular after numbers: zwei Kilo Äpfel" />(NOT *zwei Kilos*), *drei Glas Wasser*!
+> • Units of measurement stay **singular** after numbers: *zwei Kilo Äpfel* (NOT *zwei Kilos*), *drei Glas Wasser*! <SpeakButton text="singular" />
 
 </div>
 

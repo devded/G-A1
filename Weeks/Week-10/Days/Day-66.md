@@ -98,13 +98,13 @@
 
 | Singular | Plural | Pattern |
 |:---:|:---:|:---:|
-| der Baum | die **Bäume** | + Umlaut + **-e** |
-| der Wald | die **Wälder** | + Umlaut + **-er** |
-| der Hund | die **Hunde** | + **-e** |
-| die Katze | die **Katzen** | + **-n** |
-| der Vogel | die **Vögel** | + Umlaut |
-| das Tier | die **Tiere** | + **-e** |
-| die Blume | die **Blumen** | + **-n** |
+| der Baum <SpeakButton text="der Baum" /> | die **Bäume** <SpeakButton text="die Bäume" /> | + Umlaut + **-e** <SpeakButton text="+ Umlaut + -e" /> |
+| der Wald <SpeakButton text="der Wald" /> | die **Wälder** <SpeakButton text="die Wälder" /> | + Umlaut + **-er** <SpeakButton text="+ Umlaut + -er" /> |
+| der Hund <SpeakButton text="der Hund" /> | die **Hunde** <SpeakButton text="die Hunde" /> | + **-e** <SpeakButton text="+ -e" /> |
+| die Katze <SpeakButton text="die Katze" /> | die **Katzen** <SpeakButton text="die Katzen" /> | + **-n** <SpeakButton text="+ -n" /> |
+| der Vogel <SpeakButton text="der Vogel" /> | die **Vögel** <SpeakButton text="die Vögel" /> | + Umlaut <SpeakButton text="+ Umlaut" /> |
+| das Tier <SpeakButton text="das Tier" /> | die **Tiere** <SpeakButton text="die Tiere" /> | + **-e** <SpeakButton text="+ -e" /> |
+| die Blume <SpeakButton text="die Blume" /> | die **Blumen** <SpeakButton text="die Blumen" /> | + **-n** <SpeakButton text="+ -n" /> |
 
 </div>
 

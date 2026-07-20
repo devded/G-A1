@@ -96,13 +96,13 @@
 
 ### The Preposition Rule for Time
 
-| Unit | Preposition | Examples |
+| Unit <SpeakButton text="Unit" /> | Preposition <SpeakButton text="Preposition" /> | Examples <SpeakButton text="Examples" /> |
 |:---:|:---:|:---|
-| **Days of Week** | **am** | **am** Montag, **am** Freitag |
-| **Weekend** | **am** | **am** Wochenende |
-| **Months** | **im** | **im** Januar, **im** Juli |
-| **Seasons** | **im** | **im** Sommer, **im** Winter |
-| **Exact Clock Time** | **um** | **um** 8 Uhr |
+| **Days of Week** <SpeakButton text="Days of Week" /> | **am** <SpeakButton text="am" /> | **am** Montag, **am** Freitag <SpeakButton text="am Montag, am Freitag" /> |
+| **Weekend** <SpeakButton text="Weekend" /> | **am** <SpeakButton text="am" /> | **am** Wochenende <SpeakButton text="am Wochenende" /> |
+| **Months** <SpeakButton text="Months" /> | **im** <SpeakButton text="im" /> | **im** Januar, **im** Juli <SpeakButton text="im Januar, im Juli" /> |
+| **Seasons** <SpeakButton text="Seasons" /> | **im** <SpeakButton text="im" /> | **im** Sommer, **im** Winter <SpeakButton text="im Sommer, im Winter" /> |
+| **Exact Clock Time** <SpeakButton text="Exact Clock Time" /> | **um** <SpeakButton text="um" /> | **um** 8 Uhr <SpeakButton text="um 8 Uhr" /> |
 
 ### All Days of the Week (All Masculine: **der**)
 1. **Montag** (Mon) 2. **Dienstag** (Tue) 3. **Mittwoch** (Wed) 4. **Donnerstag** (Thu) <SpeakButton text="Montag" />
