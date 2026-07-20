@@ -37,7 +37,12 @@
       :class="{ playing: state === 'slow-playing' }"
       type="button"
     >
-      <span class="slow-label">🐢</span>
+      <span class="icon-inner">
+        <svg class="speaker-svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M11 5L6 9H2v6h4l5 4V5z"/>
+          <path d="M15.54 8.46a5 5 0 0 1 0 7.07" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        </svg>
+      </span>
     </button>
   </span>
 </template>
@@ -209,17 +214,17 @@ function fallback(slow = false) {
 }
 
 .speak-btn:hover {
-  background: var(--vp-c-brand-1, #e63946);
+  background: var(--vp-c-brand-1, #1d3557);
   color: #fff;
   transform: scale(1.1);
-  box-shadow: 0 4px 14px rgba(230, 57, 70, 0.4);
+  box-shadow: 0 4px 12px rgba(29, 53, 87, 0.3);
 }
 
 .speak-btn.playing,
 .speak-btn.loading {
-  background: var(--vp-c-brand-1, #e63946);
+  background: var(--vp-c-brand-1, #1d3557);
   color: #fff;
-  box-shadow: 0 0 0 3px rgba(230, 57, 70, 0.25);
+  box-shadow: 0 0 0 3px rgba(29, 53, 87, 0.2);
 }
 
 .speak-slow-btn {

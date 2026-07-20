@@ -44,9 +44,9 @@ export default defineConfig({
     logo: '/logo.svg',
     siteTitle: 'German A1 — 30 Min/Day',
     nav: [
-      { text: '🏠 Home', link: '/' },
+      { text: 'Home', link: '/' },
       {
-        text: '📋 Overview',
+        text: 'Overview',
         items: [
           { text: 'Course Guide', link: '/COURSE_GUIDE' },
           { text: '12-Week Roadmap', link: '/ROADMAP' },
@@ -59,7 +59,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '📅 12-Week Program',
+        text: '12-Week Program',
         items: [
           { text: 'Week 1: Sounds & Greetings', link: '/Weeks/Week-01/Days/Day-01' },
           { text: 'Week 2: Personal Info & Identity', link: '/Weeks/Week-02/Days/Day-08' },
@@ -76,7 +76,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '📖 Core Modules',
+        text: 'Core Modules',
         items: [
           { text: 'Grammar Reference (24 Topics)', link: '/Grammar/' },
           { text: 'Vocabulary Bank (950 Words)', link: '/Vocabulary/' },
@@ -84,7 +84,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '🎧 Skills',
+        text: 'Skills',
         items: [
           { text: 'Listening Practice', link: '/Listening/' },
           { text: 'Reading Passages', link: '/Reading/' },
@@ -93,7 +93,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '📝 Practice & Tests',
+        text: 'Practice & Tests',
         items: [
           { text: 'Cheat Sheets (12 Sheets)', link: '/CheatSheets/' },
           { text: 'Weekly Exercises', link: '/Exercises/' },
@@ -107,7 +107,7 @@ export default defineConfig({
     sidebar: {
       '/Weeks/': [
         {
-          text: '📅 Week 1: Sounds & Greetings',
+          text: 'Week 1: Sounds & Greetings',
           collapsed: false,
           items: [
             { text: 'Day 01 — Alphabet & Sounds', link: '/Weeks/Week-01/Days/Day-01' },
@@ -120,7 +120,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 2: Personal Info & Identity',
+          text: 'Week 2: Personal Info & Identity',
           collapsed: true,
           items: [
             { text: 'Day 08 — Introducing Yourself', link: '/Weeks/Week-02/Days/Day-08' },
@@ -133,7 +133,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 3: Family & Possessives',
+          text: 'Week 3: Family & Possessives',
           collapsed: true,
           items: [
             { text: 'Day 15 — Family Vocabulary', link: '/Weeks/Week-03/Days/Day-15' },
@@ -146,7 +146,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 4: Home & Furniture',
+          text: 'Week 4: Home & Furniture',
           collapsed: true,
           items: [
             { text: 'Day 22 — House & Apartment Rooms', link: '/Weeks/Week-04/Days/Day-22' },
@@ -159,7 +159,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 5: Work & Numbers 0-100',
+          text: 'Week 5: Work & Numbers 0-100',
           collapsed: true,
           items: [
             { text: 'Day 29 — Professions & Occupations', link: '/Weeks/Week-05/Days/Day-29' },
@@ -172,7 +172,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 6: Time & Daily Routine',
+          text: 'Week 6: Time & Daily Routine',
           collapsed: true,
           items: [
             { text: 'Day 36 — Clock Time (Official)', link: '/Weeks/Week-06/Days/Day-36' },
@@ -185,7 +185,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 7: Hobbies & Sentence Structure',
+          text: 'Week 7: Hobbies & Sentence Structure',
           collapsed: true,
           items: [
             { text: 'Day 43 — Hobbies & Sports', link: '/Weeks/Week-07/Days/Day-43' },
@@ -198,7 +198,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 8: Food & Accusative Case',
+          text: 'Week 8: Food & Accusative Case',
           collapsed: true,
           items: [
             { text: 'Day 50 — Food & Fruits', link: '/Weeks/Week-08/Days/Day-50' },
@@ -211,7 +211,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 9: Dining Out & Preferences',
+          text: 'Week 9: Dining Out & Preferences',
           collapsed: true,
           items: [
             { text: 'Day 57 — Restaurant Menu', link: '/Weeks/Week-09/Days/Day-57' },
@@ -224,7 +224,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 10: City, Directions & Dative',
+          text: 'Week 10: City, Directions & Dative',
           collapsed: true,
           items: [
             { text: 'Day 64 — City Places', link: '/Weeks/Week-10/Days/Day-64' },
@@ -237,7 +237,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 11: Weather & Modal Verbs',
+          text: 'Week 11: Weather & Modal Verbs',
           collapsed: true,
           items: [
             { text: 'Day 71 — Weather & Seasons', link: '/Weeks/Week-11/Days/Day-71' },
@@ -250,7 +250,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📅 Week 12: Health, Past Tense & Exams',
+          text: 'Week 12: Health, Past Tense & Exams',
           collapsed: true,
           items: [
             { text: 'Day 78 — Body Parts & Symptoms', link: '/Weeks/Week-12/Days/Day-78' },
@@ -266,7 +266,7 @@ export default defineConfig({
 
       '/Grammar/': [
         {
-          text: '📐 Grammar Overview',
+          text: 'Grammar Overview',
           items: [{ text: 'Grammar Index & System', link: '/Grammar/' }]
         },
         {
@@ -307,7 +307,7 @@ export default defineConfig({
 
       '/Vocabulary/': [
         {
-          text: '📙 Vocabulary Overview',
+          text: 'Vocabulary Overview',
           items: [
             { text: 'Vocabulary Hub', link: '/Vocabulary/' },
             { text: 'Master Vocabulary List', link: '/Vocabulary/MASTER_VOCABULARY' },
@@ -348,7 +348,7 @@ export default defineConfig({
 
       '/Pronunciation/': [
         {
-          text: '🗣️ Pronunciation Guides',
+          text: 'Pronunciation Guides',
           items: [
             { text: 'Pronunciation Overview', link: '/Pronunciation/' },
             { text: '01 German Alphabet', link: '/Pronunciation/01-German-Alphabet' },
@@ -369,7 +369,7 @@ export default defineConfig({
 
       '/Listening/': [
         {
-          text: '🎧 Listening Module',
+          text: 'Listening Module',
           items: [
             { text: 'Listening Overview', link: '/Listening/' },
             { text: 'Listening Roadmap', link: '/Listening/LISTENING_ROADMAP' },
@@ -385,7 +385,7 @@ export default defineConfig({
 
       '/Reading/': [
         {
-          text: '📑 Reading Module',
+          text: 'Reading Module',
           items: [
             { text: 'Reading Overview', link: '/Reading/' },
             { text: '01 Words and Signs', link: '/Reading/01-Words-and-Signs' },
@@ -401,7 +401,7 @@ export default defineConfig({
 
       '/Speaking/': [
         {
-          text: '🎙️ Speaking Module',
+          text: 'Speaking Module',
           items: [
             { text: 'Speaking Overview', link: '/Speaking/' },
             { text: 'Speaking Roadmap', link: '/Speaking/SPEAKING_ROADMAP' },
@@ -418,7 +418,7 @@ export default defineConfig({
 
       '/Writing/': [
         {
-          text: '✍️ Writing Module',
+          text: 'Writing Module',
           items: [
             { text: 'Writing Overview', link: '/Writing/' },
             { text: 'Writing Roadmap', link: '/Writing/WRITING_ROADMAP' },
@@ -435,7 +435,7 @@ export default defineConfig({
 
       '/Exercises/': [
         {
-          text: '🎯 Exercises Hub',
+          text: 'Exercises Hub',
           items: [{ text: 'Exercises Index', link: '/Exercises/' }]
         },
         {
@@ -494,7 +494,7 @@ export default defineConfig({
 
       '/CheatSheets/': [
         {
-          text: '📑 Quick Reference Cheat Sheets',
+          text: 'Quick Reference Cheat Sheets',
           items: [
             { text: 'Cheat Sheets Overview', link: '/CheatSheets/' },
             { text: 'Articles and Cases', link: '/CheatSheets/ARTICLES_AND_CASES' },
@@ -514,7 +514,7 @@ export default defineConfig({
 
       '/Exams/': [
         {
-          text: '🧪 Exams & Mock Tests',
+          text: 'Exams & Mock Tests',
           items: [
             { text: 'Exam Preparation Plan', link: '/Exams/EXAM_PREPARATION_PLAN' },
             { text: 'Goethe A1 Exam Guide', link: '/Exams/GOETHE_A1_GUIDE' },
@@ -526,7 +526,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📝 Mock Exam 01',
+          text: 'Mock Exam 01',
           items: [
             { text: 'Mock Exam 01 Hub', link: '/Exams/Mock-Exam-01/' },
             { text: 'Listening Section', link: '/Exams/Mock-Exam-01/Listening' },
@@ -537,7 +537,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📝 Mock Exam 02',
+          text: 'Mock Exam 02',
           items: [
             { text: 'Mock Exam 02 Hub', link: '/Exams/Mock-Exam-02/' },
             { text: 'Listening Section', link: '/Exams/Mock-Exam-02/Listening' },
@@ -551,7 +551,7 @@ export default defineConfig({
 
       '/Flashcards/': [
         {
-          text: '🎴 Flashcards & Anki Decks',
+          text: 'Flashcards & Anki Decks',
           items: [
             { text: 'Flashcards Hub', link: '/Flashcards/' },
             { text: 'Anki Import Guide', link: '/Flashcards/ANKI_IMPORT_GUIDE' }
@@ -561,7 +561,7 @@ export default defineConfig({
 
       '/Resources/': [
         {
-          text: '📚 Resources & Media',
+          text: 'Resources & Media',
           items: [
             { text: 'Resources Hub', link: '/Resources/' },
             { text: 'Core Resources', link: '/Resources/CORE_RESOURCES' },
@@ -575,7 +575,7 @@ export default defineConfig({
           ]
         },
         {
-          text: '📁 Assets & Templates',
+          text: 'Assets & Templates',
           items: [
             { text: 'Assets Overview', link: '/Assets/' },
             { text: 'All Audio Scripts', link: '/Assets/Audio-Scripts/ALL_SCRIPTS' },

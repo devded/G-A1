@@ -3,7 +3,7 @@
     <!-- Header -->
     <div class="quiz-header">
       <div>
-        <div class="quiz-label">✏️ Vocabulary Quiz</div>
+        <div class="quiz-label"><Icon name="edit-3" /> Vocabulary Quiz</div>
         <div class="quiz-sub">Question {{ currentIndex + 1 }} of {{ questions.length }}</div>
       </div>
       <div class="quiz-score-badge">
@@ -23,11 +23,11 @@
         <span class="quiz-score-big">{{ score }}/{{ questions.length }}</span>
       </div>
       <div class="quiz-finish-msg">
-        <span v-if="score === questions.length">🎉 Perfect! Ausgezeichnet!</span>
-        <span v-else-if="score >= questions.length * 0.7">✅ Sehr gut! Well done!</span>
-        <span v-else>💪 Keep practising! Übung macht den Meister!</span>
+        <span v-if="score === questions.length"><Icon name="award" /> Perfect! Ausgezeichnet!</span>
+        <span v-else-if="score >= questions.length * 0.7"><Icon name="check-circle" /> Sehr gut! Well done!</span>
+        <span v-else><Icon name="target" /> Keep practising! Übung macht den Meister!</span>
       </div>
-      <button class="quiz-retry-btn" @click="restart">↩ Try Again</button>
+      <button class="quiz-retry-btn" @click="restart"><Icon name="repeat" /> Try Again</button>
     </div>
 
     <!-- Active question -->
@@ -35,7 +35,7 @@
       <!-- Question with audio button -->
       <div class="quiz-question-row">
         <div class="quiz-question">{{ current.question }}</div>
-        <button class="q-audio-btn" @click="playAudio(current.question)" title="Hear question">🔊</button>
+        <button class="q-audio-btn" @click="playAudio(current.question)" title="Hear question"><Icon name="volume-2" /></button>
       </div>
 
       <div class="quiz-options">
@@ -52,17 +52,17 @@
         >
           <span class="opt-letter">{{ 'ABCD'[i] }}</span>
           <span class="opt-text">{{ opt }}</span>
-          <span v-if="answered && opt === current.answer" class="opt-tick">✅</span>
-          <span v-else-if="answered && opt === selected && opt !== current.answer" class="opt-tick">❌</span>
+          <span v-if="answered && opt === current.answer" class="opt-tick"><Icon name="check-circle" /></span>
+          <span v-else-if="answered && opt === selected && opt !== current.answer" class="opt-tick"><Icon name="x-circle" /></span>
         </button>
       </div>
 
       <!-- Feedback row -->
       <div v-if="answered" class="quiz-feedback" :class="isCorrect ? 'correct' : 'wrong'">
-        <span v-if="isCorrect">✅ Richtig! Correct!</span>
-        <span v-else>❌ Answer: <strong>{{ current.answer }}</strong></span>
+        <span v-if="isCorrect"><Icon name="check-circle" /> Richtig! Correct!</span>
+        <span v-else><Icon name="x-circle" /> Answer: <strong>{{ current.answer }}</strong></span>
         <!-- Play the correct answer aloud after answering -->
-        <button class="q-audio-btn q-audio-ans" @click="playAudio(current.answer)" title="Hear answer">🔊</button>
+        <button class="q-audio-btn q-audio-ans" @click="playAudio(current.answer)" title="Hear answer"><Icon name="volume-2" /></button>
       </div>
 
       <div v-if="answered" style="text-align:center;margin-top:14px">
@@ -382,11 +382,11 @@ function playWrongSound() {
   width: 90px;
   height: 90px;
   border-radius: 50%;
-  background: linear-gradient(135deg, var(--vp-c-brand-1), #f4b942);
+  background: linear-gradient(135deg, var(--vp-c-brand-1), var(--g-gold, #ffb703));
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 8px 24px rgba(230, 57, 70, 0.3);
+  box-shadow: 0 8px 24px rgba(29, 53, 87, 0.22);
 }
 
 .quiz-score-big { color:#fff; font-size:1.4rem; font-weight:800; }
@@ -406,8 +406,8 @@ function playWrongSound() {
 }
 
 .quiz-retry-btn:hover, .quiz-next-btn:hover {
-  background: #c1121f;
+  background: var(--vp-c-brand-2, #16324f);
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(230, 57, 70, 0.35);
+  box-shadow: 0 6px 16px rgba(29, 53, 87, 0.28);
 }
 </style>

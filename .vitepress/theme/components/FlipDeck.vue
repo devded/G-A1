@@ -2,8 +2,8 @@
   <div class="flipdeck-container">
     <div class="flipdeck-header">
       <div>
-        <div class="flipdeck-label">🃏 Vocabulary Flash Cards</div>
-        <div class="flipdeck-sub">Tap card to flip · 🔊 auto-plays on reveal</div>
+        <div class="flipdeck-label"><Icon name="layers" /> Vocabulary Flash Cards</div>
+        <div class="flipdeck-sub">Tap card to flip · <Icon name="volume-2" /> auto-plays on reveal</div>
       </div>
       <div class="flipdeck-progress">
         <span class="flipdeck-index">{{ currentIndex + 1 }} / {{ cards.length }}</span>
@@ -25,7 +25,7 @@
           <div v-if="current.ipa" class="fc-ipa-front">/{{ current.ipa }}/</div>
           <div class="fc-hint">Tap to reveal →</div>
           <!-- Auto-play icon pulse when card first shown -->
-          <div class="fc-autoplay-hint" v-if="!isFlipped">🔈 Listening...</div>
+          <div class="fc-autoplay-hint" v-if="!isFlipped"><Icon name="volume-2" /> Listening...</div>
         </div>
         <!-- Back: English + IPA + Example -->
         <div class="flip-card-back">
@@ -33,7 +33,7 @@
           <div v-if="current.ipa" class="fc-ipa">{{ current.ipa }}</div>
           <div v-if="current.example" class="fc-example">"{{ current.example }}"</div>
           <div class="fc-back-listen" @click.stop="playAudio(current.example || current.german, false)">
-            🔊 Hear example
+            <Icon name="volume-2" /> Hear example
           </div>
         </div>
       </div>
@@ -48,16 +48,16 @@
       </div>
       <div class="flipdeck-listen-row">
         <button class="fc-listen-btn" @click.stop="playAudio(fullWord, false)" title="Normal speed">
-          🔊 Normal
+          <Icon name="volume-2" /> Normal
         </button>
         <button class="fc-listen-btn fc-listen-slow" @click.stop="playAudio(fullWord, true)" title="Slow speed">
-          🐢 Slow
+          <Icon name="volume-2" /> Slow
         </button>
       </div>
     </div>
 
     <div class="flipdeck-tip">
-      ✨ Say the German word aloud before flipping!
+      <Icon name="lightbulb" /> Say the German word aloud before flipping!
     </div>
   </div>
 </template>
@@ -253,13 +253,16 @@ function speechFallback(text, slow) {
 }
 
 .flip-card-front {
-  background: linear-gradient(135deg, #e63946 0%, #c1121f 100%);
+  background: linear-gradient(135deg, #1d3557 0%, #274a72 100%);
   color: #fff;
+  border-top: 3px solid var(--g-gold, #ffb703);
 }
 
 .flip-card-back {
-  background: linear-gradient(135deg, #1d3557 0%, #457b9d 100%);
-  color: #fff;
+  background: var(--vp-c-bg, #fff);
+  border: 1px solid var(--vp-c-divider);
+  border-top: 3px solid var(--g-gold, #ffb703);
+  color: var(--vp-c-text-1);
   transform: rotateY(180deg);
 }
 
@@ -367,17 +370,17 @@ function speechFallback(text, slow) {
 
 .fc-btn:hover:not(:disabled),
 .fc-listen-btn:hover {
-  background: rgba(230, 57, 70, 0.1);
-  border-color: #e63946;
-  color: #e63946;
+  background: var(--vp-c-brand-soft, rgba(29, 53, 87, 0.09));
+  border-color: var(--vp-c-brand-1, #1d3557);
+  color: var(--vp-c-brand-1, #1d3557);
 }
 
 .fc-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
 .fc-btn-restart {
-  background: rgba(230, 57, 70, 0.1);
-  border-color: #e63946;
-  color: #e63946;
+  background: var(--vp-c-brand-soft, rgba(29, 53, 87, 0.09));
+  border-color: var(--vp-c-brand-1, #1d3557);
+  color: var(--vp-c-brand-1, #1d3557);
 }
 
 .fc-listen-slow {
