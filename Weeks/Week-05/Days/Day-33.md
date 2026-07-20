@@ -99,13 +99,13 @@
 In German main clauses, the conjugated verb **MUST be the 2nd element**!  
 If you start the sentence with a **time word** (zuerst, dann, am Montag, um 8 Uhr), the **subject flips to Position 3**!
 
-| Position 1 (Element) | Position 2 (VERB) | Position 3 (Subject) | Rest of Sentence |
+| Position 1 (Element) | Position 2 (VERB) | Position 3 (Subject) | Rest of Sentence <SpeakButton text="Rest of Sentence" /> |
 |:---:|:---:|:---:|:---|
-| **Ich** | **stehe** | — | um 7 Uhr auf. |
-| **Um 7 Uhr** | **stehe** | **ich** | auf. |
-| **Dann** | **frühstücke** | **ich** | in der Küche. |
-| **Am Montag** | **fahre** | **ich** | nach Berlin. |
-| **Zuerst** | **mache** | **ich** | Hausaufgaben. |
+| **Ich** | **stehe** <SpeakButton text="Ich stehe" /> | — | um 7 Uhr auf. |
+| **Um 7 Uhr** | **stehe** | **ich** | auf. <SpeakButton text="auf." /> |
+| **Dann** | **frühstücke** | **ich** | in der Küche. <SpeakButton text="in der Küche." /> |
+| **Am Montag** | **fahre** | **ich** | nach Berlin. <SpeakButton text="nach Berlin." /> |
+| **Zuerst** | **mache** | **ich** | Hausaufgaben. <SpeakButton text="Hausaufgaben." /> |
 
 > <Icon name="target" /> **Notice:** Starting with *dann* or *danach* forces the subject behind the verb: **Dann esse ich...** (NOT: *Dann ich esse...*)!
 

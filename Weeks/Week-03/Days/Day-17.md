@@ -96,13 +96,13 @@
 
 ### All Plural Nouns use **die**!
 
-| Pattern | Singular → Plural | Ending | Example |
+| Pattern | Singular → Plural | Ending | Example <SpeakButton text="Example" /> |
 |:---:|:---:|:---:|:---|
-| **1. No change** | das Fenster → die **Fenster** | - | -er / -el / -en endings |
-| **2. Add -e** | der Tisch → die **Tische** | **-e** | most masculine nouns |
-| **3. Add -er (+ Umlaut)** | das Buch → die **Bücher** | **-er** | most short neuter nouns |
-| **4. Add -(e)n** | die Tür → die **Türen** | **-(e)n** | 90% of feminine nouns |
-| **5. Add -s** | das Sofa → die **Sofas** | **-s** | foreign words & acronyms |
+| **1. No change** | das Fenster → die **Fenster** | - | -er / -el / -en endings <SpeakButton text="-er / -el / -en endings" /> |
+| **2. Add -e** | der Tisch → die **Tische** | **-e** | most masculine nouns <SpeakButton text="most masculine nouns" /> |
+| **3. Add -er (+ Umlaut)** | das Buch → die **Bücher** | **-er** | most short neuter nouns <SpeakButton text="most short neuter nouns" /> |
+| **4. Add -(e)n** | die Tür → die **Türen** | **-(e)n** | 90% of feminine nouns <SpeakButton text="90% of feminine nouns" /> |
+| **5. Add -s** | das Sofa → die **Sofas** | **-s** | foreign words & acronyms <SpeakButton text="foreign words & acronyms" /> |
 
 > <Icon name="lightbulb" /> **Golden Rule:** When learning a new noun, ALWAYS learn: **Article + Singular + Plural**  
 > Example: *das Buch, die Bücher*

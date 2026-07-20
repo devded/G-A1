@@ -100,17 +100,17 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 
 | Pronoun | Form | Example |
 |:---:|:---:|:---|
-| ich | möch**te** | Ich *möchte* einen Kaffee. |
-| du | möch**test** | Was *möchtest* du trinken? |
-| er/sie/es | möch**te** | Er *möchte* ein Bier. |
-| wir | möch**ten** | Wir *möchten* bestellen. |
-| ihr | möch**tet** | Was *möchtet* ihr essen? |
-| Sie/sie | möch**ten** | Was *möchten* Sie, bitte? |
+| ich | möch**te** <SpeakButton text="ich möchte" /> | Ich *möchte* einen Kaffee. |
+| du | möch**test** <SpeakButton text="du möchtest" /> | Was *möchtest* du trinken? |
+| er/sie/es | möch**te** <SpeakButton text="er oder sie oder es möchte" /> | Er *möchte* ein Bier. |
+| wir | möch**ten** <SpeakButton text="wir möchten" /> | Wir *möchten* bestellen. |
+| ihr | möch**tet** <SpeakButton text="ihr möchtet" /> | Was *möchtet* ihr essen? |
+| Sie/sie | möch**ten** <SpeakButton text="Sie oder sie möchten" /> | Was *möchten* Sie, bitte? |
 
 > <Icon name="target" /> **Accusative Reminder:**  
-> • der Kaffee → Ich möchte **einen** Kaffee. (masculine → einen)  
-> • das Wasser → Ich möchte **ein** Wasser. (neuter → ein)  
-> • die Milch → Ich möchte **eine** Milch. (feminine → eine)
+> • der Kaffee → Ich möchte **einen** Kaffee. <SpeakButton text="der Kaffee → Ich möchte einen Kaffee." />(masculine → einen)
+> • das Wasser → Ich möchte **ein** Wasser. <SpeakButton text="das Wasser → Ich möchte ein Wasser." />(neuter → ein)
+> • die Milch → Ich möchte **eine** Milch. <SpeakButton text="die Milch → Ich möchte eine Milch." />(feminine → eine)
 
 </div>
 

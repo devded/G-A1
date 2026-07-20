@@ -99,12 +99,12 @@
 German loves sticking nouns together to create compound words!  
 <Icon name="arrow-right" /> **Golden Rule:** The **LAST noun** determines the gender (article) and plural!
 
-| Word 1 | Word 2 | Compound Noun | Gender Rule |
+| Word 1 | Word 2 | Compound Noun | Gender Rule <SpeakButton text="Gender Rule" /> |
 |:---:|:---:|:---:|:---|
-| das Büro + | der Stuhl = | **der Bürostuhl** | masculine (from Stuhl) |
-| das Handy + | die Nummer = | **die Handynummer** | feminine (from Nummer) |
-| die Firma + | das Auto = | **das Firmenauto** | neuter (from Auto) |
-| die Arbeit + | der Tag = | **der Arbeitstag** | masculine (from Tag) |
+| das Büro + | der Stuhl = | **der Bürostuhl** | masculine (from Stuhl) <SpeakButton text="masculine (from Stuhl)" /> |
+| das Handy + | die Nummer = | **die Handynummer** | feminine (from Nummer) <SpeakButton text="feminine (from Nummer)" /> |
+| die Firma + | das Auto = | **das Firmenauto** | neuter (from Auto) <SpeakButton text="neuter (from Auto)" /> |
+| die Arbeit + | der Tag = | **der Arbeitstag** | masculine (from Tag) <SpeakButton text="masculine (from Tag)" /> |
 
 > <Icon name="lightbulb" /> **Notice:** Sometimes an **-n-** or **-s-** is inserted to join the words smoothly (*Arbeit**s**tag*, *Firme**n**auto*).
 

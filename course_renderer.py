@@ -1,5 +1,51 @@
 import os
 import json
+import re
+
+def process_grammar_content(content):
+    if not content:
+        return ""
+    lines = []
+    for line in content.splitlines():
+        if '<SpeakButton' in line:
+            lines.append(line)
+            continue
+        stripped = line.strip()
+        # Bullet points: > • Ich habe **einen** Bruder. (masculine → einen)
+        if stripped.startswith('> •') or stripped.startswith('•') or stripped.startswith('> -') or (stripped.startswith('-') and not stripped.startswith('---')):
+            m = re.match(r'^(>\s*|\s*)([•\-]\s*)([^(\n\r]+)(.*)$', stripped)
+            if m:
+                prefix = m.group(1) + m.group(2)
+                de_text_raw = m.group(3).strip()
+                rest = m.group(4)
+                de_clean = re.sub(r'[*_`]', '', de_text_raw).strip()
+                if de_clean and not de_clean.lower().startswith('rule') and len(de_clean) > 2:
+                    line = f'{prefix}{de_text_raw} <SpeakButton text="{de_clean}" />{rest}'
+        # Table rows: | ich | hab**e** | /ˈhaːbə/ |
+        elif stripped.startswith('|') and stripped.endswith('|'):
+            cells = [c.strip() for c in stripped.split('|')[1:-1]]
+            if not any(':---' in c or '---:' in c for c in cells) and len(cells) >= 2:
+                col0 = cells[0].lower()
+                if not any(h in col0 for h in ['gender', 'pronoun', 'subject', 'situation', 'sound', 'person']):
+                    p_cell = re.sub(r'[*_`]', '', cells[0]).strip()
+                    v_cell = re.sub(r'[*_`]', '', cells[1]).strip()
+                    if p_cell.lower() in ['ich', 'du', 'er/sie/es', 'er', 'sie', 'es', 'wir', 'ihr', 'sie/sie', 'sie (formal)']:
+                        speak_phrase = f"{p_cell} {v_cell}".replace('/', ' oder ')
+                        cells[1] = f'{cells[1]} <SpeakButton text="{speak_phrase}" />'
+                        line = '| ' + ' | '.join(cells) + ' |'
+                    elif len(cells) >= 4 and cells[-1]:
+                        examples = [ex.strip() for ex in cells[-1].split(',')]
+                        new_examples = []
+                        for ex in examples:
+                            ex_clean = re.sub(r'[*_`]', '', ex).strip()
+                            if ex_clean and not ex_clean.lower().startswith('e.g.') and len(ex_clean) > 1:
+                                new_examples.append(f'{ex} <SpeakButton text="{ex_clean}" />')
+                            else:
+                                new_examples.append(ex)
+                        cells[-1] = ', '.join(new_examples)
+                        line = '| ' + ' | '.join(cells) + ' |'
+        lines.append(line)
+    return '\n'.join(lines)
 
 base_dir = '/home/thededar/Downloads/Workspace/test2/German-A1-Self-Study'
 
@@ -98,7 +144,7 @@ def render_day(d, week_num, max_days=84):
         lines.append('## Step 2 — Grammar Bite (10 min)\n')
         lines.append('<div class="grammar-box">\n')
         lines.append(f'### {d["grammarTitle"]}\n')
-        lines.append(d["grammarContent"].strip())
+        lines.append(process_grammar_content(d["grammarContent"]).strip())
         lines.append('\n</div>\n')
         lines.append('---\n')
         

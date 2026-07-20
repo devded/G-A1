@@ -103,9 +103,9 @@ The A1 Listening exam has **3 Parts (Teile)**:
 3. **Teil 3 (5 Multiple Choice):** Answering machine / voicemail messages. You hear each audio **TWICE**!
 
 ### Golden Exam Strategies for Hören
-- **Strategy 1:** Read questions BEFORE the audio starts! Identify key words.
-- **Strategy 2:** Listen for numbers, times, prices, and names carefully.
-- **Strategy 3:** Don't panic if you miss a word — focus on the overall message!
+- **Strategy 1:** Read questions BEFORE the audio starts! Identify key words. <SpeakButton text="Strategy 1: Read questions BEFORE the audio starts! Identify key words." />
+- **Strategy 2:** Listen for numbers, times, prices, and names carefully. <SpeakButton text="Strategy 2: Listen for numbers, times, prices, and names carefully." />
+- **Strategy 3:** Don't panic if you miss a word — focus on the overall message! <SpeakButton text="Strategy 3: Don't panic if you miss a word — focus on the overall message!" />
 
 </div>
 

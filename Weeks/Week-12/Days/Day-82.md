@@ -102,14 +102,14 @@ You must formulate a **polite request / command** to your partner, and your part
 ### 3 Formulas for Sprechen Teil 3 Requests
 
 1. **Geben Sie mir bitte [Item + Accusative]!**  
-   • *Geben Sie mir bitte den Stift!* → *Ja, hier bitte!*
+• *Geben Sie mir bitte den Stift!* → *Ja, hier bitte!* <SpeakButton text="Geben Sie mir bitte den Stift! → Ja, hier bitte!" />
 2. **Haben Sie [Item + Accusative] für mich?**  
-   • *Haben Sie ein Glas Wasser für mich?* → *Ja, natürlich!*
+• *Haben Sie ein Glas Wasser für mich?* → *Ja, natürlich!* <SpeakButton text="Haben Sie ein Glas Wasser für mich? → Ja, natürlich!" />
 3. **Ich hätte gerne [Item + Accusative], bitte!**  
-   • *Ich hätte gerne einen Apfel, bitte!* → *Bitteschön!*
+• *Ich hätte gerne einen Apfel, bitte!* → *Bitteschön!* <SpeakButton text="Ich hätte gerne einen Apfel, bitte! → Bitteschön!" />
 
 > <Icon name="target" /> **Partner Reactions:**  
-> • *Ja, natürlich! / Ja, gerne! / Hier, bitte! / Tut mir leid, ich habe keinen Stift.*
+> • *Ja, natürlich! / Ja, gerne! / Hier, bitte! / Tut mir leid, ich habe keinen Stift.* <SpeakButton text="Ja, natürlich! / Ja, gerne! / Hier, bitte! / Tut mir leid, ich habe keinen Stift." />
 
 </div>
 

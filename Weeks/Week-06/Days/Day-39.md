@@ -100,19 +100,19 @@ Notice the vowel change **ö → a** in singular forms!
 
 | Pronoun | Form | Pronunciation |
 |:---:|:---:|:---:|
-| ich | k**a**nn | /kan/ |
-| du | k**a**nnst | /kanst/ |
-| er/sie/es | k**a**nn | /kan/ |
-| wir | k**ö**nnen | /ˈkœnən/ |
-| ihr | k**ö**nnt | /kœnt/ |
-| Sie/sie | k**ö**nnen | /ˈkœnən/ |
+| ich | k**a**nn <SpeakButton text="ich kann" /> | /kan/ |
+| du | k**a**nnst <SpeakButton text="du kannst" /> | /kanst/ |
+| er/sie/es | k**a**nn <SpeakButton text="er oder sie oder es kann" /> | /kan/ |
+| wir | k**ö**nnen <SpeakButton text="wir können" /> | /ˈkœnən/ |
+| ihr | k**ö**nnt <SpeakButton text="ihr könnt" /> | /kœnt/ |
+| Sie/sie | k**ö**nnen <SpeakButton text="Sie oder sie können" /> | /ˈkœnən/ |
 
 ### Modal Sentence Bracket (Satzklammer)
 
 The modal verb goes in **Position 2**, and the main verb goes to the **VERY END in infinitive**!
 
-• *Wir* **können** *uns am Samstag im Café* **treffen**.  
-• **Kannst** *du morgen um 15 Uhr kommen?*
+• *Wir* **können** *uns am Samstag im Café* **treffen**. <SpeakButton text="Wir können uns am Samstag im Café treffen." />
+• **Kannst** *du morgen um 15 Uhr kommen?* <SpeakButton text="Kannst du morgen um 15 Uhr kommen?" />
 
 </div>
 

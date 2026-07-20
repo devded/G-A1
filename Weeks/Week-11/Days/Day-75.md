@@ -96,8 +96,8 @@
 
 ### Emergency Numbers in Germany
 
-• **110** = **Polizei** (Police)  
-• **112** = **Feuerwehr & Rettungsdienst** (Fire & Ambulance)
+• **110** = **Polizei** <SpeakButton text="110 = Polizei" />(Police)
+• **112** = **Feuerwehr & Rettungsdienst** <SpeakButton text="112 = Feuerwehr & Rettungsdienst" />(Fire & Ambulance)
 
 ### The 5 'W' Questions of an Emergency Call
 
@@ -110,8 +110,8 @@ When calling 112/110, answer these 5 questions clearly:
 5. **Warten** auf Rückfragen! *(Wait for questions, don't hang up!)*
 
 > <Icon name="alert-triangle" /> **Crucial Phrases:**  
-> • *Rufen Sie den Notarzt!* (Call the emergency doctor!)  
-> • *Es gibt einen Unfall.* (There is an accident.)
+> • *Rufen Sie den Notarzt!* <SpeakButton text="Rufen Sie den Notarzt!" />(Call the emergency doctor!)
+> • *Es gibt einen Unfall.* <SpeakButton text="Es gibt einen Unfall." />(There is an accident.)
 
 </div>
 

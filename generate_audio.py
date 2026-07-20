@@ -296,26 +296,29 @@ async def run(args):
 
     done = skipped = errors = 0
     total = len(texts)
+    sem = asyncio.Semaphore(10)
 
-    for i, (text, variant) in enumerate(texts, 1):
+    async def worker(i, text, variant):
+        nonlocal done, skipped, errors
         rate = SLOW_RATE if variant == "slow" else NORMAL_RATE
         path = audio_path(text, variant, voice_key)
 
         if path.exists():
             skipped += 1
-            continue
+            return
 
-        ok = await generate_one(text, path, voice_key, rate, dry_run)
-        if ok:
-            done += 1
-            if done <= 5 or done % 25 == 0:
-                print(f"  [{i}/{total}] OK: {path.name[:55]}")
-        else:
-            errors += 1
-            print(f"  [{i}/{total}] ERR: {text[:40]}")
+        async with sem:
+            ok = await generate_one(text, path, voice_key, rate, dry_run)
+            if ok:
+                done += 1
+                if done <= 5 or done % 25 == 0 or done == total:
+                    print(f"  [{i}/{total}] OK: {path.name[:55]}")
+            else:
+                errors += 1
+                print(f"  [{i}/{total}] ERR: {text[:40]}")
 
-        if not dry_run and done % 30 == 0:
-            await asyncio.sleep(0.5)
+    tasks = [worker(i, text, variant) for i, (text, variant) in enumerate(texts, 1)]
+    await asyncio.gather(*tasks)
 
     print(f"\nDone={done}  Skipped={skipped}  Errors={errors}")
 

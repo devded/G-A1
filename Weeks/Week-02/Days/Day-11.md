@@ -98,8 +98,8 @@
 
 In German, when saying what someone's job is after *sein* or *arbeiten als*, **DO NOT use an article**!
 
-• English: I am **a** doctor.  
-• German: Ich bin **Arzt**. (NOT: Ich bin *ein* Arzt.)
+• English: I am **a** doctor. <SpeakButton text="English: I am a doctor." />
+• German: Ich bin **Arzt**. <SpeakButton text="German: Ich bin Arzt." />(NOT: Ich bin *ein* Arzt.)
 
 ### Feminine Job Suffix: **-in**
 
@@ -113,8 +113,8 @@ Most female job titles are formed by adding **-in** to the masculine form (and s
 | der Kellner | die Kellner**in** | waiter / waitress |
 
 > <Icon name="message-square" /> **Asking someone's job:**  
-> • Informal: *Was bist du von Beruf?* / *Was machst du?*  
-> • Formal: *Was sind Sie von Beruf?* / *Was arbeiten Sie?*
+> • Informal: *Was bist du von Beruf?* / *Was machst du?* <SpeakButton text="Informal: Was bist du von Beruf? / Was machst du?" />
+> • Formal: *Was sind Sie von Beruf?* / *Was arbeiten Sie?* <SpeakButton text="Formal: Was sind Sie von Beruf? / Was arbeiten Sie?" />
 
 </div>
 

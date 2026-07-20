@@ -98,16 +98,16 @@
 
 | Subject | Masculine / Neuter | Feminine / Plural | Example |
 |:---:|:---:|:---:|:---|
-| **ich** (I) | mein | meine | mein Bruder |
-| **du** (you) | dein | deine | deine Schwester |
-| **er** (he) | **sein** | **seine** | sein Vater / seine Mutter |
-| **sie** (she) | **ihr** | **ihre** | ihr Sohn / ihre Tochter |
-| **wir** (we) | **unser** | **unsere** | unser Haus / unsere Eltern |
-| **Sie** (you, formal) | **Ihr** | **Ihre** | Ihr Mann / Ihre Frau |
+| **ich** (I) | mein | meine | mein Bruder <SpeakButton text="mein Bruder" /> |
+| **du** (you) | dein | deine | deine Schwester <SpeakButton text="deine Schwester" /> |
+| **er** (he) | **sein** | **seine** | sein Vater / seine Mutter <SpeakButton text="sein Vater / seine Mutter" /> |
+| **sie** (she) | **ihr** | **ihre** | ihr Sohn / ihre Tochter <SpeakButton text="ihr Sohn / ihre Tochter" /> |
+| **wir** (we) | **unser** | **unsere** | unser Haus / unsere Eltern <SpeakButton text="unser Haus / unsere Eltern" /> |
+| **Sie** (you, formal) | **Ihr** | **Ihre** | Ihr Mann / Ihre Frau <SpeakButton text="Ihr Mann / Ihre Frau" /> |
 
 > <Icon name="target" /> **Key Distinction:**  
-> • **sein** = his (describing a man's family: Peter und *sein* Bruder)  
-> • **ihr** = her (describing a woman's family: Anna und *ihre* Schwester)
+> • **sein** = his <SpeakButton text="sein = his" />(describing a man's family: Peter und *sein* Bruder)
+> • **ihr** = her <SpeakButton text="ihr = her" />(describing a woman's family: Anna und *ihre* Schwester)
 
 </div>
 

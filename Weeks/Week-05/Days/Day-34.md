@@ -97,12 +97,12 @@
 ### Direction vs. Location: **nach Hause** vs. **zu Hause**
 
 1. **nach Hause** = direction (going / driving / coming home)  
-   • *Ich gehe nach Hause.* (I am walking home.)  
-   • *Er fährt um 17 Uhr nach Hause.* (He drives home at 5 pm.)
+• *Ich gehe nach Hause.* <SpeakButton text="Ich gehe nach Hause." />(I am walking home.)
+• *Er fährt um 17 Uhr nach Hause.* <SpeakButton text="Er fährt um 17 Uhr nach Hause." />(He drives home at 5 pm.)
 
 2. **zu Hause** = static location (being / staying / eating at home)  
-   • *Ich bin zu Hause.* (I am at home.)  
-   • *Wir essen zu Hause.* (We eat at home.)
+• *Ich bin zu Hause.* <SpeakButton text="Ich bin zu Hause." />(I am at home.)
+• *Wir essen zu Hause.* <SpeakButton text="Wir essen zu Hause." />(We eat at home.)
 
 ### Sample Daily Routine Text
 

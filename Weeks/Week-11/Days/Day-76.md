@@ -102,18 +102,18 @@ In spoken German, past events are expressed using the **Perfekt** tense!
 **Subject + Auxiliary (haben/sein Pos 2) + ... + Partizip II (VERY END!)**
 
 ### 1. Auxiliary Selection: **haben** vs. **sein**
-• **90% of verbs use haben:** *Ich habe gearbeitet, gegessen, gemacht, gelesen.*  
-• **Verbs of movement/location change use sein:** *Ich bin gefahren, gegangen, gekommen.*
+• **90% of verbs use haben:** *Ich habe gearbeitet, gegessen, gemacht, gelesen.* <SpeakButton text="90% of verbs use haben: Ich habe gearbeitet, gegessen, gemacht, gelesen." />
+• **Verbs of movement/location change use sein:** *Ich bin gefahren, gegangen, gekommen.* <SpeakButton text="Verbs of movement/location change use sein: Ich bin gefahren, gegangen, gekommen." />
 
 ### 2. Partizip II Formation (Past Participle)
-• **Regular Verbs:** **ge- + stem + -t** (*machen → ge-mach-t*, *kaufen → ge-kauf-t*)  
-• **Irregular Verbs:** **ge- + stem + -en** (*essen → ge-gess-en*, *sehen → ge-seh-en*)
+• **Regular Verbs:** **ge- + stem + -t** <SpeakButton text="Regular Verbs: ge- + stem + -t" />(*machen → ge-mach-t*, *kaufen → ge-kauf-t*)
+• **Irregular Verbs:** **ge- + stem + -en** <SpeakButton text="Irregular Verbs: ge- + stem + -en" />(*essen → ge-gess-en*, *sehen → ge-seh-en*)
 
 | Person | Auxiliary (haben) | Rest | Partizip II (END) |
 |:---:|:---:|:---:|:---:|
-| Ich | **habe** | gestern im Büro | **gearbeitet**. |
-| Er | **hat** | eine Pizza | **gegessen**. |
-| Wir | **sind** | nach Berlin | **gefahren**. |
+| Ich | **habe** <SpeakButton text="Ich habe" /> | gestern im Büro | **gearbeitet**. |
+| Er | **hat** <SpeakButton text="Er hat" /> | eine Pizza | **gegessen**. |
+| Wir | **sind** <SpeakButton text="Wir sind" /> | nach Berlin | **gefahren**. |
 
 </div>
 

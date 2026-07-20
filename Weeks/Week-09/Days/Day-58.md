@@ -96,10 +96,10 @@
 
 ### Asking for Directions
 
-• **Entschuldigung, wie komme ich zum Bahnhof / zur Apotheke?**  
+• **Entschuldigung, wie komme ich zum Bahnhof / zur Apotheke?** <SpeakButton text="Entschuldigung, wie komme ich zum Bahnhof / zur Apotheke?" />
   *(Excuse me, how do I get to the train station / pharmacy?)*  
-• **Wo ist der/die/das [Place], bitte?**  
-• **Wie weit ist es zu Fuß?** *(How far is it on foot?)*
+• **Wo ist der/die/das [Place], bitte?** <SpeakButton text="Wo ist der/die/das [Place], bitte?" />
+• **Wie weit ist es zu Fuß?** * <SpeakButton text="Wie weit ist es zu Fuß?" />(How far is it on foot?)*
 
 ### Giving Directions (Polite Formal: Sie)
 

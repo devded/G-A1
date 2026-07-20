@@ -97,19 +97,19 @@
 ### Sprechen Overview (Group Exam, approx. 15 minutes)
 
 1. **Teil 1 — Sich vorstellen (Introduction):** Introduce yourself using the 7 keyword prompts:
-   - **Name:** *Ich heiße...*
-   - **Alter:** *Ich bin ... Jahre alt.*
-   - **Land:** *Ich komme aus...*
-   - **Wohnort:** *Ich wohne in...*
-   - **Sprachen:** *Ich spreche...*
-   - **Beruf:** *Ich bin... / Ich arbeite als...*
-   - **Hobby:** *Meine Hobbies sind...*
-   - *Plus: Spell your name & state your phone number or postcode!*
+- **Name:** *Ich heiße...* <SpeakButton text="Name: Ich heiße..." />
+- **Alter:** *Ich bin ... Jahre alt.* <SpeakButton text="Alter: Ich bin ... Jahre alt." />
+- **Land:** *Ich komme aus...* <SpeakButton text="Land: Ich komme aus..." />
+- **Wohnort:** *Ich wohne in...* <SpeakButton text="Wohnort: Ich wohne in..." />
+- **Sprachen:** *Ich spreche...* <SpeakButton text="Sprachen: Ich spreche..." />
+- **Beruf:** *Ich bin... / Ich arbeite als...* <SpeakButton text="Beruf: Ich bin... / Ich arbeite als..." />
+- **Hobby:** *Meine Hobbies sind...* <SpeakButton text="Hobby: Meine Hobbies sind..." />
+- *Plus: Spell your name & state your phone number or postcode!* <SpeakButton text="Plus: Spell your name & state your phone number or postcode!" />
 
 2. **Teil 2 — Um Informationen bitten (Ask & Answer Questions):**
-   - Draw a word card (e.g. *Thema: Essen / Card: Brot*)
-   - Ask your partner a W-question: *Essen Sie gerne Brot zum Frühstück?*
-   - Partner answers: *Ja, ich esse morgens gerne Brot.*
+- Draw a word card <SpeakButton text="Draw a word card" />(e.g. *Thema: Essen / Card: Brot*)
+- Ask your partner a W-question: *Essen Sie gerne Brot zum Frühstück?* <SpeakButton text="Ask your partner a W-question: Essen Sie gerne Brot zum Frühstück?" />
+- Partner answers: *Ja, ich esse morgens gerne Brot.* <SpeakButton text="Partner answers: Ja, ich esse morgens gerne Brot." />
 
 </div>
 

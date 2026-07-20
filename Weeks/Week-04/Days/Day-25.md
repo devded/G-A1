@@ -99,12 +99,12 @@
 In English, both mean "to study". In German, they have **strict separate meanings**:
 
 1. **lernen** = to learn / study for a test / acquire any skill  
-   • *Ich lerne Deutsch.* (I am learning German.)  
-   • *Er lernt für die Prüfung.* (He is studying for the exam.)
+• *Ich lerne Deutsch.* <SpeakButton text="Ich lerne Deutsch." />(I am learning German.)
+• *Er lernt für die Prüfung.* <SpeakButton text="Er lernt für die Prüfung." />(He is studying for the exam.)
 
 2. **studieren** = to be enrolled at university in a degree subject  
-   • *Sie studiert Medizin.* (She is a university medicine student.)  
-   • *Ich studiere Informatik.* (I major in Computer Science.)
+• *Sie studiert Medizin.* <SpeakButton text="Sie studiert Medizin." />(She is a university medicine student.)
+• *Ich studiere Informatik.* <SpeakButton text="Ich studiere Informatik." />(I major in Computer Science.)
 
 > <Icon name="alert-triangle" /> **Common Mistake:** Never say *Ich studiere Deutsch* unless you are doing a Bachelor's/Master's degree in German Philology at a university!
 

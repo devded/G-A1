@@ -97,17 +97,17 @@
 ### 3 Ways to Order Food in German
 
 1. **Ich möchte [Food item + Accusative], bitte.**  
-   • *Ich möchte **einen** Salat, bitte.*  
-   • *Ich möchte **eine** Tomatensuppe, bitte.*
+• *Ich möchte **einen** Salat, bitte.* <SpeakButton text="Ich möchte einen Salat, bitte." />
+• *Ich möchte **eine** Tomatensuppe, bitte.* <SpeakButton text="Ich möchte eine Tomatensuppe, bitte." />
 
 2. **Ich nehme [Food item + Accusative].**  
-   • *Ich nehme **ein** Wiener Schnitzel.*  
-   • *Ich nehme **den** Fisch.*
+• *Ich nehme **ein** Wiener Schnitzel.* <SpeakButton text="Ich nehme ein Wiener Schnitzel." />
+• *Ich nehme **den** Fisch.* <SpeakButton text="Ich nehme den Fisch." />
 
 3. **Als [Course] nehme / möchte ich...**  
-   • *Als Vorspeise nehme ich eine Suppe.*  
-   • *Als Hauptspeise nehme ich das Hähnchen.*  
-   • *Als Nachspeise hätte ich gerne ein Eis.*
+• *Als Vorspeise nehme ich eine Suppe.* <SpeakButton text="Als Vorspeise nehme ich eine Suppe." />
+• *Als Hauptspeise nehme ich das Hähnchen.* <SpeakButton text="Als Hauptspeise nehme ich das Hähnchen." />
+• *Als Nachspeise hätte ich gerne ein Eis.* <SpeakButton text="Als Nachspeise hätte ich gerne ein Eis." />
 
 </div>
 

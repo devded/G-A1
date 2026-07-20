@@ -98,14 +98,14 @@
 
 In German present tense, irregular verbs change their vowel in the **2nd (du)** and **3rd (er/sie/es)** person singular only! *ich, wir, ihr, sie/Sie* remain regular!
 
-| Change Pattern | Verb | du (you) | er/sie/es (he/she/it) |
+| Change Pattern | Verb | du (you) | er/sie/es (he/she/it) <SpeakButton text="er/sie/es (he/she/it)" /> |
 |:---:|:---:|:---:|:---:|
-| **e → ie** | **lesen** | du l**ie**st | er l**ie**st |
-| **e → ie** | **sehen** | du s**ie**hst | er s**ie**ht |
-| **e → i** | **sprechen** | du sp**ri**chst | er sp**ri**cht |
-| **e → i** | **essen** | du **is**st | er **is**st |
-| **a → ä** | **fahren** | du f**ä**hrst | er f**ä**hrt |
-| **a → ä** | **schlafen** | du schl**ä**fst | er schl**ä**ft |
+| **e → ie** | **lesen** | du l**ie**st | er l**ie**st <SpeakButton text="er liest" /> |
+| **e → ie** | **sehen** | du s**ie**hst | er s**ie**ht <SpeakButton text="er sieht" /> |
+| **e → i** | **sprechen** | du sp**ri**chst | er sp**ri**cht <SpeakButton text="er spricht" /> |
+| **e → i** | **essen** | du **is**st | er **is**st <SpeakButton text="er isst" /> |
+| **a → ä** | **fahren** | du f**ä**hrst | er f**ä**hrt <SpeakButton text="er fährt" /> |
+| **a → ä** | **schlafen** | du schl**ä**fst | er schl**ä**ft <SpeakButton text="er schläft" /> |
 
 > <Icon name="target" /> **Notice:** *ich lese*, *wir lesen*, *ihr lest* — NO change for these forms!
 

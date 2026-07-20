@@ -103,9 +103,9 @@ The A1 Reading exam has **3 Parts (Teile)**:
 3. **Teil 3 (5 True/False):** Read short public notices, signs, or classified ads (e.g. opening hours, rules) and evaluate statements.
 
 ### Golden Exam Strategies for Lesen
-- **Strategy 1:** Read the task/question FIRST!
-- **Strategy 2:** Look for **synonyms** (e.g. question says *am Abend*, text says *um 20 Uhr*).
-- **Strategy 3:** Don't get stuck on unknown words — scan for keywords!
+- **Strategy 1:** Read the task/question FIRST! <SpeakButton text="Strategy 1: Read the task/question FIRST!" />
+- **Strategy 2:** Look for **synonyms** <SpeakButton text="Strategy 2: Look for synonyms" />(e.g. question says *am Abend*, text says *um 20 Uhr*).
+- **Strategy 3:** Don't get stuck on unknown words — scan for keywords! <SpeakButton text="Strategy 3: Don't get stuck on unknown words — scan for keywords!" />
 
 </div>
 

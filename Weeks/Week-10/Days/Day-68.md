@@ -98,18 +98,18 @@
 
 Remember: In all 6 modals, **ich** and **er/sie/es** have identical forms, and singular forms change vowels!
 
-| Infinitive | Meaning | ich / er / sie / es | du |
+| Infinitive | Meaning | ich / er / sie / es | du <SpeakButton text="du" /> |
 |:---:|:---:|:---:|:---:|
-| **können** | can / ability | **kann** | kannst |
-| **müssen** | must / necessity | **muss** | musst |
-| **dürfen** | may / permission | **darf** | darfst |
-| **sollen** | should / recommendation | **soll** | sollst |
-| **wollen** | want / intention | **will** | willst |
-| **mögen** | like | **mag** | magst |
+| **können** | can / ability | **kann** | kannst <SpeakButton text="kannst" /> |
+| **müssen** | must / necessity | **muss** | musst <SpeakButton text="musst" /> |
+| **dürfen** | may / permission | **darf** | darfst <SpeakButton text="darfst" /> |
+| **sollen** | should / recommendation | **soll** | sollst <SpeakButton text="sollst" /> |
+| **wollen** | want / intention | **will** | willst <SpeakButton text="willst" /> |
+| **mögen** | like | **mag** | magst <SpeakButton text="magst" /> |
 
 > <Icon name="target" /> **Sentence Structure Rule:**  
 > Modal verb in **Position 2** + Main verb in **Infinitive at the VERY END**!  
-> • *Ich* **will** *heute Abend ins Kino* **gehen**.
+> • *Ich* **will** *heute Abend ins Kino* **gehen**. <SpeakButton text="Ich will heute Abend ins Kino gehen." />
 
 </div>
 

@@ -100,13 +100,13 @@ Dative is used for **location (Wo?)** and after direction prepositions like **zu
 
 | Gender | Nominative | Dative | Contraction Formula |
 |:---:|:---:|:---:|:---|
-| **Masculine** | der | **dem** | in + dem = **im** / bei + dem = **beim** / zu + dem = **zum** |
-| **Neuter** | das | **dem** | in + dem = **im** / zu + dem = **zum** |
-| **Feminine** | die | **der** | zu + der = **zur** / in + der = **in der** |
+| **Masculine** | der | **dem** | in + dem = **im** / bei + dem = **beim** / zu + dem = **zum** <SpeakButton text="in + dem = im / bei + dem = beim / zu + dem = zum" /> |
+| **Neuter** | das | **dem** | in + dem = **im** / zu + dem = **zum** <SpeakButton text="in + dem = im / zu + dem = zum" /> |
+| **Feminine** | die | **der** | zu + der = **zur** / in + der = **in der** <SpeakButton text="zu + der = zur / in + der = in der" /> |
 
 > <Icon name="target" /> **Master Rule for 'to the' (direction):**  
-> • Masculine / Neuter: **zum** (*zum Bahnhof*, *zum Krankenhaus*)  
-> • Feminine: **zur** (*zur Apotheke*, *zur Bank*, *zur Post*)
+> • Masculine / Neuter: **zum** <SpeakButton text="Masculine / Neuter: zum" />(*zum Bahnhof*, *zum Krankenhaus*)
+> • Feminine: **zur** <SpeakButton text="Feminine: zur" />(*zur Apotheke*, *zur Bank*, *zur Post*)
 
 </div>
 

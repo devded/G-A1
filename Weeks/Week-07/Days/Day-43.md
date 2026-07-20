@@ -98,14 +98,14 @@
 
 When talking about food in general (without specifying a particular item), **do not use an article**:
 
-• *Ich esse gerne* **Brot**. (I like eating bread.)  
-• *Ich esse kein* **Fleisch**. (I eat no meat.)  
-• **Obst und Gemüse** *sind gesund.* (Fruit and vegetables are healthy.)
+• *Ich esse gerne* **Brot**. <SpeakButton text="Ich esse gerne Brot." />(I like eating bread.)
+• *Ich esse kein* **Fleisch**. <SpeakButton text="Ich esse kein Fleisch." />(I eat no meat.)
+• **Obst und Gemüse** *sind gesund.* <SpeakButton text="Obst und Gemüse sind gesund." />(Fruit and vegetables are healthy.)
 
 ### Collective Nouns in German
 
-• **das Obst** = fruit in general (singular only!)  
-• **das Gemüse** = vegetables in general (singular only!)
+• **das Obst** = fruit in general <SpeakButton text="das Obst = fruit in general" />(singular only!)
+• **das Gemüse** = vegetables in general <SpeakButton text="das Gemüse = vegetables in general" />(singular only!)
 
 </div>
 

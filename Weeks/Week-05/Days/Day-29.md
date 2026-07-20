@@ -98,10 +98,10 @@
 
 In official contexts (train stations, news, schedules), German uses the 24-hour clock:
 
-• 08:00 → **Es ist acht Uhr.**  
-• 08:15 → **Es ist acht Uhr fünfzehn.**  
-• 14:30 → **Es ist vierzehn Uhr dreißig.**  
-• 19:45 → **Es ist neunzehn Uhr fünfundvierzig.**
+• 08:00 → **Es ist acht Uhr.** <SpeakButton text="08:00 → Es ist acht Uhr." />
+• 08:15 → **Es ist acht Uhr fünfzehn.** <SpeakButton text="08:15 → Es ist acht Uhr fünfzehn." />
+• 14:30 → **Es ist vierzehn Uhr dreißig.** <SpeakButton text="14:30 → Es ist vierzehn Uhr dreißig." />
+• 19:45 → **Es ist neunzehn Uhr fünfundvierzig.** <SpeakButton text="19:45 → Es ist neunzehn Uhr fünfundvierzig." />
 
 ### Time Prepositions
 

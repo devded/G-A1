@@ -100,15 +100,15 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 
 | Pronoun | Form | Example |
 |:---:|:---:|:---|
-| ich | fühle **mich** | Ich fühle *mich* schlecht. |
-| du | fühlst **dich** | Wie fühlst du *dich*? |
-| er/sie/es | fühlt **sich** | Er fühlt *sich* krank. |
-| wir | fühlen **uns** | Wir fühlen *uns* gut. |
+| ich | fühle **mich** <SpeakButton text="ich fühle mich" /> | Ich fühle *mich* schlecht. |
+| du | fühlst **dich** <SpeakButton text="du fühlst dich" /> | Wie fühlst du *dich*? |
+| er/sie/es | fühlt **sich** <SpeakButton text="er oder sie oder es fühlt sich" /> | Er fühlt *sich* krank. |
+| wir | fühlen **uns** <SpeakButton text="wir fühlen uns" /> | Wir fühlen *uns* gut. |
 
 > <Icon name="message-square" /> **Common Illness Expressions:**  
-> • *Ich habe eine Erkältung.* (I have a cold.)  
-> • *Ich habe Fieber / Husten / Schnupfen.*  
-> • *Mir ist schlecht / schwindlig.* (I feel nauseous / dizzy.)
+> • *Ich habe eine Erkältung.* <SpeakButton text="Ich habe eine Erkältung." />(I have a cold.)
+> • *Ich habe Fieber / Husten / Schnupfen.* <SpeakButton text="Ich habe Fieber / Husten / Schnupfen." />
+> • *Mir ist schlecht / schwindlig.* <SpeakButton text="Mir ist schlecht / schwindlig." />(I feel nauseous / dizzy.)
 
 </div>
 

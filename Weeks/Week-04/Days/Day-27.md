@@ -104,8 +104,8 @@
 | **Suchst du eine neue Stelle?** | Ja, ich suche eine Stelle in Berlin. |
 
 > <Icon name="target" /> **Expressing Opinion:**  
-> • *Ich finde den Job super.* (I think the job is great.)  
-> • *Die Arbeit ist sehr anstrengend.* (The work is very demanding.)
+> • *Ich finde den Job super.* <SpeakButton text="Ich finde den Job super." />(I think the job is great.)
+> • *Die Arbeit ist sehr anstrengend.* <SpeakButton text="Die Arbeit ist sehr anstrengend." />(The work is very demanding.)
 
 </div>
 

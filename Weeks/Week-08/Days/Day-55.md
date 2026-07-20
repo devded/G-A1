@@ -108,8 +108,8 @@
 
 > <Icon name="target" /> **Predicate Adjectives (After sein):**  
 > Just like room adjectives, colours placed AFTER *ist* or *sind* take **NO endings**!  
-> • *Das Hemd ist weiß.*  
-> • *Die Schuhe sind schwarz.*
+> • *Das Hemd ist weiß.* <SpeakButton text="Das Hemd ist weiß." />
+> • *Die Schuhe sind schwarz.* <SpeakButton text="Die Schuhe sind schwarz." />
 
 </div>
 

@@ -106,9 +106,9 @@
 > **Kassiererin:** *Danke, gleichfalls! Tschüss!*
 
 ### Useful Shopping Phrases
-• **Kann ich mit Karte zahlen?** (Can I pay by card?)  
-• **Brauchen Sie eine Tüte?** (Do you need a bag?)  
-• **Brauchen Sie den Kassenbon / die Quittung?** (Do you need the receipt?)
+• **Kann ich mit Karte zahlen?** <SpeakButton text="Kann ich mit Karte zahlen?" />(Can I pay by card?)
+• **Brauchen Sie eine Tüte?** <SpeakButton text="Brauchen Sie eine Tüte?" />(Do you need a bag?)
+• **Brauchen Sie den Kassenbon / die Quittung?** <SpeakButton text="Brauchen Sie den Kassenbon / die Quittung?" />(Do you need the receipt?)
 
 </div>
 

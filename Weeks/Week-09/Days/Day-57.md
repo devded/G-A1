@@ -96,15 +96,15 @@
 
 ### Asking About City Places
 
-• **Wo ist [Definite Noun]?**  
-  - *Wo ist **der** Bahnhof?*  
-  - *Wo ist **die** Apotheke?*  
-  - *Wo ist **das** Rathaus?*
+• **Wo ist [Definite Noun]?** <SpeakButton text="Wo ist [Definite Noun]?" />
+- *Wo ist **der** Bahnhof?* <SpeakButton text="Wo ist der Bahnhof?" />
+- *Wo ist **die** Apotheke?* <SpeakButton text="Wo ist die Apotheke?" />
+- *Wo ist **das** Rathaus?* <SpeakButton text="Wo ist das Rathaus?" />
 
-• **Gibt es hier [Accusative Noun]?**  
-  - *Gibt es hier **einen** Supermarkt?* (masculine → einen)  
-  - *Gibt es hier **eine** Bank?* (feminine → eine)  
-  - *Gibt es hier **ein** Krankenhaus?* (neuter → ein)
+• **Gibt es hier [Accusative Noun]?** <SpeakButton text="Gibt es hier [Accusative Noun]?" />
+- *Gibt es hier **einen** Supermarkt?* <SpeakButton text="Gibt es hier einen Supermarkt?" />(masculine → einen)
+- *Gibt es hier **eine** Bank?* <SpeakButton text="Gibt es hier eine Bank?" />(feminine → eine)
+- *Gibt es hier **ein** Krankenhaus?* <SpeakButton text="Gibt es hier ein Krankenhaus?" />(neuter → ein)
 
 </div>
 

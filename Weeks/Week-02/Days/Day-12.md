@@ -108,10 +108,10 @@ In German, numbers from 21 onwards are spoken **backwards**:
 | **89** | 9 + and + 80 | neunundachtzig |
 
 > <Icon name="alert-triangle" /> **Watch Out:**  
-> • 21 is *ein*undzwanzig (no 's' on eins!)  
-> • 30 is *drei**ß**ig* (uses 'ß', not 'z')  
-> • 60 is *sechzig* (drops 's' from sechs)  
-> • 70 is *siebzig* (drops 'en' from sieben)
+> • 21 is *ein*undzwanzig <SpeakButton text="21 is einundzwanzig" />(no 's' on eins!)
+> • 30 is *drei**ß**ig* <SpeakButton text="30 is dreißig" />(uses 'ß', not 'z')
+> • 60 is *sechzig* <SpeakButton text="60 is sechzig" />(drops 's' from sechs)
+> • 70 is *siebzig* <SpeakButton text="70 is siebzig" />(drops 'en' from sieben)
 
 </div>
 

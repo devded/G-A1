@@ -97,15 +97,15 @@
 ### 2 Ways to Say Something Hurts in German
 
 1. **[Body part] tut weh** (Singular) / **[Body parts] tun weh** (Plural):  
-   • *Mein Kopf **tut weh**.* (My head hurts.)  
-   • *Meine Augen **tun weh**.* (My eyes hurt.)
+• *Mein Kopf **tut weh**.* <SpeakButton text="Mein Kopf tut weh." />(My head hurts.)
+• *Meine Augen **tun weh**.* <SpeakButton text="Meine Augen tun weh." />(My eyes hurt.)
 
 2. **Ich habe + [Body Part]schmerzen:**  
-   • **Kopfschmerzen** = headache (*Ich habe Kopfschmerzen.*)  
-   • **Bauchschmerzen** = stomach ache  
-   • **Rückenschmerzen** = back ache  
-   • **Zahnschmerzen** = toothache  
-   • **Halsschmerzen** = sore throat
+• **Kopfschmerzen** = headache <SpeakButton text="Kopfschmerzen = headache" />(*Ich habe Kopfschmerzen.*)
+• **Bauchschmerzen** = stomach ache <SpeakButton text="Bauchschmerzen = stomach ache" />
+• **Rückenschmerzen** = back ache <SpeakButton text="Rückenschmerzen = back ache" />
+• **Zahnschmerzen** = toothache <SpeakButton text="Zahnschmerzen = toothache" />
+• **Halsschmerzen** = sore throat <SpeakButton text="Halsschmerzen = sore throat" />
 
 </div>
 

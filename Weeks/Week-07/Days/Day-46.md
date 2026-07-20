@@ -98,14 +98,14 @@
 
 In English, you say "a kilo **of** apples" or "a bottle **of** water". In German, **do NOT use 'von'**! Just put the quantity right before the item:
 
-• **ein Kilo Äpfel** = a kilo of apples  
-• **eine Flasche Wasser** = a bottle of water  
-• **ein Stück Kuchen** = a piece of cake  
-• **eine Packung Reis** = a packet of rice  
-• **ein Glas Saft** = a glass of juice
+• **ein Kilo Äpfel** = a kilo of apples <SpeakButton text="ein Kilo Äpfel = a kilo of apples" />
+• **eine Flasche Wasser** = a bottle of water <SpeakButton text="eine Flasche Wasser = a bottle of water" />
+• **ein Stück Kuchen** = a piece of cake <SpeakButton text="ein Stück Kuchen = a piece of cake" />
+• **eine Packung Reis** = a packet of rice <SpeakButton text="eine Packung Reis = a packet of rice" />
+• **ein Glas Saft** = a glass of juice <SpeakButton text="ein Glas Saft = a glass of juice" />
 
 > <Icon name="target" /> **Plural of Quantities:**  
-> • Units of measurement stay **singular** after numbers: *zwei Kilo Äpfel* (NOT *zwei Kilos*), *drei Glas Wasser*!
+> • Units of measurement stay **singular** after numbers: *zwei Kilo Äpfel* <SpeakButton text="Units of measurement stay singular after numbers: zwei Kilo Äpfel" />(NOT *zwei Kilos*), *drei Glas Wasser*!
 
 </div>
 

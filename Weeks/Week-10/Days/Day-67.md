@@ -100,19 +100,19 @@ Notice the **umlaut drops** in all singular forms!
 
 | Pronoun | **müssen** (must) | **dürfen** (may) |
 |:---:|:---:|:---:|
-| ich | m**u**ss | d**a**rf |
-| du | m**u**sst | d**a**rfst |
-| er/sie/es | m**u**ss | d**a**rf |
-| wir | m**ü**ssen | d**ü**rfen |
-| ihr | m**ü**sst | d**ü**rft |
-| Sie/sie | m**ü**ssen | d**ü**rfen |
+| ich | m**u**ss <SpeakButton text="ich muss" /> | d**a**rf |
+| du | m**u**sst <SpeakButton text="du musst" /> | d**a**rfst |
+| er/sie/es | m**u**ss <SpeakButton text="er oder sie oder es muss" /> | d**a**rf |
+| wir | m**ü**ssen <SpeakButton text="wir müssen" /> | d**ü**rfen |
+| ihr | m**ü**sst <SpeakButton text="ihr müsst" /> | d**ü**rft |
+| Sie/sie | m**ü**ssen <SpeakButton text="Sie oder sie müssen" /> | d**ü**rfen |
 
 ### Negation Difference: nicht müssen vs. nicht dürfen!
 
-• **nicht müssen** = don't have to (no obligation)  
-  - *Du musst nicht kommen.* (You don't have to come.)  
-• **nicht dürfen** = MUST NOT (prohibition!)  
-  - *Du darfst hier nicht rauchen!* (You must not smoke here!)
+• **nicht müssen** = don't have to <SpeakButton text="nicht müssen = don't have to" />(no obligation)
+- *Du musst nicht kommen.* <SpeakButton text="Du musst nicht kommen." />(You don't have to come.)
+• **nicht dürfen** = MUST NOT <SpeakButton text="nicht dürfen = MUST NOT" />(prohibition!)
+- *Du darfst hier nicht rauchen!* <SpeakButton text="Du darfst hier nicht rauchen!" />(You must not smoke here!)
 
 </div>
 

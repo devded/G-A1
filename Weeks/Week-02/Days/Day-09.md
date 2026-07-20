@@ -98,14 +98,14 @@
 
 | Gender | my | your (informal) | Example |
 |:---:|:---:|:---:|:---|
-| **Masculine** | **mein** | **dein** | mein Vater, dein Opa |
-| **Feminine** | **meine** | **deine** | meine Mutter, deine Oma |
-| **Neuter** | **mein** | **dein** | mein Kind, dein Baby |
-| **Plural** | **meine** | **deine** | meine Eltern, deine Tanten |
+| **Masculine** | **mein** | **dein** | mein Vater <SpeakButton text="mein Vater" />, dein Opa <SpeakButton text="dein Opa" /> |
+| **Feminine** | **meine** | **deine** | meine Mutter <SpeakButton text="meine Mutter" />, deine Oma <SpeakButton text="deine Oma" /> |
+| **Neuter** | **mein** | **dein** | mein Kind <SpeakButton text="mein Kind" />, dein Baby <SpeakButton text="dein Baby" /> |
+| **Plural** | **meine** | **deine** | meine Eltern <SpeakButton text="meine Eltern" />, deine Tanten <SpeakButton text="deine Tanten" /> |
 
 > <Icon name="lightbulb" /> **Golden Rule:** If the noun is **feminine or plural**, add **-e**!  
-> • mein Sohn (masc) vs. meine Tochter (fem)  
-> • dein Opa (masc) vs. deine Oma (fem)
+> • mein Sohn <SpeakButton text="mein Sohn" />(masc) vs. meine Tochter (fem)
+> • dein Opa <SpeakButton text="dein Opa" />(masc) vs. deine Oma (fem)
 
 </div>
 

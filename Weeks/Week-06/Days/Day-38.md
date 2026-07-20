@@ -98,20 +98,20 @@
 
 German uses adverbs right after the main verb to show how much you like an activity:
 
-| Level | Adverb | Meaning | Example |
+| Level | Adverb | Meaning | Example <SpeakButton text="Example" /> |
 |:---:|:---:|:---:|:---|
-| **Level 1** | **gern(e)** | like to | Ich spiele *gerne* Tennis. |
-| **Level 2** | **lieber** | prefer to | Ich spiele *lieber* Fußball. |
-| **Level 3** | **am liebsten** | like best | *Am liebsten* spiele ich Basketball. |
+| **Level 1** | **gern(e)** | like to | Ich spiele *gerne* Tennis. <SpeakButton text="Ich spiele gerne Tennis." /> |
+| **Level 2** | **lieber** | prefer to | Ich spiele *lieber* Fußball. <SpeakButton text="Ich spiele lieber Fußball." /> |
+| **Level 3** | **am liebsten** | like best | *Am liebsten* spiele ich Basketball. <SpeakButton text="Am liebsten spiele ich Basketball." /> |
 
 ### Comparison Structure with **als** (than)
 
-• *Ich trinke lieber Tee* **als** *Kaffee.* (I prefer drinking tea to coffee.)  
-• *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* (He prefers reading books to watching TV.)
+• *Ich trinke lieber Tee* **als** *Kaffee.* <SpeakButton text="Ich trinke lieber Tee als Kaffee." />(I prefer drinking tea to coffee.)
+• *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* <SpeakButton text="Er liest lieber Bücher als Fernsehen zu schauen." />(He prefers reading books to watching TV.)
 
 > <Icon name="alert-triangle" /> **Difference between mögen & gern:**  
-> • **mögen + Noun:** *Ich mag Pizza.* (I like pizza.)  
-> • **Verb + gern:** *Ich esse gern Pizza.* (I like eating pizza.)
+> • **mögen + Noun:** *Ich mag Pizza.* <SpeakButton text="mögen + Noun: Ich mag Pizza." />(I like pizza.)
+> • **Verb + gern:** *Ich esse gern Pizza.* <SpeakButton text="Verb + gern: Ich esse gern Pizza." />(I like eating pizza.)
 
 </div>
 

@@ -101,13 +101,13 @@ In German, *es gibt* means both "there is" and "there are".
 
 | Gender | Positive (a / an) | Negative (no / not a) | Example |
 |:---:|:---:|:---:|:---|
-| **Masculine** | es gibt **einen** | es gibt **keinen** | Es gibt *einen* Balkon. |
-| **Feminine** | es gibt **eine** | es gibt **keine** | Es gibt *eine* Küche. |
-| **Neuter** | es gibt **ein** | es gibt **kein** | Es gibt *ein* Bad. |
-| **Plural** | es gibt | es gibt **keine** | Es gibt *drei* Zimmer. |
+| **Masculine** | es gibt **einen** | es gibt **keinen** | Es gibt *einen* Balkon. <SpeakButton text="Es gibt einen Balkon." /> |
+| **Feminine** | es gibt **eine** | es gibt **keine** | Es gibt *eine* Küche. <SpeakButton text="Es gibt eine Küche." /> |
+| **Neuter** | es gibt **ein** | es gibt **kein** | Es gibt *ein* Bad. <SpeakButton text="Es gibt ein Bad." /> |
+| **Plural** | es gibt | es gibt **keine** | Es gibt *drei* Zimmer. <SpeakButton text="Es gibt drei Zimmer." /> |
 
 > <Icon name="message-square" /> **Asking questions:**  
-> • *Gibt es einen Balkon?* → Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon.
+> • *Gibt es einen Balkon?* → Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon. <SpeakButton text="Gibt es einen Balkon? → Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon." />
 
 </div>
 
