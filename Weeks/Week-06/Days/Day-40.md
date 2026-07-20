@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-06/Days/Day-39">← Day 39</a>
-  <span class="day-center">📅 Week 6 · Day 40 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 6 · Day 40 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-06/Days/Day-41">Day 41 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 6 · Day 40</div>
-    <div class="day-title">Duration with 'seit' & Frequency Adverbs</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,31 +88,31 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
 ### Ongoing Duration with 'seit' + Present Tense
 
-### ⚠️ CRITICAL Difference: English Present Perfect vs. German Present Tense!
+### CRITICAL Difference: English Present Perfect vs. German Present Tense!
 
 In English, ongoing actions use **have been doing**:  
 • *"I have been living in Berlin for 2 years."*
 
 In German, use **seit + Present Tense**!  
-👉 **Formula: Present Tense Verb + seit + Time Period**
+<Icon name="arrow-right" /> **Formula: Present Tense Verb + seit + Time Period**
 
 • *Ich wohne seit zwei Jahren in Berlin.* (I have lived in Berlin for 2 years.)  
 • *Er lernt seit drei Monaten Deutsch.* (He has been learning German for 3 months.)
 
-> 💡 **Frequency Scale:**  
+> <Icon name="lightbulb" /> **Frequency Scale:**  
 > **täglich** (daily) → **regelmäßig** (regularly) → **meistens** (mostly) → **ab und zu** (now & then) → **selten** (rarely) → **nie** (never)
 
 </div>
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -144,10 +132,10 @@ In German, use **seit + Present Tense**!
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I know to use present tense + seit for ongoing duration</li>
   <li>I know frequency adverbs: täglich, regelmäßig, meistens, ab und zu</li>
@@ -156,7 +144,7 @@ In German, use **seit + Present Tense**!
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 41):** Hobby & Free Time Dialogue!
+> <Icon name="arrow-right" /> **Tomorrow (Day 41):** Hobby & Free Time Dialogue!
 
 <div class="day-nav">
   <a href="/Weeks/Week-06/Days/Day-39">← Day 39</a>

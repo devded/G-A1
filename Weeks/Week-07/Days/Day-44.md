@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-07/Days/Day-43">← Day 43</a>
-  <span class="day-center">📅 Week 7 · Day 44 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 7 · Day 44 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-07/Days/Day-45">Day 45 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 7 · Day 44</div>
-    <div class="day-title">Drinks, Breakfast & Verb möchten</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -119,7 +107,7 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 | ihr | möch**tet** | Was *möchtet* ihr essen? |
 | Sie/sie | möch**ten** | Was *möchten* Sie, bitte? |
 
-> 🎯 **Accusative Reminder:**  
+> <Icon name="target" /> **Accusative Reminder:**  
 > • der Kaffee → Ich möchte **einen** Kaffee. (masculine → einen)  
 > • das Wasser → Ich möchte **ein** Wasser. (neuter → ein)  
 > • die Milch → Ich möchte **eine** Milch. (feminine → eine)
@@ -128,7 +116,7 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -148,10 +136,10 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I know 7 common drinks and 'das Frühstück'</li>
   <li>I can conjugate the polite verb möchten</li>
@@ -160,7 +148,7 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 45):** Deep dive into the Accusative Case (kaufen, brauchen, essen)!
+> <Icon name="arrow-right" /> **Tomorrow (Day 45):** Deep dive into the Accusative Case (kaufen, brauchen, essen)!
 
 <div class="day-nav">
   <a href="/Weeks/Week-07/Days/Day-43">← Day 43</a>

@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-06/Days/Day-37">← Day 37</a>
-  <span class="day-center">📅 Week 6 · Day 38 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 6 · Day 38 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-06/Days/Day-39">Day 39 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 6 · Day 38</div>
-    <div class="day-title">Expressing Preferences: gern, lieber, am liebsten</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -121,7 +109,7 @@ German uses adverbs right after the main verb to show how much you like an activ
 • *Ich trinke lieber Tee* **als** *Kaffee.* (I prefer drinking tea to coffee.)  
 • *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* (He prefers reading books to watching TV.)
 
-> ⚠️ **Difference between mögen & gern:**  
+> <Icon name="alert-triangle" /> **Difference between mögen & gern:**  
 > • **mögen + Noun:** *Ich mag Pizza.* (I like pizza.)  
 > • **Verb + gern:** *Ich esse gern Pizza.* (I like eating pizza.)
 
@@ -129,7 +117,7 @@ German uses adverbs right after the main verb to show how much you like an activ
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -149,10 +137,10 @@ German uses adverbs right after the main verb to show how much you like an activ
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I know the 3 preference levels: gern → lieber → am liebsten</li>
   <li>I know how to compare two activities using 'als'</li>
@@ -161,7 +149,7 @@ German uses adverbs right after the main verb to show how much you like an activ
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 39):** Making social plans and arranging appointments with modal verb können!
+> <Icon name="arrow-right" /> **Tomorrow (Day 39):** Making social plans and arranging appointments with modal verb können!
 
 <div class="day-nav">
   <a href="/Weeks/Week-06/Days/Day-37">← Day 37</a>
