@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das Badezimmer ist ___ (on the left). → <details><summary>Answer</summary>**links** <SpeakButton text="links" /></details>
-**2.** Die Küche ist ___ (on the right). → <details><summary>Answer</summary>**rechts** <SpeakButton text="rechts" /></details>
-**3.** Das Schlafzimmer ist ___ (upstairs). → <details><summary>Answer</summary>**oben** <SpeakButton text="oben" /></details>
-**4.** Der Tisch steht ___ (next to) dem Bett. → <details><summary>Answer</summary>**neben** <SpeakButton text="neben" /></details>
-**5.** Gehen Sie ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="geradeaus" /></details>
+**1.** Das Badezimmer ist ___ (on the left). → <details><summary>Answer</summary>**links** <SpeakButton text="Das Badezimmer ist links." /></details>
+**2.** Die Küche ist ___ (on the right). → <details><summary>Answer</summary>**rechts** <SpeakButton text="Die Küche ist rechts." /></details>
+**3.** Das Schlafzimmer ist ___ (upstairs). → <details><summary>Answer</summary>**oben** <SpeakButton text="Das Schlafzimmer ist oben." /></details>
+**4.** Der Tisch steht ___ (next to) dem Bett. → <details><summary>Answer</summary>**neben** <SpeakButton text="Der Tisch steht neben dem Bett." /></details>
+**5.** Gehen Sie ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="Gehen Sie geradeaus." /></details>
 
 ### 3B — Flash Cards
 

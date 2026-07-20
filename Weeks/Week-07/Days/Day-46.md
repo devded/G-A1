@@ -115,11 +115,11 @@ In English, you say "a kilo **of** apples" or "a bottle **of** water". In German
 
 ### 3A — Complete the sentences
 
-**1.** Ein Kilo ___ (apples), bitte. → <details><summary>Answer</summary>**Äpfel** <SpeakButton text="Äpfel" /></details>
-**2.** Eine ___ (bottle) Wasser, bitte. → <details><summary>Answer</summary>**Flasche** <SpeakButton text="Flasche" /></details>
-**3.** Ein ___ (piece) Kuchen, bitte. → <details><summary>Answer</summary>**Stück** <SpeakButton text="Stück" /></details>
-**4.** Ich brauche zwei ___ (kilos) Kartoffeln. → <details><summary>Answer</summary>**Kilo** <SpeakButton text="Kilo" /></details>
-**5.** Ich esse ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
+**1.** Ein Kilo ___ (apples), bitte. → <details><summary>Answer</summary>**Äpfel** <SpeakButton text="Ein Kilo Äpfel, bitte." /></details>
+**2.** Eine ___ (bottle) Wasser, bitte. → <details><summary>Answer</summary>**Flasche** <SpeakButton text="Eine Flasche Wasser, bitte." /></details>
+**3.** Ein ___ (piece) Kuchen, bitte. → <details><summary>Answer</summary>**Stück** <SpeakButton text="Ein Stück Kuchen, bitte." /></details>
+**4.** Ich brauche zwei ___ (kilos) Kartoffeln. → <details><summary>Answer</summary>**Kilo** <SpeakButton text="Ich brauche zwei Kilo Kartoffeln." /></details>
+**5.** Ich esse ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="Ich esse einen Apfel." /></details>
 
 ### 3B — Flash Cards
 

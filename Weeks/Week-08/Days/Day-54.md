@@ -96,21 +96,21 @@
 
 ### Restaurant Conversation Script
 
-> **Kellner:** *Guten Abend! Haben Sie reserviert?*  
-> **Gast:** *Guten Abend! Ja, auf den Namen Müller für zwei Personen.*  
-> **Kellner:** *Ah ja! Bitte kommen Sie mit. Hier ist Ihr Tisch.*  
-> **Gast:** *Danke! Können wir bitte die Speisekarte haben?*  
-> **Kellner:** *Gerne, hier ist die Karte. Was möchten Sie trinken?*  
-> **Gast:** *Für mich bitte ein Mineralwasser und für meine Frau einen Apfelsaft.*  
-> **Kellner:** *Kommt sofort! Und was möchten Sie essen? Was kann ich Ihnen empfehlen?*  
-> **Gast:** *Ich nehme als Vorspeise eine Tomatensuppe und als Hauptspeise das Schnitzel.*  
-> **Kellner:** *Sehr gute Wahl!*  
+> **Kellner:** *Guten Abend! Haben Sie reserviert?* <SpeakButton text="Guten Abend! Haben Sie reserviert?" />
+> **Gast:** *Guten Abend! Ja, auf den Namen Müller für zwei Personen.* <SpeakButton text="Guten Abend! Ja, auf den Namen Müller für zwei Personen." />
+> **Kellner:** *Ah ja! Bitte kommen Sie mit. Hier ist Ihr Tisch.* <SpeakButton text="Ah ja! Bitte kommen Sie mit. Hier ist Ihr Tisch." />
+> **Gast:** *Danke! Können wir bitte die Speisekarte haben?* <SpeakButton text="Danke! Können wir bitte die Speisekarte haben?" />
+> **Kellner:** *Gerne, hier ist die Karte. Was möchten Sie trinken?* <SpeakButton text="Gerne, hier ist die Karte. Was möchten Sie trinken?" />
+> **Gast:** *Für mich bitte ein Mineralwasser und für meine Frau einen Apfelsaft.* <SpeakButton text="Für mich bitte ein Mineralwasser und für meine Frau einen Apfelsaft." />
+> **Kellner:** *Kommt sofort! Und was möchten Sie essen? Was kann ich Ihnen empfehlen?* <SpeakButton text="Kommt sofort! Und was möchten Sie essen? Was kann ich Ihnen empfehlen?" />
+> **Gast:** *Ich nehme als Vorspeise eine Tomatensuppe und als Hauptspeise das Schnitzel.* <SpeakButton text="Ich nehme als Vorspeise eine Tomatensuppe und als Hauptspeise das Schnitzel." />
+> **Kellner:** *Sehr gute Wahl!* <SpeakButton text="Sehr gute Wahl!" />
 > *(After the meal)*  
-> **Kellner:** *Hat es Ihnen geschmeckt?*  
-> **Gast:** *Ja, es war köstlich! Wir möchten bitte zahlen. Zusammen, bitte.*  
-> **Kellner:** *Das macht 34 Euro 50.*  
-> **Gast:** *Hier sind 38 Euro, stimmt so!*  
-> **Kellner:** *Vielen Dank und einen schönen Abend noch!*
+> **Kellner:** *Hat es Ihnen geschmeckt?* <SpeakButton text="Hat es Ihnen geschmeckt?" />
+> **Gast:** *Ja, es war köstlich! Wir möchten bitte zahlen. Zusammen, bitte.* <SpeakButton text="Ja, es war köstlich! Wir möchten bitte zahlen. Zusammen, bitte." />
+> **Kellner:** *Das macht 34 Euro 50.* <SpeakButton text="Das macht 34 Euro 50." />
+> **Gast:** *Hier sind 38 Euro, stimmt so!* <SpeakButton text="Hier sind 38 Euro, stimmt so!" />
+> **Kellner:** *Vielen Dank und einen schönen Abend noch!* <SpeakButton text="Vielen Dank und einen schönen Abend noch!" />
 
 </div>
 
@@ -120,11 +120,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Was ___ (do you recommend) Sie? → <details><summary>Answer</summary>**empfehlen** <SpeakButton text="empfehlen" /></details>
-**2.** Die Getränke kommen ___ (immediately). → <details><summary>Answer</summary>**sofort** <SpeakButton text="sofort" /></details>
-**3.** Einen ___ (moment), bitte! → <details><summary>Answer</summary>**Moment** <SpeakButton text="Moment" /></details>
-**4.** Als ___ (dessert) nehme ich Kuchen. → <details><summary>Answer</summary>**Nachtisch** <SpeakButton text="Nachtisch" /></details>
-**5.** Möchten Sie den Wein ___ (try/taste)? → <details><summary>Answer</summary>**probieren** <SpeakButton text="probieren" /></details>
+**1.** Was ___ (do you recommend) Sie? → <details><summary>Answer</summary>**empfehlen** <SpeakButton text="Was empfehlen Sie?" /></details>
+**2.** Die Getränke kommen ___ (immediately). → <details><summary>Answer</summary>**sofort** <SpeakButton text="Die Getränke kommen sofort." /></details>
+**3.** Einen ___ (moment), bitte! → <details><summary>Answer</summary>**Moment** <SpeakButton text="Einen Moment, bitte!" /></details>
+**4.** Als ___ (dessert) nehme ich Kuchen. → <details><summary>Answer</summary>**Nachtisch** <SpeakButton text="Als Nachtisch nehme ich Kuchen." /></details>
+**5.** Möchten Sie den Wein ___ (try/taste)? → <details><summary>Answer</summary>**probieren** <SpeakButton text="Möchten Sie den Wein probieren?" /></details>
 
 ### 3B — Flash Cards
 

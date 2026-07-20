@@ -117,11 +117,11 @@ If you start the sentence with a **time word** (zuerst, dann, am Montag, um 8 Uh
 
 ### 3A — Complete the sentences
 
-**1.** Dann ___ (frühstücken) ich. → <details><summary>Answer</summary>**frühstücke** <SpeakButton text="frühstücke" /></details>
-**2.** Um 8 Uhr ___ (fahren) er los. → <details><summary>Answer</summary>**fährt** <SpeakButton text="fährt" /></details>
-**3.** Zuerst ___ (duschen) ich. → <details><summary>Answer</summary>**dusche** <SpeakButton text="dusche" /></details>
-**4.** Am Samstag ___ (schlafen) wir lange. → <details><summary>Answer</summary>**schlafen** <SpeakButton text="schlafen" /></details>
-**5.** Normalerweise ___ (arbeiten) sie viel. → <details><summary>Answer</summary>**arbeitet** <SpeakButton text="arbeitet" /></details>
+**1.** Dann ___ (frühstücken) ich. → <details><summary>Answer</summary>**frühstücke** <SpeakButton text="Dann frühstücke ich." /></details>
+**2.** Um 8 Uhr ___ (fahren) er los. → <details><summary>Answer</summary>**fährt** <SpeakButton text="Um 8 Uhr fährt er los." /></details>
+**3.** Zuerst ___ (duschen) ich. → <details><summary>Answer</summary>**dusche** <SpeakButton text="Zuerst dusche ich." /></details>
+**4.** Am Samstag ___ (schlafen) wir lange. → <details><summary>Answer</summary>**schlafen** <SpeakButton text="Am Samstag schlafen wir lange." /></details>
+**5.** Normalerweise ___ (arbeiten) sie viel. → <details><summary>Answer</summary>**arbeitet** <SpeakButton text="Normalerweise arbeitet sie viel." /></details>
 
 ### 3B — Flash Cards
 

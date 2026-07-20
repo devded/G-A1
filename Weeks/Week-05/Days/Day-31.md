@@ -105,8 +105,8 @@
 | **Exact Clock Time** | **um** | **um** 8 Uhr |
 
 ### All Days of the Week (All Masculine: **der**)
-1. **Montag** (Mon) 2. **Dienstag** (Tue) 3. **Mittwoch** (Wed) 4. **Donnerstag** (Thu)  
-5. **Freitag** (Fri) 6. **Samstag** (Sat) 7. **Sonntag** (Sun)
+1. **Montag** (Mon) 2. **Dienstag** (Tue) 3. **Mittwoch** (Wed) 4. **Donnerstag** (Thu) <SpeakButton text="Montag" />
+5. **Freitag** (Fri) 6. **Samstag** (Sat) 7. **Sonntag** (Sun) <SpeakButton text="Freitag" />
 
 </div>
 
@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** ___ (On) Montag gehe ich zum Arzt. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am" /></details>
-**2.** ___ (In) Juli haben wir Urlaub. → <details><summary>Answer</summary>**Im** <SpeakButton text="Im" /></details>
-**3.** Was machst du ___ (at the) Wochenende? → <details><summary>Answer</summary>**am** <SpeakButton text="am" /></details>
-**4.** ___ (Today) ist ein schöner Tag. → <details><summary>Answer</summary>**Heute** <SpeakButton text="Heute" /></details>
-**5.** Der Kurs beginnt ___ (at) 9 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="um" /></details>
+**1.** ___ (On) Montag gehe ich zum Arzt. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am Montag gehe ich zum Arzt." /></details>
+**2.** ___ (In) Juli haben wir Urlaub. → <details><summary>Answer</summary>**Im** <SpeakButton text="Im Juli haben wir Urlaub." /></details>
+**3.** Was machst du ___ (at the) Wochenende? → <details><summary>Answer</summary>**am** <SpeakButton text="Was machst du am Wochenende?" /></details>
+**4.** ___ (Today) ist ein schöner Tag. → <details><summary>Answer</summary>**Heute** <SpeakButton text="Heute ist ein schöner Tag." /></details>
+**5.** Der Kurs beginnt ___ (at) 9 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="Der Kurs beginnt um 9 Uhr." /></details>
 
 ### 3B — Flash Cards
 

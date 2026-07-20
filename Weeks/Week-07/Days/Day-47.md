@@ -96,17 +96,17 @@
 
 ### Price Question Formulas
 
-1. **Was kostet das?** (What does that cost?)  
-2. **Wie viel kostet [Item]?** (How much does [Item] cost?)  
-3. **Wie viel kosten [Plural Items]?** (How much do [Items] cost?)
+1. **Was kostet das?** (What does that cost?) <SpeakButton text="Was kostet das?" />
+2. **Wie viel kostet [Item]?** (How much does [Item] cost?) <SpeakButton text="Wie viel kostet [Item]?" />
+3. **Wie viel kosten [Plural Items]?** (How much do [Items] cost?) <SpeakButton text="Wie viel kosten [Plural Items]?" />
 
 ### Reading Prices Out Loud (Decimals)
 
 In Germany, decimals use a **comma (,)** instead of a point (.)!
 
-• **1,50 €** → *ein Euro fünfzig* <SpeakButton text="1,50 € → ein Euro fünfzig" />(or *eins fünfzig*)
-• **3,99 €** → *drei Euro neunundneunzig* <SpeakButton text="3,99 € → drei Euro neunundneunzig" />
-• **0,50 €** → *fünfzig Cent* <SpeakButton text="0,50 € → fünfzig Cent" />
+• **1,50 €** → *ein Euro fünfzig* <SpeakButton text="ein Euro fünfzig" /> (or *eins fünfzig*)
+• **3,99 €** → *drei Euro neunundneunzig* <SpeakButton text="drei Euro neunundneunzig" />
+• **0,50 €** → *fünfzig Cent* <SpeakButton text="fünfzig Cent" />
 
 > <Icon name="lightbulb" /> **Notice:** The word *Euro* stays singular after numbers! (*zwei Euro*, NOT *zwei Euros*).
 
@@ -118,11 +118,11 @@ In Germany, decimals use a **comma (,)** instead of a point (.)!
 
 ### 3A — Complete the sentences
 
-**1.** Was ___ (costs) das? → <details><summary>Answer</summary>**kostet** <SpeakButton text="kostet" /></details>
-**2.** Das kostet zwei ___ (euros) fünfzig. → <details><summary>Answer</summary>**Euro** <SpeakButton text="Euro" /></details>
-**3.** Das ist sehr ___ (expensive)! → <details><summary>Answer</summary>**teuer** <SpeakButton text="teuer" /></details>
-**4.** Wo ist die ___ (checkout/till)? → <details><summary>Answer</summary>**Kasse** <SpeakButton text="Kasse" /></details>
-**5.** Heute ist das ein ___ (special offer). → <details><summary>Answer</summary>**Sonderangebot** <SpeakButton text="Sonderangebot" /></details>
+**1.** Was ___ (costs) das? → <details><summary>Answer</summary>**kostet** <SpeakButton text="Was kostet das?" /></details>
+**2.** Das kostet zwei ___ (euros) fünfzig. → <details><summary>Answer</summary>**Euro** <SpeakButton text="Das kostet zwei Euro fünfzig." /></details>
+**3.** Das ist sehr ___ (expensive)! → <details><summary>Answer</summary>**teuer** <SpeakButton text="Das ist sehr teuer!" /></details>
+**4.** Wo ist die ___ (checkout/till)? → <details><summary>Answer</summary>**Kasse** <SpeakButton text="Wo ist die Kasse?" /></details>
+**5.** Heute ist das ein ___ (special offer). → <details><summary>Answer</summary>**Sonderangebot** <SpeakButton text="Heute ist das ein Sonderangebot." /></details>
 
 ### 3B — Flash Cards
 

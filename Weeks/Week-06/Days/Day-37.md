@@ -96,13 +96,13 @@
 
 ### 3 Ways to Pair Sports with Verbs
 
-1. **spielen** = ball games & board games  
+1. **spielen** = ball games & board games <SpeakButton text="spielen" />
 • *Fußball spielen, Tennis spielen, Schach spielen* <SpeakButton text="Fußball spielen, Tennis spielen, Schach spielen" />
 
-2. **machen** = fitness & martial arts & general activity  
+2. **machen** = fitness & martial arts & general activity <SpeakButton text="machen" />
 • *Yoga machen, Sport machen, Fitness machen* <SpeakButton text="Yoga machen, Sport machen, Fitness machen" />
 
-3. **gehen** = activities involving movement to a venue (gehen + Infinitive)  
+3. **gehen** = activities involving movement to a venue (gehen + Infinitive) <SpeakButton text="gehen" />
 • *schwimmen gehen* <SpeakButton text="schwimmen gehen" />(to go swimming), *wandern gehen* (to go hiking), *spazieren gehen* (to go for a walk)
 
 > <Icon name="message-square" /> **Asking about sports:**  
@@ -117,11 +117,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Er ___ (play) am Sonntag Fußball. → <details><summary>Answer</summary>**spielt** <SpeakButton text="spielt" /></details>
-**2.** Meine Frau macht morgens ___ (yoga). → <details><summary>Answer</summary>**Yoga** <SpeakButton text="Yoga" /></details>
-**3.** Wir gehen im Sommer ___ (hiking). → <details><summary>Answer</summary>**wandern** <SpeakButton text="wandern" /></details>
-**4.** Er ___ (ride a bike) gerne in der Stadt. → <details><summary>Answer</summary>**fährt Fahrrad** <SpeakButton text="fährt Fahrrad" /></details>
-**5.** Machst du gerne ___ (sports)? → <details><summary>Answer</summary>**Sport** <SpeakButton text="Sport" /></details>
+**1.** Er ___ (play) am Sonntag Fußball. → <details><summary>Answer</summary>**spielt** <SpeakButton text="Er spielt am Sonntag Fußball." /></details>
+**2.** Meine Frau macht morgens ___ (yoga). → <details><summary>Answer</summary>**Yoga** <SpeakButton text="Meine Frau macht morgens Yoga." /></details>
+**3.** Wir gehen im Sommer ___ (hiking). → <details><summary>Answer</summary>**wandern** <SpeakButton text="Wir gehen im Sommer wandern." /></details>
+**4.** Er ___ (ride a bike) gerne in der Stadt. → <details><summary>Answer</summary>**fährt Fahrrad** <SpeakButton text="Er fährt Fahrrad gerne in der Stadt." /></details>
+**5.** Machst du gerne ___ (sports)? → <details><summary>Answer</summary>**Sport** <SpeakButton text="Machst du gerne Sport?" /></details>
 
 ### 3B — Flash Cards
 

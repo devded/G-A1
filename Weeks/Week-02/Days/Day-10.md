@@ -117,11 +117,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist Thomas und ___ (his) Frau. → <details><summary>Answer</summary>**seine** <SpeakButton text="seine" /></details>
-**2.** Das ist Maria und ___ (her) Sohn. → <details><summary>Answer</summary>**ihr** <SpeakButton text="ihr" /></details>
-**3.** Wir lieben ___ (our) Familie. → <details><summary>Answer</summary>**unsere** <SpeakButton text="unsere" /></details>
-**4.** Herr Müller, wie heißt ___ (your, formal) Frau? → <details><summary>Answer</summary>**Ihre** <SpeakButton text="Ihre" /></details>
-**5.** Er ist ___ (single) und 25 Jahre alt. → <details><summary>Answer</summary>**ledig** <SpeakButton text="ledig" /></details>
+**1.** Das ist Thomas und ___ (his) Frau. → <details><summary>Answer</summary>**seine** <SpeakButton text="Das ist Thomas und seine Frau." /></details>
+**2.** Das ist Maria und ___ (her) Sohn. → <details><summary>Answer</summary>**ihr** <SpeakButton text="Das ist Maria und ihr Sohn." /></details>
+**3.** Wir lieben ___ (our) Familie. → <details><summary>Answer</summary>**unsere** <SpeakButton text="Wir lieben unsere Familie." /></details>
+**4.** Herr Müller, wie heißt ___ (your, formal) Frau? → <details><summary>Answer</summary>**Ihre** <SpeakButton text="Herr Müller, wie heißt Ihre Frau?" /></details>
+**5.** Er ist ___ (single) und 25 Jahre alt. → <details><summary>Answer</summary>**ledig** <SpeakButton text="Er ist ledig und 25 Jahre alt." /></details>
 
 ### 3B — Flash Cards
 

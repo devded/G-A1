@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Gehen Sie immer ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="geradeaus" /></details>
-**2.** Biegen Sie an der Ampel ___ (left) ab. → <details><summary>Answer</summary>**links** <SpeakButton text="links" /></details>
-**3.** Nehmen Sie die erste ___ (street) rechts. → <details><summary>Answer</summary>**Straße** <SpeakButton text="Straße" /></details>
-**4.** Das ist nur 10 Minuten ___ (on foot). → <details><summary>Answer</summary>**zu Fuß** <SpeakButton text="zu Fuß" /></details>
-**5.** An der ___ (traffic lights) biegen Sie ab. → <details><summary>Answer</summary>**Ampel** <SpeakButton text="Ampel" /></details>
+**1.** Gehen Sie immer ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="Gehen Sie immer geradeaus." /></details>
+**2.** Biegen Sie an der Ampel ___ (left) ab. → <details><summary>Answer</summary>**links** <SpeakButton text="Biegen Sie an der Ampel links ab." /></details>
+**3.** Nehmen Sie die erste ___ (street) rechts. → <details><summary>Answer</summary>**Straße** <SpeakButton text="Nehmen Sie die erste Straße rechts." /></details>
+**4.** Das ist nur 10 Minuten ___ (on foot). → <details><summary>Answer</summary>**zu Fuß** <SpeakButton text="Das ist nur 10 Minuten zu Fuß." /></details>
+**5.** An der ___ (traffic lights) biegen Sie ab. → <details><summary>Answer</summary>**Ampel** <SpeakButton text="An der Ampel biegen Sie ab." /></details>
 
 ### 3B — Flash Cards
 

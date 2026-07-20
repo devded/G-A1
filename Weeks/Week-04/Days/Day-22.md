@@ -96,11 +96,11 @@
 
 ### 2 Ways to State a Job in German
 
-1. **sein + Profession (No article!):**  
+1. **sein + Profession (No article!):** <SpeakButton text="sein + Profession (No article!):" />
 • *Ich bin Ingenieur.* <SpeakButton text="Ich bin Ingenieur." />(I am an engineer.)
 • *Sie ist Köchin.* <SpeakButton text="Sie ist Köchin." />(She is a chef.)
 
-2. **arbeiten als + Profession (No article!):**  
+2. **arbeiten als + Profession (No article!):** <SpeakButton text="arbeiten als + Profession (No article!):" />
 • *Er arbeitet als Mechaniker.* <SpeakButton text="Er arbeitet als Mechaniker." />(He works as a mechanic.)
 • *Ich arbeite als Verkäuferin.* <SpeakButton text="Ich arbeite als Verkäuferin." />(I work as a shop assistant.)
 
@@ -114,11 +114,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Er arbeitet ___ (as) Koch. → <details><summary>Answer</summary>**als** <SpeakButton text="als" /></details>
-**2.** Meine Mutter ist ___ (nurse). → <details><summary>Answer</summary>**Krankenschwester** <SpeakButton text="Krankenschwester" /></details>
-**3.** Sie ist ___ (engineer, f) bei BMW. → <details><summary>Answer</summary>**Ingenieurin** <SpeakButton text="Ingenieurin" /></details>
-**4.** Mein Bruder arbeitet als ___ (mechanic). → <details><summary>Answer</summary>**Mechaniker** <SpeakButton text="Mechaniker" /></details>
-**5.** Ich bin ___ (no article needed) Polizist. → <details><summary>Answer</summary>**—** <SpeakButton text="—" /></details>
+**1.** Er arbeitet ___ (as) Koch. → <details><summary>Answer</summary>**als** <SpeakButton text="Er arbeitet als Koch." /></details>
+**2.** Meine Mutter ist ___ (nurse). → <details><summary>Answer</summary>**Krankenschwester** <SpeakButton text="Meine Mutter ist Krankenschwester." /></details>
+**3.** Sie ist ___ (engineer, f) bei BMW. → <details><summary>Answer</summary>**Ingenieurin** <SpeakButton text="Sie ist Ingenieurin bei BMW." /></details>
+**4.** Mein Bruder arbeitet als ___ (mechanic). → <details><summary>Answer</summary>**Mechaniker** <SpeakButton text="Mein Bruder arbeitet als Mechaniker." /></details>
+**5.** Ich bin ___ (no article needed) Polizist. → <details><summary>Answer</summary>**—** <SpeakButton text="Ich bin — Polizist." /></details>
 
 ### 3B — Flash Cards
 

@@ -96,15 +96,15 @@
 
 ### 3 Ways to Order Food in German
 
-1. **Ich möchte [Food item + Accusative], bitte.**  
+1. **Ich möchte [Food item + Accusative], bitte.** <SpeakButton text="Ich möchte [Food item + Accusative], bitte." />
 • *Ich möchte **einen** Salat, bitte.* <SpeakButton text="Ich möchte einen Salat, bitte." />
 • *Ich möchte **eine** Tomatensuppe, bitte.* <SpeakButton text="Ich möchte eine Tomatensuppe, bitte." />
 
-2. **Ich nehme [Food item + Accusative].**  
+2. **Ich nehme [Food item + Accusative].** <SpeakButton text="Ich nehme [Food item + Accusative]." />
 • *Ich nehme **ein** Wiener Schnitzel.* <SpeakButton text="Ich nehme ein Wiener Schnitzel." />
 • *Ich nehme **den** Fisch.* <SpeakButton text="Ich nehme den Fisch." />
 
-3. **Als [Course] nehme / möchte ich...**  
+3. **Als [Course] nehme / möchte ich...** <SpeakButton text="Als [Course] nehme / möchte ich..." />
 • *Als Vorspeise nehme ich eine Suppe.* <SpeakButton text="Als Vorspeise nehme ich eine Suppe." />
 • *Als Hauptspeise nehme ich das Hähnchen.* <SpeakButton text="Als Hauptspeise nehme ich das Hähnchen." />
 • *Als Nachspeise hätte ich gerne ein Eis.* <SpeakButton text="Als Nachspeise hätte ich gerne ein Eis." />
@@ -117,11 +117,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Als ___ (starter) nehme ich eine Suppe. → <details><summary>Answer</summary>**Vorspeise** <SpeakButton text="Vorspeise" /></details>
-**2.** Als ___ (main course) nehme ich das Schnitzel. → <details><summary>Answer</summary>**Hauptspeise** <SpeakButton text="Hauptspeise" /></details>
-**3.** Als ___ (dessert) möchte ich ein Eis. → <details><summary>Answer</summary>**Nachspeise** <SpeakButton text="Nachspeise" /></details>
-**4.** Für ___ (me) ein Wasser, bitte. → <details><summary>Answer</summary>**mich** <SpeakButton text="mich" /></details>
-**5.** Ich nehme ___ (a, m) gemischten Salat. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
+**1.** Als ___ (starter) nehme ich eine Suppe. → <details><summary>Answer</summary>**Vorspeise** <SpeakButton text="Als Vorspeise nehme ich eine Suppe." /></details>
+**2.** Als ___ (main course) nehme ich das Schnitzel. → <details><summary>Answer</summary>**Hauptspeise** <SpeakButton text="Als Hauptspeise nehme ich das Schnitzel." /></details>
+**3.** Als ___ (dessert) möchte ich ein Eis. → <details><summary>Answer</summary>**Nachspeise** <SpeakButton text="Als Nachspeise möchte ich ein Eis." /></details>
+**4.** Für ___ (me) ein Wasser, bitte. → <details><summary>Answer</summary>**mich** <SpeakButton text="Für mich ein Wasser, bitte." /></details>
+**5.** Ich nehme ___ (a, m) gemischten Salat. → <details><summary>Answer</summary>**einen** <SpeakButton text="Ich nehme einen gemischten Salat." /></details>
 
 ### 3B — Flash Cards
 

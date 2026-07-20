@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** ___ (In summer) fahren wir ans Meer. → <details><summary>Answer</summary>**Im Sommer** <SpeakButton text="Im Sommer" /></details>
-**2.** Im ___ (winter) ist es sehr kalt. → <details><summary>Answer</summary>**Winter** <SpeakButton text="Winter" /></details>
-**3.** Im Juli ist es wirklich ___ (hot). → <details><summary>Answer</summary>**heiß** <SpeakButton text="heiß" /></details>
-**4.** Heute ist der 10. ___ (October). → <details><summary>Answer</summary>**Oktober** <SpeakButton text="Oktober" /></details>
-**5.** Im ___ (spring) scheint die Sonne. → <details><summary>Answer</summary>**Frühling** <SpeakButton text="Frühling" /></details>
+**1.** ___ (In summer) fahren wir ans Meer. → <details><summary>Answer</summary>**Im Sommer** <SpeakButton text="Im Sommer fahren wir ans Meer." /></details>
+**2.** Im ___ (winter) ist es sehr kalt. → <details><summary>Answer</summary>**Winter** <SpeakButton text="Im Winter ist es sehr kalt." /></details>
+**3.** Im Juli ist es wirklich ___ (hot). → <details><summary>Answer</summary>**heiß** <SpeakButton text="Im Juli ist es wirklich heiß." /></details>
+**4.** Heute ist der 10. ___ (October). → <details><summary>Answer</summary>**Oktober** <SpeakButton text="Heute ist der 10. Oktober." /></details>
+**5.** Im ___ (spring) scheint die Sonne. → <details><summary>Answer</summary>**Frühling** <SpeakButton text="Im Frühling scheint die Sonne." /></details>
 
 ### 3B — Flash Cards
 

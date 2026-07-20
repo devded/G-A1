@@ -96,14 +96,14 @@
 
 ### Typical German Supermarket Conversation
 
-> **Kassiererin (Cashier):** *Guten Tag! Haben Sie eine Kundenkarte?*  
-> **Kunde (Customer):** *Nein, habe ich nicht.*  
-> **Kassiererin:** *Das macht zusammen 14 Euro 80, bitte.*  
-> **Kunde:** *Kann ich mit Karte zahlen?*  
-> **Kassiererin:** *Ja, natürlich. Bitte auf das Terminal auflegen.*  
-> **Kassiererin:** *Brauchen Sie den Kassenbon?*  
-> **Kunde:** *Nein, danke. Schönen Tag noch!*  
-> **Kassiererin:** *Danke, gleichfalls! Tschüss!*
+> **Kassiererin (Cashier):** *Guten Tag! Haben Sie eine Kundenkarte?* <SpeakButton text="Guten Tag! Haben Sie eine Kundenkarte?" />
+> **Kunde (Customer):** *Nein, habe ich nicht.* <SpeakButton text="Nein, habe ich nicht." />
+> **Kassiererin:** *Das macht zusammen 14 Euro 80, bitte.* <SpeakButton text="Das macht zusammen 14 Euro 80, bitte." />
+> **Kunde:** *Kann ich mit Karte zahlen?* <SpeakButton text="Kann ich mit Karte zahlen?" />
+> **Kassiererin:** *Ja, natürlich. Bitte auf das Terminal auflegen.* <SpeakButton text="Ja, natürlich. Bitte auf das Terminal auflegen." />
+> **Kassiererin:** *Brauchen Sie den Kassenbon?* <SpeakButton text="Brauchen Sie den Kassenbon?" />
+> **Kunde:** *Nein, danke. Schönen Tag noch!* <SpeakButton text="Nein, danke. Schönen Tag noch!" />
+> **Kassiererin:** *Danke, gleichfalls! Tschüss!* <SpeakButton text="Danke, gleichfalls! Tschüss!" />
 
 ### Useful Shopping Phrases
 • **Kann ich mit Karte zahlen?** <SpeakButton text="Kann ich mit Karte zahlen?" />(Can I pay by card?)
@@ -118,11 +118,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Brauchen Sie eine ___ (bag)? → <details><summary>Answer</summary>**Tüte** <SpeakButton text="Tüte" /></details>
-**2.** Kann ich mit ___ (card) zahlen? → <details><summary>Answer</summary>**Karte** <SpeakButton text="Karte" /></details>
-**3.** Das macht ___ (together) 12 Euro 50. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="zusammen" /></details>
-**4.** Ich habe meine ___ (shopping list) dabei. → <details><summary>Answer</summary>**Einkaufsliste** <SpeakButton text="Einkaufsliste" /></details>
-**5.** Wo ist der ___ (bottle deposit) Automat? → <details><summary>Answer</summary>**Pfand** <SpeakButton text="Pfand" /></details>
+**1.** Brauchen Sie eine ___ (bag)? → <details><summary>Answer</summary>**Tüte** <SpeakButton text="Brauchen Sie eine Tüte?" /></details>
+**2.** Kann ich mit ___ (card) zahlen? → <details><summary>Answer</summary>**Karte** <SpeakButton text="Kann ich mit Karte zahlen?" /></details>
+**3.** Das macht ___ (together) 12 Euro 50. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Das macht zusammen 12 Euro 50." /></details>
+**4.** Ich habe meine ___ (shopping list) dabei. → <details><summary>Answer</summary>**Einkaufsliste** <SpeakButton text="Ich habe meine Einkaufsliste dabei." /></details>
+**5.** Wo ist der ___ (bottle deposit) Automat? → <details><summary>Answer</summary>**Pfand** <SpeakButton text="Wo ist der Pfand Automat?" /></details>
 
 ### 3B — Flash Cards
 

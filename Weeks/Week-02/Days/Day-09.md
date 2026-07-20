@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist ___ (my) Vater. → <details><summary>Answer</summary>**mein** <SpeakButton text="mein" /></details>
-**2.** Ist das ___ (your) Mutter? → <details><summary>Answer</summary>**deine** <SpeakButton text="deine" /></details>
-**3.** ___ (my) Tochter heißt Sarah. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine" /></details>
-**4.** Wo wohnt ___ (your) Onkel? → <details><summary>Answer</summary>**dein** <SpeakButton text="dein" /></details>
-**5.** ___ (my) Eltern wohnen in Berlin. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine" /></details>
+**1.** Das ist ___ (my) Vater. → <details><summary>Answer</summary>**mein** <SpeakButton text="Das ist mein Vater." /></details>
+**2.** Ist das ___ (your) Mutter? → <details><summary>Answer</summary>**deine** <SpeakButton text="Ist das deine Mutter?" /></details>
+**3.** ___ (my) Tochter heißt Sarah. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine Tochter heißt Sarah." /></details>
+**4.** Wo wohnt ___ (your) Onkel? → <details><summary>Answer</summary>**dein** <SpeakButton text="Wo wohnt dein Onkel?" /></details>
+**5.** ___ (my) Eltern wohnen in Berlin. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine Eltern wohnen in Berlin." /></details>
 
 ### 3B — Flash Cards
 

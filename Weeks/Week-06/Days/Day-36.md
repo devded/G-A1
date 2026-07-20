@@ -106,11 +106,11 @@ In German, you can turn any verb into a noun simply by capitalizing the first le
 
 ### Expressing Your Hobbies
 
-1. **Mein Hobby ist [Nominalized Verb]:**  
+1. **Mein Hobby ist [Nominalized Verb]:** <SpeakButton text="Mein Hobby ist [Nominalized Verb]:" />
 • *Mein Hobby ist Lesen.* <SpeakButton text="Mein Hobby ist Lesen." />(My hobby is reading.)
 • *Meine Hobbies sind Kochen und Reisen.* <SpeakButton text="Meine Hobbies sind Kochen und Reisen." />(My hobbies are cooking and traveling.)
 
-2. **Verb + gerne (I like to...):**  
+2. **Verb + gerne (I like to...):** <SpeakButton text="Verb + gerne (I like to...):" />
 • *Ich lese gerne.* <SpeakButton text="Ich lese gerne." />(I like to read.)
 • *Ich koche gerne.* <SpeakButton text="Ich koche gerne." />(I like to cook.)
 
@@ -122,11 +122,11 @@ In German, you can turn any verb into a noun simply by capitalizing the first le
 
 ### 3A — Complete the sentences
 
-**1.** Mein Hobby ist ___ (reading). → <details><summary>Answer</summary>**Lesen** <SpeakButton text="Lesen" /></details>
-**2.** Ich ___ (listen) gerne Musik. → <details><summary>Answer</summary>**höre** <SpeakButton text="höre" /></details>
-**3.** Meine Hobbies sind ___ (cooking) und Tanzen. → <details><summary>Answer</summary>**Kochen** <SpeakButton text="Kochen" /></details>
-**4.** In der Freizeit ___ (travel) wir nach Deutschland. → <details><summary>Answer</summary>**reisen** <SpeakButton text="reisen" /></details>
-**5.** Er ___ (takes photos) in der Natur. → <details><summary>Answer</summary>**fotografiert** <SpeakButton text="fotografiert" /></details>
+**1.** Mein Hobby ist ___ (reading). → <details><summary>Answer</summary>**Lesen** <SpeakButton text="Mein Hobby ist Lesen." /></details>
+**2.** Ich ___ (listen) gerne Musik. → <details><summary>Answer</summary>**höre** <SpeakButton text="Ich höre gerne Musik." /></details>
+**3.** Meine Hobbies sind ___ (cooking) und Tanzen. → <details><summary>Answer</summary>**Kochen** <SpeakButton text="Meine Hobbies sind Kochen und Tanzen." /></details>
+**4.** In der Freizeit ___ (travel) wir nach Deutschland. → <details><summary>Answer</summary>**reisen** <SpeakButton text="In der Freizeit reisen wir nach Deutschland." /></details>
+**5.** Er ___ (takes photos) in der Natur. → <details><summary>Answer</summary>**fotografiert** <SpeakButton text="Er fotografiert in der Natur." /></details>
 
 ### 3B — Flash Cards
 

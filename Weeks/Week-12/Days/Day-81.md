@@ -96,7 +96,7 @@
 
 ### Sprechen Overview (Group Exam, approx. 15 minutes)
 
-1. **Teil 1 — Sich vorstellen (Introduction):** Introduce yourself using the 7 keyword prompts:
+1. **Teil 1 — Sich vorstellen (Introduction):** Introduce yourself using the 7 keyword prompts: <SpeakButton text="Teil 1 — Sich vorstellen (Introduction):" />
 - **Name:** *Ich heiße...* <SpeakButton text="Name: Ich heiße..." />
 - **Alter:** *Ich bin ... Jahre alt.* <SpeakButton text="Alter: Ich bin ... Jahre alt." />
 - **Land:** *Ich komme aus...* <SpeakButton text="Land: Ich komme aus..." />
@@ -106,7 +106,7 @@
 - **Hobby:** *Meine Hobbies sind...* <SpeakButton text="Hobby: Meine Hobbies sind..." />
 - *Plus: Spell your name & state your phone number or postcode!* <SpeakButton text="Plus: Spell your name & state your phone number or postcode!" />
 
-2. **Teil 2 — Um Informationen bitten (Ask & Answer Questions):**
+2. **Teil 2 — Um Informationen bitten (Ask & Answer Questions):** <SpeakButton text="Teil 2 — Um Informationen bitten (Ask & Answer Questions):" />
 - Draw a word card <SpeakButton text="Draw a word card" />(e.g. *Thema: Essen / Card: Brot*)
 - Ask your partner a W-question: *Essen Sie gerne Brot zum Frühstück?* <SpeakButton text="Ask your partner a W-question: Essen Sie gerne Brot zum Frühstück?" />
 - Partner answers: *Ja, ich esse morgens gerne Brot.* <SpeakButton text="Partner answers: Ja, ich esse morgens gerne Brot." />
@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Bitte stellen Sie sich ___ (sich vorstellen). → <details><summary>Answer</summary>**vor** <SpeakButton text="vor" /></details>
-**2.** Stellen Sie eine ___ (question). → <details><summary>Answer</summary>**Frage** <SpeakButton text="Frage" /></details>
-**3.** Sie sind an der ___ (turn). → <details><summary>Answer</summary>**Reihe** <SpeakButton text="Reihe" /></details>
-**4.** Können Sie das bitte ___ (repeat)? → <details><summary>Answer</summary>**wiederholen** <SpeakButton text="wiederholen" /></details>
-**5.** ___ (Pardon)? Ich habe das nicht gehört. → <details><summary>Answer</summary>**Wie bitte** <SpeakButton text="Wie bitte" /></details>
+**1.** Bitte stellen Sie sich ___ (sich vorstellen). → <details><summary>Answer</summary>**vor** <SpeakButton text="Bitte stellen Sie sich vor." /></details>
+**2.** Stellen Sie eine ___ (question). → <details><summary>Answer</summary>**Frage** <SpeakButton text="Stellen Sie eine Frage." /></details>
+**3.** Sie sind an der ___ (turn). → <details><summary>Answer</summary>**Reihe** <SpeakButton text="Sie sind an der Reihe." /></details>
+**4.** Können Sie das bitte ___ (repeat)? → <details><summary>Answer</summary>**wiederholen** <SpeakButton text="Können Sie das bitte wiederholen?" /></details>
+**5.** ___ (Pardon)? Ich habe das nicht gehört. → <details><summary>Answer</summary>**Wie bitte** <SpeakButton text="Wie bitte? Ich habe das nicht gehört." /></details>
 
 ### 3B — Flash Cards
 

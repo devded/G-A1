@@ -117,11 +117,11 @@ To give instructions, advice, or commands in German, **put the verb in Position 
 
 ### 3A — Complete the sentences
 
-**1.** ___ (Take) Sie zwei Tabletten täglich! → <details><summary>Answer</summary>**Nehmen** <SpeakButton text="Nehmen" /></details>
-**2.** ___ (Drink) Sie viel warmen Tee! → <details><summary>Answer</summary>**Trinken** <SpeakButton text="Trinken" /></details>
-**3.** Nehmen Sie das Medikament ___ (after meals). → <details><summary>Answer</summary>**nach dem Essen** <SpeakButton text="nach dem Essen" /></details>
-**4.** Gibt es ___ (side effects)? → <details><summary>Answer</summary>**Nebenwirkungen** <SpeakButton text="Nebenwirkungen" /></details>
-**5.** Ich bin ___ (allergic) gegen Nüsse. → <details><summary>Answer</summary>**allergisch** <SpeakButton text="allergisch" /></details>
+**1.** ___ (Take) Sie zwei Tabletten täglich! → <details><summary>Answer</summary>**Nehmen** <SpeakButton text="Nehmen Sie zwei Tabletten täglich!" /></details>
+**2.** ___ (Drink) Sie viel warmen Tee! → <details><summary>Answer</summary>**Trinken** <SpeakButton text="Trinken Sie viel warmen Tee!" /></details>
+**3.** Nehmen Sie das Medikament ___ (after meals). → <details><summary>Answer</summary>**nach dem Essen** <SpeakButton text="Nehmen Sie das Medikament nach dem Essen." /></details>
+**4.** Gibt es ___ (side effects)? → <details><summary>Answer</summary>**Nebenwirkungen** <SpeakButton text="Gibt es Nebenwirkungen?" /></details>
+**5.** Ich bin ___ (allergic) gegen Nüsse. → <details><summary>Answer</summary>**allergisch** <SpeakButton text="Ich bin allergisch gegen Nüsse." /></details>
 
 ### 3B — Flash Cards
 

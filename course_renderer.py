@@ -11,7 +11,32 @@ def process_grammar_content(content):
             lines.append(line)
             continue
         stripped = line.strip()
-        # Bullet points: > • Ich habe **einen** Bruder. (masculine → einen)
+        
+        # 1. Dialogue lines: > **Kellner:** *Guten Abend! Haben Sie reserviert?*
+        m_diag = re.match(r'^(>\s*\*\*[^*]+:\*\*\s*)(?:\*|_)?([^*_\n\r]+)(?:\*|_)?(.*)$', stripped)
+        if m_diag and len(m_diag.group(2).strip()) > 3:
+            role_prefix = m_diag.group(1)
+            text_raw = m_diag.group(2).strip()
+            rest = m_diag.group(3)
+            text_clean = re.sub(r'[*_`]', '', text_raw).strip()
+            if text_clean and not any(text_clean.startswith(x) for x in ['Note', 'Rule', 'Formula', 'Notice']):
+                line = f'{role_prefix}*{text_raw}* <SpeakButton text="{text_clean}" />{rest}'
+                lines.append(line)
+                continue
+
+        # 2. Dialogue arrows: *(Is this seat free?)* → *Ja, bitte nehmen Sie Platz!*
+        m_arrow = re.match(r'^(.*→\s*)(?:\*|_)?([^*_\n\r]+)(?:\*|_)?(.*)$', stripped)
+        if m_arrow:
+            prefix = m_arrow.group(1)
+            de_raw = m_arrow.group(2).strip()
+            rest = m_arrow.group(3)
+            de_clean = re.sub(r'[*_`]', '', de_raw).strip()
+            if len(de_clean) > 2:
+                line = f'{prefix}*{de_raw}* <SpeakButton text="{de_clean}" />{rest}'
+                lines.append(line)
+                continue
+
+        # 3. Bullet points: > • Ich habe **einen** Bruder. (masculine → einen)
         if stripped.startswith('> •') or stripped.startswith('•') or stripped.startswith('> -') or (stripped.startswith('-') and not stripped.startswith('---')):
             m = re.match(r'^(>\s*|\s*)([•\-]\s*)([^(\n\r]+)(.*)$', stripped)
             if m:
@@ -21,8 +46,19 @@ def process_grammar_content(content):
                 de_clean = re.sub(r'[*_`]', '', de_text_raw).strip()
                 if de_clean and not de_clean.lower().startswith('rule') and len(de_clean) > 2:
                     line = f'{prefix}{de_text_raw} <SpeakButton text="{de_clean}" />{rest}'
-        # Table rows: | ich | hab**e** | /ˈhaːbə/ |
-        elif stripped.startswith('|') and stripped.endswith('|'):
+                    lines.append(line)
+                    continue
+
+        # 4. Numbered list items with bold German examples e.g. 1. **Ich möchte...**
+        m_num = re.match(r'^(\d+\.\s*\*\*([^*]+)\*\*.*)$', stripped)
+        if m_num and len(m_num.group(2).strip()) > 3:
+            de_clean = re.sub(r'[*_`]', '', m_num.group(2)).strip()
+            line = f'{stripped} <SpeakButton text="{de_clean}" />'
+            lines.append(line)
+            continue
+
+        # 5. Table rows: | ich | hab**e** | /ˈhaːbə/ |
+        if stripped.startswith('|') and stripped.endswith('|'):
             cells = [c.strip() for c in stripped.split('|')[1:-1]]
             if not any(':---' in c or '---:' in c for c in cells) and len(cells) >= 2:
                 col0 = cells[0].lower()
@@ -153,7 +189,13 @@ def render_day(d, week_num, max_days=84):
         lines.append('### 3A — Complete the sentences\n')
         for idx, f in enumerate(d["fillIns"], 1):
             ans_clean = f["a"].strip()
-            lines.append(f'**{idx}.** {f["q"]} → <details><summary>Answer</summary>**{ans_clean}** <SpeakButton text="{ans_clean}" /></details>')
+            q_str = f["q"].strip()
+            if '___' in q_str:
+                full_sent = re.sub(r'___(?:\s*\([^)]*\))?', ans_clean, q_str).strip()
+            else:
+                full_sent = f"{q_str} {ans_clean}".strip()
+            full_sent_clean = re.sub(r'[*_`]', '', full_sent).strip()
+            lines.append(f'**{idx}.** {f["q"]} → <details><summary>Answer</summary>**{ans_clean}** <SpeakButton text="{full_sent_clean}" /></details>')
         lines.append('')
         
         lines.append('### 3B — Flash Cards\n')

@@ -96,13 +96,13 @@
 
 ### All Plural Nouns use **die**!
 
-| Pattern | Singular → Plural | Ending | Example <SpeakButton text="Example" /> |
+| Pattern | Singular → *Plural | Ending | Example |* <SpeakButton text="Plural | Ending | Example |" />
 |:---:|:---:|:---:|:---|
-| **1. No change** | das Fenster → die **Fenster** | - | -er / -el / -en endings <SpeakButton text="-er / -el / -en endings" /> |
-| **2. Add -e** | der Tisch → die **Tische** | **-e** | most masculine nouns <SpeakButton text="most masculine nouns" /> |
-| **3. Add -er (+ Umlaut)** | das Buch → die **Bücher** | **-er** | most short neuter nouns <SpeakButton text="most short neuter nouns" /> |
-| **4. Add -(e)n** | die Tür → die **Türen** | **-(e)n** | 90% of feminine nouns <SpeakButton text="90% of feminine nouns" /> |
-| **5. Add -s** | das Sofa → die **Sofas** | **-s** | foreign words & acronyms <SpeakButton text="foreign words & acronyms" /> |
+| **1. No change** | das Fenster → *die* <SpeakButton text="die" />*Fenster** | - | -er / -el / -en endings |
+| **2. Add -e** | der Tisch → *die* <SpeakButton text="die" />*Tische** | **-e** | most masculine nouns |
+| **3. Add -er (+ Umlaut)** | das Buch → *die* <SpeakButton text="die" />*Bücher** | **-er** | most short neuter nouns |
+| **4. Add -(e)n** | die Tür → *die* <SpeakButton text="die" />*Türen** | **-(e)n** | 90% of feminine nouns |
+| **5. Add -s** | das Sofa → *die* <SpeakButton text="die" />*Sofas** | **-s** | foreign words & acronyms |
 
 > <Icon name="lightbulb" /> **Golden Rule:** When learning a new noun, ALWAYS learn: **Article + Singular + Plural**  
 > Example: *das Buch, die Bücher*
@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Singular: das Fenster → Plural: die ___. → <details><summary>Answer</summary>**Fenster** <SpeakButton text="Fenster" /></details>
-**2.** Singular: der Tisch → Plural: die ___. → <details><summary>Answer</summary>**Tische** <SpeakButton text="Tische" /></details>
-**3.** Singular: das Buch → Plural: die ___. → <details><summary>Answer</summary>**Bücher** <SpeakButton text="Bücher" /></details>
-**4.** Singular: die Tür → Plural: die ___. → <details><summary>Answer</summary>**Türen** <SpeakButton text="Türen" /></details>
-**5.** Singular: das Sofa → Plural: die ___. → <details><summary>Answer</summary>**Sofas** <SpeakButton text="Sofas" /></details>
+**1.** Singular: das Fenster → Plural: die ___. → <details><summary>Answer</summary>**Fenster** <SpeakButton text="Singular: das Fenster → Plural: die Fenster." /></details>
+**2.** Singular: der Tisch → Plural: die ___. → <details><summary>Answer</summary>**Tische** <SpeakButton text="Singular: der Tisch → Plural: die Tische." /></details>
+**3.** Singular: das Buch → Plural: die ___. → <details><summary>Answer</summary>**Bücher** <SpeakButton text="Singular: das Buch → Plural: die Bücher." /></details>
+**4.** Singular: die Tür → Plural: die ___. → <details><summary>Answer</summary>**Türen** <SpeakButton text="Singular: die Tür → Plural: die Türen." /></details>
+**5.** Singular: das Sofa → Plural: die ___. → <details><summary>Answer</summary>**Sofas** <SpeakButton text="Singular: das Sofa → Plural: die Sofas." /></details>
 
 ### 3B — Flash Cards
 

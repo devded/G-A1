@@ -116,11 +116,11 @@ In German, the **food is the subject**, and the **person is the dative object**!
 
 ### 3A — Complete the sentences
 
-**1.** Das Essen schmeckt ___ (to me) sehr gut. → <details><summary>Answer</summary>**mir** <SpeakButton text="mir" /></details>
-**2.** Die Suppe ist zu ___ (salty). → <details><summary>Answer</summary>**salzig** <SpeakButton text="salzig" /></details>
-**3.** Das Schnitzel ist absolut ___ (delicious)! → <details><summary>Answer</summary>**lecker** <SpeakButton text="lecker" /></details>
-**4.** Pizza ist mein ___ (favourite food). → <details><summary>Answer</summary>**Lieblingsessen** <SpeakButton text="Lieblingsessen" /></details>
-**5.** Achtung, das Essen ist sehr ___ (spicy)! → <details><summary>Answer</summary>**scharf** <SpeakButton text="scharf" /></details>
+**1.** Das Essen schmeckt ___ (to me) sehr gut. → <details><summary>Answer</summary>**mir** <SpeakButton text="Das Essen schmeckt mir sehr gut." /></details>
+**2.** Die Suppe ist zu ___ (salty). → <details><summary>Answer</summary>**salzig** <SpeakButton text="Die Suppe ist zu salzig." /></details>
+**3.** Das Schnitzel ist absolut ___ (delicious)! → <details><summary>Answer</summary>**lecker** <SpeakButton text="Das Schnitzel ist absolut lecker!" /></details>
+**4.** Pizza ist mein ___ (favourite food). → <details><summary>Answer</summary>**Lieblingsessen** <SpeakButton text="Pizza ist mein Lieblingsessen." /></details>
+**5.** Achtung, das Essen ist sehr ___ (spicy)! → <details><summary>Answer</summary>**scharf** <SpeakButton text="Achtung, das Essen ist sehr scharf!" /></details>
 
 ### 3B — Flash Cards
 

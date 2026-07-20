@@ -108,9 +108,9 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 | Sie/sie | möch**ten** <SpeakButton text="Sie oder sie möchten" /> | Was *möchten* Sie, bitte? |
 
 > <Icon name="target" /> **Accusative Reminder:**  
-> • der Kaffee → Ich möchte **einen** Kaffee. <SpeakButton text="der Kaffee → Ich möchte einen Kaffee." />(masculine → einen)
-> • das Wasser → Ich möchte **ein** Wasser. <SpeakButton text="das Wasser → Ich möchte ein Wasser." />(neuter → ein)
-> • die Milch → Ich möchte **eine** Milch. <SpeakButton text="die Milch → Ich möchte eine Milch." />(feminine → eine)
+> • der Kaffee → Ich möchte **einen** Kaffee. (masculine → *einen)* <SpeakButton text="einen)" />
+> • das Wasser → Ich möchte **ein** Wasser. (neuter → *ein)* <SpeakButton text="ein)" />
+> • die Milch → Ich möchte **eine** Milch. (feminine → *eine)* <SpeakButton text="eine)" />
 
 </div>
 
@@ -120,11 +120,11 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (would like) einen Kaffee, bitte. → <details><summary>Answer</summary>**möchte** <SpeakButton text="möchte" /></details>
-**2.** Was ___ (would like) du trinken? → <details><summary>Answer</summary>**möchtest** <SpeakButton text="möchtest" /></details>
-**3.** Wir ___ (would like) bestellen. → <details><summary>Answer</summary>**möchten** <SpeakButton text="möchten" /></details>
-**4.** Ich möchte einen Kaffee mit ___ (milk). → <details><summary>Answer</summary>**Milch** <SpeakButton text="Milch" /></details>
-**5.** Kaffee: der → Ich möchte ___ (a, m) Kaffee. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
+**1.** Ich ___ (would like) einen Kaffee, bitte. → <details><summary>Answer</summary>**möchte** <SpeakButton text="Ich möchte einen Kaffee, bitte." /></details>
+**2.** Was ___ (would like) du trinken? → <details><summary>Answer</summary>**möchtest** <SpeakButton text="Was möchtest du trinken?" /></details>
+**3.** Wir ___ (would like) bestellen. → <details><summary>Answer</summary>**möchten** <SpeakButton text="Wir möchten bestellen." /></details>
+**4.** Ich möchte einen Kaffee mit ___ (milk). → <details><summary>Answer</summary>**Milch** <SpeakButton text="Ich möchte einen Kaffee mit Milch." /></details>
+**5.** Kaffee: der → Ich möchte ___ (a, m) Kaffee. → <details><summary>Answer</summary>**einen** <SpeakButton text="Kaffee: der → Ich möchte einen Kaffee." /></details>
 
 ### 3B — Flash Cards
 

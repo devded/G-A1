@@ -106,7 +106,7 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 | **Plural** | **die / - / keine** | **die / - / keine** | Ich habe *zwei* Stühle. <SpeakButton text="Ich habe zwei Stühle." /> |
 
 > <Icon name="target" /> **Key takeaway:**  
-> • der Tisch → Ich brauche **den** Tisch / Ich kaufe **einen** Tisch. <SpeakButton text="der Tisch → Ich brauche den Tisch / Ich kaufe einen Tisch." />
+> • der Tisch → *Ich brauche* <SpeakButton text="Ich brauche" />*den** Tisch / Ich kaufe **einen** Tisch.
 
 </div>
 
@@ -116,11 +116,11 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 
 ### 3A — Complete the sentences
 
-**1.** Ich kaufe ___ (a, m) Schrank. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
-**2.** Wir haben ___ (a, n) großes Bett. → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
-**3.** Ich suche ___ (the, f) Lampe. → <details><summary>Answer</summary>**die** <SpeakButton text="die" /></details>
-**4.** Er hat ___ (no, m) Tisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="keinen" /></details>
-**5.** Brauchst du ___ (the, m) Spiegel? → <details><summary>Answer</summary>**den** <SpeakButton text="den" /></details>
+**1.** Ich kaufe ___ (a, m) Schrank. → <details><summary>Answer</summary>**einen** <SpeakButton text="Ich kaufe einen Schrank." /></details>
+**2.** Wir haben ___ (a, n) großes Bett. → <details><summary>Answer</summary>**ein** <SpeakButton text="Wir haben ein großes Bett." /></details>
+**3.** Ich suche ___ (the, f) Lampe. → <details><summary>Answer</summary>**die** <SpeakButton text="Ich suche die Lampe." /></details>
+**4.** Er hat ___ (no, m) Tisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Er hat keinen Tisch." /></details>
+**5.** Brauchst du ___ (the, m) Spiegel? → <details><summary>Answer</summary>**den** <SpeakButton text="Brauchst du den Spiegel?" /></details>
 
 ### 3B — Flash Cards
 

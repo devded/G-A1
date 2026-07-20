@@ -102,9 +102,9 @@
 - *Wo ist **das** Rathaus?* <SpeakButton text="Wo ist das Rathaus?" />
 
 • **Gibt es hier [Accusative Noun]?** <SpeakButton text="Gibt es hier [Accusative Noun]?" />
-- *Gibt es hier **einen** Supermarkt?* <SpeakButton text="Gibt es hier einen Supermarkt?" />(masculine → einen)
-- *Gibt es hier **eine** Bank?* <SpeakButton text="Gibt es hier eine Bank?" />(feminine → eine)
-- *Gibt es hier **ein** Krankenhaus?* <SpeakButton text="Gibt es hier ein Krankenhaus?" />(neuter → ein)
+- *Gibt es hier **einen** Supermarkt?* (masculine → *einen)* <SpeakButton text="einen)" />
+- *Gibt es hier **eine** Bank?* (feminine → *eine)* <SpeakButton text="eine)" />
+- *Gibt es hier **ein** Krankenhaus?* (neuter → *ein)* <SpeakButton text="ein)" />
 
 </div>
 
@@ -114,11 +114,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Gibt es hier ___ (a, m) Bahnhof? → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
-**2.** Gibt es hier ___ (a, f) Apotheke? → <details><summary>Answer</summary>**eine** <SpeakButton text="eine" /></details>
-**3.** Wo ist ___ (the, n) Krankenhaus? → <details><summary>Answer</summary>**das** <SpeakButton text="das" /></details>
-**4.** Er arbeitet auf der ___ (post office). → <details><summary>Answer</summary>**Post** <SpeakButton text="Post" /></details>
-**5.** Das ___ (town hall) ist im Zentrum. → <details><summary>Answer</summary>**Rathaus** <SpeakButton text="Rathaus" /></details>
+**1.** Gibt es hier ___ (a, m) Bahnhof? → <details><summary>Answer</summary>**einen** <SpeakButton text="Gibt es hier einen Bahnhof?" /></details>
+**2.** Gibt es hier ___ (a, f) Apotheke? → <details><summary>Answer</summary>**eine** <SpeakButton text="Gibt es hier eine Apotheke?" /></details>
+**3.** Wo ist ___ (the, n) Krankenhaus? → <details><summary>Answer</summary>**das** <SpeakButton text="Wo ist das Krankenhaus?" /></details>
+**4.** Er arbeitet auf der ___ (post office). → <details><summary>Answer</summary>**Post** <SpeakButton text="Er arbeitet auf der Post." /></details>
+**5.** Das ___ (town hall) ist im Zentrum. → <details><summary>Answer</summary>**Rathaus** <SpeakButton text="Das Rathaus ist im Zentrum." /></details>
 
 ### 3B — Flash Cards
 

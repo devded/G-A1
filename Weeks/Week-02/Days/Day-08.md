@@ -106,10 +106,10 @@
 | Sie/sie | hab**en** <SpeakButton text="Sie oder sie haben" /> | /ˈhaːbən/ |
 
 > <Icon name="target" /> **Expressing Family:** Use *haben* + accusative article:  
-> • Ich habe **einen** Bruder. <SpeakButton text="Ich habe einen Bruder." />(masculine → einen)
-> • Ich habe **eine** Schwester. <SpeakButton text="Ich habe eine Schwester." />(feminine → eine)
-> • Ich habe **ein** Baby. <SpeakButton text="Ich habe ein Baby." />(neuter → ein)
-> • Ich habe **keine** Geschwister. <SpeakButton text="Ich habe keine Geschwister." />(negative → keine)
+> • Ich habe **einen** Bruder. (masculine → *einen)* <SpeakButton text="einen)" />
+> • Ich habe **eine** Schwester. (feminine → *eine)* <SpeakButton text="eine)" />
+> • Ich habe **ein** Baby. (neuter → *ein)* <SpeakButton text="ein)" />
+> • Ich habe **keine** Geschwister. (negative → *keine)* <SpeakButton text="keine)" />
 
 </div>
 
@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (haben) eine große Familie. → <details><summary>Answer</summary>**habe** <SpeakButton text="habe" /></details>
-**2.** ___ (du / haben) einen Bruder? → <details><summary>Answer</summary>**Hast du** <SpeakButton text="Hast du" /></details>
-**3.** Er ___ (haben) zwei Schwestern. → <details><summary>Answer</summary>**hat** <SpeakButton text="hat" /></details>
-**4.** Wir ___ (haben) eine liebe Großmutter. → <details><summary>Answer</summary>**haben** <SpeakButton text="haben" /></details>
-**5.** Ich habe ___ (no / not a) Bruder. → <details><summary>Answer</summary>**keinen** <SpeakButton text="keinen" /></details>
+**1.** Ich ___ (haben) eine große Familie. → <details><summary>Answer</summary>**habe** <SpeakButton text="Ich habe eine große Familie." /></details>
+**2.** ___ (du / haben) einen Bruder? → <details><summary>Answer</summary>**Hast du** <SpeakButton text="Hast du einen Bruder?" /></details>
+**3.** Er ___ (haben) zwei Schwestern. → <details><summary>Answer</summary>**hat** <SpeakButton text="Er hat zwei Schwestern." /></details>
+**4.** Wir ___ (haben) eine liebe Großmutter. → <details><summary>Answer</summary>**haben** <SpeakButton text="Wir haben eine liebe Großmutter." /></details>
+**5.** Ich habe ___ (no / not a) Bruder. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Ich habe keinen Bruder." /></details>
 
 ### 3B — Flash Cards
 

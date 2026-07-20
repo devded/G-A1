@@ -107,7 +107,7 @@ In German, *es gibt* means both "there is" and "there are".
 | **Plural** | es gibt | es gibt **keine** | Es gibt *drei* Zimmer. <SpeakButton text="Es gibt drei Zimmer." /> |
 
 > <Icon name="message-square" /> **Asking questions:**  
-> • *Gibt es einen Balkon?* → Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon. <SpeakButton text="Gibt es einen Balkon? → Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon." />
+> • *Gibt es einen Balkon?* → *Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon.* <SpeakButton text="Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon." />
 
 </div>
 
@@ -117,11 +117,11 @@ In German, *es gibt* means both "there is" and "there are".
 
 ### 3A — Complete the sentences
 
-**1.** In der Wohnung gibt es ___ (a, m) Balkon. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
-**2.** Es gibt ___ (no, f) Küche. → <details><summary>Answer</summary>**keine** <SpeakButton text="keine" /></details>
-**3.** ___ (there is) ein großes Wohnzimmer. → <details><summary>Answer</summary>**Es gibt** <SpeakButton text="Es gibt" /></details>
-**4.** Gibt es ___ (a, n) Badezimmer? → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
-**5.** Es gibt ___ (no, m) Garten. → <details><summary>Answer</summary>**keinen** <SpeakButton text="keinen" /></details>
+**1.** In der Wohnung gibt es ___ (a, m) Balkon. → <details><summary>Answer</summary>**einen** <SpeakButton text="In der Wohnung gibt es einen Balkon." /></details>
+**2.** Es gibt ___ (no, f) Küche. → <details><summary>Answer</summary>**keine** <SpeakButton text="Es gibt keine Küche." /></details>
+**3.** ___ (there is) ein großes Wohnzimmer. → <details><summary>Answer</summary>**Es gibt** <SpeakButton text="Es gibt ein großes Wohnzimmer." /></details>
+**4.** Gibt es ___ (a, n) Badezimmer? → <details><summary>Answer</summary>**ein** <SpeakButton text="Gibt es ein Badezimmer?" /></details>
+**5.** Es gibt ___ (no, m) Garten. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Es gibt keinen Garten." /></details>
 
 ### 3B — Flash Cards
 

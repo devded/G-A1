@@ -121,11 +121,11 @@ German uses adverbs right after the main verb to show how much you like an activ
 
 ### 3A — Complete the sentences
 
-**1.** Ich trinke gerne Saft, aber ich trinke ___ (prefer) Wasser. → <details><summary>Answer</summary>**lieber** <SpeakButton text="lieber" /></details>
-**2.** ___ (Most of all) spiele ich Gitarre. → <details><summary>Answer</summary>**Am liebsten** <SpeakButton text="Am liebsten" /></details>
-**3.** Ich trinke lieber Tee ___ (than) Kaffee. → <details><summary>Answer</summary>**als** <SpeakButton text="als" /></details>
-**4.** Ich ___ (like) Schokolade sehr. → <details><summary>Answer</summary>**mag** <SpeakButton text="mag" /></details>
-**5.** Der Kurs ist nicht langweilig, er ist ___ (great). → <details><summary>Answer</summary>**toll** <SpeakButton text="toll" /></details>
+**1.** Ich trinke gerne Saft, aber ich trinke ___ (prefer) Wasser. → <details><summary>Answer</summary>**lieber** <SpeakButton text="Ich trinke gerne Saft, aber ich trinke lieber Wasser." /></details>
+**2.** ___ (Most of all) spiele ich Gitarre. → <details><summary>Answer</summary>**Am liebsten** <SpeakButton text="Am liebsten spiele ich Gitarre." /></details>
+**3.** Ich trinke lieber Tee ___ (than) Kaffee. → <details><summary>Answer</summary>**als** <SpeakButton text="Ich trinke lieber Tee als Kaffee." /></details>
+**4.** Ich ___ (like) Schokolade sehr. → <details><summary>Answer</summary>**mag** <SpeakButton text="Ich mag Schokolade sehr." /></details>
+**5.** Der Kurs ist nicht langweilig, er ist ___ (great). → <details><summary>Answer</summary>**toll** <SpeakButton text="Der Kurs ist nicht langweilig, er ist toll." /></details>
 
 ### 3B — Flash Cards
 

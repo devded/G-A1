@@ -96,14 +96,14 @@
 
 ### Full Navigation Script
 
-> **Tourist:** *Entschuldigung! Ich bin verloren. Wie komme ich zum Goethe-Institut?*  
-> **Passant (Passerby):** *Kein Problem! Das ist gar nicht weit von hier.*  
-> **Tourist:** *Kann ich zu Fuß gehen oder muss ich mit der U-Bahn fahren?*  
-> **Passant:** *Sie können zu Fuß gehen. Das dauert nur etwa 10 Minuten.*  
-> **Tourist:** *Wie ist der Weg?*  
-> **Passant:** *Gehen Sie hier die Straße geradeaus bis zur nächsten Kreuzung. Dann biegen Sie rechts ab. Das Goethe-Institut ist auf der linken Seite, direkt gegenüber von der Bank.*  
-> **Tourist:** *Super, vielen Dank für die Hilfe!*  
-> **Passant:** *Gerne! Schönen Tag noch!*
+> **Tourist:** *Entschuldigung! Ich bin verloren. Wie komme ich zum Goethe-Institut?* <SpeakButton text="Entschuldigung! Ich bin verloren. Wie komme ich zum Goethe-Institut?" />
+> **Passant (Passerby):** *Kein Problem! Das ist gar nicht weit von hier.* <SpeakButton text="Kein Problem! Das ist gar nicht weit von hier." />
+> **Tourist:** *Kann ich zu Fuß gehen oder muss ich mit der U-Bahn fahren?* <SpeakButton text="Kann ich zu Fuß gehen oder muss ich mit der U-Bahn fahren?" />
+> **Passant:** *Sie können zu Fuß gehen. Das dauert nur etwa 10 Minuten.* <SpeakButton text="Sie können zu Fuß gehen. Das dauert nur etwa 10 Minuten." />
+> **Tourist:** *Wie ist der Weg?* <SpeakButton text="Wie ist der Weg?" />
+> **Passant:** *Gehen Sie hier die Straße geradeaus bis zur nächsten Kreuzung. Dann biegen Sie rechts ab. Das Goethe-Institut ist auf der linken Seite, direkt gegenüber von der Bank.* <SpeakButton text="Gehen Sie hier die Straße geradeaus bis zur nächsten Kreuzung. Dann biegen Sie rechts ab. Das Goethe-Institut ist auf der linken Seite, direkt gegenüber von der Bank." />
+> **Tourist:** *Super, vielen Dank für die Hilfe!* <SpeakButton text="Super, vielen Dank für die Hilfe!" />
+> **Passant:** *Gerne! Schönen Tag noch!* <SpeakButton text="Gerne! Schönen Tag noch!" />
 
 </div>
 
@@ -113,11 +113,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich bin ___ (lost)! Wo ist das Zentrum? → <details><summary>Answer</summary>**verloren** <SpeakButton text="verloren" /></details>
-**2.** Wo ist der ___ (exit)? → <details><summary>Answer</summary>**Ausgang** <SpeakButton text="Ausgang" /></details>
-**3.** Der ___ (entrance) ist vorne. → <details><summary>Answer</summary>**Eingang** <SpeakButton text="Eingang" /></details>
-**4.** Die Post ist gleich ___ (around the corner). → <details><summary>Answer</summary>**um die Ecke** <SpeakButton text="um die Ecke" /></details>
-**5.** Sie haben Ihr ___ (destination) erreicht. → <details><summary>Answer</summary>**Ziel** <SpeakButton text="Ziel" /></details>
+**1.** Ich bin ___ (lost)! Wo ist das Zentrum? → <details><summary>Answer</summary>**verloren** <SpeakButton text="Ich bin verloren! Wo ist das Zentrum?" /></details>
+**2.** Wo ist der ___ (exit)? → <details><summary>Answer</summary>**Ausgang** <SpeakButton text="Wo ist der Ausgang?" /></details>
+**3.** Der ___ (entrance) ist vorne. → <details><summary>Answer</summary>**Eingang** <SpeakButton text="Der Eingang ist vorne." /></details>
+**4.** Die Post ist gleich ___ (around the corner). → <details><summary>Answer</summary>**um die Ecke** <SpeakButton text="Die Post ist gleich um die Ecke." /></details>
+**5.** Sie haben Ihr ___ (destination) erreicht. → <details><summary>Answer</summary>**Ziel** <SpeakButton text="Sie haben Ihr Ziel erreicht." /></details>
 
 ### 3B — Flash Cards
 

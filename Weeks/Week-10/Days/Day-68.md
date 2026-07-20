@@ -119,11 +119,11 @@ Remember: In all 6 modals, **ich** and **er/sie/es** have identical forms, and s
 
 ### 3A — Complete the sentences
 
-**1.** Der Arzt sagt, ich ___ (should) Sport machen. → <details><summary>Answer</summary>**soll** <SpeakButton text="soll" /></details>
-**2.** Ich ___ (want to) nach Berlin fahren. → <details><summary>Answer</summary>**will** <SpeakButton text="will" /></details>
-**3.** Wir ___ (can manage) das zusammen! → <details><summary>Answer</summary>**schaffen** <SpeakButton text="schaffen" /></details>
-**4.** Danke, das ist nicht ___ (necessary). → <details><summary>Answer</summary>**nötig** <SpeakButton text="nötig" /></details>
-**5.** Er ___ (mag) keinen Fisch. → <details><summary>Answer</summary>**mag** <SpeakButton text="mag" /></details>
+**1.** Der Arzt sagt, ich ___ (should) Sport machen. → <details><summary>Answer</summary>**soll** <SpeakButton text="Der Arzt sagt, ich soll Sport machen." /></details>
+**2.** Ich ___ (want to) nach Berlin fahren. → <details><summary>Answer</summary>**will** <SpeakButton text="Ich will nach Berlin fahren." /></details>
+**3.** Wir ___ (can manage) das zusammen! → <details><summary>Answer</summary>**schaffen** <SpeakButton text="Wir schaffen das zusammen!" /></details>
+**4.** Danke, das ist nicht ___ (necessary). → <details><summary>Answer</summary>**nötig** <SpeakButton text="Danke, das ist nicht nötig." /></details>
+**5.** Er ___ (mag) keinen Fisch. → <details><summary>Answer</summary>**mag** <SpeakButton text="Er mag keinen Fisch." /></details>
 
 ### 3B — Flash Cards
 

@@ -116,11 +116,11 @@ When an adjective comes **after** the verb *sein* (is/are), it **does not take a
 
 ### 3A — Complete the sentences
 
-**1.** Das Wohnzimmer ist sehr ___ (cosy). → <details><summary>Answer</summary>**gemütlich** <SpeakButton text="gemütlich" /></details>
-**2.** Die Küche ist ___ (bright) und sauber. → <details><summary>Answer</summary>**hell** <SpeakButton text="hell" /></details>
-**3.** Das Schlafzimmer ist zu ___ (dark). → <details><summary>Answer</summary>**dunkel** <SpeakButton text="dunkel" /></details>
-**4.** Mein Zimmer ist nicht groß, es ist ___ (small). → <details><summary>Answer</summary>**klein** <SpeakButton text="klein" /></details>
-**5.** Ist die Wohnung ___ (modern)? → <details><summary>Answer</summary>**modern** <SpeakButton text="modern" /></details>
+**1.** Das Wohnzimmer ist sehr ___ (cosy). → <details><summary>Answer</summary>**gemütlich** <SpeakButton text="Das Wohnzimmer ist sehr gemütlich." /></details>
+**2.** Die Küche ist ___ (bright) und sauber. → <details><summary>Answer</summary>**hell** <SpeakButton text="Die Küche ist hell und sauber." /></details>
+**3.** Das Schlafzimmer ist zu ___ (dark). → <details><summary>Answer</summary>**dunkel** <SpeakButton text="Das Schlafzimmer ist zu dunkel." /></details>
+**4.** Mein Zimmer ist nicht groß, es ist ___ (small). → <details><summary>Answer</summary>**klein** <SpeakButton text="Mein Zimmer ist nicht groß, es ist klein." /></details>
+**5.** Ist die Wohnung ___ (modern)? → <details><summary>Answer</summary>**modern** <SpeakButton text="Ist die Wohnung modern?" /></details>
 
 ### 3B — Flash Cards
 

@@ -109,7 +109,7 @@ Waiters in Germany will always ask: **Zusammen oder getrennt?**
 
 In Germany, you tell the waiter the **total amount including tip** when handing over cash!
 
-• Bill is 18,20 € → Hand over 20 € bill and say: **"20 Euro, bitte!"** <SpeakButton text="Bill is 18,20 € → Hand over 20 € bill and say: "20 Euro, bitte!"" />(or **"Stimmt so!"**)
+• Bill is 18,20 € → *Hand over 20 € bill and say:* <SpeakButton text="Hand over 20 € bill and say:" />*"20 Euro, bitte!"** (or **"Stimmt so!"**)
 • The waiter will give you back 0 € change <SpeakButton text="The waiter will give you back 0 € change" />(tipping ~1.80 €).
 
 </div>
@@ -120,11 +120,11 @@ In Germany, you tell the waiter the **total amount including tip** when handing 
 
 ### 3A — Complete the sentences
 
-**1.** Wir möchten bitte ___ (pay). → <details><summary>Answer</summary>**bezahlen** <SpeakButton text="bezahlen" /></details>
-**2.** Zusammen oder ___ (separately)? → <details><summary>Answer</summary>**getrennt** <SpeakButton text="getrennt" /></details>
-**3.** 25 Euro, ___ (keep the change)! → <details><summary>Answer</summary>**stimmt so** <SpeakButton text="stimmt so" /></details>
-**4.** Entschuldigung, die Suppe ist ___ (cold). → <details><summary>Answer</summary>**kalt** <SpeakButton text="kalt" /></details>
-**5.** Hier ___ (is missing) ein Messer. → <details><summary>Answer</summary>**fehlt** <SpeakButton text="fehlt" /></details>
+**1.** Wir möchten bitte ___ (pay). → <details><summary>Answer</summary>**bezahlen** <SpeakButton text="Wir möchten bitte bezahlen." /></details>
+**2.** Zusammen oder ___ (separately)? → <details><summary>Answer</summary>**getrennt** <SpeakButton text="Zusammen oder getrennt?" /></details>
+**3.** 25 Euro, ___ (keep the change)! → <details><summary>Answer</summary>**stimmt so** <SpeakButton text="25 Euro, stimmt so!" /></details>
+**4.** Entschuldigung, die Suppe ist ___ (cold). → <details><summary>Answer</summary>**kalt** <SpeakButton text="Entschuldigung, die Suppe ist kalt." /></details>
+**5.** Hier ___ (is missing) ein Messer. → <details><summary>Answer</summary>**fehlt** <SpeakButton text="Hier fehlt ein Messer." /></details>
 
 ### 3B — Flash Cards
 

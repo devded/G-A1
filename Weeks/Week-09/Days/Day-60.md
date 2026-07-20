@@ -96,11 +96,11 @@
 
 ### 3 Core Transport Movement Verbs (All Separable!)
 
-1. **einsteigen** = to get on / board  
+1. **einsteigen** = to get on / board <SpeakButton text="einsteigen" />
 • *Ich **steige** in den Bus **ein**.* <SpeakButton text="Ich steige in den Bus ein." />
-2. **aussteigen** = to get off / alight  
+2. **aussteigen** = to get off / alight <SpeakButton text="aussteigen" />
 • *Wir **steigen** an der Haltestelle **aus**.* <SpeakButton text="Wir steigen an der Haltestelle aus." />
-3. **umsteigen** = to change / transfer lines  
+3. **umsteigen** = to change / transfer lines <SpeakButton text="umsteigen" />
 • *Sie müssen am Marienplatz **umsteigen**.* <SpeakButton text="Sie müssen am Marienplatz umsteigen." />
 
 ### Preposition **mit** (by transport) + Dative!
@@ -120,11 +120,11 @@ Always use **mit + Dative** when stating how you travel:
 
 ### 3A — Complete the sentences
 
-**1.** Ich fahre mit ___ (the, f) U-Bahn. → <details><summary>Answer</summary>**der** <SpeakButton text="der" /></details>
-**2.** Er fährt mit ___ (the, m) Bus. → <details><summary>Answer</summary>**dem** <SpeakButton text="dem" /></details>
-**3.** Wir müssen am Marienplatz ___ (change trains). → <details><summary>Answer</summary>**umsteigen** <SpeakButton text="umsteigen" /></details>
-**4.** Wo steigen wir ___ (get off)? → <details><summary>Answer</summary>**aus** <SpeakButton text="aus" /></details>
-**5.** Bitte alle ___ (board/get on)! → <details><summary>Answer</summary>**einsteigen** <SpeakButton text="einsteigen" /></details>
+**1.** Ich fahre mit ___ (the, f) U-Bahn. → <details><summary>Answer</summary>**der** <SpeakButton text="Ich fahre mit der U-Bahn." /></details>
+**2.** Er fährt mit ___ (the, m) Bus. → <details><summary>Answer</summary>**dem** <SpeakButton text="Er fährt mit dem Bus." /></details>
+**3.** Wir müssen am Marienplatz ___ (change trains). → <details><summary>Answer</summary>**umsteigen** <SpeakButton text="Wir müssen am Marienplatz umsteigen." /></details>
+**4.** Wo steigen wir ___ (get off)? → <details><summary>Answer</summary>**aus** <SpeakButton text="Wo steigen wir aus?" /></details>
+**5.** Bitte alle ___ (board/get on)! → <details><summary>Answer</summary>**einsteigen** <SpeakButton text="Bitte alle einsteigen!" /></details>
 
 ### 3B — Flash Cards
 

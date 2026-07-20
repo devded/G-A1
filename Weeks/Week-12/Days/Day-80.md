@@ -98,8 +98,8 @@
 
 The A1 Writing exam has **2 Parts (Teile)**:
 
-1. **Teil 1 (Form Filling - 5 points):** Fill in 5 missing pieces of information on a form based on a short text (e.g. name, number of persons, arrival date, payment method).
-2. **Teil 2 (Short Message - approx. 30 words):** Write a short email/SMS covering **all 3 prompt points**!
+1. **Teil 1 (Form Filling - 5 points):** Fill in 5 missing pieces of information on a form based on a short text (e.g. name, number of persons, arrival date, payment method). <SpeakButton text="Teil 1 (Form Filling - 5 points):" />
+2. **Teil 2 (Short Message - approx. 30 words):** Write a short email/SMS covering **all 3 prompt points**! <SpeakButton text="Teil 2 (Short Message - approx. 30 words):" />
 
 ### The Perfect A1 Short Message Template
 
@@ -129,11 +129,11 @@ Viele Grüße / Mit freundlichen Grüßen,
 
 ### 3A — Complete the sentences
 
-**1.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Formular" /></details>
-**2.** Tragen Sie Ihr ___ (date of birth) ein. → <details><summary>Answer</summary>**Geburtsdatum** <SpeakButton text="Geburtsdatum" /></details>
-**3.** Schreiben Sie eine kurze ___ (message). → <details><summary>Answer</summary>**Nachricht** <SpeakButton text="Nachricht" /></details>
-**4.** ___ (Answer) Sie alle 3 Punkte. → <details><summary>Answer</summary>**Beantworten** <SpeakButton text="Beantworten" /></details>
-**5.** Der ___ (subject line) ist: Urlaubsanfrage. → <details><summary>Answer</summary>**Betreff** <SpeakButton text="Betreff" /></details>
+**1.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Füllen Sie das Formular aus." /></details>
+**2.** Tragen Sie Ihr ___ (date of birth) ein. → <details><summary>Answer</summary>**Geburtsdatum** <SpeakButton text="Tragen Sie Ihr Geburtsdatum ein." /></details>
+**3.** Schreiben Sie eine kurze ___ (message). → <details><summary>Answer</summary>**Nachricht** <SpeakButton text="Schreiben Sie eine kurze Nachricht." /></details>
+**4.** ___ (Answer) Sie alle 3 Punkte. → <details><summary>Answer</summary>**Beantworten** <SpeakButton text="Beantworten Sie alle 3 Punkte." /></details>
+**5.** Der ___ (subject line) ist: Urlaubsanfrage. → <details><summary>Answer</summary>**Betreff** <SpeakButton text="Der Betreff ist: Urlaubsanfrage." /></details>
 
 ### 3B — Flash Cards
 

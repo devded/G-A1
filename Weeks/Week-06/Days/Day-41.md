@@ -96,12 +96,12 @@
 
 ### Sample Social Arrangement Dialogue
 
-> **Anna:** *Hallo Tom! Was machst du am Wochenende?*  
-> **Tom:** *Hallo Anna! Am Samstag gehe ich wandern. Und am Sonntag habe ich frei.*  
-> **Anna:** *Super! Wollen wir am Sonntag zusammen ins Kino gehen? Der neue Film ist wirklich spannend.*  
-> **Tom:** *Ja, gerne! Das ist eine gute Idee. Wann treffen wir uns?*  
-> **Anna:** *Passt es dir um 17 Uhr vor dem Kino?*  
-> **Tom:** *Ja, perfekt! Bis Sonntag!*
+> **Anna:** *Hallo Tom! Was machst du am Wochenende?* <SpeakButton text="Hallo Tom! Was machst du am Wochenende?" />
+> **Tom:** *Hallo Anna! Am Samstag gehe ich wandern. Und am Sonntag habe ich frei.* <SpeakButton text="Hallo Anna! Am Samstag gehe ich wandern. Und am Sonntag habe ich frei." />
+> **Anna:** *Super! Wollen wir am Sonntag zusammen ins Kino gehen? Der neue Film ist wirklich spannend.* <SpeakButton text="Super! Wollen wir am Sonntag zusammen ins Kino gehen? Der neue Film ist wirklich spannend." />
+> **Tom:** *Ja, gerne! Das ist eine gute Idee. Wann treffen wir uns?* <SpeakButton text="Ja, gerne! Das ist eine gute Idee. Wann treffen wir uns?" />
+> **Anna:** *Passt es dir um 17 Uhr vor dem Kino?* <SpeakButton text="Passt es dir um 17 Uhr vor dem Kino?" />
+> **Tom:** *Ja, perfekt! Bis Sonntag!* <SpeakButton text="Ja, perfekt! Bis Sonntag!" />
 
 ### Useful Outing Expressions
 • *Wollen wir zusammen... gehen?* <SpeakButton text="Wollen wir zusammen... gehen?" />(Shall we go together...?)
@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist eine sehr gute ___ (idea). → <details><summary>Answer</summary>**Idee** <SpeakButton text="Idee" /></details>
-**2.** Der Film ist wirklich ___ (exciting). → <details><summary>Answer</summary>**spannend** <SpeakButton text="spannend" /></details>
-**3.** Gehen wir ___ (together) ins Café? → <details><summary>Answer</summary>**zusammen** <SpeakButton text="zusammen" /></details>
-**4.** ___ (Maybe) habe ich am Freitag Zeit. → <details><summary>Answer</summary>**Vielleicht** <SpeakButton text="Vielleicht" /></details>
-**5.** ___ (By the way), hast du schon Karten? → <details><summary>Answer</summary>**Übrigens** <SpeakButton text="Übrigens" /></details>
+**1.** Das ist eine sehr gute ___ (idea). → <details><summary>Answer</summary>**Idee** <SpeakButton text="Das ist eine sehr gute Idee." /></details>
+**2.** Der Film ist wirklich ___ (exciting). → <details><summary>Answer</summary>**spannend** <SpeakButton text="Der Film ist wirklich spannend." /></details>
+**3.** Gehen wir ___ (together) ins Café? → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Gehen wir zusammen ins Café?" /></details>
+**4.** ___ (Maybe) habe ich am Freitag Zeit. → <details><summary>Answer</summary>**Vielleicht** <SpeakButton text="Vielleicht habe ich am Freitag Zeit." /></details>
+**5.** ___ (By the way), hast du schon Karten? → <details><summary>Answer</summary>**Übrigens** <SpeakButton text="Übrigens, hast du schon Karten?" /></details>
 
 ### 3B — Flash Cards
 

@@ -98,9 +98,9 @@
 
 The A1 Reading exam has **3 Parts (Teile)**:
 
-1. **Teil 1 (5 True/False):** Read 2 short emails/letters and decide if statements are Richtig or Falsch.
-2. **Teil 2 (5 Multiple Choice):** Website selection — choose which website (A or B) satisfies a specific need (e.g. buying tickets, booking hotels).
-3. **Teil 3 (5 True/False):** Read short public notices, signs, or classified ads (e.g. opening hours, rules) and evaluate statements.
+1. **Teil 1 (5 True/False):** Read 2 short emails/letters and decide if statements are Richtig or Falsch. <SpeakButton text="Teil 1 (5 True/False):" />
+2. **Teil 2 (5 Multiple Choice):** Website selection — choose which website (A or B) satisfies a specific need (e.g. buying tickets, booking hotels). <SpeakButton text="Teil 2 (5 Multiple Choice):" />
+3. **Teil 3 (5 True/False):** Read short public notices, signs, or classified ads (e.g. opening hours, rules) and evaluate statements. <SpeakButton text="Teil 3 (5 True/False):" />
 
 ### Golden Exam Strategies for Lesen
 - **Strategy 1:** Read the task/question FIRST! <SpeakButton text="Strategy 1: Read the task/question FIRST!" />
@@ -115,11 +115,11 @@ The A1 Reading exam has **3 Parts (Teile)**:
 
 ### 3A — Complete the sentences
 
-**1.** ___ (Underline) Sie wichtige Wörter im Text. → <details><summary>Answer</summary>**Unterstreichen** <SpeakButton text="Unterstreichen" /></details>
-**2.** Lesen Sie zuerst die ___ (heading). → <details><summary>Answer</summary>**Überschrift** <SpeakButton text="Überschrift" /></details>
-**3.** Was ist der ___ (main idea) des Textes? → <details><summary>Answer</summary>**Hauptgedanke** <SpeakButton text="Hauptgedanke" /></details>
-**4.** Suchen Sie im Text nach ___ (details). → <details><summary>Answer</summary>**Details** <SpeakButton text="Details" /></details>
-**5.** Lesen Sie jeden ___ (sentence) aufmerksam. → <details><summary>Answer</summary>**Satz** <SpeakButton text="Satz" /></details>
+**1.** ___ (Underline) Sie wichtige Wörter im Text. → <details><summary>Answer</summary>**Unterstreichen** <SpeakButton text="Unterstreichen Sie wichtige Wörter im Text." /></details>
+**2.** Lesen Sie zuerst die ___ (heading). → <details><summary>Answer</summary>**Überschrift** <SpeakButton text="Lesen Sie zuerst die Überschrift." /></details>
+**3.** Was ist der ___ (main idea) des Textes? → <details><summary>Answer</summary>**Hauptgedanke** <SpeakButton text="Was ist der Hauptgedanke des Textes?" /></details>
+**4.** Suchen Sie im Text nach ___ (details). → <details><summary>Answer</summary>**Details** <SpeakButton text="Suchen Sie im Text nach Details." /></details>
+**5.** Lesen Sie jeden ___ (sentence) aufmerksam. → <details><summary>Answer</summary>**Satz** <SpeakButton text="Lesen Sie jeden Satz aufmerksam." /></details>
 
 ### 3B — Flash Cards
 

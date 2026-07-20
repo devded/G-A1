@@ -114,11 +114,11 @@ In German, **man** (spelled with ONE 'n', unlike *der Mann*) refers to people in
 
 ### 3A — Complete the sentences
 
-**1.** Im Sommer ___ (one can) viel im See schwimmen. → <details><summary>Answer</summary>**kann man** <SpeakButton text="kann man" /></details>
-**2.** Bei Regen sollte ___ (one) einen Schirm mitnehmen. → <details><summary>Answer</summary>**man** <SpeakButton text="man" /></details>
-**3.** Es ist sehr kalt ___ (outside). → <details><summary>Answer</summary>**draußen** <SpeakButton text="draußen" /></details>
-**4.** Wir bleiben heute ___ (inside). → <details><summary>Answer</summary>**drinnen** <SpeakButton text="drinnen" /></details>
-**5.** Nimm deine warme ___ (jacket) mit! → <details><summary>Answer</summary>**Jacke** <SpeakButton text="Jacke" /></details>
+**1.** Im Sommer ___ (one can) viel im See schwimmen. → <details><summary>Answer</summary>**kann man** <SpeakButton text="Im Sommer kann man viel im See schwimmen." /></details>
+**2.** Bei Regen sollte ___ (one) einen Schirm mitnehmen. → <details><summary>Answer</summary>**man** <SpeakButton text="Bei Regen sollte man einen Schirm mitnehmen." /></details>
+**3.** Es ist sehr kalt ___ (outside). → <details><summary>Answer</summary>**draußen** <SpeakButton text="Es ist sehr kalt draußen." /></details>
+**4.** Wir bleiben heute ___ (inside). → <details><summary>Answer</summary>**drinnen** <SpeakButton text="Wir bleiben heute drinnen." /></details>
+**5.** Nimm deine warme ___ (jacket) mit! → <details><summary>Answer</summary>**Jacke** <SpeakButton text="Nimm deine warme Jacke mit!" /></details>
 
 ### 3B — Flash Cards
 

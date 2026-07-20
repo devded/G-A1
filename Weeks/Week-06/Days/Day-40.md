@@ -116,11 +116,11 @@ In German, use **seit + Present Tense**!
 
 ### 3A — Complete the sentences
 
-**1.** Ich lerne ___ (since/for) zwei Monaten Deutsch. → <details><summary>Answer</summary>**seit** <SpeakButton text="seit" /></details>
-**2.** Er wohnt ___ (for a long time) in Deutschland. → <details><summary>Answer</summary>**schon lange** <SpeakButton text="schon lange" /></details>
-**3.** Ich mache ___ (regularly) Sport. → <details><summary>Answer</summary>**regelmäßig** <SpeakButton text="regelmäßig" /></details>
-**4.** ___ (Now and then) gehe ich ins Restaurant. → <details><summary>Answer</summary>**Ab und zu** <SpeakButton text="Ab und zu" /></details>
-**5.** Ich lerne ___ (daily) 30 Minuten. → <details><summary>Answer</summary>**täglich** <SpeakButton text="täglich" /></details>
+**1.** Ich lerne ___ (since/for) zwei Monaten Deutsch. → <details><summary>Answer</summary>**seit** <SpeakButton text="Ich lerne seit zwei Monaten Deutsch." /></details>
+**2.** Er wohnt ___ (for a long time) in Deutschland. → <details><summary>Answer</summary>**schon lange** <SpeakButton text="Er wohnt schon lange in Deutschland." /></details>
+**3.** Ich mache ___ (regularly) Sport. → <details><summary>Answer</summary>**regelmäßig** <SpeakButton text="Ich mache regelmäßig Sport." /></details>
+**4.** ___ (Now and then) gehe ich ins Restaurant. → <details><summary>Answer</summary>**Ab und zu** <SpeakButton text="Ab und zu gehe ich ins Restaurant." /></details>
+**5.** Ich lerne ___ (daily) 30 Minuten. → <details><summary>Answer</summary>**täglich** <SpeakButton text="Ich lerne täglich 30 Minuten." /></details>
 
 ### 3B — Flash Cards
 

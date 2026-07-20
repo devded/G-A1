@@ -115,11 +115,11 @@ When talking about food in general (without specifying a particular item), **do 
 
 ### 3A — Complete the sentences
 
-**1.** Ich esse morgens frisches ___ (bread). → <details><summary>Answer</summary>**Brot** <SpeakButton text="Brot" /></details>
-**2.** Er isst kein ___ (meat), er ist Vegetarier. → <details><summary>Answer</summary>**Fleisch** <SpeakButton text="Fleisch" /></details>
-**3.** ___ (Fruit) und Gemüse sind sehr gesund. → <details><summary>Answer</summary>**Obst** <SpeakButton text="Obst" /></details>
-**4.** Ich kaufe ___ (cheese) und Wurst. → <details><summary>Answer</summary>**Käse** <SpeakButton text="Käse" /></details>
-**5.** Zum Mittagessen esse ich ___ (rice). → <details><summary>Answer</summary>**Reis** <SpeakButton text="Reis" /></details>
+**1.** Ich esse morgens frisches ___ (bread). → <details><summary>Answer</summary>**Brot** <SpeakButton text="Ich esse morgens frisches Brot." /></details>
+**2.** Er isst kein ___ (meat), er ist Vegetarier. → <details><summary>Answer</summary>**Fleisch** <SpeakButton text="Er isst kein Fleisch, er ist Vegetarier." /></details>
+**3.** ___ (Fruit) und Gemüse sind sehr gesund. → <details><summary>Answer</summary>**Obst** <SpeakButton text="Obst und Gemüse sind sehr gesund." /></details>
+**4.** Ich kaufe ___ (cheese) und Wurst. → <details><summary>Answer</summary>**Käse** <SpeakButton text="Ich kaufe Käse und Wurst." /></details>
+**5.** Zum Mittagessen esse ich ___ (rice). → <details><summary>Answer</summary>**Reis** <SpeakButton text="Zum Mittagessen esse ich Reis." /></details>
 
 ### 3B — Flash Cards
 

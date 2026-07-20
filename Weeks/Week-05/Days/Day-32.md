@@ -119,11 +119,11 @@ In German, separable verbs have a prefix (like *auf-*, *an-*, *ein-*, *fern-*) t
 
 ### 3A — Complete the sentences
 
-**1.** Ich stehe um 7 Uhr ___ (aufstehen). → <details><summary>Answer</summary>**auf** <SpeakButton text="auf" /></details>
-**2.** Er kauft im Supermarkt ___ (einkaufen). → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
-**3.** Wir sehen abends ___ (fernsehen). → <details><summary>Answer</summary>**fern** <SpeakButton text="fern" /></details>
-**4.** Ich rufe dich morgen ___ (anrufen). → <details><summary>Answer</summary>**an** <SpeakButton text="an" /></details>
-**5.** Das Kind schläft schnell ___ (einschlafen). → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
+**1.** Ich stehe um 7 Uhr ___ (aufstehen). → <details><summary>Answer</summary>**auf** <SpeakButton text="Ich stehe um 7 Uhr auf." /></details>
+**2.** Er kauft im Supermarkt ___ (einkaufen). → <details><summary>Answer</summary>**ein** <SpeakButton text="Er kauft im Supermarkt ein." /></details>
+**3.** Wir sehen abends ___ (fernsehen). → <details><summary>Answer</summary>**fern** <SpeakButton text="Wir sehen abends fern." /></details>
+**4.** Ich rufe dich morgen ___ (anrufen). → <details><summary>Answer</summary>**an** <SpeakButton text="Ich rufe dich morgen an." /></details>
+**5.** Das Kind schläft schnell ___ (einschlafen). → <details><summary>Answer</summary>**ein** <SpeakButton text="Das Kind schläft schnell ein." /></details>
 
 ### 3B — Flash Cards
 

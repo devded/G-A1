@@ -98,9 +98,9 @@
 
 The A1 Listening exam has **3 Parts (Teile)**:
 
-1. **Teil 1 (6 Multiple Choice):** Short everyday dialogues (train station, shopping, phone). You hear each audio **TWICE**!
-2. **Teil 2 (4 True/False):** Announcements in public places (airport, train station, supermarket). You hear each audio **ONCE**!
-3. **Teil 3 (5 Multiple Choice):** Answering machine / voicemail messages. You hear each audio **TWICE**!
+1. **Teil 1 (6 Multiple Choice):** Short everyday dialogues (train station, shopping, phone). You hear each audio **TWICE**! <SpeakButton text="Teil 1 (6 Multiple Choice):" />
+2. **Teil 2 (4 True/False):** Announcements in public places (airport, train station, supermarket). You hear each audio **ONCE**! <SpeakButton text="Teil 2 (4 True/False):" />
+3. **Teil 3 (5 Multiple Choice):** Answering machine / voicemail messages. You hear each audio **TWICE**! <SpeakButton text="Teil 3 (5 Multiple Choice):" />
 
 ### Golden Exam Strategies for Hören
 - **Strategy 1:** Read questions BEFORE the audio starts! Identify key words. <SpeakButton text="Strategy 1: Read questions BEFORE the audio starts! Identify key words." />
@@ -115,11 +115,11 @@ The A1 Listening exam has **3 Parts (Teile)**:
 
 ### 3A — Complete the sentences
 
-**1.** Kreuzen Sie die richtige Antwort ___ (ankreuzen). → <details><summary>Answer</summary>**an** <SpeakButton text="an" /></details>
-**2.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Formular" /></details>
-**3.** Achten Sie auf den ___ (clue/hint) im Text. → <details><summary>Answer</summary>**Hinweis** <SpeakButton text="Hinweis" /></details>
-**4.** Ist die Aussage richtig oder ___ (false)? → <details><summary>Answer</summary>**falsch** <SpeakButton text="falsch" /></details>
-**5.** Lesen Sie zuerst die ___ (task). → <details><summary>Answer</summary>**Aufgabe** <SpeakButton text="Aufgabe" /></details>
+**1.** Kreuzen Sie die richtige Antwort ___ (ankreuzen). → <details><summary>Answer</summary>**an** <SpeakButton text="Kreuzen Sie die richtige Antwort an." /></details>
+**2.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Füllen Sie das Formular aus." /></details>
+**3.** Achten Sie auf den ___ (clue/hint) im Text. → <details><summary>Answer</summary>**Hinweis** <SpeakButton text="Achten Sie auf den Hinweis im Text." /></details>
+**4.** Ist die Aussage richtig oder ___ (false)? → <details><summary>Answer</summary>**falsch** <SpeakButton text="Ist die Aussage richtig oder falsch?" /></details>
+**5.** Lesen Sie zuerst die ___ (task). → <details><summary>Answer</summary>**Aufgabe** <SpeakButton text="Lesen Sie zuerst die Aufgabe." /></details>
 
 ### 3B — Flash Cards
 

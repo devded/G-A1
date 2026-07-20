@@ -96,16 +96,16 @@
 
 ### Doctor's Consultation Dialogue Script
 
-> **Arzt:** *Guten Tag! Was fehlt Ihnen? / Wo haben Sie Schmerzen?*  
-> **Patient:** *Guten Tag, Herr Doktor. Ich fühle mich gar nicht gut. Ich habe starke Kopfschmerzen und Fieber.*  
-> **Arzt:** *Seit wann haben Sie das Fieber?*  
-> **Patient:** *Seit zwei Tagen.*  
-> **Arzt:** *Ich untersuche jetzt Ihren Hals. Bitte machen Sie den Mund auf... Ja, Ihr Hals ist rot. Sie haben eine Erkältung.*  
-> **Arzt:** *Ich schreibe Ihnen ein Rezept für Medikamente. Sie müssen drei Tage im Bett bleiben.*  
-> **Patient:** *Vielen Dank, Herr Doktor!*
+> **Arzt:** *Guten Tag! Was fehlt Ihnen? / Wo haben Sie Schmerzen?* <SpeakButton text="Guten Tag! Was fehlt Ihnen? / Wo haben Sie Schmerzen?" />
+> **Patient:** *Guten Tag, Herr Doktor. Ich fühle mich gar nicht gut. Ich habe starke Kopfschmerzen und Fieber.* <SpeakButton text="Guten Tag, Herr Doktor. Ich fühle mich gar nicht gut. Ich habe starke Kopfschmerzen und Fieber." />
+> **Arzt:** *Seit wann haben Sie das Fieber?* <SpeakButton text="Seit wann haben Sie das Fieber?" />
+> **Patient:** *Seit zwei Tagen.* <SpeakButton text="Seit zwei Tagen." />
+> **Arzt:** *Ich untersuche jetzt Ihren Hals. Bitte machen Sie den Mund auf... Ja, Ihr Hals ist rot. Sie haben eine Erkältung.* <SpeakButton text="Ich untersuche jetzt Ihren Hals. Bitte machen Sie den Mund auf... Ja, Ihr Hals ist rot. Sie haben eine Erkältung." />
+> **Arzt:** *Ich schreibe Ihnen ein Rezept für Medikamente. Sie müssen drei Tage im Bett bleiben.* <SpeakButton text="Ich schreibe Ihnen ein Rezept für Medikamente. Sie müssen drei Tage im Bett bleiben." />
+> **Patient:** *Vielen Dank, Herr Doktor!* <SpeakButton text="Vielen Dank, Herr Doktor!" />
 
 ### Asking & Answering Duration
-• **Seit wann?** → *Seit gestern* <SpeakButton text="Seit wann? → Seit gestern" />(Since yesterday) / *Seit zwei Tagen* (For 2 days).
+• **Seit wann?** → *Seit gestern* <SpeakButton text="Seit gestern" /> (Since yesterday) / *Seit zwei Tagen* (For 2 days).
 
 </div>
 
@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Was fehlt ___ (you, formal)? → <details><summary>Answer</summary>**Ihnen** <SpeakButton text="Ihnen" /></details>
-**2.** ___ (Since when) haben Sie die Schmerzen? → <details><summary>Answer</summary>**Seit wann** <SpeakButton text="Seit wann" /></details>
-**3.** Ich habe die Schmerzen ___ (since yesterday). → <details><summary>Answer</summary>**seit gestern** <SpeakButton text="seit gestern" /></details>
-**4.** Der Arzt schreibt ein ___ (prescription). → <details><summary>Answer</summary>**Rezept** <SpeakButton text="Rezept" /></details>
-**5.** Ich brauche dringend einen ___ (appointment). → <details><summary>Answer</summary>**Termin** <SpeakButton text="Termin" /></details>
+**1.** Was fehlt ___ (you, formal)? → <details><summary>Answer</summary>**Ihnen** <SpeakButton text="Was fehlt Ihnen?" /></details>
+**2.** ___ (Since when) haben Sie die Schmerzen? → <details><summary>Answer</summary>**Seit wann** <SpeakButton text="Seit wann haben Sie die Schmerzen?" /></details>
+**3.** Ich habe die Schmerzen ___ (since yesterday). → <details><summary>Answer</summary>**seit gestern** <SpeakButton text="Ich habe die Schmerzen seit gestern." /></details>
+**4.** Der Arzt schreibt ein ___ (prescription). → <details><summary>Answer</summary>**Rezept** <SpeakButton text="Der Arzt schreibt ein Rezept." /></details>
+**5.** Ich brauche dringend einen ___ (appointment). → <details><summary>Answer</summary>**Termin** <SpeakButton text="Ich brauche dringend einen Termin." /></details>
 
 ### 3B — Flash Cards
 

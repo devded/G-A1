@@ -105,9 +105,9 @@ When calling 112/110, answer these 5 questions clearly:
 
 1. **Wo** ist es passiert? *(Where did it happen?)*  
 2. **Was** ist passiert? *(What happened?)*  
-3. **Wie viele** Verletzte gibt es? *(How many injured people?)*  
-4. **Welche** Verletzungen? *(What kind of injuries?)*  
-5. **Warten** auf Rückfragen! *(Wait for questions, don't hang up!)*
+3. **Wie viele** Verletzte gibt es? *(How many injured people?)* <SpeakButton text="Wie viele" />
+4. **Welche** Verletzungen? *(What kind of injuries?)* <SpeakButton text="Welche" />
+5. **Warten** auf Rückfragen! *(Wait for questions, don't hang up!)* <SpeakButton text="Warten" />
 
 > <Icon name="alert-triangle" /> **Crucial Phrases:**  
 > • *Rufen Sie den Notarzt!* <SpeakButton text="Rufen Sie den Notarzt!" />(Call the emergency doctor!)
@@ -121,11 +121,11 @@ When calling 112/110, answer these 5 questions clearly:
 
 ### 3A — Complete the sentences
 
-**1.** Rufen Sie sofort die ___ (police, 110)! → <details><summary>Answer</summary>**Polizei** <SpeakButton text="Polizei" /></details>
-**2.** Der ___ (ambulance) ist unterwegs. → <details><summary>Answer</summary>**Krankenwagen** <SpeakButton text="Krankenwagen" /></details>
-**3.** ___ (Help)! Helfen Sie mir! → <details><summary>Answer</summary>**Hilfe** <SpeakButton text="Hilfe" /></details>
-**4.** Ein Mann ist schwer ___ (injured). → <details><summary>Answer</summary>**verletzt** <SpeakButton text="verletzt" /></details>
-**5.** Rufen Sie die ___ (fire brigade, 112)! → <details><summary>Answer</summary>**Feuerwehr** <SpeakButton text="Feuerwehr" /></details>
+**1.** Rufen Sie sofort die ___ (police, 110)! → <details><summary>Answer</summary>**Polizei** <SpeakButton text="Rufen Sie sofort die Polizei!" /></details>
+**2.** Der ___ (ambulance) ist unterwegs. → <details><summary>Answer</summary>**Krankenwagen** <SpeakButton text="Der Krankenwagen ist unterwegs." /></details>
+**3.** ___ (Help)! Helfen Sie mir! → <details><summary>Answer</summary>**Hilfe** <SpeakButton text="Hilfe! Helfen Sie mir!" /></details>
+**4.** Ein Mann ist schwer ___ (injured). → <details><summary>Answer</summary>**verletzt** <SpeakButton text="Ein Mann ist schwer verletzt." /></details>
+**5.** Rufen Sie die ___ (fire brigade, 112)! → <details><summary>Answer</summary>**Feuerwehr** <SpeakButton text="Rufen Sie die Feuerwehr!" /></details>
 
 ### 3B — Flash Cards
 

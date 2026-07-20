@@ -107,9 +107,9 @@ The Accusative case receives the action of the verb (*kaufen, bestellen, brauche
 | **Plural** | **die** | **—** | **keine** | **meine** <SpeakButton text="meine" /> |
 
 > <Icon name="target" /> **Examples:**  
-> • der Apfel → Ich esse **den** Apfel / **einen** Apfel / **keinen** Apfel. <SpeakButton text="der Apfel → Ich esse den Apfel / einen Apfel / keinen Apfel." />
-> • die Banane → Ich esse **die** Banane / **eine** Banane. <SpeakButton text="die Banane → Ich esse die Banane / eine Banane." />
-> • das Ei → Ich esse **das** Ei / **ein** Ei. <SpeakButton text="das Ei → Ich esse das Ei / ein Ei." />
+> • der Apfel → *Ich esse* <SpeakButton text="Ich esse" />*den** Apfel / **einen** Apfel / **keinen** Apfel.
+> • die Banane → *Ich esse* <SpeakButton text="Ich esse" />*die** Banane / **eine** Banane.
+> • das Ei → *Ich esse* <SpeakButton text="Ich esse" />*das** Ei / **ein** Ei.
 
 </div>
 
@@ -119,11 +119,11 @@ The Accusative case receives the action of the verb (*kaufen, bestellen, brauche
 
 ### 3A — Complete the sentences
 
-**1.** der Apfel: Ich kaufe ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="einen" /></details>
-**2.** der Fisch: Er isst ___ (no, m) Fisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="keinen" /></details>
-**3.** die Pizza: Wir bestellen ___ (a, f) Pizza. → <details><summary>Answer</summary>**eine** <SpeakButton text="eine" /></details>
-**4.** das Brot: Sie braucht ___ (a, n) Brot. → <details><summary>Answer</summary>**ein** <SpeakButton text="ein" /></details>
-**5.** der Schlüssel: Ich suche ___ (my, m) Schlüssel. → <details><summary>Answer</summary>**meinen** <SpeakButton text="meinen" /></details>
+**1.** der Apfel: Ich kaufe ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="der Apfel: Ich kaufe einen Apfel." /></details>
+**2.** der Fisch: Er isst ___ (no, m) Fisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="der Fisch: Er isst keinen Fisch." /></details>
+**3.** die Pizza: Wir bestellen ___ (a, f) Pizza. → <details><summary>Answer</summary>**eine** <SpeakButton text="die Pizza: Wir bestellen eine Pizza." /></details>
+**4.** das Brot: Sie braucht ___ (a, n) Brot. → <details><summary>Answer</summary>**ein** <SpeakButton text="das Brot: Sie braucht ein Brot." /></details>
+**5.** der Schlüssel: Ich suche ___ (my, m) Schlüssel. → <details><summary>Answer</summary>**meinen** <SpeakButton text="der Schlüssel: Ich suche meinen Schlüssel." /></details>
 
 ### 3B — Flash Cards
 
