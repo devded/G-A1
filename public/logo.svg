@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <clipPath id="circle-clip">
+      <circle cx="60" cy="60" r="56" />
+    </clipPath>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Base Circle with Shadow -->
+  <circle cx="60" cy="60" r="56" fill="#ffffff" filter="url(#shadow)" stroke="rgba(255,255,255,0.8)" stroke-width="4"/>
+
+  <!-- German Flag Stripes clipped into Circle -->
+  <g clip-path="url(#circle-clip)">
+    <!-- Top Stripe: Schwarz (Black) -->
+    <rect x="0" y="0" width="120" height="40" fill="#18181b"/>
+    <!-- Middle Stripe: Rot (Red) -->
+    <rect x="0" y="40" width="120" height="40" fill="#e63946"/>
+    <!-- Bottom Stripe: Gold (Gold/Yellow) -->
+    <rect x="0" y="80" width="120" height="40" fill="#ffb703"/>
+  </g>
+
+  <!-- Inner Ring Gloss -->
+  <circle cx="60" cy="60" r="56" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="3"/>
+</svg>
