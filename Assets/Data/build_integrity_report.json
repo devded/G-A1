@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "counts": {
+    "markdown": 393,
+    "csv": 9,
+    "wav": 66,
+    "json": 1,
+    "daily_lessons": 56,
+    "vocabulary_items": 950,
+    "all_files": 469
+  },
+  "errors": []
+}
