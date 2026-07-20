@@ -37,49 +37,34 @@ def render_day(d, week_num, max_days=84):
     lines.append(f"# Day {day_str} — {d['title']}\n")
     lines.append('<div class="day-nav">')
     lines.append(f'  <a href="{prev_path}">← Day {prev_str}</a>')
-    lines.append(f'  <span class="day-center">📅 Week {week_num} · Day {day_num} of {max_days}</span>')
+    level = d.get("level", "A1.1")
+    day_meta = f"{level} · Week {week_num} review" if is_review else f"{level} · 8 new words"
+    lines.append(f'  <span class="day-center"><Icon name="calendar" /> Week {week_num} · Day {day_num} of {max_days} <span class="day-meta">· {day_meta}</span></span>')
     if is_review and week_num < 12:
         lines.append(f'  <a href="/Weeks/Week-{fmt_day(week_num+1)}/Days/Day-{next_str}">Week {week_num+1} →</a>')
     else:
         lines.append(f'  <a href="{next_path}">Day {next_str} →</a>')
     lines.append('</div>\n')
-    
-    # Hero box
-    lines.append('<div class="day-hero">')
-    lines.append('  <div class="day-hero-info">')
-    label_suffix = " — REVIEW DAY" if is_review else ""
-    lines.append(f'    <div class="day-label">Week {week_num} · Day {day_num}{label_suffix}</div>')
-    lines.append(f'    <div class="day-title">{d["title"]}</div>')
-    lines.append('  </div>')
-    lines.append('  <div class="day-hero-stats">')
-    lines.append('    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>')
-    if is_review:
-        lines.append(f'    <div class="hero-stat"><div class="stat-value">{week_num * 56}</div><div class="stat-label">Words Learned</div></div>')
-    else:
-        lines.append('    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>')
-    lines.append(f'    <div class="hero-stat"><div class="stat-value">{d.get("level", "A1.1")}</div><div class="stat-label">Level</div></div>')
-    lines.append('  </div>')
-    lines.append('</div>\n')
-    
+
     # Timer bar
     lines.append('<div class="day-timer-bar">')
     if is_review:
-        lines.append('  <div class="timer-segment vocab">🔁 Review Vocab <strong>8 min</strong></div>')
-        lines.append('  <div class="timer-segment grammar">📖 Grammar Recap <strong>7 min</strong></div>')
-        lines.append('  <div class="timer-segment practice">🎯 Big Quiz <strong>12 min</strong></div>')
-        lines.append('  <div class="timer-segment review">🗣️ Speaking <strong>3 min</strong></div>')
+        lines.append('  <div class="timer-segment vocab"><Icon name="repeat" /> Review Vocab <strong>8 min</strong></div>')
+        lines.append('  <div class="timer-segment grammar"><Icon name="book" /> Grammar Recap <strong>7 min</strong></div>')
+        lines.append('  <div class="timer-segment practice"><Icon name="target" /> Big Quiz <strong>12 min</strong></div>')
+        lines.append('  <div class="timer-segment review"><Icon name="message-square" /> Speaking <strong>3 min</strong></div>')
     else:
-        lines.append('  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>')
-        lines.append('  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>')
-        lines.append('  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>')
-        lines.append('  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>')
-    lines.append('  <div class="timer-segment total">⏱️ 30 min</div>')
+        lines.append('  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>')
+        lines.append('  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>')
+        lines.append('  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>')
+        lines.append('  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>')
+    lines.append('  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>')
     lines.append('</div>\n')
     lines.append('---\n')
     
     if not is_review:
         # STEP 1: VOCAB
-        lines.append('## 📚 Step 1 — Vocabulary (8 min)\n')
+        lines.append('## Step 1 — Vocabulary (8 min)\n')
         lines.append('<div class="vocab-grid">\n')
         for v in d["vocab"]:
             art = v.get("article", "").strip() if v.get("article") else ""
@@ -110,7 +95,7 @@ def render_day(d, week_num, max_days=84):
         lines.append('---\n')
         
         # STEP 2: GRAMMAR
-        lines.append('## 📖 Step 2 — Grammar Bite (10 min)\n')
+        lines.append('## Step 2 — Grammar Bite (10 min)\n')
         lines.append('<div class="grammar-box">\n')
         lines.append(f'### {d["grammarTitle"]}\n')
         lines.append(d["grammarContent"].strip())
@@ -118,7 +103,7 @@ def render_day(d, week_num, max_days=84):
         lines.append('---\n')
         
         # STEP 3: PRACTICE
-        lines.append('## ✏️ Step 3 — Practice (9 min)\n')
+        lines.append('## Step 3 — Practice (9 min)\n')
         lines.append('### 3A — Complete the sentences\n')
         for idx, f in enumerate(d["fillIns"], 1):
             ans_clean = f["a"].strip()
@@ -142,16 +127,16 @@ def render_day(d, week_num, max_days=84):
         lines.append('---\n')
         
         # STEP 4: MASTERY
-        lines.append('## ✅ Step 4 — Daily Mastery Check (3 min)\n')
+        lines.append('## Step 4 — Daily Mastery Check (3 min)\n')
         lines.append('<div class="mastery-checklist">')
-        lines.append('<h3>✅ Before you finish:</h3>')
+        lines.append('<h3>Before you finish:</h3>')
         lines.append('<ul>')
         for cp in d["checkpoints"]:
             lines.append(f'  <li>{cp}</li>')
         lines.append('</ul>')
         lines.append('</div>\n')
         
-        lines.append(f'> 📝 **Tomorrow (Day {next_str}):** {d.get("tomorrow", "Next step in your German journey!")}\n')
+        lines.append(f'> <Icon name="arrow-right" /> **Tomorrow (Day {next_str}):** {d.get("tomorrow", "Next step in your German journey!")}\n')
         
         lines.append('<div class="day-nav">')
         lines.append(f'  <a href="{prev_path}">← Day {prev_str}</a>')
@@ -160,27 +145,27 @@ def render_day(d, week_num, max_days=84):
         lines.append('</div>')
     else:
         # REVIEW DAY
-        lines.append('## 🔁 Step 1 — Vocabulary Review (8 min)\n')
+        lines.append('## Step 1 — Vocabulary Review (8 min)\n')
         lines.append(f'<FlipDeck :cards="{safe_prop_attr(d["reviewCards"])}" />\n')
         lines.append('---\n')
         
-        lines.append('## 📖 Step 2 — Grammar Quick Recap (7 min)\n')
+        lines.append('## Step 2 — Grammar Quick Recap (7 min)\n')
         lines.append('<div class="grammar-box">\n')
         lines.append(d["grammarSummary"].strip())
         lines.append('\n</div>\n')
         lines.append('---\n')
         
-        lines.append(f'## 🎯 Step 3 — Big Week {week_num} Quiz (12 min)\n')
+        lines.append(f'## Step 3 — Big Week {week_num} Quiz (12 min)\n')
         lines.append(f'<VocabQuiz :questions="{safe_prop_attr(d["quiz"])}" />\n')
         lines.append('---\n')
         
-        lines.append('## 🗣️ Step 4 — Speaking Exercise (3 min)\n')
+        lines.append('## Step 4 — Speaking Exercise (3 min)\n')
         lines.append(d["speakingPrompt"].strip())
         lines.append('\n---\n')
         
-        lines.append(f'## ✅ Week {week_num} Mastery Checklist\n')
+        lines.append(f'## Week {week_num} Mastery Checklist\n')
         lines.append('<div class="mastery-checklist">')
-        lines.append(f'<h3>✅ Week {week_num} Complete — Can you do all of these?</h3>')
+        lines.append(f'<h3>Week {week_num} Complete — Can you do all of these?</h3>')
         lines.append('<ul>')
         for cp in d["checkpoints"]:
             lines.append(f'  <li>{cp}</li>')
@@ -190,11 +175,11 @@ def render_day(d, week_num, max_days=84):
         
         lines.append('<div class="day-nav">')
         lines.append(f'  <a href="{prev_path}">← Day {prev_str}</a>')
-        lines.append(f'  <span class="day-center">Week {week_num} Complete! 🎉</span>')
+        lines.append(f'  <span class="day-center"><Icon name="check-circle" /> Week {week_num} Complete!</span>')
         if week_num < 12:
             lines.append(f'  <a href="/Weeks/Week-{fmt_day(week_num+1)}/Days/Day-{next_str}">Start Week {week_num+1} →</a>')
         else:
-            lines.append('  <span class="day-center">Course Complete! 🎓</span>')
+            lines.append('  <span class="day-center"><Icon name="award" /> Course Complete!</span>')
         lines.append('</div>')
         
     return '\n'.join(lines)
@@ -208,30 +193,18 @@ def render_readme(w):
     
     lines = []
     lines.append(f'# Week {week_num} — {w["title"]}\n')
-    lines.append('<div style="display: flex; gap: 12px; align-items: center; margin: 1.5rem 0; flex-wrap: wrap;">')
-    lines.append('  <a href="/" style="font-size: 0.85rem; font-weight: 600; color: var(--vp-c-brand-1); text-decoration: none;">← Course Home</a>')
-    lines.append('  <span style="color: var(--vp-c-text-3);">·</span>')
-    lines.append(f'  <span style="font-size: 0.85rem; color: var(--vp-c-text-2);">Week {week_num} of 12</span>')
+    lines.append('<div class="day-nav">')
+    lines.append('  <a href="/">← Course Home</a>')
+    lines.append(f'  <span class="day-center">Week {week_num} of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>')
     if week_num < 12:
-        lines.append('  <span style="color: var(--vp-c-text-3);">·</span>')
-        lines.append(f'  <a href="/Weeks/Week-{fmt_day(next_week)}/Days/Day-{fmt_day(end_day+1)}" style="font-size: 0.85rem; font-weight: 600; color: var(--vp-c-brand-1); text-decoration: none;">Week {next_week} →</a>')
+        lines.append(f'  <a href="/Weeks/Week-{fmt_day(next_week)}/Days/Day-{fmt_day(end_day+1)}">Week {next_week} →</a>')
+    else:
+        lines.append('  <a href="/">Course Home →</a>')
     lines.append('</div>\n')
-    
-    lines.append('<div class="day-hero">')
-    lines.append('  <div class="day-hero-info">')
-    lines.append(f'    <div class="day-label">📅 Week {week_num} Overview</div>')
-    lines.append(f'    <div class="day-title">{w["title"]}</div>')
-    lines.append('  </div>')
-    lines.append('  <div class="day-hero-stats">')
-    lines.append('    <div class="hero-stat"><div class="stat-value">7</div><div class="stat-label">Days</div></div>')
-    lines.append('    <div class="hero-stat"><div class="stat-value">56</div><div class="stat-label">Words</div></div>')
-    lines.append(f'    <div class="hero-stat"><div class="stat-value">6</div><div class="stat-label">Grammar</div></div>')
-    lines.append('  </div>')
-    lines.append('</div>\n')
-    
+
     lines.append(f'> **Week {week_num} Goal:** {w["goal"]}\n')
     lines.append('---\n')
-    lines.append('## 📅 This Week\'s Lessons\n')
+    lines.append('## This Week\'s Lessons\n')
     lines.append('| Day | Topic | Grammar Focus | Status |')
     lines.append('|:---:|:---|:---|:---:|')
     
@@ -244,10 +217,10 @@ def render_readme(w):
             lines.append(f'| [Day {day_str}](/Weeks/Week-{week_str}/Days/Day-{day_str}) | {d["title"]} | {g_focus} | □ |')
             
     lines.append('\n---\n')
-    lines.append(f'## 🚀 Ready? Start Day {fmt_day(start_day)}!\n')
+    lines.append(f'## Ready? Start Day {fmt_day(start_day)}!\n')
     lines.append('<div style="text-align: center; margin: 2rem 0;">')
     lines.append(f'  <a href="/Weeks/Week-{week_str}/Days/Day-{fmt_day(start_day)}" style="display: inline-block; background: var(--vp-c-brand-1); color: #fff; padding: 14px 32px; border-radius: 12px; font-weight: 700; font-size: 1rem; text-decoration: none; transition: all 0.2s;">')
-    lines.append(f'    🚀 Start Day {fmt_day(start_day)} — 30 Minutes')
+    lines.append(f'    <Icon name="play" /> Start Day {fmt_day(start_day)} — 30 Minutes')
     lines.append('  </a>')
     lines.append('</div>')
     

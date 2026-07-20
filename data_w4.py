@@ -30,7 +30,7 @@ w4 = {
    • *Er arbeitet als Mechaniker.* (He works as a mechanic.)  
    • *Ich arbeite als Verkäuferin.* (I work as a shop assistant.)
 
-> ⚠️ **Reminder:** Never say *Ich bin ein Ingenieur*. Keep it simple: **Ich bin Ingenieur**!
+> <Icon name="alert-triangle" /> **Reminder:** Never say *Ich bin ein Ingenieur*. Keep it simple: **Ich bin Ingenieur**!
 """,
             "fillIns": [
                 {"q": "Er arbeitet ___ (as) Koch.", "a": "als"},
@@ -70,7 +70,7 @@ w4 = {
 ### Building German Super-Words
 
 German loves sticking nouns together to create compound words!  
-👉 **Golden Rule:** The **LAST noun** determines the gender (article) and plural!
+<Icon name="arrow-right" /> **Golden Rule:** The **LAST noun** determines the gender (article) and plural!
 
 | Word 1 | Word 2 | Compound Noun | Gender Rule |
 |:---:|:---:|:---:|:---|
@@ -79,7 +79,7 @@ German loves sticking nouns together to create compound words!
 | die Firma + | das Auto = | **das Firmenauto** | neuter (from Auto) |
 | die Arbeit + | der Tag = | **der Arbeitstag** | masculine (from Tag) |
 
-> 💡 **Notice:** Sometimes an **-n-** or **-s-** is inserted to join the words smoothly (*Arbeit**s**tag*, *Firme**n**auto*).
+> <Icon name="lightbulb" /> **Notice:** Sometimes an **-n-** or **-s-** is inserted to join the words smoothly (*Arbeit**s**tag*, *Firme**n**auto*).
 """,
             "fillIns": [
                 {"q": "das Büro + der Stuhl = ___ Bürostuhl.", "a": "der"},
@@ -129,7 +129,7 @@ In German present tense, irregular verbs change their vowel in the **2nd (du)** 
 | **a → ä** | **fahren** | du f**ä**hrst | er f**ä**hrt |
 | **a → ä** | **schlafen** | du schl**ä**fst | er schl**ä**ft |
 
-> 🎯 **Notice:** *ich lese*, *wir lesen*, *ihr lest* — NO change for these forms!
+> <Icon name="target" /> **Notice:** *ich lese*, *wir lesen*, *ihr lest* — NO change for these forms!
 """,
             "fillIns": [
                 {"q": "Er ___ (lesen) jeden Tag ein Buch.", "a": "liest"},
@@ -178,7 +178,7 @@ In English, both mean "to study". In German, they have **strict separate meaning
    • *Sie studiert Medizin.* (She is a university medicine student.)  
    • *Ich studiere Informatik.* (I major in Computer Science.)
 
-> ⚠️ **Common Mistake:** Never say *Ich studiere Deutsch* unless you are doing a Bachelor's/Master's degree in German Philology at a university!
+> <Icon name="alert-triangle" /> **Common Mistake:** Never say *Ich studiere Deutsch* unless you are doing a Bachelor's/Master's degree in German Philology at a university!
 """,
             "fillIns": [
                 {"q": "Ich ___ (learn) jeden Tag Deutsch.", "a": "lerne"},
@@ -272,7 +272,7 @@ Use **nicht** for EVERYTHING else (verbs, adjectives, names, adverbs, possessive
 | **Wie findest du deine Arbeit?** | Ich finde meine Arbeit *interessant* / *anstrengend*. |
 | **Suchst du eine neue Stelle?** | Ja, ich suche eine Stelle in Berlin. |
 
-> 🎯 **Expressing Opinion:**  
+> <Icon name="target" /> **Expressing Opinion:**  
 > • *Ich finde den Job super.* (I think the job is great.)  
 > • *Die Arbeit ist sehr anstrengend.* (The work is very demanding.)
 """,
@@ -339,7 +339,7 @@ Use **nicht** for EVERYTHING else (verbs, adjectives, names, adverbs, possessive
                 {"question": "Conjugate: er + lesen", "answer": "er liest", "options": ["er lest", "er liest", "er lasst", "er leset"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Talk About Your Career & Studies
+### Speaking Exercise — Talk About Your Career & Studies
 
 Read this script aloud and record yourself or practice with a partner:
 

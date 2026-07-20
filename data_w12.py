@@ -28,7 +28,7 @@ The A1 Listening exam has **3 Parts (Teile)**:
 2. **Teil 2 (4 True/False):** Announcements in public places (airport, train station, supermarket). You hear each audio **ONCE**!
 3. **Teil 3 (5 Multiple Choice):** Answering machine / voicemail messages. You hear each audio **TWICE**!
 
-### 🎯 Golden Exam Strategies for Hören
+### Golden Exam Strategies for Hören
 - **Strategy 1:** Read questions BEFORE the audio starts! Identify key words.
 - **Strategy 2:** Listen for numbers, times, prices, and names carefully.
 - **Strategy 3:** Don't panic if you miss a word — focus on the overall message!
@@ -76,7 +76,7 @@ The A1 Reading exam has **3 Parts (Teile)**:
 2. **Teil 2 (5 Multiple Choice):** Website selection — choose which website (A or B) satisfies a specific need (e.g. buying tickets, booking hotels).
 3. **Teil 3 (5 True/False):** Read short public notices, signs, or classified ads (e.g. opening hours, rules) and evaluate statements.
 
-### 🎯 Golden Exam Strategies for Lesen
+### Golden Exam Strategies for Lesen
 - **Strategy 1:** Read the task/question FIRST!
 - **Strategy 2:** Look for **synonyms** (e.g. question says *am Abend*, text says *um 20 Uhr*).
 - **Strategy 3:** Don't get stuck on unknown words — scan for keywords!
@@ -123,7 +123,7 @@ The A1 Writing exam has **2 Parts (Teile)**:
 1. **Teil 1 (Form Filling - 5 points):** Fill in 5 missing pieces of information on a form based on a short text (e.g. name, number of persons, arrival date, payment method).
 2. **Teil 2 (Short Message - approx. 30 words):** Write a short email/SMS covering **all 3 prompt points**!
 
-### 🎯 The Perfect A1 Short Message Template
+### The Perfect A1 Short Message Template
 
 ```
 Liebe(r) [Name], (or: Sehr geehrte Damen und Herren,)
@@ -141,7 +141,7 @@ Viele Grüße / Mit freundlichen Grüßen,
 [Your Name]
 ```
 
-> ⚠️ **Critical Rule:** You MUST cover **ALL 3 prompt points** to get full points!
+> <Icon name="alert-triangle" /> **Critical Rule:** You MUST cover **ALL 3 prompt points** to get full points!
 """,
             "fillIns": [
                 {"q": "Füllen Sie das ___ (form) aus.", "a": "Formular"},
@@ -244,7 +244,7 @@ You must formulate a **polite request / command** to your partner, and your part
 3. **Ich hätte gerne [Item + Accusative], bitte!**  
    • *Ich hätte gerne einen Apfel, bitte!* → *Bitteschön!*
 
-> 🎯 **Partner Reactions:**  
+> <Icon name="target" /> **Partner Reactions:**  
 > • *Ja, natürlich! / Ja, gerne! / Hier, bitte! / Tut mir leid, ich habe keinen Stift.*
 """,
             "fillIns": [
@@ -299,7 +299,7 @@ You must formulate a **polite request / command** to your partner, and your part
 4. **Sprechen (Speaking — 15 min):**  
    - Teil 1 (Intro), Teil 2 (Questions), Teil 3 (Requests). Target: 10+/15 points.
 
-> 🏆 **Goethe A1 Passing Grade:** 60 out of 100 overall points!
+> <Icon name="trophy" /> **Goethe A1 Passing Grade:** 60 out of 100 overall points!
 """,
             "quiz": [
                 {"question": "What overall score is required to pass the Goethe A1 exam?", "answer": "60% (60 out of 100 points)", "options": ["50%", "60% (60 out of 100 points)", "75%", "85%"]},
@@ -308,7 +308,7 @@ You must formulate a **polite request / command** to your partner, and your part
                 {"question": "What is the formal email closing phrase?", "answer": "Mit freundlichen Grüßen", "options": ["Tschüss", "Bis später", "Mit freundlichen Grüßen", "Liebe Grüße"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Mock Exam 1 — Complete Simulation
+### Speaking Mock Exam 1 — Complete Simulation
 
 Execute the full 3-part speaking simulation out loud:
 
@@ -343,11 +343,11 @@ Execute the full 3-part speaking simulation out loud:
                 {"german": "A2 Niveau lädt!", "english": "A2 Level loading!", "example": "Bereit für A2!"}
             ],
             "grammarSummary": """
-### 🎓 Congratulations! You Have Mastered German A1!
+### Congratulations! You Have Mastered German A1!
 
 You have completed **84 days** of 30-minute daily study, mastered **672 A1 vocabulary words**, and covered **all 24 core A1 grammar topics**!
 
-### 📊 Your Complete A1 Grammar Toolkit
+### Your Complete A1 Grammar Toolkit
 1. **Pronouns & Verbs:** *sein, haben*, regular verbs, stem-changing irregular verbs (*lesen, fahren, sprechen*).
 2. **Articles & Nouns:** *der, die, das*, *ein/eine*, gender rules, 5 plural patterns.
 3. **Cases:** Nominative & Accusative (*der → den, ein → einen*), Dative location contractions (*im, am, beim, zum, zur*).
@@ -356,7 +356,7 @@ You have completed **84 days** of 30-minute daily study, mastered **672 A1 vocab
 6. **Past Tense:** Present Perfect / *Perfekt* (*haben/sein + Partizip II*).
 7. **Exam Skills:** Full competency in A1 Hören, Lesen, Schreiben & Sprechen!
 
-> 🚀 **What's Next?** You are officially ready for the official Goethe-Institut, TELC, or ÖSD A1 Exam, or to advance straight into **German A2**!
+> <Icon name="play" /> **What's Next?** You are officially ready for the official Goethe-Institut, TELC, or ÖSD A1 Exam, or to advance straight into **German A2**!
 """,
             "quiz": [
                 {"question": "How many words did you learn across this 84-day course?", "answer": "672 A1 vocabulary words", "options": ["200 words", "400 words", "672 A1 vocabulary words", "1000 words"]},
@@ -365,7 +365,7 @@ You have completed **84 days** of 30-minute daily study, mastered **672 A1 vocab
                 {"question": "What does 'Geschafft!' mean?", "answer": "Accomplished / You did it!", "options": ["Failed!", "Accomplished / You did it!", "Starting now!", "Too hard!"]}
             ],
             "speakingPrompt": """
-### 🎓 Final Graduation Speaking Challenge
+### Final Graduation Speaking Challenge
 
 Record your final, complete A1 German speech:
 

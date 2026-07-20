@@ -23,7 +23,7 @@ w6 = {
 ### How to Turn Any Verb into a Noun
 
 In German, you can turn any verb into a noun simply by capitalizing the first letter!  
-👉 **Golden Rule:** All nominalized verbs are **NEUTER (das)**!
+<Icon name="arrow-right" /> **Golden Rule:** All nominalized verbs are **NEUTER (das)**!
 
 • *lesen* (to read) → **das Lesen** (reading)  
 • *kochen* (to cook) → **das Kochen** (cooking)  
@@ -86,7 +86,7 @@ In German, you can turn any verb into a noun simply by capitalizing the first le
 3. **gehen** = activities involving movement to a venue (gehen + Infinitive)  
    • *schwimmen gehen* (to go swimming), *wandern gehen* (to go hiking), *spazieren gehen* (to go for a walk)
 
-> 🗣️ **Asking about sports:**  
+> <Icon name="message-square" /> **Asking about sports:**  
 > • *Treibst du Sport?* / *Machst du Sport?* (Do you do sports?)  
 > • *Welchen Sport machst du?* (What sport do you do?)
 """,
@@ -140,7 +140,7 @@ German uses adverbs right after the main verb to show how much you like an activ
 • *Ich trinke lieber Tee* **als** *Kaffee.* (I prefer drinking tea to coffee.)  
 • *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* (He prefers reading books to watching TV.)
 
-> ⚠️ **Difference between mögen & gern:**  
+> <Icon name="alert-triangle" /> **Difference between mögen & gern:**  
 > • **mögen + Noun:** *Ich mag Pizza.* (I like pizza.)  
 > • **Verb + gern:** *Ich esse gern Pizza.* (I like eating pizza.)
 """,
@@ -192,7 +192,7 @@ Notice the vowel change **ö → a** in singular forms!
 | ihr | k**ö**nnt | /kœnt/ |
 | Sie/sie | k**ö**nnen | /ˈkœnən/ |
 
-### 🎯 Modal Sentence Bracket (Satzklammer)
+### Modal Sentence Bracket (Satzklammer)
 
 The modal verb goes in **Position 2**, and the main verb goes to the **VERY END in infinitive**!
 
@@ -234,18 +234,18 @@ The modal verb goes in **Position 2**, and the main verb goes to the **VERY END 
             ],
             "grammarTitle": "Ongoing Duration with 'seit' + Present Tense",
             "grammarContent": """
-### ⚠️ CRITICAL Difference: English Present Perfect vs. German Present Tense!
+### CRITICAL Difference: English Present Perfect vs. German Present Tense!
 
 In English, ongoing actions use **have been doing**:  
 • *"I have been living in Berlin for 2 years."*
 
 In German, use **seit + Present Tense**!  
-👉 **Formula: Present Tense Verb + seit + Time Period**
+<Icon name="arrow-right" /> **Formula: Present Tense Verb + seit + Time Period**
 
 • *Ich wohne seit zwei Jahren in Berlin.* (I have lived in Berlin for 2 years.)  
 • *Er lernt seit drei Monaten Deutsch.* (He has been learning German for 3 months.)
 
-> 💡 **Frequency Scale:**  
+> <Icon name="lightbulb" /> **Frequency Scale:**  
 > **täglich** (daily) → **regelmäßig** (regularly) → **meistens** (mostly) → **ab und zu** (now & then) → **selten** (rarely) → **nie** (never)
 """,
             "fillIns": [
@@ -357,7 +357,7 @@ In German, use **seit + Present Tense**!
                 {"question": "How do you say 'Does 5 pm suit you?'", "answer": "Passt es dir um 17 Uhr?", "options": ["Geht es du 17 Uhr?", "Passt es dir um 17 Uhr?", "Hast du 17 Uhr?", "Bist du 17 Uhr?"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Talk About Your Hobbies & Free Time
+### Speaking Exercise — Talk About Your Hobbies & Free Time
 
 Read this script aloud and record yourself or practice with a partner:
 

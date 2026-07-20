@@ -32,7 +32,7 @@ weeks_data.append({
 | ihr | hab**t** | /hapt/ |
 | Sie/sie | hab**en** | /ˈhaːbən/ |
 
-> 🎯 **Expressing Family:** Use *haben* + accusative article:  
+> <Icon name="target" /> **Expressing Family:** Use *haben* + accusative article:  
 > • Ich habe **einen** Bruder. (masculine → einen)  
 > • Ich habe **eine** Schwester. (feminine → eine)  
 > • Ich habe **ein** Baby. (neuter → ein)  
@@ -82,7 +82,7 @@ weeks_data.append({
 | **Neuter** | **mein** | **dein** | mein Kind, dein Baby |
 | **Plural** | **meine** | **deine** | meine Eltern, deine Tanten |
 
-> 💡 **Golden Rule:** If the noun is **feminine or plural**, add **-e**!  
+> <Icon name="lightbulb" /> **Golden Rule:** If the noun is **feminine or plural**, add **-e**!  
 > • mein Sohn (masc) vs. meine Tochter (fem)  
 > • dein Opa (masc) vs. deine Oma (fem)
 """,
@@ -132,7 +132,7 @@ weeks_data.append({
 | **wir** (we) | **unser** | **unsere** | unser Haus / unsere Eltern |
 | **Sie** (you, formal) | **Ihr** | **Ihre** | Ihr Mann / Ihre Frau |
 
-> 🎯 **Key Distinction:**  
+> <Icon name="target" /> **Key Distinction:**  
 > • **sein** = his (describing a man's family: Peter und *sein* Bruder)  
 > • **ihr** = her (describing a woman's family: Anna und *ihre* Schwester)
 """,
@@ -189,7 +189,7 @@ Most female job titles are formed by adding **-in** to the masculine form (and s
 | der Arzt | die **Ä**rzt**in** | doctor |
 | der Kellner | die Kellner**in** | waiter / waitress |
 
-> 🗣️ **Asking someone's job:**  
+> <Icon name="message-square" /> **Asking someone's job:**  
 > • Informal: *Was bist du von Beruf?* / *Was machst du?*  
 > • Formal: *Was sind Sie von Beruf?* / *Was arbeiten Sie?*
 """,
@@ -231,7 +231,7 @@ Most female job titles are formed by adding **-in** to the masculine form (and s
 ### Structure of German Numbers 21–99
 
 In German, numbers from 21 onwards are spoken **backwards**:  
-👉 **Ones + und + Tens** (written as a single long word!)
+<Icon name="arrow-right" /> **Ones + und + Tens** (written as a single long word!)
 
 | Number | Breakdown | German |
 |:---:|:---:|:---|
@@ -241,7 +241,7 @@ In German, numbers from 21 onwards are spoken **backwards**:
 | **67** | 7 + and + 60 | siebenundsechzig |
 | **89** | 9 + and + 80 | neunundachtzig |
 
-> ⚠️ **Watch Out:**  
+> <Icon name="alert-triangle" /> **Watch Out:**  
 > • 21 is *ein*undzwanzig (no 's' on eins!)  
 > • 30 is *drei**ß**ig* (uses 'ß', not 'z')  
 > • 60 is *sechzig* (drops 's' from sechs)  
@@ -361,7 +361,7 @@ In German, numbers from 21 onwards are spoken **backwards**:
                 {"question": "Translate: 'Ich bin Einzelkind.'", "answer": "I am an only child.", "options": ["I have one child.", "I am an only child.", "I am single.", "I live alone."]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Introduce Your Family
+### Speaking Exercise — Introduce Your Family
 
 Read this script aloud and record yourself or practice with a partner:
 

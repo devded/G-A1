@@ -123,14 +123,14 @@ w8 = {
 
 In German, the **food is the subject**, and the **person is the dative object**!
 
-👉 **Formula: Food (Subject) + schmeckt + Person (Dative Pronoun: mir)**
+<Icon name="arrow-right" /> **Formula: Food (Subject) + schmeckt + Person (Dative Pronoun: mir)**
 
 • *Das Essen schmeckt* **mir** *gut.* (The food tastes good to me = I like the food.)  
 • *Die Suppe schmeckt* **mir** *nicht.* (I don't like the soup.)  
 • *Wie schmeckt es* **Ihnen**? (How does it taste to you? - formal)  
 • *Hat es Ihnen geschmeckt?* (Did you enjoy your meal?)
 
-> 🎯 **Key Adjectives for Food:**  
+> <Icon name="target" /> **Key Adjectives for Food:**  
 > • *lecker* (tasty/yummy), *köstlich* (exquisite), *süß* (sweet), *salzig* (salty), *scharf* (spicy).
 """,
             "fillIns": [
@@ -286,7 +286,7 @@ In Germany, you tell the waiter the **total amount including tip** when handing 
 | ⚪ **White** | **weiß** | Das Hemd ist *weiß*. |
 | 🟤 **Brown** | **braun** | Der Koffer ist *braun*. |
 
-> 🎯 **Predicate Adjectives (After sein):**  
+> <Icon name="target" /> **Predicate Adjectives (After sein):**  
 > Just like room adjectives, colours placed AFTER *ist* or *sind* take **NO endings**!  
 > • *Das Hemd ist weiß.*  
 > • *Die Schuhe sind schwarz.*
@@ -357,7 +357,7 @@ In Germany, you tell the waiter the **total amount including tip** when handing 
                 {"question": "What colour is 'weiß'?", "answer": "white", "options": ["black", "yellow", "white", "blue"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Order a 3-Course Meal & Pay
+### Speaking Exercise — Order a 3-Course Meal & Pay
 
 Read this script aloud and record yourself or practice with a partner:
 

@@ -79,7 +79,7 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 | er/sie/es | fühlt **sich** | Er fühlt *sich* krank. |
 | wir | fühlen **uns** | Wir fühlen *uns* gut. |
 
-> 🗣️ **Common Illness Expressions:**  
+> <Icon name="message-square" /> **Common Illness Expressions:**  
 > • *Ich habe eine Erkältung.* (I have a cold.)  
 > • *Ich habe Fieber / Husten / Schnupfen.*  
 > • *Mir ist schlecht / schwindlig.* (I feel nauseous / dizzy.)
@@ -171,7 +171,7 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 
 To give instructions, advice, or commands in German, **put the verb in Position 1 followed by Sie**!
 
-👉 **Verb (Infinitive) + Sie + ... !**
+<Icon name="arrow-right" /> **Verb (Infinitive) + Sie + ... !**
 
 • **Nehmen Sie** *zwei Tabletten täglich.* (Take two tablets daily.)  
 • **Trinken Sie** *viel Wasser.* (Drink plenty of water.)  
@@ -217,7 +217,7 @@ To give instructions, advice, or commands in German, **put the verb in Position 
             ],
             "grammarTitle": "German Emergency Numbers & Emergency Call Protocol",
             "grammarContent": """
-### Emergency Numbers in Germany 🇩🇪
+### Emergency Numbers in Germany
 
 • **110** = **Polizei** (Police)  
 • **112** = **Feuerwehr & Rettungsdienst** (Fire & Ambulance)
@@ -232,7 +232,7 @@ When calling 112/110, answer these 5 questions clearly:
 4. **Welche** Verletzungen? *(What kind of injuries?)*  
 5. **Warten** auf Rückfragen! *(Wait for questions, don't hang up!)*
 
-> 🚨 **Crucial Phrases:**  
+> <Icon name="alert-triangle" /> **Crucial Phrases:**  
 > • *Rufen Sie den Notarzt!* (Call the emergency doctor!)  
 > • *Es gibt einen Unfall.* (There is an accident.)
 """,
@@ -271,11 +271,11 @@ When calling 112/110, answer these 5 questions clearly:
             ],
             "grammarTitle": "Mastering the Present Perfect (Das Perfekt)",
             "grammarContent": """
-### 🎯 The Main Spoken Past Tense in German!
+### The Main Spoken Past Tense in German!
 
 In spoken German, past events are expressed using the **Perfekt** tense!
 
-👉 **Formula:**  
+<Icon name="arrow-right" /> **Formula:**  
 **Subject + Auxiliary (haben/sein Pos 2) + ... + Partizip II (VERY END!)**
 
 ### 1. Auxiliary Selection: **haben** vs. **sein**
@@ -357,7 +357,7 @@ In spoken German, past events are expressed using the **Perfekt** tense!
                 {"question": "How do you give polite advice to 'drink water'?", "answer": "Trinken Sie Wasser!", "options": ["Du trinkst Wasser!", "Trinken Sie Wasser!", "Sie trinken Wasser!", "Trinkst du Wasser!"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Talk About Being Sick & Yesterday's Activities
+### Speaking Exercise — Talk About Being Sick & Yesterday's Activities
 
 Read this script aloud and record yourself or practice with a partner:
 

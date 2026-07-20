@@ -36,7 +36,7 @@ Weather expressions in German use the **impersonal pronoun 'es'** (it):
    • *Es schneit.* (It is snowing.)  
    • *Die Sonne scheint.* (The sun is shining.)
 
-> 🗣️ **Asking about weather:**  
+> <Icon name="message-square" /> **Asking about weather:**  
 > • *Wie ist das Wetter heute?* (What is the weather like today?)  
 > • *Wie viel Grad sind es?* (How many degrees is it?) → *Es sind 22 Grad.*
 """,
@@ -184,7 +184,7 @@ Notice the **umlaut drops** in all singular forms!
 | ihr | m**ü**sst | d**ü**rft |
 | Sie/sie | m**ü**ssen | d**ü**rfen |
 
-### ⚠️ Negation Difference: nicht müssen vs. nicht dürfen!
+### Negation Difference: nicht müssen vs. nicht dürfen!
 
 • **nicht müssen** = don't have to (no obligation)  
   - *Du musst nicht kommen.* (You don't have to come.)  
@@ -239,7 +239,7 @@ Remember: In all 6 modals, **ich** and **er/sie/es** have identical forms, and s
 | **wollen** | want / intention | **will** | willst |
 | **mögen** | like | **mag** | magst |
 
-> 🎯 **Sentence Structure Rule:**  
+> <Icon name="target" /> **Sentence Structure Rule:**  
 > Modal verb in **Position 2** + Main verb in **Infinitive at the VERY END**!  
 > • *Ich* **will** *heute Abend ins Kino* **gehen**.
 """,
@@ -286,7 +286,7 @@ In German, **man** (spelled with ONE 'n', unlike *der Mann*) refers to people in
 • **Man muss einen Helm tragen.** (One must wear a helmet.)  
 • **Bei Regen sollte man eine Jacke anziehen.** (In rain one should put on a jacket.)
 
-> 🎯 **Conjugation Rule:**  
+> <Icon name="target" /> **Conjugation Rule:**  
 > *man* uses the exact same 3rd person singular verb form as **er / sie / es**!  
 > • *man kann*, *man muss*, *man darf*, *man soll*, *man will*, *man mag*.
 """,
@@ -356,7 +356,7 @@ In German, **man** (spelled with ONE 'n', unlike *der Mann*) refers to people in
                 {"question": "How do you state temperature in German?", "answer": "Es sind 22 Grad.", "options": ["Es ist 22 Grad.", "Es sind 22 Grad.", "Es macht 22 Grad.", "Das hat 22 Grad."]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Talk About Weather & Your Daily Plans
+### Speaking Exercise — Talk About Weather & Your Daily Plans
 
 Read this script aloud and record yourself or practice with a partner:
 

@@ -71,10 +71,10 @@ In official contexts (train stations, news, schedules), German uses the 24-hour 
             ],
             "grammarTitle": "The Informal German Clock System",
             "grammarContent": """
-### ⚠️ CRITICAL WARNING: **halb** Means Half BEFORE the Hour!
+### CRITICAL WARNING: **halb** Means Half BEFORE the Hour!
 
 In German, *halb* looks ahead to the **NEXT** hour!  
-👉 **halb drei** = 2:30 (halfway to 3:00, NOT 3:30!)
+<Icon name="arrow-right" /> **halb drei** = 2:30 (halfway to 3:00, NOT 3:30!)
 
 | Time | Structure | German |
 |:---:|:---:|:---|
@@ -121,7 +121,7 @@ In German, *halb* looks ahead to the **NEXT** hour!
             ],
             "grammarTitle": "Prepositions for Days, Months & Seasons",
             "grammarContent": """
-### 🎯 The Preposition Rule for Time
+### The Preposition Rule for Time
 
 | Unit | Preposition | Examples |
 |:---:|:---:|:---|
@@ -174,7 +174,7 @@ In German, *halb* looks ahead to the **NEXT** hour!
 
 In German, separable verbs have a prefix (like *auf-*, *an-*, *ein-*, *fern-*) that detaches in present tense sentences!
 
-👉 **Formula:**  
+<Icon name="arrow-right" /> **Formula:**  
 **Subject + Conjugated Verb (Pos 2) + ... + Prefix (At End!)**
 
 | Infinitive | Conjugated Sentence |
@@ -185,7 +185,7 @@ In German, separable verbs have a prefix (like *auf-*, *an-*, *ein-*, *fern-*) t
 | **fernsehen** | Wir **sehen** abends **fern**. |
 | **einschlafen** | Das Baby **schläft** um 20 Uhr **ein**. |
 
-> 💡 **Common Separable Prefixes:** *auf-, an-, ab-, ein-, aus-, mit-, fern-, los-*
+> <Icon name="lightbulb" /> **Common Separable Prefixes:** *auf-, an-, ab-, ein-, aus-, mit-, fern-, los-*
 """,
             "fillIns": [
                 {"q": "Ich stehe um 7 Uhr ___ (aufstehen).", "a": "auf"},
@@ -235,7 +235,7 @@ If you start the sentence with a **time word** (zuerst, dann, am Montag, um 8 Uh
 | **Am Montag** | **fahre** | **ich** | nach Berlin. |
 | **Zuerst** | **mache** | **ich** | Hausaufgaben. |
 
-> 🎯 **Notice:** Starting with *dann* or *danach* forces the subject behind the verb: **Dann esse ich...** (NOT: *Dann ich esse...*)!
+> <Icon name="target" /> **Notice:** Starting with *dann* or *danach* forces the subject behind the verb: **Dann esse ich...** (NOT: *Dann ich esse...*)!
 """,
             "fillIns": [
                 {"q": "Dann ___ (frühstücken) ich.", "a": "frühstücke"},
@@ -351,7 +351,7 @@ If you start the sentence with a **time word** (zuerst, dann, am Montag, um 8 Uh
                 {"question": "What preposition is used for exact clock time?", "answer": "um", "options": ["am", "im", "um", "an"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Describe Your Entire Daily Routine
+### Speaking Exercise — Describe Your Entire Daily Routine
 
 Read this script aloud and record yourself or practice with a partner:
 

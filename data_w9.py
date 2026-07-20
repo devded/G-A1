@@ -129,7 +129,7 @@ Dative is used for **location (Wo?)** and after direction prepositions like **zu
 | **Neuter** | das | **dem** | in + dem = **im** / zu + dem = **zum** |
 | **Feminine** | die | **der** | zu + der = **zur** / in + der = **in der** |
 
-> 🎯 **Master Rule for 'to the' (direction):**  
+> <Icon name="target" /> **Master Rule for 'to the' (direction):**  
 > • Masculine / Neuter: **zum** (*zum Bahnhof*, *zum Krankenhaus*)  
 > • Feminine: **zur** (*zur Apotheke*, *zur Bank*, *zur Post*)
 """,
@@ -351,7 +351,7 @@ Always use **mit + Dative** when stating how you travel:
                 {"question": "Where is 'der Ausgang'?", "answer": "the exit", "options": ["the entrance", "the exit", "the corner", "the window"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Give Directions & Buy a Train Ticket
+### Speaking Exercise — Give Directions & Buy a Train Ticket
 
 Read this script aloud and record yourself or practice with a partner:
 

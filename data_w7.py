@@ -81,7 +81,7 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 | ihr | möch**tet** | Was *möchtet* ihr essen? |
 | Sie/sie | möch**ten** | Was *möchten* Sie, bitte? |
 
-> 🎯 **Accusative Reminder:**  
+> <Icon name="target" /> **Accusative Reminder:**  
 > • der Kaffee → Ich möchte **einen** Kaffee. (masculine → einen)  
 > • das Wasser → Ich möchte **ein** Wasser. (neuter → ein)  
 > • die Milch → Ich möchte **eine** Milch. (feminine → eine)
@@ -124,7 +124,7 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 ### The Accusative Case: Direct Object of an Action
 
 The Accusative case receives the action of the verb (*kaufen, bestellen, brauchen, nehmen, trinken, essen*).  
-👉 **ONLY MASCULINE CHANGES!** Everything else is identical to Nominative!
+<Icon name="arrow-right" /> **ONLY MASCULINE CHANGES!** Everything else is identical to Nominative!
 
 | Gender | Definite (the) | Indefinite (a / an) | Negative (no / none) | Possessive (my) |
 |:---:|:---:|:---:|:---:|:---:|
@@ -133,7 +133,7 @@ The Accusative case receives the action of the verb (*kaufen, bestellen, brauche
 | **Neuter** | **das** | **ein** | **kein** | **mein** |
 | **Plural** | **die** | **—** | **keine** | **meine** |
 
-> 🎯 **Examples:**  
+> <Icon name="target" /> **Examples:**  
 > • der Apfel → Ich esse **den** Apfel / **einen** Apfel / **keinen** Apfel.  
 > • die Banane → Ich esse **die** Banane / **eine** Banane.  
 > • das Ei → Ich esse **das** Ei / **ein** Ei.
@@ -183,7 +183,7 @@ In English, you say "a kilo **of** apples" or "a bottle **of** water". In German
 • **eine Packung Reis** = a packet of rice  
 • **ein Glas Saft** = a glass of juice
 
-> 🎯 **Plural of Quantities:**  
+> <Icon name="target" /> **Plural of Quantities:**  
 > • Units of measurement stay **singular** after numbers: *zwei Kilo Äpfel* (NOT *zwei Kilos*), *drei Glas Wasser*!
 """,
             "fillIns": [
@@ -235,7 +235,7 @@ In Germany, decimals use a **comma (,)** instead of a point (.)!
 • **3,99 €** → *drei Euro neunundneunzig*  
 • **0,50 €** → *fünfzig Cent*
 
-> 💡 **Notice:** The word *Euro* stays singular after numbers! (*zwei Euro*, NOT *zwei Euros*).
+> <Icon name="lightbulb" /> **Notice:** The word *Euro* stays singular after numbers! (*zwei Euro*, NOT *zwei Euros*).
 """,
             "fillIns": [
                 {"q": "Was ___ (costs) das?", "a": "kostet"},
@@ -350,7 +350,7 @@ In Germany, decimals use a **comma (,)** instead of a point (.)!
                 {"question": "What does 'teuer' mean?", "answer": "expensive", "options": ["cheap", "fresh", "expensive", "tasty"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — At the Supermarket / Grocery Store
+### Speaking Exercise — At the Supermarket / Grocery Store
 
 Read this script aloud and record yourself or practice with a partner:
 

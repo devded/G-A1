@@ -26,7 +26,7 @@ weeks_3_to_6.append({
 ### Expression: **es gibt** (there is / there are)
 
 In German, *es gibt* means both "there is" and "there are".  
-👉 **Crucial Rule:** The object after *es gibt* is ALWAYS in the **accusative case**!
+<Icon name="arrow-right" /> **Crucial Rule:** The object after *es gibt* is ALWAYS in the **accusative case**!
 
 | Gender | Positive (a / an) | Negative (no / not a) | Example |
 |:---:|:---:|:---:|:---|
@@ -35,7 +35,7 @@ In German, *es gibt* means both "there is" and "there are".
 | **Neuter** | es gibt **ein** | es gibt **kein** | Es gibt *ein* Bad. |
 | **Plural** | es gibt | es gibt **keine** | Es gibt *drei* Zimmer. |
 
-> 🗣️ **Asking questions:**  
+> <Icon name="message-square" /> **Asking questions:**  
 > • *Gibt es einen Balkon?* → Ja, es gibt einen Balkon. / Nein, es gibt keinen Balkon.
 """,
             "fillIns": [
@@ -84,7 +84,7 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 | **Neuter** | **das / ein / kein** | **das / ein / kein** | Ich habe *ein* Bett. |
 | **Plural** | **die / - / keine** | **die / - / keine** | Ich habe *zwei* Stühle. |
 
-> 🎯 **Key takeaway:**  
+> <Icon name="target" /> **Key takeaway:**  
 > • der Tisch → Ich brauche **den** Tisch / Ich kaufe **einen** Tisch.
 """,
             "fillIns": [
@@ -132,7 +132,7 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 | **4. Add -(e)n** | die Tür → die **Türen** | **-(e)n** | 90% of feminine nouns |
 | **5. Add -s** | das Sofa → die **Sofas** | **-s** | foreign words & acronyms |
 
-> 💡 **Golden Rule:** When learning a new noun, ALWAYS learn: **Article + Singular + Plural**  
+> <Icon name="lightbulb" /> **Golden Rule:** When learning a new noun, ALWAYS learn: **Article + Singular + Plural**  
 > Example: *das Buch, die Bücher*
 """,
             "fillIns": [
@@ -179,7 +179,7 @@ When an adjective comes **after** the verb *sein* (is/are), it **does not take a
 • *Das Bett ist* **groß**. (neuter)  
 • *Die Zimmer sind* **groß**. (plural)
 
-> 💡 **Comparison Words:**  
+> <Icon name="lightbulb" /> **Comparison Words:**  
 > • *sehr* = very (sehr groß)  
 > • *ziemlich* = quite (ziemlich dunkel)  
 > • *zu* = too (zu klein)
@@ -347,7 +347,7 @@ When an adjective comes **after** the verb *sein* (is/are), it **does not take a
                 {"question": "What is 'Erdgeschoss'?", "answer": "ground floor", "options": ["attic", "basement", "ground floor", "balcony"]}
             ],
             "speakingPrompt": """
-### 🗣️ Speaking Exercise — Describe Your Home
+### Speaking Exercise — Describe Your Home
 
 Read this script aloud and record yourself or practice with a partner:
 
