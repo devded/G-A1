@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-04/Days/Day-22">← Day 22</a>
-  <span class="day-center">📅 Week 4 · Day 23 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 4 · Day 23 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-04/Days/Day-24">Day 24 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 4 · Day 23</div>
-    <div class="day-title">Workplace Vocabulary & Compound Nouns</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -109,7 +97,7 @@
 ### Building German Super-Words
 
 German loves sticking nouns together to create compound words!  
-👉 **Golden Rule:** The **LAST noun** determines the gender (article) and plural!
+<Icon name="arrow-right" /> **Golden Rule:** The **LAST noun** determines the gender (article) and plural!
 
 | Word 1 | Word 2 | Compound Noun | Gender Rule |
 |:---:|:---:|:---:|:---|
@@ -118,13 +106,13 @@ German loves sticking nouns together to create compound words!
 | die Firma + | das Auto = | **das Firmenauto** | neuter (from Auto) |
 | die Arbeit + | der Tag = | **der Arbeitstag** | masculine (from Tag) |
 
-> 💡 **Notice:** Sometimes an **-n-** or **-s-** is inserted to join the words smoothly (*Arbeit**s**tag*, *Firme**n**auto*).
+> <Icon name="lightbulb" /> **Notice:** Sometimes an **-n-** or **-s-** is inserted to join the words smoothly (*Arbeit**s**tag*, *Firme**n**auto*).
 
 </div>
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -144,10 +132,10 @@ German loves sticking nouns together to create compound words!
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I know 8 common workplace nouns</li>
   <li>I understand how German compound nouns work</li>
@@ -156,7 +144,7 @@ German loves sticking nouns together to create compound words!
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 24):** Stem-changing irregular verbs (lesen, fahren, sprechen)!
+> <Icon name="arrow-right" /> **Tomorrow (Day 24):** Stem-changing irregular verbs (lesen, fahren, sprechen)!
 
 <div class="day-nav">
   <a href="/Weeks/Week-04/Days/Day-22">← Day 22</a>

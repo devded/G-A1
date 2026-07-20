@@ -2,35 +2,23 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-06">← Day 06</a>
-  <span class="day-center">📅 Week 1 · Day 7 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 1 · Day 7 of 84 <span class="day-meta">· A1.1 · Week 1 review</span></span>
   <a href="/Weeks/Week-02/Days/Day-08">Week 2 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 1 · Day 7 — REVIEW DAY</div>
-    <div class="day-title">Week 1 Review & Speaking Practice</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">56</div><div class="stat-label">Words Learned</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">🔁 Review Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar Recap <strong>7 min</strong></div>
-  <div class="timer-segment practice">🎯 Big Quiz <strong>12 min</strong></div>
-  <div class="timer-segment review">🗣️ Speaking <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="repeat" /> Review Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar Recap <strong>7 min</strong></div>
+  <div class="timer-segment practice"><Icon name="target" /> Big Quiz <strong>12 min</strong></div>
+  <div class="timer-segment review"><Icon name="message-square" /> Speaking <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
-> 🎉 Congratulations! You've completed Week 1! Today we review everything — 48 words + grammar — and do your first speaking exercise.
+> <Icon name="award" /> Congratulations! You've completed Week 1! Today we review everything — 48 words + grammar — and do your first speaking exercise.
 
 ---
 
-## 🔁 Step 1 — Vocabulary Review (8 min)
+## Step 1 — Vocabulary Review (8 min)
 
 Review all of Week 1's key vocabulary with flash cards:
 
@@ -54,7 +42,7 @@ Review all of Week 1's key vocabulary with flash cards:
 
 ---
 
-## 📖 Step 2 — Grammar Quick Recap (7 min)
+## Step 2 — Grammar Quick Recap (7 min)
 
 <div class="grammar-box">
 
@@ -86,7 +74,7 @@ Review all of Week 1's key vocabulary with flash cards:
 
 ---
 
-## 🎯 Step 3 — Big Week 1 Quiz (12 min)
+## Step 3 — Big Week 1 Quiz (12 min)
 
 <VocabQuiz :questions="[
   { question: 'How do you say I am from Germany?', answer: 'Ich komme aus Deutschland.', options: ['Ich wohne in Deutschland.', 'Ich komme aus Deutschland.', 'Ich bin Deutschland.', 'Ich heiße Deutschland.'] },
@@ -101,7 +89,7 @@ Review all of Week 1's key vocabulary with flash cards:
 
 ---
 
-## 🗣️ Step 4 — Speaking Exercise (3 min)
+## Step 4 — Speaking Exercise (3 min)
 
 **Record yourself (or say aloud) the following introduction:**
 
@@ -126,10 +114,10 @@ Auf Wiedersehen!
 
 ---
 
-## ✅ Week 1 Mastery Checklist
+## Week 1 Mastery Checklist
 
 <div class="mastery-checklist">
-<h3>✅ Week 1 Complete — Can you do all of these?</h3>
+<h3>Week 1 Complete — Can you do all of these?</h3>
 <ul>
   <li>I can greet people formally and informally at any time of day</li>
   <li>I can introduce myself: name, origin, city, language, age</li>
@@ -141,12 +129,12 @@ Auf Wiedersehen!
 </ul>
 </div>
 
-> 🚀 **Next Week (Week 2):** Family vocabulary, possessive pronouns (mein, dein, sein), and describing people! You're building real conversational skills.
+> <Icon name="play" /> **Next Week (Week 2):** Family vocabulary, possessive pronouns (mein, dein, sein), and describing people! You're building real conversational skills.
 
 ---
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-06">← Day 06</a>
-  <span class="day-center">Week 1 Complete! 🎉</span>
+  <span class="day-center">Week 1 Complete! <Icon name="award" /> </span>
   <a href="/Weeks/Week-02/Days/Day-08">Start Week 2 →</a>
 </div>

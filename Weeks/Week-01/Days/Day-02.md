@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>
-  <span class="day-center">📅 Week 1 · Day 2 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 1 · Day 2 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-01/Days/Day-03">Day 03 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 1 · Day 2</div>
-    <div class="day-title">Personal Pronouns & Introducing Yourself</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -123,7 +111,7 @@ Ich heiße [Name].         → My name is [Name].
 Ich komme aus [Country].  → I come from [Country].
 ```
 
-> 🎯 **Example dialogue:**
+> <Icon name="target" /> **Example dialogue:**
 > — **Hallo! Ich bin Maria. Wie heißt du?**
 > — **Hallo! Ich heiße Tom. Ich komme aus England.**
 
@@ -131,7 +119,7 @@ Ich komme aus [Country].  → I come from [Country].
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Fill in with the correct form of **sein**
 
@@ -165,10 +153,10 @@ Ich komme aus [Country].  → I come from [Country].
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Can you do these?</h3>
+<h3>Can you do these?</h3>
 <ul>
   <li>I can say all 6 forms of sein (bin, bist, ist, sind, seid, sind)</li>
   <li>I can introduce myself: Ich heiße ___ . Ich komme aus ___.</li>
@@ -177,7 +165,7 @@ Ich komme aus [Country].  → I come from [Country].
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 03):** Countries, nationalities, and asking "Woher kommst du?" — you'll be able to have your first real German mini-conversation!
+> <Icon name="arrow-right" /> **Tomorrow (Day 03):** Countries, nationalities, and asking "Woher kommst du?" — you'll be able to have your first real German mini-conversation!
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>

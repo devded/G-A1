@@ -2,44 +2,23 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-01/">← Week 1 Overview</a>
-  <span class="day-center">📅 Week 1 · Day 1 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 1 · Day 1 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-01/Days/Day-02">Day 02 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 1 · Day 1</div>
-    <div class="day-title">Alphabet, Sounds & First Greetings</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat">
-      <div class="stat-value">30</div>
-      <div class="stat-label">Minutes</div>
-    </div>
-    <div class="hero-stat">
-      <div class="stat-value">8</div>
-      <div class="stat-label">New Words</div>
-    </div>
-    <div class="hero-stat">
-      <div class="stat-value">A1.1</div>
-      <div class="stat-label">Level</div>
-    </div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
-**Goal:** Learn these 8 words. Say each one aloud **3 times** before moving on. Click 🔈 to hear the pronunciation.
+**Goal:** Learn these 8 words. Say each one aloud **3 times** before moving on. Click <Icon name="volume-2" /> to hear the pronunciation.
 
 <div class="vocab-grid">
 
@@ -133,11 +112,11 @@
 
 </div>
 
-> 💡 **Memory trick:** Think of German greetings as time-based: **Morgen** (morning) → **Tag** (day) → **Abend** (evening). Then **Tschüss** for friends, **Auf Wiedersehen** for formal goodbyes.
+> <Icon name="lightbulb" /> **Memory trick:** Think of German greetings as time-based: **Morgen** (morning) → **Tag** (day) → **Abend** (evening). Then **Tschüss** for friends, **Auf Wiedersehen** for formal goodbyes.
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -164,13 +143,13 @@ German uses the same 26 letters as English, **plus 4 special characters**: **ä,
 | Adults / strangers / work | Guten Tag! <SpeakButton text="Guten Tag" /> Auf Wiedersehen! <SpeakButton text="Auf Wiedersehen" /> | Hello! Goodbye! |
 | Phone / formal | Guten Tag! <SpeakButton text="Guten Tag" /> Auf Wiederhören! <SpeakButton text="Auf Wiederhören" /> | Hello! / Goodbye! (phone) |
 
-> 🎯 **Rule:** Use **du** (informal) with friends and children. Use **Sie** (formal, always capital S!) with adults you don't know well.
+> <Icon name="target" /> **Rule:** Use **du** (informal) with friends and children. Use **Sie** (formal, always capital S!) with adults you don't know well.
 
 </div>
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Fill in the Gap
 
@@ -178,23 +157,23 @@ Read each situation and write the correct German greeting. Answers are revealed 
 
 **1.** You arrive at work at 8am and see your colleague. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Guten Morgen!** <SpeakButton text="Guten Morgen!" /></details>
+> <details><summary><Icon name="lightbulb" /> Answer</summary>**Guten Morgen!** <SpeakButton text="Guten Morgen!" /></details>
 
 **2.** You meet a stranger at a shop at 2pm. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Guten Tag!** <SpeakButton text="Guten Tag!" /></details>
+> <details><summary><Icon name="lightbulb" /> Answer</summary>**Guten Tag!** <SpeakButton text="Guten Tag!" /></details>
 
 **3.** You're saying goodbye to your best friend. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Tschüss!** <SpeakButton text="Tschüss!" /></details>
+> <details><summary><Icon name="lightbulb" /> Answer</summary>**Tschüss!** <SpeakButton text="Tschüss!" /></details>
 
 **4.** A waiter brings your coffee. You respond:
 > `___________`
-> <details><summary>💡 Answer</summary>**Danke!** <SpeakButton text="Danke!" /> or **Danke schön!** <SpeakButton text="Danke schön!" /></details>
+> <details><summary><Icon name="lightbulb" /> Answer</summary>**Danke!** <SpeakButton text="Danke!" /> or **Danke schön!** <SpeakButton text="Danke schön!" /></details>
 
 **5.** You're leaving a formal meeting. You say:
 > `___________`
-> <details><summary>💡 Answer</summary>**Auf Wiedersehen!** <SpeakButton text="Auf Wiedersehen!" /></details>
+> <details><summary><Icon name="lightbulb" /> Answer</summary>**Auf Wiedersehen!** <SpeakButton text="Auf Wiedersehen!" /></details>
 
 ---
 
@@ -240,20 +219,20 @@ Read each situation and write the correct German greeting. Answers are revealed 
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish — can you do these?</h3>
+<h3>Before you finish — can you do these?</h3>
 <ul>
   <li>I can say all 8 words/phrases aloud from memory</li>
   <li>I know when to use formal (Guten Tag, Auf Wiedersehen) vs informal (Hallo, Tschüss)</li>
   <li>I know what ä, ö, ü and ß sound like</li>
   <li>I scored at least 3/4 on the quiz above</li>
-  <li>I listened to all 8 words with the 🔈 button at least once</li>
+  <li>I listened to all 8 words with the <Icon name="volume-2" /> button at least once</li>
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 02):** You'll learn 8 personal pronouns + how to introduce yourself with "Ich bin..." and "Ich heiße...". The groundwork you built today makes tomorrow's lesson easy!
+> <Icon name="arrow-right" /> **Tomorrow (Day 02):** You'll learn 8 personal pronouns + how to introduce yourself with "Ich bin..." and "Ich heiße...". The groundwork you built today makes tomorrow's lesson easy!
 
 ---
 

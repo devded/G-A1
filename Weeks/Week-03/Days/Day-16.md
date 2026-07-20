@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-03/Days/Day-15">← Day 15</a>
-  <span class="day-center">📅 Week 3 · Day 16 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 3 · Day 16 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-03/Days/Day-17">Day 17 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 3 · Day 16</div>
-    <div class="day-title">Furniture & haben + Accusative</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -117,14 +105,14 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 | **Neuter** | **das / ein / kein** | **das / ein / kein** | Ich habe *ein* Bett. |
 | **Plural** | **die / - / keine** | **die / - / keine** | Ich habe *zwei* Stühle. |
 
-> 🎯 **Key takeaway:**  
+> <Icon name="target" /> **Key takeaway:**  
 > • der Tisch → Ich brauche **den** Tisch / Ich kaufe **einen** Tisch.
 
 </div>
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -144,10 +132,10 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I can name 8 common pieces of furniture</li>
   <li>I understand that der changes to den/einen in accusative</li>
@@ -156,7 +144,7 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 17):** German plural noun patterns!
+> <Icon name="arrow-right" /> **Tomorrow (Day 17):** German plural noun patterns!
 
 <div class="day-nav">
   <a href="/Weeks/Week-03/Days/Day-15">← Day 15</a>

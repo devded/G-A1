@@ -1,30 +1,16 @@
 # Week 1 — Alphabet, Sounds & First Greetings
 
-<div style="display: flex; gap: 12px; align-items: center; margin: 1.5rem 0; flex-wrap: wrap;">
-  <a href="/" style="font-size: 0.85rem; font-weight: 600; color: var(--vp-c-brand-1); text-decoration: none;">← Course Home</a>
-  <span style="color: var(--vp-c-text-3);">·</span>
-  <span style="font-size: 0.85rem; color: var(--vp-c-text-2);">Week 1 of 12</span>
-  <span style="color: var(--vp-c-text-3);">·</span>
-  <a href="/Weeks/Week-02/Days/Day-08" style="font-size: 0.85rem; font-weight: 600; color: var(--vp-c-brand-1); text-decoration: none;">Week 2 →</a>
-</div>
-
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">📅 Week 1 Overview</div>
-    <div class="day-title">Alphabet, Sounds & First Greetings</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">7</div><div class="stat-label">Days</div></div>
-    <div class="hero-stat"><div class="stat-value">56</div><div class="stat-label">Words</div></div>
-    <div class="hero-stat"><div class="stat-value">6</div><div class="stat-label">Grammar</div></div>
-  </div>
+<div class="day-nav">
+  <a href="/">← Course Home</a>
+  <span class="day-center">Week 1 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
+  <a href="/Weeks/Week-02/Days/Day-08">Week 2 →</a>
 </div>
 
 > **Week 1 Goal:** By the end of this week you can introduce yourself, ask someone's name and origin, count to 20, and understand the core article system.
 
 ---
 
-## 📅 This Week's Lessons
+## This Week's Lessons
 
 | Day | Topic | Grammar Focus | Status |
 |:---:|:---|:---|:---:|
@@ -38,7 +24,7 @@
 
 ---
 
-## 📚 Week 1 Vocabulary Preview
+## Week 1 Vocabulary Preview
 
 You will learn **56 essential words** this week:
 
@@ -55,7 +41,7 @@ You will learn **56 essential words** this week:
 
 ---
 
-## 🎓 Week 1 Grammar Topics
+## Week 1 Grammar Topics
 
 1. **German sounds** — ä, ö, ü, ß, ei, ie, eu, ch
 2. **Verb sein** — bin, bist, ist, sind, seid, sind
@@ -66,10 +52,10 @@ You will learn **56 essential words** this week:
 
 ---
 
-## 🚀 Ready? Start Day 1!
+## Ready? Start Day 1!
 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="/Weeks/Week-01/Days/Day-01" style="display: inline-block; background: var(--vp-c-brand-1); color: #fff; padding: 14px 32px; border-radius: 12px; font-weight: 700; font-size: 1rem; text-decoration: none; transition: all 0.2s;">
-    🚀 Start Day 01 — 30 Minutes
+    <Icon name="play" /> Start Day 01 — 30 Minutes
   </a>
 </div>

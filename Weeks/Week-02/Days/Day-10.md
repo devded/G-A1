@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-02/Days/Day-09">← Day 09</a>
-  <span class="day-center">📅 Week 2 · Day 10 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 2 · Day 10 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-02/Days/Day-11">Day 11 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 2 · Day 10</div>
-    <div class="day-title">Possessives: sein, ihr, unser & Adjectives</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -117,7 +105,7 @@
 | **wir** (we) | **unser** | **unsere** | unser Haus / unsere Eltern |
 | **Sie** (you, formal) | **Ihr** | **Ihre** | Ihr Mann / Ihre Frau |
 
-> 🎯 **Key Distinction:**  
+> <Icon name="target" /> **Key Distinction:**  
 > • **sein** = his (describing a man's family: Peter und *sein* Bruder)  
 > • **ihr** = her (describing a woman's family: Anna und *ihre* Schwester)
 
@@ -125,7 +113,7 @@
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -145,10 +133,10 @@
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I can use sein/seine for his</li>
   <li>I can use ihr/ihre for her</li>
@@ -157,7 +145,7 @@
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 11):** Describing professions and work without articles!
+> <Icon name="arrow-right" /> **Tomorrow (Day 11):** Describing professions and work without articles!
 
 <div class="day-nav">
   <a href="/Weeks/Week-02/Days/Day-09">← Day 09</a>
