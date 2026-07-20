@@ -201,7 +201,7 @@ function speechFallback(text, slow) {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #6366f1;
+  color: var(--vp-c-brand-1);
   margin-bottom: 2px;
 }
 
@@ -384,9 +384,9 @@ function speechFallback(text, slow) {
 }
 
 .fc-listen-slow {
-  background: rgba(99, 102, 241, 0.08);
-  border-color: #6366f1;
-  color: #6366f1;
+  background: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
 }
 
 .flipdeck-tip {

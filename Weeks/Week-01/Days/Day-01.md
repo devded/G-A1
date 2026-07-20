@@ -1,7 +1,7 @@
 # Day 01 — Alphabet, Sounds & First Greetings
 
 <div class="day-nav">
-  <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>
+  <a href="/Weeks/Week-01/">← Week 1</a>
   <span class="day-center"><Icon name="calendar" /> Week 1 · Day 1 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-01/Days/Day-02">Day 02 →</a>
 </div>
@@ -149,7 +149,7 @@ German uses the same 26 letters as English, plus 4 special characters: **ä, ö,
 > <Icon name="arrow-right" /> **Tomorrow (Day 02):** Personal pronouns and introducing yourself!
 
 <div class="day-nav">
-  <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>
+  <a href="/Weeks/Week-01/">← Week 1</a>
   <span class="day-center">Day 1 of 84 · Week 1</span>
   <a href="/Weeks/Week-01/Days/Day-02">Day 02 →</a>
 </div>

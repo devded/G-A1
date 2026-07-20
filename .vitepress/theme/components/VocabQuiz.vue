@@ -223,7 +223,7 @@ function playWrongSound() {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #3b82f6;
+  color: var(--vp-c-brand-1);
   margin-bottom: 2px;
 }
 
@@ -258,8 +258,9 @@ function playWrongSound() {
 }
 
 .q-audio-btn {
-  background: rgba(59,130,246,0.1);
-  border: 1px solid #3b82f6;
+  background: var(--vp-c-brand-soft);
+  border: 1px solid var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
   border-radius: 50%;
   width: 30px;
   height: 30px;
@@ -271,7 +272,7 @@ function playWrongSound() {
   flex-shrink: 0;
   transition: all 0.15s;
 }
-.q-audio-btn:hover { background: #3b82f6; }
+.q-audio-btn:hover { background: var(--vp-c-brand-1); color: #fff; }
 .q-audio-ans {
   background: transparent;
   border-color: currentColor;
@@ -310,23 +311,23 @@ function playWrongSound() {
 }
 
 .quiz-option:hover:not(:disabled) {
-  border-color: #3b82f6;
-  background: rgba(59,130,246,0.06);
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
   transform: translateY(-1px);
 }
 
 .quiz-option:disabled { cursor: not-allowed; }
 
 .quiz-option.correct {
-  border-color: #22c55e;
-  background: rgba(34,197,94,0.12);
-  color: #16a34a;
+  border-color: var(--g-correct);
+  background: var(--g-correct-bg);
+  color: var(--g-correct);
 }
 
 .quiz-option.wrong {
-  border-color: #ef4444;
-  background: rgba(239,68,68,0.1);
-  color: #dc2626;
+  border-color: var(--g-wrong);
+  background: var(--g-wrong-bg);
+  color: var(--g-wrong);
 }
 
 .opt-letter {
@@ -358,15 +359,15 @@ function playWrongSound() {
 }
 
 .quiz-feedback.correct {
-  background: rgba(34,197,94,0.12);
-  color: #16a34a;
-  border: 1px solid rgba(34,197,94,0.3);
+  background: var(--g-correct-bg);
+  color: var(--g-correct);
+  border: 1px solid var(--g-correct-border);
 }
 
 .quiz-feedback.wrong {
-  background: rgba(239,68,68,0.1);
-  color: #dc2626;
-  border: 1px solid rgba(239,68,68,0.25);
+  background: var(--g-wrong-bg);
+  color: var(--g-wrong);
+  border: 1px solid var(--g-wrong-border);
 }
 
 .quiz-finished {
