@@ -98,9 +98,9 @@
 
 In German, **man** (spelled with ONE 'n', unlike *der Mann*) refers to people in general:
 
-• **Man kann hier gut essen.** <SpeakButton text="Man kann hier gut essen." />(One can eat well here / You can eat well here.)
-• **Man muss einen Helm tragen.** <SpeakButton text="Man muss einen Helm tragen." />(One must wear a helmet.)
-• **Bei Regen sollte man eine Jacke anziehen.** <SpeakButton text="Bei Regen sollte man eine Jacke anziehen." />(In rain one should put on a jacket.)
+- **Man kann hier gut essen.** <SpeakButton text="Man kann hier gut essen." />(One can eat well here / You can eat well here.)
+- **Man muss einen Helm tragen.** <SpeakButton text="Man muss einen Helm tragen." />(One must wear a helmet.)
+- **Bei Regen sollte man eine Jacke anziehen.** <SpeakButton text="Bei Regen sollte man eine Jacke anziehen." />(In rain one should put on a jacket.)
 
 > <Icon name="target" /> **Conjugation Rule:**  
 > *man* uses the exact same 3rd person singular verb form as **er / sie / es**!   <SpeakButton text="uses the exact same 3rd person singular verb form as" />

@@ -99,20 +99,20 @@
 In German, you can turn any verb into a noun simply by capitalizing the first letter!  
 <Icon name="arrow-right" /> **Golden Rule:** All nominalized verbs are **NEUTER (das)**!
 
-• *lesen* <SpeakButton text="lesen" />(to read) → **das Lesen** (reading)
-• *kochen* <SpeakButton text="kochen" />(to cook) → **das Kochen** (cooking)
-• *reisen* <SpeakButton text="reisen" />(to travel) → **das Reisen** (traveling)
-• *schwimmen* <SpeakButton text="schwimmen" />(to swim) → **das Schwimmen** (swimming)
+- *lesen* <SpeakButton text="lesen" />(to read) → **das Lesen** (reading)
+- *kochen* <SpeakButton text="kochen" />(to cook) → **das Kochen** (cooking)
+- *reisen* <SpeakButton text="reisen" />(to travel) → **das Reisen** (traveling)
+- *schwimmen* <SpeakButton text="schwimmen" />(to swim) → **das Schwimmen** (swimming)
 
 ### Expressing Your Hobbies
 
 1. **Mein Hobby ist [Nominalized Verb]:** <SpeakButton text="Mein Hobby ist [Nominalized Verb]:" />
-• *Mein Hobby ist Lesen.* <SpeakButton text="Mein Hobby ist Lesen." />(My hobby is reading.)
-• *Meine Hobbies sind Kochen und Reisen.* <SpeakButton text="Meine Hobbies sind Kochen und Reisen." />(My hobbies are cooking and traveling.)
+- *Mein Hobby ist Lesen.* <SpeakButton text="Mein Hobby ist Lesen." />(My hobby is reading.)
+- *Meine Hobbies sind Kochen und Reisen.* <SpeakButton text="Meine Hobbies sind Kochen und Reisen." />(My hobbies are cooking and traveling.)
 
 2. **Verb + gerne (I like to...):** <SpeakButton text="Verb + gerne (I like to...):" />
-• *Ich lese gerne.* <SpeakButton text="Ich lese gerne." />(I like to read.)
-• *Ich koche gerne.* <SpeakButton text="Ich koche gerne." />(I like to cook.)
+- *Ich lese gerne.* <SpeakButton text="Ich lese gerne." />(I like to read.)
+- *Ich koche gerne.* <SpeakButton text="Ich koche gerne." />(I like to cook.)
 
 </div>
 

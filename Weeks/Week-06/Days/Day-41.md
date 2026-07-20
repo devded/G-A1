@@ -104,9 +104,9 @@
 > **Tom:** *Ja, perfekt! Bis Sonntag!* <SpeakButton text="Ja, perfekt! Bis Sonntag!" />
 
 ### Useful Outing Expressions
-• *Wollen wir zusammen... gehen?* <SpeakButton text="Wollen wir zusammen... gehen?" />(Shall we go together...?)
-• *Hast du Lust auf [Activity]?* <SpeakButton text="Hast du Lust auf [Activity]?" />(Do you feel like [Activity]?)
-• *Das klingt gut! / Das ist eine super Idee!* <SpeakButton text="Das klingt gut! / Das ist eine super Idee!" />(That sounds good / great idea!)
+- *Wollen wir zusammen... gehen?* <SpeakButton text="Wollen wir zusammen... gehen?" />(Shall we go together...?)
+- *Hast du Lust auf [Activity]?* <SpeakButton text="Hast du Lust auf [Activity]?" />(Do you feel like [Activity]?)
+- *Das klingt gut! / Das ist eine super Idee!* <SpeakButton text="Das klingt gut! / Das ist eine super Idee!" />(That sounds good / great idea!)
 
 </div>
 

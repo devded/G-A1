@@ -96,16 +96,16 @@
 
 ### Seasons: All Masculine (der) + Preposition **im**
 
-• **im Frühling** <SpeakButton text="im Frühling" />(in spring)
-• **im Sommer** <SpeakButton text="im Sommer" />(in summer)
-• **im Herbst** <SpeakButton text="im Herbst" />(in autumn)
-• **im Winter** <SpeakButton text="im Winter" />(in winter)
+- **im Frühling** <SpeakButton text="im Frühling" />(in spring)
+- **im Sommer** <SpeakButton text="im Sommer" />(in summer)
+- **im Herbst** <SpeakButton text="im Herbst" />(in autumn)
+- **im Winter** <SpeakButton text="im Winter" />(in winter)
 
 ### Asking & Stating Dates
 
-• **Der wievielte ist heute?** * <SpeakButton text="Der wievielte ist heute?" />(What is the date today?)*
-• **Heute ist der 20. <SpeakButton text="Heute ist der 20." />(zwanzigste) Juli.** *(Today is the 20th of July.)*
-• **Wann hast du Geburtstag?** * <SpeakButton text="Wann hast du Geburtstag?" />(When is your birthday?)*
+- **Der wievielte ist heute?** * <SpeakButton text="Der wievielte ist heute?" />(What is the date today?)*
+- **Heute ist der 20. <SpeakButton text="Heute ist der 20." />(zwanzigste) Juli.** *(Today is the 20th of July.)*
+- **Wann hast du Geburtstag?** * <SpeakButton text="Wann hast du Geburtstag?" />(When is your birthday?)*
 - *Am 15. <SpeakButton text="Am 15." />(fünfzehnten) Mai.* (On the 15th of May.)
 
 </div>

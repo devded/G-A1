@@ -96,16 +96,16 @@
 
 ### Key Reservation Formulas
 
-• **Ich möchte einen Tisch für [Number] Personen reservieren.** <SpeakButton text="Ich möchte einen Tisch für [Number] Personen reservieren." />
+- **Ich möchte einen Tisch für [Number] Personen reservieren.** <SpeakButton text="Ich möchte einen Tisch für [Number] Personen reservieren." />
   *(I would like to reserve a table for X people.)*  
-• **Für wie viel Uhr?** → *Für 19 Uhr, bitte.* <SpeakButton text="Für 19 Uhr, bitte." />
-• **Auf welchen Namen?** → *Auf den Namen [Surname].* <SpeakButton text="Auf den Namen [Surname]." />
+- **Für wie viel Uhr?** → *Für 19 Uhr, bitte.* <SpeakButton text="Für 19 Uhr, bitte." />
+- **Auf welchen Namen?** → *Auf den Namen [Surname].* <SpeakButton text="Auf den Namen [Surname]." />
 
 ### Arriving at the Restaurant
 
-• **Guten Abend! Wir haben einen Tisch reserviert.** <SpeakButton text="Guten Abend! Wir haben einen Tisch reserviert." />
+- **Guten Abend! Wir haben einen Tisch reserviert.** <SpeakButton text="Guten Abend! Wir haben einen Tisch reserviert." />
   *(Good evening! We have reserved a table.)*  
-• **Ist dieser Platz frei?** <SpeakButton text="Ist dieser Platz frei?" />
+- **Ist dieser Platz frei?** <SpeakButton text="Ist dieser Platz frei?" />
 *(Is this seat free?)* → *Ja, bitte nehmen Sie Platz!* <SpeakButton text="Ja, bitte nehmen Sie Platz!" />
 
 </div>

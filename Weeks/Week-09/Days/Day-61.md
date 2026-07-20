@@ -96,19 +96,19 @@
 
 ### At the Ticket Counter / Machine
 
-• **Eine Fahrkarte nach München, bitte.** <SpeakButton text="Eine Fahrkarte nach München, bitte." />
+- **Eine Fahrkarte nach München, bitte.** <SpeakButton text="Eine Fahrkarte nach München, bitte." />
   *(A train ticket to Munich, please.)*  
-• **Einfach oder hin und zurück?** <SpeakButton text="Einfach oder hin und zurück?" />
+- **Einfach oder hin und zurück?** <SpeakButton text="Einfach oder hin und zurück?" />
 - *Einfach, bitte.* <SpeakButton text="Einfach, bitte." />(One-way, please.)
 - *Hin und zurück, bitte.* <SpeakButton text="Hin und zurück, bitte." />(Return / round-trip, please.)
-• **Mit oder ohne Sitzplatzreservierung?** <SpeakButton text="Mit oder ohne Sitzplatzreservierung?" />
+- **Mit oder ohne Sitzplatzreservierung?** <SpeakButton text="Mit oder ohne Sitzplatzreservierung?" />
   *(With or without seat reservation?)*
 
 ### Railway Station Announcements & Signs
 
-• **Abfahrt:** 10:15 Uhr — **Gleis 3** <SpeakButton text="Abfahrt: 10:15 Uhr — Gleis 3" />
-• **Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung.** <SpeakButton text="Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung." />
-• **Bitte die Fahrkarten vor Fahrtantritt entwerten!** <SpeakButton text="Bitte die Fahrkarten vor Fahrtantritt entwerten!" />
+- **Abfahrt:** 10:15 Uhr — **Gleis 3** <SpeakButton text="Abfahrt: 10:15 Uhr — Gleis 3" />
+- **Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung.** <SpeakButton text="Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung." />
+- **Bitte die Fahrkarten vor Fahrtantritt entwerten!** <SpeakButton text="Bitte die Fahrkarten vor Fahrtantritt entwerten!" />
 
 </div>
 

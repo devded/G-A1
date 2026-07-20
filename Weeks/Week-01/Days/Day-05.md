@@ -95,14 +95,14 @@
 ### German Noun Genders & Indefinite Articles
 
 ### The 3 Genders in German
-• **der** <SpeakButton text="der" />(Masculine): der Mann, der Tisch
-• **die** <SpeakButton text="die" />(Feminine): die Frau, die Tasche
-• **das** <SpeakButton text="das" />(Neuter): das Kind, das Buch
+- **der** <SpeakButton text="der" />(Masculine): der Mann, der Tisch
+- **die** <SpeakButton text="die" />(Feminine): die Frau, die Tasche
+- **das** <SpeakButton text="das" />(Neuter): das Kind, das Buch
 
 ### Indefinite Articles (a / an)
-• **Masculine <SpeakButton text="Masculine" />(der)** → **ein** (ein Mann, ein Tisch)
-• **Feminine <SpeakButton text="Feminine" />(die)** → **eine** (eine Frau, eine Tasche)
-• **Neuter <SpeakButton text="Neuter" />(das)** → **ein** (ein Kind, ein Buch)
+- **Masculine <SpeakButton text="Masculine" />(der)** → **ein** (ein Mann, ein Tisch)
+- **Feminine <SpeakButton text="Feminine" />(die)** → **eine** (eine Frau, eine Tasche)
+- **Neuter <SpeakButton text="Neuter" />(das)** → **ein** (ein Kind, ein Buch)
 
 > <Icon name="target" /> **Rule:** ALWAYS learn nouns together with their article (der/die/das)!
 

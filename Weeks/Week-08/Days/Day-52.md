@@ -100,10 +100,10 @@ In German, the **food is the subject**, and the **person is the dative object**!
 
 <Icon name="arrow-right" /> **Formula: Food (Subject) + schmeckt + Person (Dative Pronoun: mir)**
 
-• *Das Essen schmeckt* **mir** *gut.* <SpeakButton text="Das Essen schmeckt mir gut." />(The food tastes good to me = I like the food.)
-• *Die Suppe schmeckt* **mir** *nicht.* <SpeakButton text="Die Suppe schmeckt mir nicht." />(I don't like the soup.)
-• *Wie schmeckt es* **Ihnen**? <SpeakButton text="Wie schmeckt es Ihnen?" />(How does it taste to you? - formal)
-• *Hat es Ihnen geschmeckt?* <SpeakButton text="Hat es Ihnen geschmeckt?" />(Did you enjoy your meal?)
+- *Das Essen schmeckt* **mir** *gut.* <SpeakButton text="Das Essen schmeckt mir gut." />(The food tastes good to me = I like the food.)
+- *Die Suppe schmeckt* **mir** *nicht.* <SpeakButton text="Die Suppe schmeckt mir nicht." />(I don't like the soup.)
+- *Wie schmeckt es* **Ihnen**? <SpeakButton text="Wie schmeckt es Ihnen?" />(How does it taste to you? - formal)
+- *Hat es Ihnen geschmeckt?* <SpeakButton text="Hat es Ihnen geschmeckt?" />(Did you enjoy your meal?)
 
 > <Icon name="target" /> **Key Adjectives for Food:**  
 > • *lecker* (tasty/yummy), *köstlich* (exquisite), *süß* (sweet), *salzig* (salty), *scharf* (spicy). <SpeakButton text="lecker" />

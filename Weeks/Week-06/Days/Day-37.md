@@ -97,13 +97,13 @@
 ### 3 Ways to Pair Sports with Verbs
 
 1. **spielen** = ball games & board games <SpeakButton text="spielen" />
-• *Fußball spielen, Tennis spielen, Schach spielen* <SpeakButton text="Fußball spielen, Tennis spielen, Schach spielen" />
+- *Fußball spielen, Tennis spielen, Schach spielen* <SpeakButton text="Fußball spielen, Tennis spielen, Schach spielen" />
 
 2. **machen** = fitness & martial arts & general activity <SpeakButton text="machen" />
-• *Yoga machen, Sport machen, Fitness machen* <SpeakButton text="Yoga machen, Sport machen, Fitness machen" />
+- *Yoga machen, Sport machen, Fitness machen* <SpeakButton text="Yoga machen, Sport machen, Fitness machen" />
 
 3. **gehen** = activities involving movement to a venue (gehen + Infinitive) <SpeakButton text="gehen" />
-• *schwimmen gehen* <SpeakButton text="schwimmen gehen" />(to go swimming), *wandern gehen* (to go hiking), *spazieren gehen* (to go for a walk)
+- *schwimmen gehen* <SpeakButton text="schwimmen gehen" />(to go swimming), *wandern gehen* (to go hiking), *spazieren gehen* (to go for a walk)
 
 > <Icon name="message-square" /> **Asking about sports:**   <SpeakButton text="message-square" />
 > • *Treibst du Sport?* / *Machst du Sport?* (Do you do sports?)   <SpeakButton text="Treibst du Sport?" />

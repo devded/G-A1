@@ -97,18 +97,18 @@
 ### Key Sounds & Special Characters
 German uses the same 26 letters as English, plus 4 special characters: **ä, ö, ü, ß**
 
-• **ä** (like "e" in "bed"): Bäcker
-• **ö** (like "u" in "burn"): schön
-• **ü** (like "u" + pucker lips): über
-• **ß** (like double "ss"): Straße
-• **ei** (like "eye"): nein
-• **ie** (like "ee"): hier
-• **eu / äu** <SpeakButton text="eu / äu" />(like "oy"): neu
+- **ä** (like "e" in "bed"): Bäcker
+- **ö** (like "u" in "burn"): schön
+- **ü** (like "u" + pucker lips): über
+- **ß** (like double "ss"): Straße
+- **ei** (like "eye"): nein
+- **ie** (like "ee"): hier
+- **eu / äu** <SpeakButton text="eu / äu" />(like "oy"): neu
 
 ### Formal vs Informal Greetings
-• **Friends / family**: Hallo! Tschüss! <SpeakButton text="Friends / family: Hallo! Tschüss!" />
-• **Adults / strangers**: Guten Tag! Auf Wiedersehen! <SpeakButton text="Adults / strangers: Guten Tag! Auf Wiedersehen!" />
-• **On the phone**: Guten Tag! Auf Wiederhören! <SpeakButton text="On the phone: Guten Tag! Auf Wiederhören!" />
+- **Friends / family**: Hallo! Tschüss! <SpeakButton text="Friends / family: Hallo! Tschüss!" />
+- **Adults / strangers**: Guten Tag! Auf Wiedersehen! <SpeakButton text="Adults / strangers: Guten Tag! Auf Wiedersehen!" />
+- **On the phone**: Guten Tag! Auf Wiederhören! <SpeakButton text="On the phone: Guten Tag! Auf Wiederhören!" />
 
 </div>
 

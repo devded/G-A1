@@ -28,12 +28,12 @@
 
 ### Week 1 Grammar Recap
 
-• **Greetings**: Guten Morgen, Guten Tag, Guten Abend, Tschüss, Auf Wiedersehen <SpeakButton text="Greetings: Guten Morgen, Guten Tag, Guten Abend, Tschüss, Auf Wiedersehen" />
-• **Personal Pronouns**: ich, du, er/sie/es, wir, ihr, sie/Sie <SpeakButton text="Personal Pronouns: ich, du, er/sie/es, wir, ihr, sie/Sie" />
-• **Verbs**: sein <SpeakButton text="Verbs: sein" />(bin, bist, ist, sind, seid) & haben (habe, hast, hat, haben, habt)
-• **Numbers 1-20**: eins, zwei, drei ... zwanzig <SpeakButton text="Numbers 1-20: eins, zwei, drei ... zwanzig" />
-• **Nouns & Gender**: der Mann <SpeakButton text="Nouns & Gender: der Mann" />(m), die Frau (f), das Kind (n)
-• **Indefinite Articles**: ein Mann <SpeakButton text="Indefinite Articles: ein Mann" />(m), eine Frau (f), ein Kind (n)
+- **Greetings**: Guten Morgen, Guten Tag, Guten Abend, Tschüss, Auf Wiedersehen <SpeakButton text="Greetings: Guten Morgen, Guten Tag, Guten Abend, Tschüss, Auf Wiedersehen" />
+- **Personal Pronouns**: ich, du, er/sie/es, wir, ihr, sie/Sie <SpeakButton text="Personal Pronouns: ich, du, er/sie/es, wir, ihr, sie/Sie" />
+- **Verbs**: sein <SpeakButton text="Verbs: sein" />(bin, bist, ist, sind, seid) & haben (habe, hast, hat, haben, habt)
+- **Numbers 1-20**: eins, zwei, drei ... zwanzig <SpeakButton text="Numbers 1-20: eins, zwei, drei ... zwanzig" />
+- **Nouns & Gender**: der Mann <SpeakButton text="Nouns & Gender: der Mann" />(m), die Frau (f), das Kind (n)
+- **Indefinite Articles**: ein Mann <SpeakButton text="Indefinite Articles: ein Mann" />(m), eine Frau (f), ein Kind (n)
 
 </div>
 

@@ -98,10 +98,10 @@
 
 When an adjective comes **after** the verb *sein* (is/are), it **does not take any ending**! It remains in its base dictionary form regardless of gender or number!
 
-• *Der Tisch ist* **groß**. <SpeakButton text="Der Tisch ist groß." />(masculine)
-• *Die Küche ist* **groß**. <SpeakButton text="Die Küche ist groß." />(feminine)
-• *Das Bett ist* **groß**. <SpeakButton text="Das Bett ist groß." />(neuter)
-• *Die Zimmer sind* **groß**. <SpeakButton text="Die Zimmer sind groß." />(plural)
+- *Der Tisch ist* **groß**. <SpeakButton text="Der Tisch ist groß." />(masculine)
+- *Die Küche ist* **groß**. <SpeakButton text="Die Küche ist groß." />(feminine)
+- *Das Bett ist* **groß**. <SpeakButton text="Das Bett ist groß." />(neuter)
+- *Die Zimmer sind* **groß**. <SpeakButton text="Die Zimmer sind groß." />(plural)
 
 > <Icon name="lightbulb" /> **Comparison Words:**   <SpeakButton text="lightbulb" />
 > • *sehr* = very (sehr groß)   <SpeakButton text="sehr" />

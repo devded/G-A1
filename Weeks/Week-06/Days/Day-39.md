@@ -111,8 +111,8 @@ Notice the vowel change **ö → a** in singular forms!
 
 The modal verb goes in **Position 2**, and the main verb goes to the **VERY END in infinitive**!
 
-• *Wir* **können** *uns am Samstag im Café* **treffen**. <SpeakButton text="Wir können uns am Samstag im Café treffen." />
-• **Kannst** *du morgen um 15 Uhr kommen?* <SpeakButton text="Kannst du morgen um 15 Uhr kommen?" />
+- *Wir* **können** *uns am Samstag im Café* **treffen**. <SpeakButton text="Wir können uns am Samstag im Café treffen." />
+- **Kannst** *du morgen um 15 Uhr kommen?* <SpeakButton text="Kannst du morgen um 15 Uhr kommen?" />
 
 </div>
 

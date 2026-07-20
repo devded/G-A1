@@ -106,10 +106,10 @@
 
 ### Fixed Preposition Phrases (Location)
 
-• **auf dem Tisch** = on the table <SpeakButton text="auf dem Tisch = on the table" />
-• **im Regal** <SpeakButton text="im Regal" />(in dem) = on / in the shelf
-• **an der Wand** = on the wall <SpeakButton text="an der Wand = on the wall" />
-• **neben dem Bett** = next to the bed <SpeakButton text="neben dem Bett = next to the bed" />
+- **auf dem Tisch** = on the table <SpeakButton text="auf dem Tisch = on the table" />
+- **im Regal** <SpeakButton text="im Regal" />(in dem) = on / in the shelf
+- **an der Wand** = on the wall <SpeakButton text="an der Wand = on the wall" />
+- **neben dem Bett** = next to the bed <SpeakButton text="neben dem Bett = next to the bed" />
 
 </div>
 

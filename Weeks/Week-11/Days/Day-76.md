@@ -102,12 +102,12 @@ In spoken German, past events are expressed using the **Perfekt** tense!
 **Subject + Auxiliary (haben/sein Pos 2) + ... + Partizip II (VERY END!)**
 
 ### 1. Auxiliary Selection: **haben** vs. **sein**
-• **90% of verbs use haben:** *Ich habe gearbeitet, gegessen, gemacht, gelesen.* <SpeakButton text="90% of verbs use haben: Ich habe gearbeitet, gegessen, gemacht, gelesen." />
-• **Verbs of movement/location change use sein:** *Ich bin gefahren, gegangen, gekommen.* <SpeakButton text="Verbs of movement/location change use sein: Ich bin gefahren, gegangen, gekommen." />
+- **90% of verbs use haben:** *Ich habe gearbeitet, gegessen, gemacht, gelesen.* <SpeakButton text="90% of verbs use haben: Ich habe gearbeitet, gegessen, gemacht, gelesen." />
+- **Verbs of movement/location change use sein:** *Ich bin gefahren, gegangen, gekommen.* <SpeakButton text="Verbs of movement/location change use sein: Ich bin gefahren, gegangen, gekommen." />
 
 ### 2. Partizip II Formation (Past Participle)
-• **Regular Verbs:** **ge- + stem + -t** (*machen → ge-mach-t*, *kaufen → *ge-kauf-t* <SpeakButton text="ge-kauf-t" />)
-• **Irregular Verbs:** **ge- + stem + -en** (*essen → ge-gess-en*, *sehen → *ge-seh-en* <SpeakButton text="ge-seh-en" />)
+- **Regular Verbs:** **ge- + stem + -t** (*machen → ge-mach-t*, *kaufen → *ge-kauf-t* <SpeakButton text="ge-kauf-t" />)
+- **Irregular Verbs:** **ge- + stem + -en** (*essen → ge-gess-en*, *sehen → *ge-seh-en* <SpeakButton text="ge-seh-en" />)
 
 | Person | Auxiliary (haben) | Rest | Partizip II (END) |
 |:---:|:---:|:---:|:---:|

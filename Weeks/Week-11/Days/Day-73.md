@@ -105,7 +105,7 @@
 > **Patient:** *Vielen Dank, Herr Doktor!* <SpeakButton text="Vielen Dank, Herr Doktor!" />
 
 ### Asking & Answering Duration
-• **Seit wann?** → *Seit gestern* <SpeakButton text="Seit gestern" /> (Since yesterday) / *Seit zwei Tagen* (For 2 days).
+- **Seit wann?** → *Seit gestern* <SpeakButton text="Seit gestern" /> (Since yesterday) / *Seit zwei Tagen* (For 2 days).
 
 </div>
 

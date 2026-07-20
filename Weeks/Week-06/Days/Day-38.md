@@ -106,8 +106,8 @@ German uses adverbs right after the main verb to show how much you like an activ
 
 ### Comparison Structure with **als** (than)
 
-• *Ich trinke lieber Tee* **als** *Kaffee.* <SpeakButton text="Ich trinke lieber Tee als Kaffee." />(I prefer drinking tea to coffee.)
-• *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* <SpeakButton text="Er liest lieber Bücher als Fernsehen zu schauen." />(He prefers reading books to watching TV.)
+- *Ich trinke lieber Tee* **als** *Kaffee.* <SpeakButton text="Ich trinke lieber Tee als Kaffee." />(I prefer drinking tea to coffee.)
+- *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* <SpeakButton text="Er liest lieber Bücher als Fernsehen zu schauen." />(He prefers reading books to watching TV.)
 
 > <Icon name="alert-triangle" /> **Difference between mögen & gern:**   <SpeakButton text="alert-triangle" />
 > • **mögen + Noun:** *Ich mag Pizza.* (I like pizza.)   <SpeakButton text="mögen + Noun:" />

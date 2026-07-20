@@ -100,14 +100,14 @@ To give instructions, advice, or commands in German, **put the verb in Position 
 
 <Icon name="arrow-right" /> **Verb (Infinitive) + Sie + ... !**
 
-• **Nehmen Sie** *zwei Tabletten täglich.* <SpeakButton text="Nehmen Sie zwei Tabletten täglich." />(Take two tablets daily.)
-• **Trinken Sie** *viel Wasser.* <SpeakButton text="Trinken Sie viel Wasser." />(Drink plenty of water.)
-• **Bleiben Sie** *drei Tage im Bett.* <SpeakButton text="Bleiben Sie drei Tage im Bett." />(Stay in bed for three days.)
-• **Gehen Sie** *zum Arzt.* <SpeakButton text="Gehen Sie zum Arzt." />(Go to the doctor.)
+- **Nehmen Sie** *zwei Tabletten täglich.* <SpeakButton text="Nehmen Sie zwei Tabletten täglich." />(Take two tablets daily.)
+- **Trinken Sie** *viel Wasser.* <SpeakButton text="Trinken Sie viel Wasser." />(Drink plenty of water.)
+- **Bleiben Sie** *drei Tage im Bett.* <SpeakButton text="Bleiben Sie drei Tage im Bett." />(Stay in bed for three days.)
+- **Gehen Sie** *zum Arzt.* <SpeakButton text="Gehen Sie zum Arzt." />(Go to the doctor.)
 
 ### Preposition **nach** (after) & **vor** (before) + Dative
-• **vor dem Essen** = before eating / before meals <SpeakButton text="vor dem Essen = before eating / before meals" />
-• **nach dem Essen** = after eating / after meals <SpeakButton text="nach dem Essen = after eating / after meals" />
+- **vor dem Essen** = before eating / before meals <SpeakButton text="vor dem Essen = before eating / before meals" />
+- **nach dem Essen** = after eating / after meals <SpeakButton text="nach dem Essen = after eating / after meals" />
 
 </div>
 

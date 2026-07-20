@@ -95,11 +95,11 @@
 ### Numbers 1-20 & Stating Age
 
 ### German Numbers 1 to 20
-• **1-4**: eins, zwei, drei, vier <SpeakButton text="1-4: eins, zwei, drei, vier" />
-• **5-8**: fünf, sechs, sieben, acht <SpeakButton text="5-8: fünf, sechs, sieben, acht" />
-• **9-12**: neun, zehn, elf, zwölf <SpeakButton text="9-12: neun, zehn, elf, zwölf" />
-• **13-19**: dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn <SpeakButton text="13-19: dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn" />
-• **20**: zwanzig <SpeakButton text="20: zwanzig" />
+- **1-4**: eins, zwei, drei, vier <SpeakButton text="1-4: eins, zwei, drei, vier" />
+- **5-8**: fünf, sechs, sieben, acht <SpeakButton text="5-8: fünf, sechs, sieben, acht" />
+- **9-12**: neun, zehn, elf, zwölf <SpeakButton text="9-12: neun, zehn, elf, zwölf" />
+- **13-19**: dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn <SpeakButton text="13-19: dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn" />
+- **20**: zwanzig <SpeakButton text="20: zwanzig" />
 
 > <Icon name="target" /> **Stating Age Formula:**  
 > Use **sein** + [Number] + **Jahre alt**:   <SpeakButton text="sein" />

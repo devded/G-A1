@@ -97,20 +97,20 @@
 ### 3 Core Transport Movement Verbs (All Separable!)
 
 1. **einsteigen** = to get on / board <SpeakButton text="einsteigen" />
-• *Ich **steige** in den Bus **ein**.* <SpeakButton text="Ich steige in den Bus ein." />
+- *Ich **steige** in den Bus **ein**.* <SpeakButton text="Ich steige in den Bus ein." />
 2. **aussteigen** = to get off / alight <SpeakButton text="aussteigen" />
-• *Wir **steigen** an der Haltestelle **aus**.* <SpeakButton text="Wir steigen an der Haltestelle aus." />
+- *Wir **steigen** an der Haltestelle **aus**.* <SpeakButton text="Wir steigen an der Haltestelle aus." />
 3. **umsteigen** = to change / transfer lines <SpeakButton text="umsteigen" />
-• *Sie müssen am Marienplatz **umsteigen**.* <SpeakButton text="Sie müssen am Marienplatz umsteigen." />
+- *Sie müssen am Marienplatz **umsteigen**.* <SpeakButton text="Sie müssen am Marienplatz umsteigen." />
 
 ### Preposition **mit** (by transport) + Dative!
 
 Always use **mit + Dative** when stating how you travel:
 
-• **mit dem** Bus <SpeakButton text="mit dem Bus" />(masculine)
-• **mit dem** Zug <SpeakButton text="mit dem Zug" />(masculine)
-• **mit dem** Auto <SpeakButton text="mit dem Auto" />(neuter)
-• **mit der** U-Bahn / S-Bahn / Straßenbahn <SpeakButton text="mit der U-Bahn / S-Bahn / Straßenbahn" />(feminine)
+- **mit dem** Bus <SpeakButton text="mit dem Bus" />(masculine)
+- **mit dem** Zug <SpeakButton text="mit dem Zug" />(masculine)
+- **mit dem** Auto <SpeakButton text="mit dem Auto" />(neuter)
+- **mit der** U-Bahn / S-Bahn / Straßenbahn <SpeakButton text="mit der U-Bahn / S-Bahn / Straßenbahn" />(feminine)
 
 </div>
 

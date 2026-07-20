@@ -98,8 +98,8 @@
 
 In German, when saying what someone's job is after *sein* or *arbeiten als*, **DO NOT use an article**!
 
-• English: I am **a** doctor. <SpeakButton text="English: I am a doctor." />
-• German: Ich bin **Arzt**. <SpeakButton text="German: Ich bin Arzt." />(NOT: Ich bin *ein* Arzt.)
+- English: I am **a** doctor. <SpeakButton text="English: I am a doctor." />
+- German: Ich bin **Arzt**. <SpeakButton text="German: Ich bin Arzt." />(NOT: Ich bin *ein* Arzt.)
 
 ### Feminine Job Suffix: **-in**
 

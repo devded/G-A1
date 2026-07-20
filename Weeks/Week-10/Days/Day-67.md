@@ -109,9 +109,9 @@ Notice the **umlaut drops** in all singular forms!
 
 ### Negation Difference: nicht müssen vs. nicht dürfen!
 
-• **nicht müssen** = don't have to <SpeakButton text="nicht müssen = don't have to" />(no obligation)
+- **nicht müssen** = don't have to <SpeakButton text="nicht müssen = don't have to" />(no obligation)
 - *Du musst nicht kommen.* <SpeakButton text="Du musst nicht kommen." />(You don't have to come.)
-• **nicht dürfen** = MUST NOT <SpeakButton text="nicht dürfen = MUST NOT" />(prohibition!)
+- **nicht dürfen** = MUST NOT <SpeakButton text="nicht dürfen = MUST NOT" />(prohibition!)
 - *Du darfst hier nicht rauchen!* <SpeakButton text="Du darfst hier nicht rauchen!" />(You must not smoke here!)
 
 </div>

@@ -95,9 +95,9 @@
 ### Days of the Week & Preposition am
 
 ### The 7 Days of the Week (All Masculine: der)
-• **der Montag, der Dienstag, der Mittwoch** <SpeakButton text="der Montag, der Dienstag, der Mittwoch" />
-• **der Donnerstag, der Freitag** <SpeakButton text="der Donnerstag, der Freitag" />
-• **der Samstag, der Sonntag** <SpeakButton text="der Samstag, der Sonntag" />
+- **der Montag, der Dienstag, der Mittwoch** <SpeakButton text="der Montag, der Dienstag, der Mittwoch" />
+- **der Donnerstag, der Freitag** <SpeakButton text="der Donnerstag, der Freitag" />
+- **der Samstag, der Sonntag** <SpeakButton text="der Samstag, der Sonntag" />
 
 > <Icon name="target" /> **Preposition Rule for Days:**  
 > Always use **am** (on) before days of the week:  

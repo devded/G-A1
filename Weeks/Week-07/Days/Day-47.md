@@ -104,9 +104,9 @@
 
 In Germany, decimals use a **comma (,)** instead of a point (.)!
 
-• **1,50 €** → *ein Euro fünfzig* <SpeakButton text="ein Euro fünfzig" /> (or *eins fünfzig*)
-• **3,99 €** → *drei Euro neunundneunzig* <SpeakButton text="drei Euro neunundneunzig" />
-• **0,50 €** → *fünfzig Cent* <SpeakButton text="fünfzig Cent" />
+- **1,50 €** → *ein Euro fünfzig* <SpeakButton text="ein Euro fünfzig" /> (or *eins fünfzig*)
+- **3,99 €** → *drei Euro neunundneunzig* <SpeakButton text="drei Euro neunundneunzig" />
+- **0,50 €** → *fünfzig Cent* <SpeakButton text="fünfzig Cent" />
 
 > <Icon name="lightbulb" /> **Notice:** The word *Euro* stays singular after numbers! (*zwei Euro*, NOT *zwei Euros*). <SpeakButton text="lightbulb" />
 

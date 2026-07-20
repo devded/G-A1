@@ -97,12 +97,12 @@
 ### 2 Ways to State a Job in German
 
 1. **sein + Profession (No article!):** <SpeakButton text="sein + Profession (No article!):" />
-• *Ich bin Ingenieur.* <SpeakButton text="Ich bin Ingenieur." />(I am an engineer.)
-• *Sie ist Köchin.* <SpeakButton text="Sie ist Köchin." />(She is a chef.)
+- *Ich bin Ingenieur.* <SpeakButton text="Ich bin Ingenieur." />(I am an engineer.)
+- *Sie ist Köchin.* <SpeakButton text="Sie ist Köchin." />(She is a chef.)
 
 2. **arbeiten als + Profession (No article!):** <SpeakButton text="arbeiten als + Profession (No article!):" />
-• *Er arbeitet als Mechaniker.* <SpeakButton text="Er arbeitet als Mechaniker." />(He works as a mechanic.)
-• *Ich arbeite als Verkäuferin.* <SpeakButton text="Ich arbeite als Verkäuferin." />(I work as a shop assistant.)
+- *Er arbeitet als Mechaniker.* <SpeakButton text="Er arbeitet als Mechaniker." />(He works as a mechanic.)
+- *Ich arbeite als Verkäuferin.* <SpeakButton text="Ich arbeite als Verkäuferin." />(I work as a shop assistant.)
 
 > <Icon name="alert-triangle" /> **Reminder:** Never say *Ich bin ein Ingenieur*. Keep it simple: **Ich bin Ingenieur**! <SpeakButton text="alert-triangle" />
 
