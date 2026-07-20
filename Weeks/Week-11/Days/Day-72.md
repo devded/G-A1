@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-11/Days/Day-71">← Day 71</a>
-  <span class="day-center">📅 Week 11 · Day 72 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 11 · Day 72 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-11/Days/Day-73">Day 73 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 11 · Day 72</div>
-    <div class="day-title">Symptoms, Illness & Feeling Sick</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -117,7 +105,7 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 | er/sie/es | fühlt **sich** | Er fühlt *sich* krank. |
 | wir | fühlen **uns** | Wir fühlen *uns* gut. |
 
-> 🗣️ **Common Illness Expressions:**  
+> <Icon name="message-square" /> **Common Illness Expressions:**  
 > • *Ich habe eine Erkältung.* (I have a cold.)  
 > • *Ich habe Fieber / Husten / Schnupfen.*  
 > • *Mir ist schlecht / schwindlig.* (I feel nauseous / dizzy.)
@@ -126,7 +114,7 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -146,10 +134,10 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I know illness terms: Fieber, Husten, Schnupfen, Erkältung</li>
   <li>I know reflexive verb sich fühlen (ich fühle mich)</li>
@@ -158,7 +146,7 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 73):** Doctor's visit dialogue & duration with 'seit wann'!
+> <Icon name="arrow-right" /> **Tomorrow (Day 73):** Doctor's visit dialogue & duration with 'seit wann'!
 
 <div class="day-nav">
   <a href="/Weeks/Week-11/Days/Day-71">← Day 71</a>

@@ -2,39 +2,27 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-09/Days/Day-62">← Day 62</a>
-  <span class="day-center">📅 Week 9 · Day 63 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 9 · Day 63 of 84 <span class="day-meta">· A1.1 · Week 9 review</span></span>
   <a href="/Weeks/Week-10/Days/Day-64">Week 10 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 9 · Day 63 — REVIEW DAY</div>
-    <div class="day-title">Week 9 Review & Speaking Practice</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">504</div><div class="stat-label">Words Learned</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">🔁 Review Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar Recap <strong>7 min</strong></div>
-  <div class="timer-segment practice">🎯 Big Quiz <strong>12 min</strong></div>
-  <div class="timer-segment review">🗣️ Speaking <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="repeat" /> Review Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar Recap <strong>7 min</strong></div>
+  <div class="timer-segment practice"><Icon name="target" /> Big Quiz <strong>12 min</strong></div>
+  <div class="timer-segment review"><Icon name="message-square" /> Speaking <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 🔁 Step 1 — Vocabulary Review (8 min)
+## Step 1 — Vocabulary Review (8 min)
 
 <FlipDeck :cards="[{&quot;german&quot;: &quot;der Bahnhof&quot;, &quot;english&quot;: &quot;train station&quot;, &quot;example&quot;: &quot;Wie komme ich zum Bahnhof?&quot;}, {&quot;german&quot;: &quot;die Apotheke&quot;, &quot;english&quot;: &quot;pharmacy&quot;, &quot;example&quot;: &quot;Die Apotheke ist gegenüber.&quot;}, {&quot;german&quot;: &quot;geradeaus&quot;, &quot;english&quot;: &quot;straight ahead&quot;, &quot;example&quot;: &quot;Gehen Sie geradeaus.&quot;}, {&quot;german&quot;: &quot;links / rechts abbiegen&quot;, &quot;english&quot;: &quot;turn left / right&quot;, &quot;example&quot;: &quot;Biegen Sie links ab.&quot;}, {&quot;german&quot;: &quot;die Ampel / Kreuzung&quot;, &quot;english&quot;: &quot;traffic lights / junction&quot;, &quot;example&quot;: &quot;An der Ampel rechts.&quot;}, {&quot;german&quot;: &quot;zu Fuß&quot;, &quot;english&quot;: &quot;on foot&quot;, &quot;example&quot;: &quot;Das ist 5 Minuten zu Fuß.&quot;}, {&quot;german&quot;: &quot;zum (m/n) / zur (f)&quot;, &quot;english&quot;: &quot;to the (Dative destination)&quot;, &quot;example&quot;: &quot;zum Bahnhof / zur Post&quot;}, {&quot;german&quot;: &quot;im / am / beim&quot;, &quot;english&quot;: &quot;in / at / near the&quot;, &quot;example&quot;: &quot;im Supermarkt, beim Arzt&quot;}, {&quot;german&quot;: &quot;mit dem / mit der&quot;, &quot;english&quot;: &quot;by (transport + Dative)&quot;, &quot;example&quot;: &quot;mit dem Bus / mit der U-Bahn&quot;}, {&quot;german&quot;: &quot;einsteigen / aussteigen&quot;, &quot;english&quot;: &quot;get on / get off&quot;, &quot;example&quot;: &quot;Wir steigen am Hbf aus.&quot;}, {&quot;german&quot;: &quot;umsteigen&quot;, &quot;english&quot;: &quot;change trains&quot;, &quot;example&quot;: &quot;Müssen wir umsteigen?&quot;}, {&quot;german&quot;: &quot;einfach / hin und zurück&quot;, &quot;english&quot;: &quot;one-way / return ticket&quot;, &quot;example&quot;: &quot;Ein Ticket hin und zurück.&quot;}, {&quot;german&quot;: &quot;der Gleis / Verspätung&quot;, &quot;english&quot;: &quot;platform / delay&quot;, &quot;example&quot;: &quot;Gleis 4, 10 Min Verspätung.&quot;}, {&quot;german&quot;: &quot;der Ausgang / Eingang&quot;, &quot;english&quot;: &quot;exit / entrance&quot;, &quot;example&quot;: &quot;Wo ist der Ausgang?&quot;}, {&quot;german&quot;: &quot;um die Ecke&quot;, &quot;english&quot;: &quot;around the corner&quot;, &quot;example&quot;: &quot;Die Bank ist um die Ecke.&quot;}]" />
 
 ---
 
-## 📖 Step 2 — Grammar Quick Recap (7 min)
+## Step 2 — Grammar Quick Recap (7 min)
 
 <div class="grammar-box">
 
@@ -58,15 +46,15 @@
 
 ---
 
-## 🎯 Step 3 — Big Week 9 Quiz (12 min)
+## Step 3 — Big Week 9 Quiz (12 min)
 
 <VocabQuiz :questions="[{&quot;question&quot;: &quot;Which contraction means 'to the' for a feminine noun (zu + der)?&quot;, &quot;answer&quot;: &quot;zur&quot;, &quot;options&quot;: [&quot;zum&quot;, &quot;zur&quot;, &quot;im&quot;, &quot;beim&quot;]}, {&quot;question&quot;: &quot;Which contraction means 'to the' for a masculine noun (zu + dem)?&quot;, &quot;answer&quot;: &quot;zum&quot;, &quot;options&quot;: [&quot;zum&quot;, &quot;zur&quot;, &quot;im&quot;, &quot;am&quot;]}, {&quot;question&quot;: &quot;Translate: 'by metro' (die U-Bahn)&quot;, &quot;answer&quot;: &quot;mit der U-Bahn&quot;, &quot;options&quot;: [&quot;mit die U-Bahn&quot;, &quot;mit der U-Bahn&quot;, &quot;mit dem U-Bahn&quot;, &quot;zu der U-Bahn&quot;]}, {&quot;question&quot;: &quot;What is 'umsteigen'?&quot;, &quot;answer&quot;: &quot;to change trains / lines&quot;, &quot;options&quot;: [&quot;to get on&quot;, &quot;to get off&quot;, &quot;to change trains / lines&quot;, &quot;to buy a ticket&quot;]}, {&quot;question&quot;: &quot;What is 'hin und zurück'?&quot;, &quot;answer&quot;: &quot;return ticket&quot;, &quot;options&quot;: [&quot;one-way ticket&quot;, &quot;return ticket&quot;, &quot;platform number&quot;, &quot;delay&quot;]}, {&quot;question&quot;: &quot;Translate: 'Go straight ahead.'&quot;, &quot;answer&quot;: &quot;Gehen Sie geradeaus.&quot;, &quot;options&quot;: [&quot;Gehen Sie links.&quot;, &quot;Gehen Sie geradeaus.&quot;, &quot;Biegen Sie ab.&quot;, &quot;Kommen Sie zurück.&quot;]}, {&quot;question&quot;: &quot;What does 'Verspätung' mean?&quot;, &quot;answer&quot;: &quot;delay&quot;, &quot;options&quot;: [&quot;on time&quot;, &quot;delay&quot;, &quot;platform&quot;, &quot;cancellation&quot;]}, {&quot;question&quot;: &quot;Where is 'der Ausgang'?&quot;, &quot;answer&quot;: &quot;the exit&quot;, &quot;options&quot;: [&quot;the entrance&quot;, &quot;the exit&quot;, &quot;the corner&quot;, &quot;the window&quot;]}]" />
 
 ---
 
-## 🗣️ Step 4 — Speaking Exercise (3 min)
+## Step 4 — Speaking Exercise (3 min)
 
-### 🗣️ Speaking Exercise — Give Directions & Buy a Train Ticket
+### Speaking Exercise — Give Directions & Buy a Train Ticket
 
 Read this script aloud and record yourself or practice with a partner:
 
@@ -74,10 +62,10 @@ Read this script aloud and record yourself or practice with a partner:
 
 ---
 
-## ✅ Week 9 Mastery Checklist
+## Week 9 Mastery Checklist
 
 <div class="mastery-checklist">
-<h3>✅ Week 9 Complete — Can you do all of these?</h3>
+<h3>Week 9 Complete — Can you do all of these?</h3>
 <ul>
   <li>I know 10+ city and transport vocabulary words</li>
   <li>I can use zum/zur for destinations accurately</li>
@@ -90,6 +78,6 @@ Read this script aloud and record yourself or practice with a partner:
 
 <div class="day-nav">
   <a href="/Weeks/Week-09/Days/Day-62">← Day 62</a>
-  <span class="day-center">Week 9 Complete! 🎉</span>
+  <span class="day-center"><Icon name="check-circle" /> Week 9 Complete!</span>
   <a href="/Weeks/Week-10/Days/Day-64">Start Week 10 →</a>
 </div>

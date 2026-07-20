@@ -2,39 +2,27 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-10/Days/Day-69">← Day 69</a>
-  <span class="day-center">📅 Week 10 · Day 70 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 10 · Day 70 of 84 <span class="day-meta">· A1.1 · Week 10 review</span></span>
   <a href="/Weeks/Week-11/Days/Day-71">Week 11 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 10 · Day 70 — REVIEW DAY</div>
-    <div class="day-title">Week 10 Review & Speaking Practice</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">560</div><div class="stat-label">Words Learned</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">🔁 Review Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar Recap <strong>7 min</strong></div>
-  <div class="timer-segment practice">🎯 Big Quiz <strong>12 min</strong></div>
-  <div class="timer-segment review">🗣️ Speaking <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="repeat" /> Review Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar Recap <strong>7 min</strong></div>
+  <div class="timer-segment practice"><Icon name="target" /> Big Quiz <strong>12 min</strong></div>
+  <div class="timer-segment review"><Icon name="message-square" /> Speaking <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 🔁 Step 1 — Vocabulary Review (8 min)
+## Step 1 — Vocabulary Review (8 min)
 
 <FlipDeck :cards="[{&quot;german&quot;: &quot;Es regnet / Es schneit&quot;, &quot;english&quot;: &quot;It is raining / snowing&quot;, &quot;example&quot;: &quot;Es regnet heute.&quot;}, {&quot;german&quot;: &quot;bewölkt / sonnig&quot;, &quot;english&quot;: &quot;cloudy / sunny&quot;, &quot;example&quot;: &quot;Es ist bewölkt.&quot;}, {&quot;german&quot;: &quot;im Frühling / Sommer&quot;, &quot;english&quot;: &quot;in spring / summer&quot;, &quot;example&quot;: &quot;Im Sommer ist es heiß.&quot;}, {&quot;german&quot;: &quot;heiß / kalt / kühl&quot;, &quot;english&quot;: &quot;hot / cold / cool&quot;, &quot;example&quot;: &quot;Im Januar ist es kalt.&quot;}, {&quot;german&quot;: &quot;der Baum / der Wald&quot;, &quot;english&quot;: &quot;tree / forest&quot;, &quot;example&quot;: &quot;Bäume im Wald.&quot;}, {&quot;german&quot;: &quot;der Hund / die Katze&quot;, &quot;english&quot;: &quot;dog / cat&quot;, &quot;example&quot;: &quot;Ich habe eine Katze.&quot;}, {&quot;german&quot;: &quot;können (kann, kannst)&quot;, &quot;english&quot;: &quot;can / ability&quot;, &quot;example&quot;: &quot;Ich kann schwimmen.&quot;}, {&quot;german&quot;: &quot;müssen (muss, musst)&quot;, &quot;english&quot;: &quot;must / necessity&quot;, &quot;example&quot;: &quot;Ich muss arbeiten.&quot;}, {&quot;german&quot;: &quot;dürfen (darf, darfst)&quot;, &quot;english&quot;: &quot;may / allowed to&quot;, &quot;example&quot;: &quot;Darf ich hier parken?&quot;}, {&quot;german&quot;: &quot;sollen (soll, sollst)&quot;, &quot;english&quot;: &quot;should / advice&quot;, &quot;example&quot;: &quot;Du sollst Wasser trinken.&quot;}, {&quot;german&quot;: &quot;wollen (will, willst)&quot;, &quot;english&quot;: &quot;want to&quot;, &quot;example&quot;: &quot;Ich will Deutsch lernen.&quot;}, {&quot;german&quot;: &quot;verboten / erlaubt&quot;, &quot;english&quot;: &quot;forbidden / allowed&quot;, &quot;example&quot;: &quot;Rauchen ist verboten.&quot;}, {&quot;german&quot;: &quot;man kann / man muss&quot;, &quot;english&quot;: &quot;one can / one must&quot;, &quot;example&quot;: &quot;Hier kann man gut essen.&quot;}, {&quot;german&quot;: &quot;draußen / drinnen&quot;, &quot;english&quot;: &quot;outside / inside&quot;, &quot;example&quot;: &quot;Wir bleiben drinnen.&quot;}, {&quot;german&quot;: &quot;der Regenschirm / die Jacke&quot;, &quot;english&quot;: &quot;umbrella / jacket&quot;, &quot;example&quot;: &quot;Nimm eine Jacke mit!&quot;}]" />
 
 ---
 
-## 📖 Step 2 — Grammar Quick Recap (7 min)
+## Step 2 — Grammar Quick Recap (7 min)
 
 <div class="grammar-box">
 
@@ -56,15 +44,15 @@
 
 ---
 
-## 🎯 Step 3 — Big Week 10 Quiz (12 min)
+## Step 3 — Big Week 10 Quiz (12 min)
 
 <VocabQuiz :questions="[{&quot;question&quot;: &quot;Conjugate: er + müssen&quot;, &quot;answer&quot;: &quot;er muss&quot;, &quot;options&quot;: [&quot;er müsst&quot;, &quot;er muss&quot;, &quot;er müssen&quot;, &quot;er musset&quot;]}, {&quot;question&quot;: &quot;Which modal verb expresses prohibition when negated (nicht ...)?&quot;, &quot;answer&quot;: &quot;dürfen (nicht dürfen = must not)&quot;, &quot;options&quot;: [&quot;müssen&quot;, &quot;dürfen (nicht dürfen = must not)&quot;, &quot;können&quot;, &quot;sollen&quot;]}, {&quot;question&quot;: &quot;Which preposition is used for seasons (im Sommer)?&quot;, &quot;answer&quot;: &quot;im&quot;, &quot;options&quot;: [&quot;am&quot;, &quot;im&quot;, &quot;um&quot;, &quot;an&quot;]}, {&quot;question&quot;: &quot;Translate: 'It is raining outside, one should take an umbrella.'&quot;, &quot;answer&quot;: &quot;Es regnet draußen, man sollte einen Regenschirm mitnehmen.&quot;, &quot;options&quot;: [&quot;Es regnet drinnen, man kann Regenschirm nehmen.&quot;, &quot;Es regnet draußen, man sollte einen Regenschirm mitnehmen.&quot;, &quot;Es schneit draußen, man muss Jacke kaufen.&quot;, &quot;Es ist bewölkt, ich habe Schirm.&quot;]}, {&quot;question&quot;: &quot;What is the plural of 'der Baum'?&quot;, &quot;answer&quot;: &quot;die Bäume&quot;, &quot;options&quot;: [&quot;die Baumen&quot;, &quot;die Bäume&quot;, &quot;die Baums&quot;, &quot;die Bäumer&quot;]}, {&quot;question&quot;: &quot;Conjugate: ich + wollen&quot;, &quot;answer&quot;: &quot;ich will&quot;, &quot;options&quot;: [&quot;ich wolle&quot;, &quot;ich will&quot;, &quot;ich wollt&quot;, &quot;ich willst&quot;]}, {&quot;question&quot;: &quot;What does 'verboten' mean?&quot;, &quot;answer&quot;: &quot;forbidden / prohibited&quot;, &quot;options&quot;: [&quot;allowed&quot;, &quot;forbidden / prohibited&quot;, &quot;optional&quot;, &quot;recommended&quot;]}, {&quot;question&quot;: &quot;How do you state temperature in German?&quot;, &quot;answer&quot;: &quot;Es sind 22 Grad.&quot;, &quot;options&quot;: [&quot;Es ist 22 Grad.&quot;, &quot;Es sind 22 Grad.&quot;, &quot;Es macht 22 Grad.&quot;, &quot;Das hat 22 Grad.&quot;]}]" />
 
 ---
 
-## 🗣️ Step 4 — Speaking Exercise (3 min)
+## Step 4 — Speaking Exercise (3 min)
 
-### 🗣️ Speaking Exercise — Talk About Weather & Your Daily Plans
+### Speaking Exercise — Talk About Weather & Your Daily Plans
 
 Read this script aloud and record yourself or practice with a partner:
 
@@ -72,10 +60,10 @@ Read this script aloud and record yourself or practice with a partner:
 
 ---
 
-## ✅ Week 10 Mastery Checklist
+## Week 10 Mastery Checklist
 
 <div class="mastery-checklist">
-<h3>✅ Week 10 Complete — Can you do all of these?</h3>
+<h3>Week 10 Complete — Can you do all of these?</h3>
 <ul>
   <li>I can describe weather and temperature using impersonal 'es'</li>
   <li>I know all 4 seasons and use 'im' correctly</li>
@@ -88,6 +76,6 @@ Read this script aloud and record yourself or practice with a partner:
 
 <div class="day-nav">
   <a href="/Weeks/Week-10/Days/Day-69">← Day 69</a>
-  <span class="day-center">Week 10 Complete! 🎉</span>
+  <span class="day-center"><Icon name="check-circle" /> Week 10 Complete!</span>
   <a href="/Weeks/Week-11/Days/Day-71">Start Week 11 →</a>
 </div>

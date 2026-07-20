@@ -2,33 +2,21 @@
 
 <div class="day-nav">
   <a href="/Weeks/Week-12/Days/Day-79">← Day 79</a>
-  <span class="day-center">📅 Week 12 · Day 80 of 84</span>
+  <span class="day-center"><Icon name="calendar" /> Week 12 · Day 80 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-12/Days/Day-81">Day 81 →</a>
 </div>
 
-<div class="day-hero">
-  <div class="day-hero-info">
-    <div class="day-label">Week 12 · Day 80</div>
-    <div class="day-title">Goethe A1 Writing (Schreiben) Tasks</div>
-  </div>
-  <div class="day-hero-stats">
-    <div class="hero-stat"><div class="stat-value">30</div><div class="stat-label">Minutes</div></div>
-    <div class="hero-stat"><div class="stat-value">8</div><div class="stat-label">New Words</div></div>
-    <div class="hero-stat"><div class="stat-value">A1.1</div><div class="stat-label">Level</div></div>
-  </div>
-</div>
-
 <div class="day-timer-bar">
-  <div class="timer-segment vocab">📚 Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar">📖 Grammar <strong>10 min</strong></div>
-  <div class="timer-segment practice">✏️ Practice <strong>9 min</strong></div>
-  <div class="timer-segment review">✅ Review <strong>3 min</strong></div>
-  <div class="timer-segment total">⏱️ 30 min</div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
+  <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
+  <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
 
 ---
 
-## 📚 Step 1 — Vocabulary (8 min)
+## Step 1 — Vocabulary (8 min)
 
 <div class="vocab-grid">
 
@@ -100,7 +88,7 @@
 
 ---
 
-## 📖 Step 2 — Grammar Bite (10 min)
+## Step 2 — Grammar Bite (10 min)
 
 <div class="grammar-box">
 
@@ -113,7 +101,7 @@ The A1 Writing exam has **2 Parts (Teile)**:
 1. **Teil 1 (Form Filling - 5 points):** Fill in 5 missing pieces of information on a form based on a short text (e.g. name, number of persons, arrival date, payment method).
 2. **Teil 2 (Short Message - approx. 30 words):** Write a short email/SMS covering **all 3 prompt points**!
 
-### 🎯 The Perfect A1 Short Message Template
+### The Perfect A1 Short Message Template
 
 ```
 Liebe(r) [Name], (or: Sehr geehrte Damen und Herren,)
@@ -131,13 +119,13 @@ Viele Grüße / Mit freundlichen Grüßen,
 [Your Name]
 ```
 
-> ⚠️ **Critical Rule:** You MUST cover **ALL 3 prompt points** to get full points!
+> <Icon name="alert-triangle" /> **Critical Rule:** You MUST cover **ALL 3 prompt points** to get full points!
 
 </div>
 
 ---
 
-## ✏️ Step 3 — Practice (9 min)
+## Step 3 — Practice (9 min)
 
 ### 3A — Complete the sentences
 
@@ -157,10 +145,10 @@ Viele Grüße / Mit freundlichen Grüßen,
 
 ---
 
-## ✅ Step 4 — Daily Mastery Check (3 min)
+## Step 4 — Daily Mastery Check (3 min)
 
 <div class="mastery-checklist">
-<h3>✅ Before you finish:</h3>
+<h3>Before you finish:</h3>
 <ul>
   <li>I know the 2 parts of Goethe A1 Schreiben exam</li>
   <li>I know how to complete a form filling task (Teil 1)</li>
@@ -169,7 +157,7 @@ Viele Grüße / Mit freundlichen Grüßen,
 </ul>
 </div>
 
-> 📝 **Tomorrow (Day 81):** Goethe A1 Speaking (Sprechen) Part 1 (Intro) & Part 2 (Questions)!
+> <Icon name="arrow-right" /> **Tomorrow (Day 81):** Goethe A1 Speaking (Sprechen) Part 1 (Intro) & Part 2 (Questions)!
 
 <div class="day-nav">
   <a href="/Weeks/Week-12/Days/Day-79">← Day 79</a>
