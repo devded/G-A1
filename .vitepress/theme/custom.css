@@ -178,63 +178,68 @@ body {
   color: var(--vp-c-brand-1);
 }
 
-/* ── Details / Answer reveal ────────────────────────────── */
+/* ── Complete-the-sentence rows ─────────────────────────── */
 /*
-  The practice sentences look like:
-    **1.** ___! Wie heißt du? → <details><summary>Answer</summary>**Hallo** <SpeakButton/></details>
+  Markdown renders each sentence as a <p> containing inline <details>:
+    <p><strong>1.</strong> ___! … → <details><summary>Answer</summary>…</details></p>
 
-  We style the details as a full block row, making it clear and scannable.
+  Design goal: sentence on its own line, Reveal Answer button on the
+  next line below it, answer panel appearing beneath both.
 */
 
-/* Each answer line is a paragraph in vp-doc, but details is inline —
-   we turn the whole <p> containing a details into a styled sentence row. */
+/* Turn the wrapping <p> into a vertical flex card */
 .vp-doc p:has(details) {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: center;
-  gap: 12px;
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-card-border);
+  border-left: 4px solid var(--g-practice);
   border-radius: 10px;
-  padding: 12px 16px;
-  margin: 6px 0 !important;
-  transition: border-color 0.18s;
+  padding: 14px 18px;
+  margin: 8px 0 !important;
+  box-shadow: var(--g-card-shadow);
+  transition: border-color 0.18s, box-shadow 0.18s;
 }
 
 .vp-doc p:has(details):hover {
-  border-color: var(--vp-c-brand-1);
+  border-left-color: var(--vp-c-brand-1);
+  box-shadow: var(--g-card-shadow-hover);
 }
 
+/* details is now a proper block child inside that flex column */
 .vp-doc details {
-  display: contents;
+  display: block;
+  width: 100%;
 }
 
+/* The 'Reveal Answer' button */
 .vp-doc details summary {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
+  gap: 6px;
   cursor: pointer;
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   font-weight: 700;
   color: var(--g-practice);
-  background: transparent;
+  background: var(--vp-c-bg-soft);
   border: 1.5px solid var(--g-practice);
-  border-radius: 20px;
-  padding: 4px 14px;
-  white-space: nowrap;
-  transition: background 0.18s, color 0.18s;
+  border-radius: 8px;
+  padding: 6px 16px;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
   user-select: none;
   list-style: none;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
 }
 
 .vp-doc details summary::-webkit-details-marker { display: none; }
-.vp-doc details summary::marker { display: none; }
+.vp-doc details summary::marker              { display: none; }
 
 .vp-doc details summary::before {
   content: '▶';
-  font-size: 0.6em;
-  transition: transform 0.2s;
+  font-size: 0.55em;
+  transition: transform 0.18s;
   display: inline-block;
 }
 
@@ -242,23 +247,44 @@ body {
   transform: rotate(90deg);
 }
 
-.vp-doc details summary:hover,
-.vp-doc details[open] summary {
+.vp-doc details summary:hover {
   background: var(--g-practice);
   color: #fff;
   border-color: var(--g-practice);
 }
 
-/* The answer text that shows when open */
+.vp-doc details[open] summary {
+  background: var(--g-practice);
+  color: #fff;
+  border-color: var(--g-practice);
+  margin-bottom: 8px;
+}
+
+/* Answer panel — appears below the button */
+.vp-doc details[open] > *:not(summary) {
+  display: block;
+}
+
 .vp-doc details[open] {
-  grid-column: 1 / -1;
-  margin-top: 8px;
-  padding: 10px 14px;
   background: var(--g-gold-soft);
-  border-left: 3px solid var(--g-gold);
-  border-radius: 0 8px 8px 0;
+  border: 1px solid rgba(255, 183, 3, 0.25);
+  border-radius: 8px;
+  padding: 10px 16px;
   font-size: 0.95rem;
+  line-height: 1.5;
   animation: reveal-in 0.2s ease;
+}
+
+.vp-doc details[open] summary {
+  /* keep button styles when open */
+  border-radius: 6px 6px 0 0;
+  margin: -10px -16px 10px;
+  padding: 8px 16px;
+  width: calc(100% + 32px);
+  background: var(--g-practice);
+  color: #fff;
+  border: none;
+  border-radius: 8px 8px 0 0;
 }
 
 @keyframes reveal-in {
@@ -384,63 +410,42 @@ body {
   margin-top: 2px;
 }
 
-/* ── Grammar Box — redesigned ───────────────────────────── */
+/* ── Grammar Box — clean left-stripe card ───────────────── */
 .grammar-box {
   background: var(--g-card-bg);
   border: 1px solid var(--g-card-border);
-  border-radius: 14px;
-  overflow: hidden;
+  border-left: 5px solid var(--g-grammar);
+  border-radius: 12px;
+  padding: 20px 24px;
   margin: 1.8rem 0;
   box-shadow: var(--g-card-shadow);
+  position: relative;
 }
 
-/* Header strip */
+/* Small 'GRAMMAR BITE' label in the stripe colour, top-left */
 .grammar-box::before {
-  content: '📖  GRAMMAR BITE';
+  content: 'GRAMMAR BITE';
   display: block;
-  background: var(--vp-c-brand-1);
-  color: #fff;
-  font-size: 0.68rem;
+  font-size: 0.65rem;
   font-weight: 800;
   letter-spacing: 0.12em;
-  padding: 8px 20px;
   text-transform: uppercase;
+  color: var(--g-grammar);
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--vp-c-divider);
 }
 
-.dark .grammar-box::before {
-  background: var(--vp-c-brand-2);
-}
-
-/* Inner content area */
-.grammar-box > *:not(:first-child),
-.grammar-box > h3,
-.grammar-box > h4,
-.grammar-box > p,
-.grammar-box > ul,
-.grammar-box > ol,
-.grammar-box > table,
-.grammar-box > blockquote {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.grammar-box > h3:first-of-type {
-  padding-top: 16px;
-}
-
-.grammar-box > *:last-child {
-  padding-bottom: 20px;
-}
-
-/* h3 inside grammar box — smaller, gold underline */
+/* h3 sub-sections inside the grammar box */
 .grammar-box h3 {
   font-size: 0.95rem !important;
   font-weight: 700 !important;
   color: var(--vp-c-text-1) !important;
-  border-bottom: 1px solid var(--vp-c-divider);
-  padding-bottom: 6px;
   margin-top: 18px !important;
-  margin-bottom: 10px !important;
+  margin-bottom: 8px !important;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .grammar-box h3::before {
@@ -450,38 +455,40 @@ body {
   height: 1em;
   background: var(--g-gold);
   border-radius: 2px;
-  margin-right: 8px;
-  vertical-align: -0.1em;
+  flex-shrink: 0;
 }
 
-/* bullet points inside grammar box */
+/* Body text inside grammar box */
 .grammar-box p {
-  font-size: 0.9rem;
-  line-height: 1.65;
+  font-size: 0.92rem;
+  line-height: 1.7;
   color: var(--vp-c-text-1);
-  margin: 0 0 6px;
+  margin: 0 0 8px;
 }
 
-/* ── Practice Box — redesigned ──────────────────────────── */
+/* ── Practice Box — matching left-stripe card ────────────── */
 .practice-box {
   background: var(--g-card-bg);
   border: 1px solid var(--g-card-border);
-  border-radius: 14px;
-  overflow: hidden;
+  border-left: 5px solid var(--g-practice);
+  border-radius: 12px;
+  padding: 20px 24px;
   margin: 1.8rem 0;
   box-shadow: var(--g-card-shadow);
+  position: relative;
 }
 
 .practice-box::before {
-  content: '✏️  PRACTICE';
+  content: 'PRACTICE';
   display: block;
-  background: var(--g-practice);
-  color: #fff;
-  font-size: 0.68rem;
+  font-size: 0.65rem;
   font-weight: 800;
   letter-spacing: 0.12em;
-  padding: 8px 20px;
   text-transform: uppercase;
+  color: var(--g-practice);
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--vp-c-divider);
 }
 
 /* ── Grammar Table ──────────────────────────────────────── */
