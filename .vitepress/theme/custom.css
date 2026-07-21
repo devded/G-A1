@@ -295,7 +295,6 @@ body {
 /* ── Timer Bar ──────────────────────────────────────────── */
 .day-timer-bar {
   display: flex;
-  gap: 8px;
   align-items: center;
   background: var(--g-card-bg);
   border: 1px solid var(--g-card-border);
@@ -304,33 +303,46 @@ body {
   margin: 1.5rem 0;
   box-shadow: var(--g-card-shadow);
   flex-wrap: wrap;
-  gap: 6px;
+  gap: 8px;
 }
 
 .timer-segment {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  font-size: 0.78rem;
+  gap: 6px;
+  font-size: 0.8rem;
   font-weight: 600;
-  padding: 4px 10px;
-  border-radius: 6px;
+  padding: 5px 12px;
+  border-radius: 8px;
   white-space: nowrap;
   background: var(--vp-c-bg-soft);
-  color: var(--vp-c-text-2);
-  border-left: 3px solid var(--vp-c-divider);
+  color: var(--vp-c-text-1);
+  border: 1px solid var(--vp-c-divider);
 }
 
-.timer-segment.vocab    { border-left-color: var(--g-vocab); }
-.timer-segment.grammar  { border-left-color: var(--g-grammar); }
-.timer-segment.practice { border-left-color: var(--g-practice); }
-.timer-segment.review   { border-left-color: var(--g-timer); }
+.timer-segment::before {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.timer-segment.vocab::before    { background: var(--g-vocab); }
+.timer-segment.grammar::before  { background: var(--g-grammar); }
+.timer-segment.practice::before { background: var(--g-practice); }
+.timer-segment.review::before   { background: var(--g-timer); }
+
 .timer-segment.total {
   margin-left: auto;
   font-weight: 700;
   color: var(--vp-c-text-1);
   background: var(--g-gold-soft);
-  border-left-color: var(--g-gold);
+  border-color: var(--g-gold);
+}
+.timer-segment.total::before {
+  background: var(--g-gold);
 }
 
 /* ── Vocabulary Cards ───────────────────────────────────── */
@@ -597,24 +609,26 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 16px;
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
+  padding: 12px 18px;
+  background: var(--g-card-bg);
+  border: 1px solid var(--g-card-border);
+  border-radius: 12px;
   margin: 1.5rem 0;
+  box-shadow: var(--g-card-shadow);
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px;
 }
 
 .day-nav a {
   font-size: 0.85rem;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--vp-c-brand-1) !important;
-  text-decoration: none;
-  padding: 5px 12px;
-  border-radius: 7px;
+  text-decoration: none !important;
+  padding: 6px 14px;
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
   border: 1px solid var(--vp-c-divider);
-  transition: all 0.18s;
+  transition: all 0.18s ease;
   white-space: nowrap;
 }
 
@@ -626,15 +640,15 @@ body {
 
 .day-nav .day-center {
   font-weight: 600;
-  font-size: 0.83rem;
-  color: var(--vp-c-text-2);
+  font-size: 0.88rem;
+  color: var(--vp-c-text-1);
   text-align: center;
   flex: 1;
 }
 
 .day-nav .day-meta {
   font-weight: 400;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
 }
 
 /* ── Mastery Checklist ──────────────────────────────────── */
