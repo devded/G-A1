@@ -100,14 +100,14 @@ To give instructions, advice, or commands in German, **put the verb in Position 
 
 <Icon name="arrow-right" /> **Verb (Infinitive) + Sie + ... !**
 
-- **Nehmen Sie** *zwei Tabletten täglich.* <SpeakButton text="Nehmen Sie zwei Tabletten täglich." />(Take two tablets daily.)
-- **Trinken Sie** *viel Wasser.* <SpeakButton text="Trinken Sie viel Wasser." />(Drink plenty of water.)
-- **Bleiben Sie** *drei Tage im Bett.* <SpeakButton text="Bleiben Sie drei Tage im Bett." />(Stay in bed for three days.)
-- **Gehen Sie** *zum Arzt.* <SpeakButton text="Gehen Sie zum Arzt." />(Go to the doctor.)
+• **Nehmen Sie** *zwei Tabletten täglich.* <SpeakButton text="Nehmen Sie zwei Tabletten täglich." />(Take two tablets daily.)
+• **Trinken Sie** *viel Wasser.* <SpeakButton text="Trinken Sie viel Wasser." />(Drink plenty of water.)
+• **Bleiben Sie** *drei Tage im Bett.* <SpeakButton text="Bleiben Sie drei Tage im Bett." />(Stay in bed for three days.)
+• **Gehen Sie** *zum Arzt.* <SpeakButton text="Gehen Sie zum Arzt." />(Go to the doctor.)
 
 ### Preposition **nach** (after) & **vor** (before) + Dative
-- **vor dem Essen** = before eating / before meals <SpeakButton text="vor dem Essen = before eating / before meals" />
-- **nach dem Essen** = after eating / after meals <SpeakButton text="nach dem Essen = after eating / after meals" />
+• **vor dem Essen** = before eating / before meals <SpeakButton text="vor dem Essen = before eating / before meals" />
+• **nach dem Essen** = after eating / after meals <SpeakButton text="nach dem Essen = after eating / after meals" />
 
 </div>
 
@@ -117,11 +117,11 @@ To give instructions, advice, or commands in German, **put the verb in Position 
 
 ### 3A — Complete the sentences
 
-**1.** ___ (Take) Sie zwei Tabletten täglich! → <details><summary>Answer</summary>**Nehmen** <SpeakButton text="Nehmen Sie zwei Tabletten täglich!" /></details>
-**2.** ___ (Drink) Sie viel warmen Tee! → <details><summary>Answer</summary>**Trinken** <SpeakButton text="Trinken Sie viel warmen Tee!" /></details>
-**3.** Nehmen Sie das Medikament ___ (after meals). → <details><summary>Answer</summary>**nach dem Essen** <SpeakButton text="Nehmen Sie das Medikament nach dem Essen." /></details>
-**4.** Gibt es ___ (side effects)? → <details><summary>Answer</summary>**Nebenwirkungen** <SpeakButton text="Gibt es Nebenwirkungen?" /></details>
-**5.** Ich bin ___ (allergic) gegen Nüsse. → <details><summary>Answer</summary>**allergisch** <SpeakButton text="Ich bin allergisch gegen Nüsse." /></details>
+**1.** ___ (Take) Sie zwei Tabletten täglich! → <details><summary>Answer</summary>**Nehmen** <SpeakButton text="Nehmen Sie zwei Tabletten täglich!" /><br/><span class="ans-meaning">"Translation: Nehmen Sie zwei Tabletten täglich!"</span></details>
+**2.** ___ (Drink) Sie viel warmen Tee! → <details><summary>Answer</summary>**Trinken** <SpeakButton text="Trinken Sie viel warmen Tee!" /><br/><span class="ans-meaning">"Translation: Trinken Sie viel warmen Tee!"</span></details>
+**3.** Nehmen Sie das Medikament ___ (after meals). → <details><summary>Answer</summary>**nach dem Essen** <SpeakButton text="Nehmen Sie das Medikament nach dem Essen." /><br/><span class="ans-meaning">"Translation: Nehmen Sie das Medikament nach dem Essen."</span></details>
+**4.** Gibt es ___ (side effects)? → <details><summary>Answer</summary>**Nebenwirkungen** <SpeakButton text="Gibt es Nebenwirkungen?" /><br/><span class="ans-meaning">"Translation: Gibt es Nebenwirkungen?"</span></details>
+**5.** Ich bin ___ (allergic) gegen Nüsse. → <details><summary>Answer</summary>**allergisch** <SpeakButton text="Ich bin allergisch gegen Nüsse." /><br/><span class="ans-meaning">"Translation: Ich bin allergisch gegen Nüsse."</span></details>
 
 ### 3B — Flash Cards
 

@@ -129,11 +129,11 @@ Viele Grüße / Mit freundlichen Grüßen,
 
 ### 3A — Complete the sentences
 
-**1.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Füllen Sie das Formular aus." /></details>
-**2.** Tragen Sie Ihr ___ (date of birth) ein. → <details><summary>Answer</summary>**Geburtsdatum** <SpeakButton text="Tragen Sie Ihr Geburtsdatum ein." /></details>
-**3.** Schreiben Sie eine kurze ___ (message). → <details><summary>Answer</summary>**Nachricht** <SpeakButton text="Schreiben Sie eine kurze Nachricht." /></details>
-**4.** ___ (Answer) Sie alle 3 Punkte. → <details><summary>Answer</summary>**Beantworten** <SpeakButton text="Beantworten Sie alle 3 Punkte." /></details>
-**5.** Der ___ (subject line) ist: Urlaubsanfrage. → <details><summary>Answer</summary>**Betreff** <SpeakButton text="Der Betreff ist: Urlaubsanfrage." /></details>
+**1.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Füllen Sie das Formular aus." /><br/><span class="ans-meaning">"Translation: Füllen Sie das Formular aus."</span></details>
+**2.** Tragen Sie Ihr ___ (date of birth) ein. → <details><summary>Answer</summary>**Geburtsdatum** <SpeakButton text="Tragen Sie Ihr Geburtsdatum ein." /><br/><span class="ans-meaning">"Translation: Tragen Sie Ihr Geburtsdatum ein."</span></details>
+**3.** Schreiben Sie eine kurze ___ (message). → <details><summary>Answer</summary>**Nachricht** <SpeakButton text="Schreiben Sie eine kurze Nachricht." /><br/><span class="ans-meaning">"Translation: Schreiben Sie eine kurze Nachricht."</span></details>
+**4.** ___ (Answer) Sie alle 3 Punkte. → <details><summary>Answer</summary>**Beantworten** <SpeakButton text="Beantworten Sie alle 3 Punkte." /><br/><span class="ans-meaning">"Translation: Beantworten Sie alle 3 Punkte."</span></details>
+**5.** Der ___ (subject line) ist: Urlaubsanfrage. → <details><summary>Answer</summary>**Betreff** <SpeakButton text="Der Betreff ist: Urlaubsanfrage." /><br/><span class="ans-meaning">"Translation: Der Betreff ist: Urlaubsanfrage."</span></details>
 
 ### 3B — Flash Cards
 

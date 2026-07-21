@@ -216,7 +216,11 @@ def render_day(d, week_num, max_days=84):
             else:
                 full_sent = f"{q_str} {ans_clean}".strip()
             full_sent_clean = re.sub(r'[*_`]', '', full_sent).strip()
-            lines.append(f'**{idx}.** {f["q"]} → <details><summary>Answer</summary>**{ans_clean}** <SpeakButton text="{full_sent_clean}" /></details>')
+            
+            en_trans = f.get("en", "").strip()
+            en_html = f'<br/><span class="ans-meaning">"{en_trans}"</span>' if en_trans else ''
+            
+            lines.append(f'**{idx}.** {f["q"]} → <details><summary>Answer</summary>**{ans_clean}** <SpeakButton text="{full_sent_clean}" />{en_html}</details>')
         lines.append('')
         
         lines.append('### 3B — Flash Cards\n')

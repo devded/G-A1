@@ -104,9 +104,9 @@
 > **Tom:** *Ja, perfekt! Bis Sonntag!* <SpeakButton text="Ja, perfekt! Bis Sonntag!" />
 
 ### Useful Outing Expressions
-- *Wollen wir zusammen... gehen?* <SpeakButton text="Wollen wir zusammen... gehen?" />(Shall we go together...?)
-- *Hast du Lust auf [Activity]?* <SpeakButton text="Hast du Lust auf [Activity]?" />(Do you feel like [Activity]?)
-- *Das klingt gut! / Das ist eine super Idee!* <SpeakButton text="Das klingt gut! / Das ist eine super Idee!" />(That sounds good / great idea!)
+• *Wollen wir zusammen... gehen?* <SpeakButton text="Wollen wir zusammen... gehen?" />(Shall we go together...?)
+• *Hast du Lust auf [Activity]?* <SpeakButton text="Hast du Lust auf [Activity]?" />(Do you feel like [Activity]?)
+• *Das klingt gut! / Das ist eine super Idee!* <SpeakButton text="Das klingt gut! / Das ist eine super Idee!" />(That sounds good / great idea!)
 
 </div>
 
@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist eine sehr gute ___ (idea). → <details><summary>Answer</summary>**Idee** <SpeakButton text="Das ist eine sehr gute Idee." /></details>
-**2.** Der Film ist wirklich ___ (exciting). → <details><summary>Answer</summary>**spannend** <SpeakButton text="Der Film ist wirklich spannend." /></details>
-**3.** Gehen wir ___ (together) ins Café? → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Gehen wir zusammen ins Café?" /></details>
-**4.** ___ (Maybe) habe ich am Freitag Zeit. → <details><summary>Answer</summary>**Vielleicht** <SpeakButton text="Vielleicht habe ich am Freitag Zeit." /></details>
-**5.** ___ (By the way), hast du schon Karten? → <details><summary>Answer</summary>**Übrigens** <SpeakButton text="Übrigens, hast du schon Karten?" /></details>
+**1.** Das ist eine sehr gute ___ (idea). → <details><summary>Answer</summary>**Idee** <SpeakButton text="Das ist eine sehr gute Idee." /><br/><span class="ans-meaning">"Translation: Das ist eine sehr gute Idee."</span></details>
+**2.** Der Film ist wirklich ___ (exciting). → <details><summary>Answer</summary>**spannend** <SpeakButton text="Der Film ist wirklich spannend." /><br/><span class="ans-meaning">"Translation: Der Film ist wirklich spannend."</span></details>
+**3.** Gehen wir ___ (together) ins Café? → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Gehen wir zusammen ins Café?" /><br/><span class="ans-meaning">"Translation: Gehen wir zusammen ins Café?"</span></details>
+**4.** ___ (Maybe) habe ich am Freitag Zeit. → <details><summary>Answer</summary>**Vielleicht** <SpeakButton text="Vielleicht habe ich am Freitag Zeit." /><br/><span class="ans-meaning">"Translation: Vielleicht habe ich am Freitag Zeit."</span></details>
+**5.** ___ (By the way), hast du schon Karten? → <details><summary>Answer</summary>**Übrigens** <SpeakButton text="Übrigens, hast du schon Karten?" /><br/><span class="ans-meaning">"Translation: Übrigens, hast du schon Karten?"</span></details>
 
 ### 3B — Flash Cards
 

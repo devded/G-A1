@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich bin ___ (only child). → <details><summary>Answer</summary>**Einzelkind** <SpeakButton text="Ich bin Einzelkind." /></details>
-**2.** Wir wohnen ___ (together) in München. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Wir wohnen zusammen in München." /></details>
-**3.** Ich habe zwei ___ (siblings). → <details><summary>Answer</summary>**Geschwister** <SpeakButton text="Ich habe zwei Geschwister." /></details>
-**4.** Mein Bruder ist ___ (already) 30 Jahre alt. → <details><summary>Answer</summary>**schon** <SpeakButton text="Mein Bruder ist schon 30 Jahre alt." /></details>
-**5.** Ich wohne ___ (still) bei den Eltern. → <details><summary>Answer</summary>**noch** <SpeakButton text="Ich wohne noch bei den Eltern." /></details>
+**1.** Ich bin ___ (only child). → <details><summary>Answer</summary>**Einzelkind** <SpeakButton text="Ich bin Einzelkind." /><br/><span class="ans-meaning">"I am an only child."</span></details>
+**2.** Wir wohnen ___ (together) in München. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Wir wohnen zusammen in München." /><br/><span class="ans-meaning">"We live together in Munich."</span></details>
+**3.** Ich habe zwei ___ (siblings). → <details><summary>Answer</summary>**Geschwister** <SpeakButton text="Ich habe zwei Geschwister." /><br/><span class="ans-meaning">"I have two siblings."</span></details>
+**4.** Mein Bruder ist ___ (already) 30 Jahre alt. → <details><summary>Answer</summary>**schon** <SpeakButton text="Mein Bruder ist schon 30 Jahre alt." /><br/><span class="ans-meaning">"My brother is already 30 years old."</span></details>
+**5.** Ich wohne ___ (still) bei den Eltern. → <details><summary>Answer</summary>**noch** <SpeakButton text="Ich wohne noch bei den Eltern." /><br/><span class="ans-meaning">"I still live with my parents."</span></details>
 
 ### 3B — Flash Cards
 

@@ -116,11 +116,11 @@ Dative is used for **location (Wo?)** and after direction prepositions like **zu
 
 ### 3A — Complete the sentences
 
-**1.** Wie komme ich ___ (to the, m) Bahnhof? → <details><summary>Answer</summary>**zum** <SpeakButton text="Wie komme ich zum Bahnhof?" /></details>
-**2.** Wie komme ich ___ (to the, f) Apotheke? → <details><summary>Answer</summary>**zur** <SpeakButton text="Wie komme ich zur Apotheke?" /></details>
-**3.** Ich bin ___ (at the, m) Arzt. → <details><summary>Answer</summary>**beim** <SpeakButton text="Ich bin beim Arzt." /></details>
-**4.** Er ist ___ (in the, n) Krankenhaus. → <details><summary>Answer</summary>**im** <SpeakButton text="Er ist im Krankenhaus." /></details>
-**5.** Die Post ist ___ (opposite) der Bank. → <details><summary>Answer</summary>**gegenüber von** <SpeakButton text="Die Post ist gegenüber von der Bank." /></details>
+**1.** Wie komme ich ___ (to the, m) Bahnhof? → <details><summary>Answer</summary>**zum** <SpeakButton text="Wie komme ich zum Bahnhof?" /><br/><span class="ans-meaning">"Translation: Wie komme ich zum Bahnhof?"</span></details>
+**2.** Wie komme ich ___ (to the, f) Apotheke? → <details><summary>Answer</summary>**zur** <SpeakButton text="Wie komme ich zur Apotheke?" /><br/><span class="ans-meaning">"Translation: Wie komme ich zur Apotheke?"</span></details>
+**3.** Ich bin ___ (at the, m) Arzt. → <details><summary>Answer</summary>**beim** <SpeakButton text="Ich bin beim Arzt." /><br/><span class="ans-meaning">"Translation: Ich bin beim Arzt."</span></details>
+**4.** Er ist ___ (in the, n) Krankenhaus. → <details><summary>Answer</summary>**im** <SpeakButton text="Er ist im Krankenhaus." /><br/><span class="ans-meaning">"Translation: Er ist im Krankenhaus."</span></details>
+**5.** Die Post ist ___ (opposite) der Bank. → <details><summary>Answer</summary>**gegenüber von** <SpeakButton text="Die Post ist gegenüber von der Bank." /><br/><span class="ans-meaning">"Translation: Die Post ist gegenüber von der Bank."</span></details>
 
 ### 3B — Flash Cards
 

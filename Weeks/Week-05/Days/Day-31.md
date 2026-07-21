@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** ___ (On) Montag gehe ich zum Arzt. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am Montag gehe ich zum Arzt." /></details>
-**2.** ___ (In) Juli haben wir Urlaub. → <details><summary>Answer</summary>**Im** <SpeakButton text="Im Juli haben wir Urlaub." /></details>
-**3.** Was machst du ___ (at the) Wochenende? → <details><summary>Answer</summary>**am** <SpeakButton text="Was machst du am Wochenende?" /></details>
-**4.** ___ (Today) ist ein schöner Tag. → <details><summary>Answer</summary>**Heute** <SpeakButton text="Heute ist ein schöner Tag." /></details>
-**5.** Der Kurs beginnt ___ (at) 9 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="Der Kurs beginnt um 9 Uhr." /></details>
+**1.** ___ (On) Montag gehe ich zum Arzt. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am Montag gehe ich zum Arzt." /><br/><span class="ans-meaning">"Translation: Am Montag gehe ich zum Arzt."</span></details>
+**2.** ___ (In) Juli haben wir Urlaub. → <details><summary>Answer</summary>**Im** <SpeakButton text="Im Juli haben wir Urlaub." /><br/><span class="ans-meaning">"Translation: Im Juli haben wir Urlaub."</span></details>
+**3.** Was machst du ___ (at the) Wochenende? → <details><summary>Answer</summary>**am** <SpeakButton text="Was machst du am Wochenende?" /><br/><span class="ans-meaning">"Translation: Was machst du am Wochenende?"</span></details>
+**4.** ___ (Today) ist ein schöner Tag. → <details><summary>Answer</summary>**Heute** <SpeakButton text="Heute ist ein schöner Tag." /><br/><span class="ans-meaning">"Translation: Heute ist ein schöner Tag."</span></details>
+**5.** Der Kurs beginnt ___ (at) 9 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="Der Kurs beginnt um 9 Uhr." /><br/><span class="ans-meaning">"Translation: Der Kurs beginnt um 9 Uhr."</span></details>
 
 ### 3B — Flash Cards
 

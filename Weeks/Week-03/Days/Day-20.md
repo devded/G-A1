@@ -113,11 +113,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Wie hoch ist die ___ (rent)? → <details><summary>Answer</summary>**Miete** <SpeakButton text="Wie hoch ist die Miete?" /></details>
-**2.** Die Wohnung hat 50 ___ (square metres). → <details><summary>Answer</summary>**Quadratmeter** <SpeakButton text="Die Wohnung hat 50 Quadratmeter." /></details>
-**3.** Ist die Wohnung ___ (furnished)? → <details><summary>Answer</summary>**möbliert** <SpeakButton text="Ist die Wohnung möbliert?" /></details>
-**4.** Gibt es einen ___ (lift)? → <details><summary>Answer</summary>**Aufzug** <SpeakButton text="Gibt es einen Aufzug?" /></details>
-**5.** Wann ist das Zimmer ___ (vacant)? → <details><summary>Answer</summary>**frei** <SpeakButton text="Wann ist das Zimmer frei?" /></details>
+**1.** Wie hoch ist die ___ (rent)? → <details><summary>Answer</summary>**Miete** <SpeakButton text="Wie hoch ist die Miete?" /><br/><span class="ans-meaning">"How high is the rent?"</span></details>
+**2.** Die Wohnung hat 50 ___ (square metres). → <details><summary>Answer</summary>**Quadratmeter** <SpeakButton text="Die Wohnung hat 50 Quadratmeter." /><br/><span class="ans-meaning">"The apartment has 50 square metres."</span></details>
+**3.** Ist die Wohnung ___ (furnished)? → <details><summary>Answer</summary>**möbliert** <SpeakButton text="Ist die Wohnung möbliert?" /><br/><span class="ans-meaning">"Is the apartment furnished?"</span></details>
+**4.** Gibt es einen ___ (lift)? → <details><summary>Answer</summary>**Aufzug** <SpeakButton text="Gibt es einen Aufzug?" /><br/><span class="ans-meaning">"Is there a lift?"</span></details>
+**5.** Wann ist das Zimmer ___ (vacant)? → <details><summary>Answer</summary>**frei** <SpeakButton text="Wann ist das Zimmer frei?" /><br/><span class="ans-meaning">"When is the room vacant?"</span></details>
 
 ### 3B — Flash Cards
 

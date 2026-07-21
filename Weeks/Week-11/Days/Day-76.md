@@ -102,12 +102,12 @@ In spoken German, past events are expressed using the **Perfekt** tense!
 **Subject + Auxiliary (haben/sein Pos 2) + ... + Partizip II (VERY END!)**
 
 ### 1. Auxiliary Selection: **haben** vs. **sein**
-- **90% of verbs use haben:** *Ich habe gearbeitet, gegessen, gemacht, gelesen.* <SpeakButton text="90% of verbs use haben: Ich habe gearbeitet, gegessen, gemacht, gelesen." />
-- **Verbs of movement/location change use sein:** *Ich bin gefahren, gegangen, gekommen.* <SpeakButton text="Verbs of movement/location change use sein: Ich bin gefahren, gegangen, gekommen." />
+• **90% of verbs use haben:** *Ich habe gearbeitet, gegessen, gemacht, gelesen.* <SpeakButton text="90% of verbs use haben: Ich habe gearbeitet, gegessen, gemacht, gelesen." />
+• **Verbs of movement/location change use sein:** *Ich bin gefahren, gegangen, gekommen.* <SpeakButton text="Verbs of movement/location change use sein: Ich bin gefahren, gegangen, gekommen." />
 
 ### 2. Partizip II Formation (Past Participle)
-- **Regular Verbs:** **ge- + stem + -t** (*machen → ge-mach-t*, *kaufen → *ge-kauf-t* <SpeakButton text="ge-kauf-t" />)
-- **Irregular Verbs:** **ge- + stem + -en** (*essen → ge-gess-en*, *sehen → *ge-seh-en* <SpeakButton text="ge-seh-en" />)
+• **Regular Verbs:** **ge- + stem + -t** (*machen → ge-mach-t*, *kaufen → *ge-kauf-t* <SpeakButton text="ge-kauf-t" />)
+• **Irregular Verbs:** **ge- + stem + -en** (*essen → ge-gess-en*, *sehen → *ge-seh-en* <SpeakButton text="ge-seh-en" />)
 
 | Person | Auxiliary (haben) | Rest | Partizip II (END) |
 |:---:|:---:|:---:|:---:|
@@ -123,11 +123,11 @@ In spoken German, past events are expressed using the **Perfekt** tense!
 
 ### 3A — Complete the sentences
 
-**1.** Ich habe gestern Hausaufgaben ___ (machen → Partizip II). → <details><summary>Answer</summary>**gemacht** <SpeakButton text="Ich habe gestern Hausaufgaben gemacht." /></details>
-**2.** Er hat eine Suppe ___ (essen → Partizip II). → <details><summary>Answer</summary>**gegessen** <SpeakButton text="Er hat eine Suppe gegessen." /></details>
-**3.** Sie hat ein neues Buch ___ (kaufen → Partizip II). → <details><summary>Answer</summary>**gekauft** <SpeakButton text="Sie hat ein neues Buch gekauft." /></details>
-**4.** Wir haben einen Film ___ (sehen → Partizip II). → <details><summary>Answer</summary>**gesehen** <SpeakButton text="Wir haben einen Film gesehen." /></details>
-**5.** Er ___ (sein) nach Deutschland gefahren. → <details><summary>Answer</summary>**ist** <SpeakButton text="Er ist nach Deutschland gefahren." /></details>
+**1.** Ich habe gestern Hausaufgaben ___ (machen → Partizip II). → <details><summary>Answer</summary>**gemacht** <SpeakButton text="Ich habe gestern Hausaufgaben gemacht." /><br/><span class="ans-meaning">"Translation: Ich habe gestern Hausaufgaben gemacht."</span></details>
+**2.** Er hat eine Suppe ___ (essen → Partizip II). → <details><summary>Answer</summary>**gegessen** <SpeakButton text="Er hat eine Suppe gegessen." /><br/><span class="ans-meaning">"Translation: Er hat eine Suppe gegessen."</span></details>
+**3.** Sie hat ein neues Buch ___ (kaufen → Partizip II). → <details><summary>Answer</summary>**gekauft** <SpeakButton text="Sie hat ein neues Buch gekauft." /><br/><span class="ans-meaning">"Translation: Sie hat ein neues Buch gekauft."</span></details>
+**4.** Wir haben einen Film ___ (sehen → Partizip II). → <details><summary>Answer</summary>**gesehen** <SpeakButton text="Wir haben einen Film gesehen." /><br/><span class="ans-meaning">"Translation: Wir haben einen Film gesehen."</span></details>
+**5.** Er ___ (sein) nach Deutschland gefahren. → <details><summary>Answer</summary>**ist** <SpeakButton text="Er ist nach Deutschland gefahren." /><br/><span class="ans-meaning">"Translation: Er ist nach Deutschland gefahren."</span></details>
 
 ### 3B — Flash Cards
 

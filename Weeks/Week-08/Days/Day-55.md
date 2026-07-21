@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Die Tomate ist ___ (red). → <details><summary>Answer</summary>**rot** <SpeakButton text="Die Tomate ist rot." /></details>
-**2.** Die Jeanshose ist ___ (blue). → <details><summary>Answer</summary>**blau** <SpeakButton text="Die Jeanshose ist blau." /></details>
-**3.** Das ___ (shirt) ist weiß. → <details><summary>Answer</summary>**Hemd** <SpeakButton text="Das Hemd ist weiß." /></details>
-**4.** Die ___ (trousers) ist grün. → <details><summary>Answer</summary>**Hose** <SpeakButton text="Die Hose ist grün." /></details>
-**5.** Meine ___ (shoes) sind schwarz. → <details><summary>Answer</summary>**Schuhe** <SpeakButton text="Meine Schuhe sind schwarz." /></details>
+**1.** Die Tomate ist ___ (red). → <details><summary>Answer</summary>**rot** <SpeakButton text="Die Tomate ist rot." /><br/><span class="ans-meaning">"Translation: Die Tomate ist rot."</span></details>
+**2.** Die Jeanshose ist ___ (blue). → <details><summary>Answer</summary>**blau** <SpeakButton text="Die Jeanshose ist blau." /><br/><span class="ans-meaning">"Translation: Die Jeanshose ist blau."</span></details>
+**3.** Das ___ (shirt) ist weiß. → <details><summary>Answer</summary>**Hemd** <SpeakButton text="Das Hemd ist weiß." /><br/><span class="ans-meaning">"Translation: Das Hemd ist weiß."</span></details>
+**4.** Die ___ (trousers) ist grün. → <details><summary>Answer</summary>**Hose** <SpeakButton text="Die Hose ist grün." /><br/><span class="ans-meaning">"Translation: Die Hose ist grün."</span></details>
+**5.** Meine ___ (shoes) sind schwarz. → <details><summary>Answer</summary>**Schuhe** <SpeakButton text="Meine Schuhe sind schwarz." /><br/><span class="ans-meaning">"Translation: Meine Schuhe sind schwarz."</span></details>
 
 ### 3B — Flash Cards
 

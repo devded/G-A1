@@ -115,11 +115,11 @@ The A1 Reading exam has **3 Parts (Teile)**:
 
 ### 3A — Complete the sentences
 
-**1.** ___ (Underline) Sie wichtige Wörter im Text. → <details><summary>Answer</summary>**Unterstreichen** <SpeakButton text="Unterstreichen Sie wichtige Wörter im Text." /></details>
-**2.** Lesen Sie zuerst die ___ (heading). → <details><summary>Answer</summary>**Überschrift** <SpeakButton text="Lesen Sie zuerst die Überschrift." /></details>
-**3.** Was ist der ___ (main idea) des Textes? → <details><summary>Answer</summary>**Hauptgedanke** <SpeakButton text="Was ist der Hauptgedanke des Textes?" /></details>
-**4.** Suchen Sie im Text nach ___ (details). → <details><summary>Answer</summary>**Details** <SpeakButton text="Suchen Sie im Text nach Details." /></details>
-**5.** Lesen Sie jeden ___ (sentence) aufmerksam. → <details><summary>Answer</summary>**Satz** <SpeakButton text="Lesen Sie jeden Satz aufmerksam." /></details>
+**1.** ___ (Underline) Sie wichtige Wörter im Text. → <details><summary>Answer</summary>**Unterstreichen** <SpeakButton text="Unterstreichen Sie wichtige Wörter im Text." /><br/><span class="ans-meaning">"Translation: Unterstreichen Sie wichtige Wörter im Text."</span></details>
+**2.** Lesen Sie zuerst die ___ (heading). → <details><summary>Answer</summary>**Überschrift** <SpeakButton text="Lesen Sie zuerst die Überschrift." /><br/><span class="ans-meaning">"Translation: Lesen Sie zuerst die Überschrift."</span></details>
+**3.** Was ist der ___ (main idea) des Textes? → <details><summary>Answer</summary>**Hauptgedanke** <SpeakButton text="Was ist der Hauptgedanke des Textes?" /><br/><span class="ans-meaning">"Translation: Was ist der Hauptgedanke des Textes?"</span></details>
+**4.** Suchen Sie im Text nach ___ (details). → <details><summary>Answer</summary>**Details** <SpeakButton text="Suchen Sie im Text nach Details." /><br/><span class="ans-meaning">"Translation: Suchen Sie im Text nach Details."</span></details>
+**5.** Lesen Sie jeden ___ (sentence) aufmerksam. → <details><summary>Answer</summary>**Satz** <SpeakButton text="Lesen Sie jeden Satz aufmerksam." /><br/><span class="ans-meaning">"Translation: Lesen Sie jeden Satz aufmerksam."</span></details>
 
 ### 3B — Flash Cards
 

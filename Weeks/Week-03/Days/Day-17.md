@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Singular: das Fenster → Plural: die ___. → <details><summary>Answer</summary>**Fenster** <SpeakButton text="Singular: das Fenster → Plural: die Fenster." /></details>
-**2.** Singular: der Tisch → Plural: die ___. → <details><summary>Answer</summary>**Tische** <SpeakButton text="Singular: der Tisch → Plural: die Tische." /></details>
-**3.** Singular: das Buch → Plural: die ___. → <details><summary>Answer</summary>**Bücher** <SpeakButton text="Singular: das Buch → Plural: die Bücher." /></details>
-**4.** Singular: die Tür → Plural: die ___. → <details><summary>Answer</summary>**Türen** <SpeakButton text="Singular: die Tür → Plural: die Türen." /></details>
-**5.** Singular: das Sofa → Plural: die ___. → <details><summary>Answer</summary>**Sofas** <SpeakButton text="Singular: das Sofa → Plural: die Sofas." /></details>
+**1.** Singular: das Fenster → Plural: die ___. → <details><summary>Answer</summary>**Fenster** <SpeakButton text="Singular: das Fenster → Plural: die Fenster." /><br/><span class="ans-meaning">"Singular: window → Plural: windows."</span></details>
+**2.** Singular: der Tisch → Plural: die ___. → <details><summary>Answer</summary>**Tische** <SpeakButton text="Singular: der Tisch → Plural: die Tische." /><br/><span class="ans-meaning">"Singular: table → Plural: tables."</span></details>
+**3.** Singular: das Buch → Plural: die ___. → <details><summary>Answer</summary>**Bücher** <SpeakButton text="Singular: das Buch → Plural: die Bücher." /><br/><span class="ans-meaning">"Singular: book → Plural: books."</span></details>
+**4.** Singular: die Tür → Plural: die ___. → <details><summary>Answer</summary>**Türen** <SpeakButton text="Singular: die Tür → Plural: die Türen." /><br/><span class="ans-meaning">"Singular: door → Plural: doors."</span></details>
+**5.** Singular: das Sofa → Plural: die ___. → <details><summary>Answer</summary>**Sofas** <SpeakButton text="Singular: das Sofa → Plural: die Sofas." /><br/><span class="ans-meaning">"Singular: sofa → Plural: sofas."</span></details>
 
 ### 3B — Flash Cards
 

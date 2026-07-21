@@ -120,11 +120,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Was ___ (do you recommend) Sie? → <details><summary>Answer</summary>**empfehlen** <SpeakButton text="Was empfehlen Sie?" /></details>
-**2.** Die Getränke kommen ___ (immediately). → <details><summary>Answer</summary>**sofort** <SpeakButton text="Die Getränke kommen sofort." /></details>
-**3.** Einen ___ (moment), bitte! → <details><summary>Answer</summary>**Moment** <SpeakButton text="Einen Moment, bitte!" /></details>
-**4.** Als ___ (dessert) nehme ich Kuchen. → <details><summary>Answer</summary>**Nachtisch** <SpeakButton text="Als Nachtisch nehme ich Kuchen." /></details>
-**5.** Möchten Sie den Wein ___ (try/taste)? → <details><summary>Answer</summary>**probieren** <SpeakButton text="Möchten Sie den Wein probieren?" /></details>
+**1.** Was ___ (do you recommend) Sie? → <details><summary>Answer</summary>**empfehlen** <SpeakButton text="Was empfehlen Sie?" /><br/><span class="ans-meaning">"Translation: Was empfehlen Sie?"</span></details>
+**2.** Die Getränke kommen ___ (immediately). → <details><summary>Answer</summary>**sofort** <SpeakButton text="Die Getränke kommen sofort." /><br/><span class="ans-meaning">"Translation: Die Getränke kommen sofort."</span></details>
+**3.** Einen ___ (moment), bitte! → <details><summary>Answer</summary>**Moment** <SpeakButton text="Einen Moment, bitte!" /><br/><span class="ans-meaning">"Translation: Einen Moment, bitte!"</span></details>
+**4.** Als ___ (dessert) nehme ich Kuchen. → <details><summary>Answer</summary>**Nachtisch** <SpeakButton text="Als Nachtisch nehme ich Kuchen." /><br/><span class="ans-meaning">"Translation: Als Nachtisch nehme ich Kuchen."</span></details>
+**5.** Möchten Sie den Wein ___ (try/taste)? → <details><summary>Answer</summary>**probieren** <SpeakButton text="Möchten Sie den Wein probieren?" /><br/><span class="ans-meaning">"Translation: Möchten Sie den Wein probieren?"</span></details>
 
 ### 3B — Flash Cards
 

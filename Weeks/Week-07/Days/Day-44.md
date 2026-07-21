@@ -120,11 +120,11 @@ Used in ordering and polite requests. Notice that **ich** and **er/sie/es** shar
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (would like) einen Kaffee, bitte. → <details><summary>Answer</summary>**möchte** <SpeakButton text="Ich möchte einen Kaffee, bitte." /></details>
-**2.** Was ___ (would like) du trinken? → <details><summary>Answer</summary>**möchtest** <SpeakButton text="Was möchtest du trinken?" /></details>
-**3.** Wir ___ (would like) bestellen. → <details><summary>Answer</summary>**möchten** <SpeakButton text="Wir möchten bestellen." /></details>
-**4.** Ich möchte einen Kaffee mit ___ (milk). → <details><summary>Answer</summary>**Milch** <SpeakButton text="Ich möchte einen Kaffee mit Milch." /></details>
-**5.** Kaffee: der → Ich möchte ___ (a, m) Kaffee. → <details><summary>Answer</summary>**einen** <SpeakButton text="Kaffee: der → Ich möchte einen Kaffee." /></details>
+**1.** Ich ___ (would like) einen Kaffee, bitte. → <details><summary>Answer</summary>**möchte** <SpeakButton text="Ich möchte einen Kaffee, bitte." /><br/><span class="ans-meaning">"Translation: Ich möchte einen Kaffee, bitte."</span></details>
+**2.** Was ___ (would like) du trinken? → <details><summary>Answer</summary>**möchtest** <SpeakButton text="Was möchtest du trinken?" /><br/><span class="ans-meaning">"Translation: Was möchtest du trinken?"</span></details>
+**3.** Wir ___ (would like) bestellen. → <details><summary>Answer</summary>**möchten** <SpeakButton text="Wir möchten bestellen." /><br/><span class="ans-meaning">"Translation: Wir möchten bestellen."</span></details>
+**4.** Ich möchte einen Kaffee mit ___ (milk). → <details><summary>Answer</summary>**Milch** <SpeakButton text="Ich möchte einen Kaffee mit Milch." /><br/><span class="ans-meaning">"Translation: Ich möchte einen Kaffee mit Milch."</span></details>
+**5.** Kaffee: der → Ich möchte ___ (a, m) Kaffee. → <details><summary>Answer</summary>**einen** <SpeakButton text="Kaffee: der → Ich möchte einen Kaffee." /><br/><span class="ans-meaning">"Translation: Kaffee: der → Ich möchte einen Kaffee."</span></details>
 
 ### 3B — Flash Cards
 

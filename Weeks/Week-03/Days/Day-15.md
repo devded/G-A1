@@ -117,11 +117,11 @@ In German, *es gibt* means both "there is" and "there are".
 
 ### 3A — Complete the sentences
 
-**1.** In der Wohnung gibt es ___ (a, m) Balkon. → <details><summary>Answer</summary>**einen** <SpeakButton text="In der Wohnung gibt es einen Balkon." /></details>
-**2.** Es gibt ___ (no, f) Küche. → <details><summary>Answer</summary>**keine** <SpeakButton text="Es gibt keine Küche." /></details>
-**3.** ___ (there is) ein großes Wohnzimmer. → <details><summary>Answer</summary>**Es gibt** <SpeakButton text="Es gibt ein großes Wohnzimmer." /></details>
-**4.** Gibt es ___ (a, n) Badezimmer? → <details><summary>Answer</summary>**ein** <SpeakButton text="Gibt es ein Badezimmer?" /></details>
-**5.** Es gibt ___ (no, m) Garten. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Es gibt keinen Garten." /></details>
+**1.** In der Wohnung gibt es ___ (a, m) Balkon. → <details><summary>Answer</summary>**einen** <SpeakButton text="In der Wohnung gibt es einen Balkon." /><br/><span class="ans-meaning">"There is a balcony in the apartment."</span></details>
+**2.** Es gibt ___ (no, f) Küche. → <details><summary>Answer</summary>**keine** <SpeakButton text="Es gibt keine Küche." /><br/><span class="ans-meaning">"There is no kitchen."</span></details>
+**3.** ___ (there is) ein großes Wohnzimmer. → <details><summary>Answer</summary>**Es gibt** <SpeakButton text="Es gibt ein großes Wohnzimmer." /><br/><span class="ans-meaning">"There is a large living room."</span></details>
+**4.** Gibt es ___ (a, n) Badezimmer? → <details><summary>Answer</summary>**ein** <SpeakButton text="Gibt es ein Badezimmer?" /><br/><span class="ans-meaning">"Is there a bathroom?"</span></details>
+**5.** Es gibt ___ (no, m) Garten. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Es gibt keinen Garten." /><br/><span class="ans-meaning">"There is no garden."</span></details>
 
 ### 3B — Flash Cards
 

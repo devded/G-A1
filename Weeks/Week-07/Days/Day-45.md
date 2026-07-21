@@ -119,11 +119,11 @@ The Accusative case receives the action of the verb (*kaufen, bestellen, brauche
 
 ### 3A — Complete the sentences
 
-**1.** der Apfel: Ich kaufe ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="der Apfel: Ich kaufe einen Apfel." /></details>
-**2.** der Fisch: Er isst ___ (no, m) Fisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="der Fisch: Er isst keinen Fisch." /></details>
-**3.** die Pizza: Wir bestellen ___ (a, f) Pizza. → <details><summary>Answer</summary>**eine** <SpeakButton text="die Pizza: Wir bestellen eine Pizza." /></details>
-**4.** das Brot: Sie braucht ___ (a, n) Brot. → <details><summary>Answer</summary>**ein** <SpeakButton text="das Brot: Sie braucht ein Brot." /></details>
-**5.** der Schlüssel: Ich suche ___ (my, m) Schlüssel. → <details><summary>Answer</summary>**meinen** <SpeakButton text="der Schlüssel: Ich suche meinen Schlüssel." /></details>
+**1.** der Apfel: Ich kaufe ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="der Apfel: Ich kaufe einen Apfel." /><br/><span class="ans-meaning">"Translation: der Apfel: Ich kaufe einen Apfel."</span></details>
+**2.** der Fisch: Er isst ___ (no, m) Fisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="der Fisch: Er isst keinen Fisch." /><br/><span class="ans-meaning">"Translation: der Fisch: Er isst keinen Fisch."</span></details>
+**3.** die Pizza: Wir bestellen ___ (a, f) Pizza. → <details><summary>Answer</summary>**eine** <SpeakButton text="die Pizza: Wir bestellen eine Pizza." /><br/><span class="ans-meaning">"Translation: die Pizza: Wir bestellen eine Pizza."</span></details>
+**4.** das Brot: Sie braucht ___ (a, n) Brot. → <details><summary>Answer</summary>**ein** <SpeakButton text="das Brot: Sie braucht ein Brot." /><br/><span class="ans-meaning">"Translation: das Brot: Sie braucht ein Brot."</span></details>
+**5.** der Schlüssel: Ich suche ___ (my, m) Schlüssel. → <details><summary>Answer</summary>**meinen** <SpeakButton text="der Schlüssel: Ich suche meinen Schlüssel." /><br/><span class="ans-meaning">"Translation: der Schlüssel: Ich suche meinen Schlüssel."</span></details>
 
 ### 3B — Flash Cards
 

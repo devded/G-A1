@@ -116,11 +116,11 @@ German loves sticking nouns together to create compound words!
 
 ### 3A — Complete the sentences
 
-**1.** das Büro + der Stuhl = ___ Bürostuhl. → <details><summary>Answer</summary>**der** <SpeakButton text="das Büro + der Stuhl = der Bürostuhl." /></details>
-**2.** das Handy + die Nummer = ___ Handynummer. → <details><summary>Answer</summary>**die** <SpeakButton text="das Handy + die Nummer = die Handynummer." /></details>
-**3.** Ich arbeite ___ (at) Computer. → <details><summary>Answer</summary>**am** <SpeakButton text="Ich arbeite am Computer." /></details>
-**4.** Ich schreibe eine ___ (email). → <details><summary>Answer</summary>**E-Mail** <SpeakButton text="Ich schreibe eine E-Mail." /></details>
-**5.** Er arbeitet bei einer großen ___ (company). → <details><summary>Answer</summary>**Firma** <SpeakButton text="Er arbeitet bei einer großen Firma." /></details>
+**1.** das Büro + der Stuhl = ___ Bürostuhl. → <details><summary>Answer</summary>**der** <SpeakButton text="das Büro + der Stuhl = der Bürostuhl." /><br/><span class="ans-meaning">"Translation: das Büro + der Stuhl = der Bürostuhl."</span></details>
+**2.** das Handy + die Nummer = ___ Handynummer. → <details><summary>Answer</summary>**die** <SpeakButton text="das Handy + die Nummer = die Handynummer." /><br/><span class="ans-meaning">"Translation: das Handy + die Nummer = die Handynummer."</span></details>
+**3.** Ich arbeite ___ (at) Computer. → <details><summary>Answer</summary>**am** <SpeakButton text="Ich arbeite am Computer." /><br/><span class="ans-meaning">"Translation: Ich arbeite am Computer."</span></details>
+**4.** Ich schreibe eine ___ (email). → <details><summary>Answer</summary>**E-Mail** <SpeakButton text="Ich schreibe eine E-Mail." /><br/><span class="ans-meaning">"Translation: Ich schreibe eine E-Mail."</span></details>
+**5.** Er arbeitet bei einer großen ___ (company). → <details><summary>Answer</summary>**Firma** <SpeakButton text="Er arbeitet bei einer großen Firma." /><br/><span class="ans-meaning">"Translation: Er arbeitet bei einer großen Firma."</span></details>
 
 ### 3B — Flash Cards
 

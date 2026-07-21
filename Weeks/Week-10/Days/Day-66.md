@@ -114,11 +114,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Im Wald stehen viele alte ___ (trees, pl). → <details><summary>Answer</summary>**Bäume** <SpeakButton text="Im Wald stehen viele alte Bäume." /></details>
-**2.** Ich habe einen ___ (dog) und eine Katze. → <details><summary>Answer</summary>**Hund** <SpeakButton text="Ich habe einen Hund und eine Katze." /></details>
-**3.** Die ___ (flowers, pl) sind sehr schön. → <details><summary>Answer</summary>**Blumen** <SpeakButton text="Die Blumen sind sehr schön." /></details>
-**4.** Er reitet gerne auf einem ___ (horse). → <details><summary>Answer</summary>**Pferd** <SpeakButton text="Er reitet gerne auf einem Pferd." /></details>
-**5.** Im Frühling singen die ___ (birds, pl). → <details><summary>Answer</summary>**Vögel** <SpeakButton text="Im Frühling singen die Vögel." /></details>
+**1.** Im Wald stehen viele alte ___ (trees, pl). → <details><summary>Answer</summary>**Bäume** <SpeakButton text="Im Wald stehen viele alte Bäume." /><br/><span class="ans-meaning">"Translation: Im Wald stehen viele alte Bäume."</span></details>
+**2.** Ich habe einen ___ (dog) und eine Katze. → <details><summary>Answer</summary>**Hund** <SpeakButton text="Ich habe einen Hund und eine Katze." /><br/><span class="ans-meaning">"Translation: Ich habe einen Hund und eine Katze."</span></details>
+**3.** Die ___ (flowers, pl) sind sehr schön. → <details><summary>Answer</summary>**Blumen** <SpeakButton text="Die Blumen sind sehr schön." /><br/><span class="ans-meaning">"Translation: Die Blumen sind sehr schön."</span></details>
+**4.** Er reitet gerne auf einem ___ (horse). → <details><summary>Answer</summary>**Pferd** <SpeakButton text="Er reitet gerne auf einem Pferd." /><br/><span class="ans-meaning">"Translation: Er reitet gerne auf einem Pferd."</span></details>
+**5.** Im Frühling singen die ___ (birds, pl). → <details><summary>Answer</summary>**Vögel** <SpeakButton text="Im Frühling singen die Vögel." /><br/><span class="ans-meaning">"Translation: Im Frühling singen die Vögel."</span></details>
 
 ### 3B — Flash Cards
 

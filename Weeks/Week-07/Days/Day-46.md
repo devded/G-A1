@@ -98,11 +98,11 @@
 
 In English, you say "a kilo **of** apples" or "a bottle **of** water". In German, **do NOT use 'von'**! Just put the quantity right before the item:
 
-- **ein Kilo Äpfel** = a kilo of apples <SpeakButton text="ein Kilo Äpfel = a kilo of apples" />
-- **eine Flasche Wasser** = a bottle of water <SpeakButton text="eine Flasche Wasser = a bottle of water" />
-- **ein Stück Kuchen** = a piece of cake <SpeakButton text="ein Stück Kuchen = a piece of cake" />
-- **eine Packung Reis** = a packet of rice <SpeakButton text="eine Packung Reis = a packet of rice" />
-- **ein Glas Saft** = a glass of juice <SpeakButton text="ein Glas Saft = a glass of juice" />
+• **ein Kilo Äpfel** = a kilo of apples <SpeakButton text="ein Kilo Äpfel = a kilo of apples" />
+• **eine Flasche Wasser** = a bottle of water <SpeakButton text="eine Flasche Wasser = a bottle of water" />
+• **ein Stück Kuchen** = a piece of cake <SpeakButton text="ein Stück Kuchen = a piece of cake" />
+• **eine Packung Reis** = a packet of rice <SpeakButton text="eine Packung Reis = a packet of rice" />
+• **ein Glas Saft** = a glass of juice <SpeakButton text="ein Glas Saft = a glass of juice" />
 
 > <Icon name="target" /> **Plural of Quantities:**  
 > • Units of measurement stay **singular** after numbers: *zwei Kilo Äpfel* (NOT *zwei Kilos*), *drei Glas Wasser*! <SpeakButton text="singular" />
@@ -115,11 +115,11 @@ In English, you say "a kilo **of** apples" or "a bottle **of** water". In German
 
 ### 3A — Complete the sentences
 
-**1.** Ein Kilo ___ (apples), bitte. → <details><summary>Answer</summary>**Äpfel** <SpeakButton text="Ein Kilo Äpfel, bitte." /></details>
-**2.** Eine ___ (bottle) Wasser, bitte. → <details><summary>Answer</summary>**Flasche** <SpeakButton text="Eine Flasche Wasser, bitte." /></details>
-**3.** Ein ___ (piece) Kuchen, bitte. → <details><summary>Answer</summary>**Stück** <SpeakButton text="Ein Stück Kuchen, bitte." /></details>
-**4.** Ich brauche zwei ___ (kilos) Kartoffeln. → <details><summary>Answer</summary>**Kilo** <SpeakButton text="Ich brauche zwei Kilo Kartoffeln." /></details>
-**5.** Ich esse ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="Ich esse einen Apfel." /></details>
+**1.** Ein Kilo ___ (apples), bitte. → <details><summary>Answer</summary>**Äpfel** <SpeakButton text="Ein Kilo Äpfel, bitte." /><br/><span class="ans-meaning">"Translation: Ein Kilo Äpfel, bitte."</span></details>
+**2.** Eine ___ (bottle) Wasser, bitte. → <details><summary>Answer</summary>**Flasche** <SpeakButton text="Eine Flasche Wasser, bitte." /><br/><span class="ans-meaning">"Translation: Eine Flasche Wasser, bitte."</span></details>
+**3.** Ein ___ (piece) Kuchen, bitte. → <details><summary>Answer</summary>**Stück** <SpeakButton text="Ein Stück Kuchen, bitte." /><br/><span class="ans-meaning">"Translation: Ein Stück Kuchen, bitte."</span></details>
+**4.** Ich brauche zwei ___ (kilos) Kartoffeln. → <details><summary>Answer</summary>**Kilo** <SpeakButton text="Ich brauche zwei Kilo Kartoffeln." /><br/><span class="ans-meaning">"Translation: Ich brauche zwei Kilo Kartoffeln."</span></details>
+**5.** Ich esse ___ (a, m) Apfel. → <details><summary>Answer</summary>**einen** <SpeakButton text="Ich esse einen Apfel." /><br/><span class="ans-meaning">"Translation: Ich esse einen Apfel."</span></details>
 
 ### 3B — Flash Cards
 

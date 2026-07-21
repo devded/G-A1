@@ -96,12 +96,12 @@
 
 ### Asking About City Places
 
-- **Wo ist [Definite Noun]?** <SpeakButton text="Wo ist [Definite Noun]?" />
+• **Wo ist [Definite Noun]?** <SpeakButton text="Wo ist [Definite Noun]?" />
 - *Wo ist **der** Bahnhof?* <SpeakButton text="Wo ist der Bahnhof?" />
 - *Wo ist **die** Apotheke?* <SpeakButton text="Wo ist die Apotheke?" />
 - *Wo ist **das** Rathaus?* <SpeakButton text="Wo ist das Rathaus?" />
 
-- **Gibt es hier [Accusative Noun]?** <SpeakButton text="Gibt es hier [Accusative Noun]?" />
+• **Gibt es hier [Accusative Noun]?** <SpeakButton text="Gibt es hier [Accusative Noun]?" />
 - *Gibt es hier **einen** Supermarkt?* (masculine → *einen)* <SpeakButton text="einen)" />
 - *Gibt es hier **eine** Bank?* (feminine → *eine)* <SpeakButton text="eine)" />
 - *Gibt es hier **ein** Krankenhaus?* (neuter → *ein)* <SpeakButton text="ein)" />
@@ -114,11 +114,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Gibt es hier ___ (a, m) Bahnhof? → <details><summary>Answer</summary>**einen** <SpeakButton text="Gibt es hier einen Bahnhof?" /></details>
-**2.** Gibt es hier ___ (a, f) Apotheke? → <details><summary>Answer</summary>**eine** <SpeakButton text="Gibt es hier eine Apotheke?" /></details>
-**3.** Wo ist ___ (the, n) Krankenhaus? → <details><summary>Answer</summary>**das** <SpeakButton text="Wo ist das Krankenhaus?" /></details>
-**4.** Er arbeitet auf der ___ (post office). → <details><summary>Answer</summary>**Post** <SpeakButton text="Er arbeitet auf der Post." /></details>
-**5.** Das ___ (town hall) ist im Zentrum. → <details><summary>Answer</summary>**Rathaus** <SpeakButton text="Das Rathaus ist im Zentrum." /></details>
+**1.** Gibt es hier ___ (a, m) Bahnhof? → <details><summary>Answer</summary>**einen** <SpeakButton text="Gibt es hier einen Bahnhof?" /><br/><span class="ans-meaning">"Translation: Gibt es hier einen Bahnhof?"</span></details>
+**2.** Gibt es hier ___ (a, f) Apotheke? → <details><summary>Answer</summary>**eine** <SpeakButton text="Gibt es hier eine Apotheke?" /><br/><span class="ans-meaning">"Translation: Gibt es hier eine Apotheke?"</span></details>
+**3.** Wo ist ___ (the, n) Krankenhaus? → <details><summary>Answer</summary>**das** <SpeakButton text="Wo ist das Krankenhaus?" /><br/><span class="ans-meaning">"Translation: Wo ist das Krankenhaus?"</span></details>
+**4.** Er arbeitet auf der ___ (post office). → <details><summary>Answer</summary>**Post** <SpeakButton text="Er arbeitet auf der Post." /><br/><span class="ans-meaning">"Translation: Er arbeitet auf der Post."</span></details>
+**5.** Das ___ (town hall) ist im Zentrum. → <details><summary>Answer</summary>**Rathaus** <SpeakButton text="Das Rathaus ist im Zentrum." /><br/><span class="ans-meaning">"Translation: Das Rathaus ist im Zentrum."</span></details>
 
 ### 3B — Flash Cards
 

@@ -102,11 +102,11 @@ You must formulate a **polite request / command** to your partner, and your part
 ### 3 Formulas for Sprechen Teil 3 Requests
 
 1. **Geben Sie mir bitte [Item + Accusative]!** <SpeakButton text="Geben Sie mir bitte [Item + Accusative]!" />
-- *Geben Sie mir bitte den Stift!* → *Ja, hier bitte!* <SpeakButton text="Ja, hier bitte!" />
+• *Geben Sie mir bitte den Stift!* → *Ja, hier bitte!* <SpeakButton text="Ja, hier bitte!" />
 2. **Haben Sie [Item + Accusative] für mich?** <SpeakButton text="Haben Sie [Item + Accusative] für mich?" />
-- *Haben Sie ein Glas Wasser für mich?* → *Ja, natürlich!* <SpeakButton text="Ja, natürlich!" />
+• *Haben Sie ein Glas Wasser für mich?* → *Ja, natürlich!* <SpeakButton text="Ja, natürlich!" />
 3. **Ich hätte gerne [Item + Accusative], bitte!** <SpeakButton text="Ich hätte gerne [Item + Accusative], bitte!" />
-- *Ich hätte gerne einen Apfel, bitte!* → *Bitteschön!* <SpeakButton text="Bitteschön!" />
+• *Ich hätte gerne einen Apfel, bitte!* → *Bitteschön!* <SpeakButton text="Bitteschön!" />
 
 > <Icon name="target" /> **Partner Reactions:**  
 > • *Ja, natürlich! / Ja, gerne! / Hier, bitte! / Tut mir leid, ich habe keinen Stift.* <SpeakButton text="Ja, natürlich! / Ja, gerne! / Hier, bitte! / Tut mir leid, ich habe keinen Stift." />
@@ -119,11 +119,11 @@ You must formulate a **polite request / command** to your partner, and your part
 
 ### 3A — Complete the sentences
 
-**1.** Ich hätte ___ (gladly) einen Tee, bitte. → <details><summary>Answer</summary>**gern** <SpeakButton text="Ich hätte gern einen Tee, bitte." /></details>
-**2.** Geben Sie ___ (me) bitte die Karte! → <details><summary>Answer</summary>**mir** <SpeakButton text="Geben Sie mir bitte die Karte!" /></details>
-**3.** ___ (Here you go), bitte sehr! → <details><summary>Answer</summary>**Hier** <SpeakButton text="Hier, bitte sehr!" /></details>
-**4.** Ja, ___ (of course), kein Problem! → <details><summary>Answer</summary>**natürlich** <SpeakButton text="Ja, natürlich, kein Problem!" /></details>
-**5.** Das ___ (topic) ist Reisen. → <details><summary>Answer</summary>**Thema** <SpeakButton text="Das Thema ist Reisen." /></details>
+**1.** Ich hätte ___ (gladly) einen Tee, bitte. → <details><summary>Answer</summary>**gern** <SpeakButton text="Ich hätte gern einen Tee, bitte." /><br/><span class="ans-meaning">"Translation: Ich hätte gern einen Tee, bitte."</span></details>
+**2.** Geben Sie ___ (me) bitte die Karte! → <details><summary>Answer</summary>**mir** <SpeakButton text="Geben Sie mir bitte die Karte!" /><br/><span class="ans-meaning">"Translation: Geben Sie mir bitte die Karte!"</span></details>
+**3.** ___ (Here you go), bitte sehr! → <details><summary>Answer</summary>**Hier** <SpeakButton text="Hier, bitte sehr!" /><br/><span class="ans-meaning">"Translation: Hier, bitte sehr!"</span></details>
+**4.** Ja, ___ (of course), kein Problem! → <details><summary>Answer</summary>**natürlich** <SpeakButton text="Ja, natürlich, kein Problem!" /><br/><span class="ans-meaning">"Translation: Ja, natürlich, kein Problem!"</span></details>
+**5.** Das ___ (topic) ist Reisen. → <details><summary>Answer</summary>**Thema** <SpeakButton text="Das Thema ist Reisen." /><br/><span class="ans-meaning">"Translation: Das Thema ist Reisen."</span></details>
 
 ### 3B — Flash Cards
 

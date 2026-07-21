@@ -115,11 +115,11 @@ The A1 Listening exam has **3 Parts (Teile)**:
 
 ### 3A — Complete the sentences
 
-**1.** Kreuzen Sie die richtige Antwort ___ (ankreuzen). → <details><summary>Answer</summary>**an** <SpeakButton text="Kreuzen Sie die richtige Antwort an." /></details>
-**2.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Füllen Sie das Formular aus." /></details>
-**3.** Achten Sie auf den ___ (clue/hint) im Text. → <details><summary>Answer</summary>**Hinweis** <SpeakButton text="Achten Sie auf den Hinweis im Text." /></details>
-**4.** Ist die Aussage richtig oder ___ (false)? → <details><summary>Answer</summary>**falsch** <SpeakButton text="Ist die Aussage richtig oder falsch?" /></details>
-**5.** Lesen Sie zuerst die ___ (task). → <details><summary>Answer</summary>**Aufgabe** <SpeakButton text="Lesen Sie zuerst die Aufgabe." /></details>
+**1.** Kreuzen Sie die richtige Antwort ___ (ankreuzen). → <details><summary>Answer</summary>**an** <SpeakButton text="Kreuzen Sie die richtige Antwort an." /><br/><span class="ans-meaning">"Translation: Kreuzen Sie die richtige Antwort an."</span></details>
+**2.** Füllen Sie das ___ (form) aus. → <details><summary>Answer</summary>**Formular** <SpeakButton text="Füllen Sie das Formular aus." /><br/><span class="ans-meaning">"Translation: Füllen Sie das Formular aus."</span></details>
+**3.** Achten Sie auf den ___ (clue/hint) im Text. → <details><summary>Answer</summary>**Hinweis** <SpeakButton text="Achten Sie auf den Hinweis im Text." /><br/><span class="ans-meaning">"Translation: Achten Sie auf den Hinweis im Text."</span></details>
+**4.** Ist die Aussage richtig oder ___ (false)? → <details><summary>Answer</summary>**falsch** <SpeakButton text="Ist die Aussage richtig oder falsch?" /><br/><span class="ans-meaning">"Translation: Ist die Aussage richtig oder falsch?"</span></details>
+**5.** Lesen Sie zuerst die ___ (task). → <details><summary>Answer</summary>**Aufgabe** <SpeakButton text="Lesen Sie zuerst die Aufgabe." /><br/><span class="ans-meaning">"Translation: Lesen Sie zuerst die Aufgabe."</span></details>
 
 ### 3B — Flash Cards
 

@@ -119,11 +119,11 @@ Remember: In all 6 modals, **ich** and **er/sie/es** have identical forms, and s
 
 ### 3A — Complete the sentences
 
-**1.** Der Arzt sagt, ich ___ (should) Sport machen. → <details><summary>Answer</summary>**soll** <SpeakButton text="Der Arzt sagt, ich soll Sport machen." /></details>
-**2.** Ich ___ (want to) nach Berlin fahren. → <details><summary>Answer</summary>**will** <SpeakButton text="Ich will nach Berlin fahren." /></details>
-**3.** Wir ___ (can manage) das zusammen! → <details><summary>Answer</summary>**schaffen** <SpeakButton text="Wir schaffen das zusammen!" /></details>
-**4.** Danke, das ist nicht ___ (necessary). → <details><summary>Answer</summary>**nötig** <SpeakButton text="Danke, das ist nicht nötig." /></details>
-**5.** Er ___ (mag) keinen Fisch. → <details><summary>Answer</summary>**mag** <SpeakButton text="Er mag keinen Fisch." /></details>
+**1.** Der Arzt sagt, ich ___ (should) Sport machen. → <details><summary>Answer</summary>**soll** <SpeakButton text="Der Arzt sagt, ich soll Sport machen." /><br/><span class="ans-meaning">"Translation: Der Arzt sagt, ich soll Sport machen."</span></details>
+**2.** Ich ___ (want to) nach Berlin fahren. → <details><summary>Answer</summary>**will** <SpeakButton text="Ich will nach Berlin fahren." /><br/><span class="ans-meaning">"Translation: Ich will nach Berlin fahren."</span></details>
+**3.** Wir ___ (can manage) das zusammen! → <details><summary>Answer</summary>**schaffen** <SpeakButton text="Wir schaffen das zusammen!" /><br/><span class="ans-meaning">"Translation: Wir schaffen das zusammen!"</span></details>
+**4.** Danke, das ist nicht ___ (necessary). → <details><summary>Answer</summary>**nötig** <SpeakButton text="Danke, das ist nicht nötig." /><br/><span class="ans-meaning">"Translation: Danke, das ist nicht nötig."</span></details>
+**5.** Er ___ (mag) keinen Fisch. → <details><summary>Answer</summary>**mag** <SpeakButton text="Er mag keinen Fisch." /><br/><span class="ans-meaning">"Translation: Er mag keinen Fisch."</span></details>
 
 ### 3B — Flash Cards
 

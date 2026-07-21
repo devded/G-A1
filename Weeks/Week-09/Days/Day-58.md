@@ -96,10 +96,10 @@
 
 ### Asking for Directions
 
-- **Entschuldigung, wie komme ich zum Bahnhof / zur Apotheke?** <SpeakButton text="Entschuldigung, wie komme ich zum Bahnhof / zur Apotheke?" />
+• **Entschuldigung, wie komme ich zum Bahnhof / zur Apotheke?** <SpeakButton text="Entschuldigung, wie komme ich zum Bahnhof / zur Apotheke?" />
   *(Excuse me, how do I get to the train station / pharmacy?)*  
-- **Wo ist der/die/das [Place], bitte?** <SpeakButton text="Wo ist der/die/das [Place], bitte?" />
-- **Wie weit ist es zu Fuß?** * <SpeakButton text="Wie weit ist es zu Fuß?" />(How far is it on foot?)*
+• **Wo ist der/die/das [Place], bitte?** <SpeakButton text="Wo ist der/die/das [Place], bitte?" />
+• **Wie weit ist es zu Fuß?** * <SpeakButton text="Wie weit ist es zu Fuß?" />(How far is it on foot?)*
 
 ### Giving Directions (Polite Formal: Sie)
 
@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Gehen Sie immer ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="Gehen Sie immer geradeaus." /></details>
-**2.** Biegen Sie an der Ampel ___ (left) ab. → <details><summary>Answer</summary>**links** <SpeakButton text="Biegen Sie an der Ampel links ab." /></details>
-**3.** Nehmen Sie die erste ___ (street) rechts. → <details><summary>Answer</summary>**Straße** <SpeakButton text="Nehmen Sie die erste Straße rechts." /></details>
-**4.** Das ist nur 10 Minuten ___ (on foot). → <details><summary>Answer</summary>**zu Fuß** <SpeakButton text="Das ist nur 10 Minuten zu Fuß." /></details>
-**5.** An der ___ (traffic lights) biegen Sie ab. → <details><summary>Answer</summary>**Ampel** <SpeakButton text="An der Ampel biegen Sie ab." /></details>
+**1.** Gehen Sie immer ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="Gehen Sie immer geradeaus." /><br/><span class="ans-meaning">"Translation: Gehen Sie immer geradeaus."</span></details>
+**2.** Biegen Sie an der Ampel ___ (left) ab. → <details><summary>Answer</summary>**links** <SpeakButton text="Biegen Sie an der Ampel links ab." /><br/><span class="ans-meaning">"Translation: Biegen Sie an der Ampel links ab."</span></details>
+**3.** Nehmen Sie die erste ___ (street) rechts. → <details><summary>Answer</summary>**Straße** <SpeakButton text="Nehmen Sie die erste Straße rechts." /><br/><span class="ans-meaning">"Translation: Nehmen Sie die erste Straße rechts."</span></details>
+**4.** Das ist nur 10 Minuten ___ (on foot). → <details><summary>Answer</summary>**zu Fuß** <SpeakButton text="Das ist nur 10 Minuten zu Fuß." /><br/><span class="ans-meaning">"Translation: Das ist nur 10 Minuten zu Fuß."</span></details>
+**5.** An der ___ (traffic lights) biegen Sie ab. → <details><summary>Answer</summary>**Ampel** <SpeakButton text="An der Ampel biegen Sie ab." /><br/><span class="ans-meaning">"Translation: An der Ampel biegen Sie ab."</span></details>
 
 ### 3B — Flash Cards
 

@@ -98,10 +98,10 @@
 
 When an adjective comes **after** the verb *sein* (is/are), it **does not take any ending**! It remains in its base dictionary form regardless of gender or number!
 
-- *Der Tisch ist* **groß**. <SpeakButton text="Der Tisch ist groß." />(masculine)
-- *Die Küche ist* **groß**. <SpeakButton text="Die Küche ist groß." />(feminine)
-- *Das Bett ist* **groß**. <SpeakButton text="Das Bett ist groß." />(neuter)
-- *Die Zimmer sind* **groß**. <SpeakButton text="Die Zimmer sind groß." />(plural)
+• *Der Tisch ist* **groß**. <SpeakButton text="Der Tisch ist groß." />(masculine)
+• *Die Küche ist* **groß**. <SpeakButton text="Die Küche ist groß." />(feminine)
+• *Das Bett ist* **groß**. <SpeakButton text="Das Bett ist groß." />(neuter)
+• *Die Zimmer sind* **groß**. <SpeakButton text="Die Zimmer sind groß." />(plural)
 
 > <Icon name="lightbulb" /> **Comparison Words:**   <SpeakButton text="lightbulb" />
 > • *sehr* = very (sehr groß)   <SpeakButton text="sehr" />
@@ -116,11 +116,11 @@ When an adjective comes **after** the verb *sein* (is/are), it **does not take a
 
 ### 3A — Complete the sentences
 
-**1.** Das Wohnzimmer ist sehr ___ (cosy). → <details><summary>Answer</summary>**gemütlich** <SpeakButton text="Das Wohnzimmer ist sehr gemütlich." /></details>
-**2.** Die Küche ist ___ (bright) und sauber. → <details><summary>Answer</summary>**hell** <SpeakButton text="Die Küche ist hell und sauber." /></details>
-**3.** Das Schlafzimmer ist zu ___ (dark). → <details><summary>Answer</summary>**dunkel** <SpeakButton text="Das Schlafzimmer ist zu dunkel." /></details>
-**4.** Mein Zimmer ist nicht groß, es ist ___ (small). → <details><summary>Answer</summary>**klein** <SpeakButton text="Mein Zimmer ist nicht groß, es ist klein." /></details>
-**5.** Ist die Wohnung ___ (modern)? → <details><summary>Answer</summary>**modern** <SpeakButton text="Ist die Wohnung modern?" /></details>
+**1.** Das Wohnzimmer ist sehr ___ (cosy). → <details><summary>Answer</summary>**gemütlich** <SpeakButton text="Das Wohnzimmer ist sehr gemütlich." /><br/><span class="ans-meaning">"The living room is very cosy."</span></details>
+**2.** Die Küche ist ___ (bright) und sauber. → <details><summary>Answer</summary>**hell** <SpeakButton text="Die Küche ist hell und sauber." /><br/><span class="ans-meaning">"The kitchen is bright and clean."</span></details>
+**3.** Das Schlafzimmer ist zu ___ (dark). → <details><summary>Answer</summary>**dunkel** <SpeakButton text="Das Schlafzimmer ist zu dunkel." /><br/><span class="ans-meaning">"The bedroom is too dark."</span></details>
+**4.** Mein Zimmer ist nicht groß, es ist ___ (small). → <details><summary>Answer</summary>**klein** <SpeakButton text="Mein Zimmer ist nicht groß, es ist klein." /><br/><span class="ans-meaning">"My room is not big, it is small."</span></details>
+**5.** Ist die Wohnung ___ (modern)? → <details><summary>Answer</summary>**modern** <SpeakButton text="Ist die Wohnung modern?" /><br/><span class="ans-meaning">"Is the apartment modern?"</span></details>
 
 ### 3B — Flash Cards
 

@@ -96,19 +96,19 @@
 
 ### At the Ticket Counter / Machine
 
-- **Eine Fahrkarte nach München, bitte.** <SpeakButton text="Eine Fahrkarte nach München, bitte." />
+• **Eine Fahrkarte nach München, bitte.** <SpeakButton text="Eine Fahrkarte nach München, bitte." />
   *(A train ticket to Munich, please.)*  
-- **Einfach oder hin und zurück?** <SpeakButton text="Einfach oder hin und zurück?" />
+• **Einfach oder hin und zurück?** <SpeakButton text="Einfach oder hin und zurück?" />
 - *Einfach, bitte.* <SpeakButton text="Einfach, bitte." />(One-way, please.)
 - *Hin und zurück, bitte.* <SpeakButton text="Hin und zurück, bitte." />(Return / round-trip, please.)
-- **Mit oder ohne Sitzplatzreservierung?** <SpeakButton text="Mit oder ohne Sitzplatzreservierung?" />
+• **Mit oder ohne Sitzplatzreservierung?** <SpeakButton text="Mit oder ohne Sitzplatzreservierung?" />
   *(With or without seat reservation?)*
 
 ### Railway Station Announcements & Signs
 
-- **Abfahrt:** 10:15 Uhr — **Gleis 3** <SpeakButton text="Abfahrt: 10:15 Uhr — Gleis 3" />
-- **Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung.** <SpeakButton text="Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung." />
-- **Bitte die Fahrkarten vor Fahrtantritt entwerten!** <SpeakButton text="Bitte die Fahrkarten vor Fahrtantritt entwerten!" />
+• **Abfahrt:** 10:15 Uhr — **Gleis 3** <SpeakButton text="Abfahrt: 10:15 Uhr — Gleis 3" />
+• **Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung.** <SpeakButton text="Der ICE nach Frankfurt hat ca. 15 Minuten Verspätung." />
+• **Bitte die Fahrkarten vor Fahrtantritt entwerten!** <SpeakButton text="Bitte die Fahrkarten vor Fahrtantritt entwerten!" />
 
 </div>
 
@@ -118,11 +118,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Eine Fahrkarte nach Berlin, ___ (one-way), bitte. → <details><summary>Answer</summary>**einfach** <SpeakButton text="Eine Fahrkarte nach Berlin, einfach, bitte." /></details>
-**2.** Ich möchte ein Ticket ___ (return). → <details><summary>Answer</summary>**hin und zurück** <SpeakButton text="Ich möchte ein Ticket hin und zurück." /></details>
-**3.** Der Zug fährt von ___ (platform) 7 ab. → <details><summary>Answer</summary>**Gleis** <SpeakButton text="Der Zug fährt von Gleis 7 ab." /></details>
-**4.** Der ICE hat 20 Minuten ___ (delay). → <details><summary>Answer</summary>**Verspätung** <SpeakButton text="Der ICE hat 20 Minuten Verspätung." /></details>
-**5.** Wann ist die ___ (departure)? → <details><summary>Answer</summary>**Abfahrt** <SpeakButton text="Wann ist die Abfahrt?" /></details>
+**1.** Eine Fahrkarte nach Berlin, ___ (one-way), bitte. → <details><summary>Answer</summary>**einfach** <SpeakButton text="Eine Fahrkarte nach Berlin, einfach, bitte." /><br/><span class="ans-meaning">"Translation: Eine Fahrkarte nach Berlin, einfach, bitte."</span></details>
+**2.** Ich möchte ein Ticket ___ (return). → <details><summary>Answer</summary>**hin und zurück** <SpeakButton text="Ich möchte ein Ticket hin und zurück." /><br/><span class="ans-meaning">"Translation: Ich möchte ein Ticket hin und zurück."</span></details>
+**3.** Der Zug fährt von ___ (platform) 7 ab. → <details><summary>Answer</summary>**Gleis** <SpeakButton text="Der Zug fährt von Gleis 7 ab." /><br/><span class="ans-meaning">"Translation: Der Zug fährt von Gleis 7 ab."</span></details>
+**4.** Der ICE hat 20 Minuten ___ (delay). → <details><summary>Answer</summary>**Verspätung** <SpeakButton text="Der ICE hat 20 Minuten Verspätung." /><br/><span class="ans-meaning">"Translation: Der ICE hat 20 Minuten Verspätung."</span></details>
+**5.** Wann ist die ___ (departure)? → <details><summary>Answer</summary>**Abfahrt** <SpeakButton text="Wann ist die Abfahrt?" /><br/><span class="ans-meaning">"Translation: Wann ist die Abfahrt?"</span></details>
 
 ### 3B — Flash Cards
 

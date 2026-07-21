@@ -111,8 +111,8 @@ Notice the vowel change **ö → a** in singular forms!
 
 The modal verb goes in **Position 2**, and the main verb goes to the **VERY END in infinitive**!
 
-- *Wir* **können** *uns am Samstag im Café* **treffen**. <SpeakButton text="Wir können uns am Samstag im Café treffen." />
-- **Kannst** *du morgen um 15 Uhr kommen?* <SpeakButton text="Kannst du morgen um 15 Uhr kommen?" />
+• *Wir* **können** *uns am Samstag im Café* **treffen**. <SpeakButton text="Wir können uns am Samstag im Café treffen." />
+• **Kannst** *du morgen um 15 Uhr kommen?* <SpeakButton text="Kannst du morgen um 15 Uhr kommen?" />
 
 </div>
 
@@ -122,11 +122,11 @@ The modal verb goes in **Position 2**, and the main verb goes to the **VERY END 
 
 ### 3A — Complete the sentences
 
-**1.** ___ (Canst) du am Freitag? → <details><summary>Answer</summary>**Kannst** <SpeakButton text="Kannst du am Freitag?" /></details>
-**2.** Wir können uns im Park ___ (to meet). → <details><summary>Answer</summary>**treffen** <SpeakButton text="Wir können uns im Park treffen." /></details>
-**3.** ___ (Does it suit) es dir um 18 Uhr? → <details><summary>Answer</summary>**Passt** <SpeakButton text="Passt es dir um 18 Uhr?" /></details>
-**4.** Ich ___ (can) morgen leider nicht. → <details><summary>Answer</summary>**kann** <SpeakButton text="Ich kann morgen leider nicht." /></details>
-**5.** Ja, super! Ich bin ___ (agreed). → <details><summary>Answer</summary>**einverstanden** <SpeakButton text="Ja, super! Ich bin einverstanden." /></details>
+**1.** ___ (Canst) du am Freitag? → <details><summary>Answer</summary>**Kannst** <SpeakButton text="Kannst du am Freitag?" /><br/><span class="ans-meaning">"Translation: Kannst du am Freitag?"</span></details>
+**2.** Wir können uns im Park ___ (to meet). → <details><summary>Answer</summary>**treffen** <SpeakButton text="Wir können uns im Park treffen." /><br/><span class="ans-meaning">"Translation: Wir können uns im Park treffen."</span></details>
+**3.** ___ (Does it suit) es dir um 18 Uhr? → <details><summary>Answer</summary>**Passt** <SpeakButton text="Passt es dir um 18 Uhr?" /><br/><span class="ans-meaning">"Translation: Passt es dir um 18 Uhr?"</span></details>
+**4.** Ich ___ (can) morgen leider nicht. → <details><summary>Answer</summary>**kann** <SpeakButton text="Ich kann morgen leider nicht." /><br/><span class="ans-meaning">"Translation: Ich kann morgen leider nicht."</span></details>
+**5.** Ja, super! Ich bin ___ (agreed). → <details><summary>Answer</summary>**einverstanden** <SpeakButton text="Ja, super! Ich bin einverstanden." /><br/><span class="ans-meaning">"Translation: Ja, super! Ich bin einverstanden."</span></details>
 
 ### 3B — Flash Cards
 

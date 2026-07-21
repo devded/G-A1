@@ -95,9 +95,9 @@
 ### Days of the Week & Preposition am
 
 ### The 7 Days of the Week (All Masculine: der)
-- **der Montag, der Dienstag, der Mittwoch** <SpeakButton text="der Montag, der Dienstag, der Mittwoch" />
-- **der Donnerstag, der Freitag** <SpeakButton text="der Donnerstag, der Freitag" />
-- **der Samstag, der Sonntag** <SpeakButton text="der Samstag, der Sonntag" />
+• **der Montag, der Dienstag, der Mittwoch** <SpeakButton text="der Montag, der Dienstag, der Mittwoch" />
+• **der Donnerstag, der Freitag** <SpeakButton text="der Donnerstag, der Freitag" />
+• **der Samstag, der Sonntag** <SpeakButton text="der Samstag, der Sonntag" />
 
 > <Icon name="target" /> **Preposition Rule for Days:**  
 > Always use **am** (on) before days of the week:  
@@ -112,11 +112,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** ___ (On) Montag habe ich Deutschunterricht. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am Montag habe ich Deutschunterricht." /></details>
-**2.** Heute ist ___ (Monday). → <details><summary>Answer</summary>**Montag** <SpeakButton text="Heute ist Montag." /></details>
-**3.** Der Himmel ist ___ (blue). → <details><summary>Answer</summary>**blau** <SpeakButton text="Der Himmel ist blau." /></details>
-**4.** Das Auto ist ___ (red). → <details><summary>Answer</summary>**rot** <SpeakButton text="Das Auto ist rot." /></details>
-**5.** Freitag ist mein ___ (favorite day). → <details><summary>Answer</summary>**Lieblingstag** <SpeakButton text="Freitag ist mein Lieblingstag." /></details>
+**1.** ___ (On) Montag habe ich Deutschunterricht. → <details><summary>Answer</summary>**Am** <SpeakButton text="Am Montag habe ich Deutschunterricht." /><br/><span class="ans-meaning">"On Monday I have German class."</span></details>
+**2.** Heute ist ___ (Monday). → <details><summary>Answer</summary>**Montag** <SpeakButton text="Heute ist Montag." /><br/><span class="ans-meaning">"Today is Monday."</span></details>
+**3.** Der Himmel ist ___ (blue). → <details><summary>Answer</summary>**blau** <SpeakButton text="Der Himmel ist blau." /><br/><span class="ans-meaning">"The sky is blue."</span></details>
+**4.** Das Auto ist ___ (red). → <details><summary>Answer</summary>**rot** <SpeakButton text="Das Auto ist rot." /><br/><span class="ans-meaning">"The car is red."</span></details>
+**5.** Freitag ist mein ___ (favorite day). → <details><summary>Answer</summary>**Lieblingstag** <SpeakButton text="Freitag ist mein Lieblingstag." /><br/><span class="ans-meaning">"Friday is my favorite day."</span></details>
 
 ### 3B — Flash Cards
 

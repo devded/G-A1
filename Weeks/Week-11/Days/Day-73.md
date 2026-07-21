@@ -105,7 +105,7 @@
 > **Patient:** *Vielen Dank, Herr Doktor!* <SpeakButton text="Vielen Dank, Herr Doktor!" />
 
 ### Asking & Answering Duration
-- **Seit wann?** → *Seit gestern* <SpeakButton text="Seit gestern" /> (Since yesterday) / *Seit zwei Tagen* (For 2 days).
+• **Seit wann?** → *Seit gestern* <SpeakButton text="Seit gestern" /> (Since yesterday) / *Seit zwei Tagen* (For 2 days).
 
 </div>
 
@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Was fehlt ___ (you, formal)? → <details><summary>Answer</summary>**Ihnen** <SpeakButton text="Was fehlt Ihnen?" /></details>
-**2.** ___ (Since when) haben Sie die Schmerzen? → <details><summary>Answer</summary>**Seit wann** <SpeakButton text="Seit wann haben Sie die Schmerzen?" /></details>
-**3.** Ich habe die Schmerzen ___ (since yesterday). → <details><summary>Answer</summary>**seit gestern** <SpeakButton text="Ich habe die Schmerzen seit gestern." /></details>
-**4.** Der Arzt schreibt ein ___ (prescription). → <details><summary>Answer</summary>**Rezept** <SpeakButton text="Der Arzt schreibt ein Rezept." /></details>
-**5.** Ich brauche dringend einen ___ (appointment). → <details><summary>Answer</summary>**Termin** <SpeakButton text="Ich brauche dringend einen Termin." /></details>
+**1.** Was fehlt ___ (you, formal)? → <details><summary>Answer</summary>**Ihnen** <SpeakButton text="Was fehlt Ihnen?" /><br/><span class="ans-meaning">"Translation: Was fehlt Ihnen?"</span></details>
+**2.** ___ (Since when) haben Sie die Schmerzen? → <details><summary>Answer</summary>**Seit wann** <SpeakButton text="Seit wann haben Sie die Schmerzen?" /><br/><span class="ans-meaning">"Translation: Seit wann haben Sie die Schmerzen?"</span></details>
+**3.** Ich habe die Schmerzen ___ (since yesterday). → <details><summary>Answer</summary>**seit gestern** <SpeakButton text="Ich habe die Schmerzen seit gestern." /><br/><span class="ans-meaning">"Translation: Ich habe die Schmerzen seit gestern."</span></details>
+**4.** Der Arzt schreibt ein ___ (prescription). → <details><summary>Answer</summary>**Rezept** <SpeakButton text="Der Arzt schreibt ein Rezept." /><br/><span class="ans-meaning">"Translation: Der Arzt schreibt ein Rezept."</span></details>
+**5.** Ich brauche dringend einen ___ (appointment). → <details><summary>Answer</summary>**Termin** <SpeakButton text="Ich brauche dringend einen Termin." /><br/><span class="ans-meaning">"Translation: Ich brauche dringend einen Termin."</span></details>
 
 ### 3B — Flash Cards
 

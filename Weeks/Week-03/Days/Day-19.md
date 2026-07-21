@@ -106,10 +106,10 @@
 
 ### Fixed Preposition Phrases (Location)
 
-- **auf dem Tisch** = on the table <SpeakButton text="auf dem Tisch = on the table" />
-- **im Regal** <SpeakButton text="im Regal" />(in dem) = on / in the shelf
-- **an der Wand** = on the wall <SpeakButton text="an der Wand = on the wall" />
-- **neben dem Bett** = next to the bed <SpeakButton text="neben dem Bett = next to the bed" />
+• **auf dem Tisch** = on the table <SpeakButton text="auf dem Tisch = on the table" />
+• **im Regal** <SpeakButton text="im Regal" />(in dem) = on / in the shelf
+• **an der Wand** = on the wall <SpeakButton text="an der Wand = on the wall" />
+• **neben dem Bett** = next to the bed <SpeakButton text="neben dem Bett = next to the bed" />
 
 </div>
 
@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das Badezimmer ist ___ (on the left). → <details><summary>Answer</summary>**links** <SpeakButton text="Das Badezimmer ist links." /></details>
-**2.** Die Küche ist ___ (on the right). → <details><summary>Answer</summary>**rechts** <SpeakButton text="Die Küche ist rechts." /></details>
-**3.** Das Schlafzimmer ist ___ (upstairs). → <details><summary>Answer</summary>**oben** <SpeakButton text="Das Schlafzimmer ist oben." /></details>
-**4.** Der Tisch steht ___ (next to) dem Bett. → <details><summary>Answer</summary>**neben** <SpeakButton text="Der Tisch steht neben dem Bett." /></details>
-**5.** Gehen Sie ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="Gehen Sie geradeaus." /></details>
+**1.** Das Badezimmer ist ___ (on the left). → <details><summary>Answer</summary>**links** <SpeakButton text="Das Badezimmer ist links." /><br/><span class="ans-meaning">"The bathroom is on the left."</span></details>
+**2.** Die Küche ist ___ (on the right). → <details><summary>Answer</summary>**rechts** <SpeakButton text="Die Küche ist rechts." /><br/><span class="ans-meaning">"The kitchen is on the right."</span></details>
+**3.** Das Schlafzimmer ist ___ (upstairs). → <details><summary>Answer</summary>**oben** <SpeakButton text="Das Schlafzimmer ist oben." /><br/><span class="ans-meaning">"The bedroom is upstairs."</span></details>
+**4.** Der Tisch steht ___ (next to) dem Bett. → <details><summary>Answer</summary>**neben** <SpeakButton text="Der Tisch steht neben dem Bett." /><br/><span class="ans-meaning">"The table stands next to the bed."</span></details>
+**5.** Gehen Sie ___ (straight ahead). → <details><summary>Answer</summary>**geradeaus** <SpeakButton text="Gehen Sie geradeaus." /><br/><span class="ans-meaning">"Go straight ahead."</span></details>
 
 ### 3B — Flash Cards
 

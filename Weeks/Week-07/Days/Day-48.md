@@ -106,9 +106,9 @@
 > **Kassiererin:** *Danke, gleichfalls! Tschüss!* <SpeakButton text="Danke, gleichfalls! Tschüss!" />
 
 ### Useful Shopping Phrases
-- **Kann ich mit Karte zahlen?** <SpeakButton text="Kann ich mit Karte zahlen?" />(Can I pay by card?)
-- **Brauchen Sie eine Tüte?** <SpeakButton text="Brauchen Sie eine Tüte?" />(Do you need a bag?)
-- **Brauchen Sie den Kassenbon / die Quittung?** <SpeakButton text="Brauchen Sie den Kassenbon / die Quittung?" />(Do you need the receipt?)
+• **Kann ich mit Karte zahlen?** <SpeakButton text="Kann ich mit Karte zahlen?" />(Can I pay by card?)
+• **Brauchen Sie eine Tüte?** <SpeakButton text="Brauchen Sie eine Tüte?" />(Do you need a bag?)
+• **Brauchen Sie den Kassenbon / die Quittung?** <SpeakButton text="Brauchen Sie den Kassenbon / die Quittung?" />(Do you need the receipt?)
 
 </div>
 
@@ -118,11 +118,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Brauchen Sie eine ___ (bag)? → <details><summary>Answer</summary>**Tüte** <SpeakButton text="Brauchen Sie eine Tüte?" /></details>
-**2.** Kann ich mit ___ (card) zahlen? → <details><summary>Answer</summary>**Karte** <SpeakButton text="Kann ich mit Karte zahlen?" /></details>
-**3.** Das macht ___ (together) 12 Euro 50. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Das macht zusammen 12 Euro 50." /></details>
-**4.** Ich habe meine ___ (shopping list) dabei. → <details><summary>Answer</summary>**Einkaufsliste** <SpeakButton text="Ich habe meine Einkaufsliste dabei." /></details>
-**5.** Wo ist der ___ (bottle deposit) Automat? → <details><summary>Answer</summary>**Pfand** <SpeakButton text="Wo ist der Pfand Automat?" /></details>
+**1.** Brauchen Sie eine ___ (bag)? → <details><summary>Answer</summary>**Tüte** <SpeakButton text="Brauchen Sie eine Tüte?" /><br/><span class="ans-meaning">"Translation: Brauchen Sie eine Tüte?"</span></details>
+**2.** Kann ich mit ___ (card) zahlen? → <details><summary>Answer</summary>**Karte** <SpeakButton text="Kann ich mit Karte zahlen?" /><br/><span class="ans-meaning">"Translation: Kann ich mit Karte zahlen?"</span></details>
+**3.** Das macht ___ (together) 12 Euro 50. → <details><summary>Answer</summary>**zusammen** <SpeakButton text="Das macht zusammen 12 Euro 50." /><br/><span class="ans-meaning">"Translation: Das macht zusammen 12 Euro 50."</span></details>
+**4.** Ich habe meine ___ (shopping list) dabei. → <details><summary>Answer</summary>**Einkaufsliste** <SpeakButton text="Ich habe meine Einkaufsliste dabei." /><br/><span class="ans-meaning">"Translation: Ich habe meine Einkaufsliste dabei."</span></details>
+**5.** Wo ist der ___ (bottle deposit) Automat? → <details><summary>Answer</summary>**Pfand** <SpeakButton text="Wo ist der Pfand Automat?" /><br/><span class="ans-meaning">"Translation: Wo ist der Pfand Automat?"</span></details>
 
 ### 3B — Flash Cards
 

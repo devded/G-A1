@@ -117,11 +117,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist Thomas und ___ (his) Frau. → <details><summary>Answer</summary>**seine** <SpeakButton text="Das ist Thomas und seine Frau." /></details>
-**2.** Das ist Maria und ___ (her) Sohn. → <details><summary>Answer</summary>**ihr** <SpeakButton text="Das ist Maria und ihr Sohn." /></details>
-**3.** Wir lieben ___ (our) Familie. → <details><summary>Answer</summary>**unsere** <SpeakButton text="Wir lieben unsere Familie." /></details>
-**4.** Herr Müller, wie heißt ___ (your, formal) Frau? → <details><summary>Answer</summary>**Ihre** <SpeakButton text="Herr Müller, wie heißt Ihre Frau?" /></details>
-**5.** Er ist ___ (single) und 25 Jahre alt. → <details><summary>Answer</summary>**ledig** <SpeakButton text="Er ist ledig und 25 Jahre alt." /></details>
+**1.** Das ist Thomas und ___ (his) Frau. → <details><summary>Answer</summary>**seine** <SpeakButton text="Das ist Thomas und seine Frau." /><br/><span class="ans-meaning">"That is Thomas and his wife."</span></details>
+**2.** Das ist Maria und ___ (her) Sohn. → <details><summary>Answer</summary>**ihr** <SpeakButton text="Das ist Maria und ihr Sohn." /><br/><span class="ans-meaning">"That is Maria and her son."</span></details>
+**3.** Wir lieben ___ (our) Familie. → <details><summary>Answer</summary>**unsere** <SpeakButton text="Wir lieben unsere Familie." /><br/><span class="ans-meaning">"We love our family."</span></details>
+**4.** Herr Müller, wie heißt ___ (your, formal) Frau? → <details><summary>Answer</summary>**Ihre** <SpeakButton text="Herr Müller, wie heißt Ihre Frau?" /><br/><span class="ans-meaning">"Mr Müller, what is your wife's name?"</span></details>
+**5.** Er ist ___ (single) und 25 Jahre alt. → <details><summary>Answer</summary>**ledig** <SpeakButton text="Er ist ledig und 25 Jahre alt." /><br/><span class="ans-meaning">"He is single and 25 years old."</span></details>
 
 ### 3B — Flash Cards
 

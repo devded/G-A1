@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Bitte stellen Sie sich ___ (sich vorstellen). → <details><summary>Answer</summary>**vor** <SpeakButton text="Bitte stellen Sie sich vor." /></details>
-**2.** Stellen Sie eine ___ (question). → <details><summary>Answer</summary>**Frage** <SpeakButton text="Stellen Sie eine Frage." /></details>
-**3.** Sie sind an der ___ (turn). → <details><summary>Answer</summary>**Reihe** <SpeakButton text="Sie sind an der Reihe." /></details>
-**4.** Können Sie das bitte ___ (repeat)? → <details><summary>Answer</summary>**wiederholen** <SpeakButton text="Können Sie das bitte wiederholen?" /></details>
-**5.** ___ (Pardon)? Ich habe das nicht gehört. → <details><summary>Answer</summary>**Wie bitte** <SpeakButton text="Wie bitte? Ich habe das nicht gehört." /></details>
+**1.** Bitte stellen Sie sich ___ (sich vorstellen). → <details><summary>Answer</summary>**vor** <SpeakButton text="Bitte stellen Sie sich vor." /><br/><span class="ans-meaning">"Translation: Bitte stellen Sie sich vor."</span></details>
+**2.** Stellen Sie eine ___ (question). → <details><summary>Answer</summary>**Frage** <SpeakButton text="Stellen Sie eine Frage." /><br/><span class="ans-meaning">"Translation: Stellen Sie eine Frage."</span></details>
+**3.** Sie sind an der ___ (turn). → <details><summary>Answer</summary>**Reihe** <SpeakButton text="Sie sind an der Reihe." /><br/><span class="ans-meaning">"Translation: Sie sind an der Reihe."</span></details>
+**4.** Können Sie das bitte ___ (repeat)? → <details><summary>Answer</summary>**wiederholen** <SpeakButton text="Können Sie das bitte wiederholen?" /><br/><span class="ans-meaning">"Translation: Können Sie das bitte wiederholen?"</span></details>
+**5.** ___ (Pardon)? Ich habe das nicht gehört. → <details><summary>Answer</summary>**Wie bitte** <SpeakButton text="Wie bitte? Ich habe das nicht gehört." /><br/><span class="ans-meaning">"Translation: Wie bitte? Ich habe das nicht gehört."</span></details>
 
 ### 3B — Flash Cards
 

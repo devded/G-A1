@@ -121,11 +121,11 @@ In German, numbers from 21 onwards are spoken **backwards**:
 
 ### 3A — Complete the sentences
 
-**1.** 25 in German is: fünfund___. → <details><summary>Answer</summary>**zwanzig** <SpeakButton text="25 in German is: fünfundzwanzig." /></details>
-**2.** 41 in German is: ___undvierzig. → <details><summary>Answer</summary>**ein** <SpeakButton text="41 in German is: einundvierzig." /></details>
-**3.** 30 is written with 'ß': ___. → <details><summary>Answer</summary>**dreißig** <SpeakButton text="30 is written with 'ß': dreißig." /></details>
-**4.** 70 in German is: ___ (not siebenzig). → <details><summary>Answer</summary>**siebzig** <SpeakButton text="70 in German is: siebzig." /></details>
-**5.** Mein Vater ist 54 Jahre alt: ___undfünfzig. → <details><summary>Answer</summary>**vier** <SpeakButton text="Mein Vater ist 54 Jahre alt: vierundfünfzig." /></details>
+**1.** 25 in German is: fünfund___. → <details><summary>Answer</summary>**zwanzig** <SpeakButton text="25 in German is: fünfundzwanzig." /><br/><span class="ans-meaning">"25 in German is: twenty-five."</span></details>
+**2.** 41 in German is: ___undvierzig. → <details><summary>Answer</summary>**ein** <SpeakButton text="41 in German is: einundvierzig." /><br/><span class="ans-meaning">"41 in German is: forty-one."</span></details>
+**3.** 30 is written with 'ß': ___. → <details><summary>Answer</summary>**dreißig** <SpeakButton text="30 is written with 'ß': dreißig." /><br/><span class="ans-meaning">"30 is written with 'ß': thirty."</span></details>
+**4.** 70 in German is: ___ (not siebenzig). → <details><summary>Answer</summary>**siebzig** <SpeakButton text="70 in German is: siebzig." /><br/><span class="ans-meaning">"70 in German is: seventy."</span></details>
+**5.** Mein Vater ist 54 Jahre alt: ___undfünfzig. → <details><summary>Answer</summary>**vier** <SpeakButton text="Mein Vater ist 54 Jahre alt: vierundfünfzig." /><br/><span class="ans-meaning">"My father is 54 years old: fifty-four."</span></details>
 
 ### 3B — Flash Cards
 

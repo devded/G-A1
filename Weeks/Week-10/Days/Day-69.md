@@ -98,9 +98,9 @@
 
 In German, **man** (spelled with ONE 'n', unlike *der Mann*) refers to people in general:
 
-- **Man kann hier gut essen.** <SpeakButton text="Man kann hier gut essen." />(One can eat well here / You can eat well here.)
-- **Man muss einen Helm tragen.** <SpeakButton text="Man muss einen Helm tragen." />(One must wear a helmet.)
-- **Bei Regen sollte man eine Jacke anziehen.** <SpeakButton text="Bei Regen sollte man eine Jacke anziehen." />(In rain one should put on a jacket.)
+• **Man kann hier gut essen.** <SpeakButton text="Man kann hier gut essen." />(One can eat well here / You can eat well here.)
+• **Man muss einen Helm tragen.** <SpeakButton text="Man muss einen Helm tragen." />(One must wear a helmet.)
+• **Bei Regen sollte man eine Jacke anziehen.** <SpeakButton text="Bei Regen sollte man eine Jacke anziehen." />(In rain one should put on a jacket.)
 
 > <Icon name="target" /> **Conjugation Rule:**  
 > *man* uses the exact same 3rd person singular verb form as **er / sie / es**!   <SpeakButton text="uses the exact same 3rd person singular verb form as" />
@@ -114,11 +114,11 @@ In German, **man** (spelled with ONE 'n', unlike *der Mann*) refers to people in
 
 ### 3A — Complete the sentences
 
-**1.** Im Sommer ___ (one can) viel im See schwimmen. → <details><summary>Answer</summary>**kann man** <SpeakButton text="Im Sommer kann man viel im See schwimmen." /></details>
-**2.** Bei Regen sollte ___ (one) einen Schirm mitnehmen. → <details><summary>Answer</summary>**man** <SpeakButton text="Bei Regen sollte man einen Schirm mitnehmen." /></details>
-**3.** Es ist sehr kalt ___ (outside). → <details><summary>Answer</summary>**draußen** <SpeakButton text="Es ist sehr kalt draußen." /></details>
-**4.** Wir bleiben heute ___ (inside). → <details><summary>Answer</summary>**drinnen** <SpeakButton text="Wir bleiben heute drinnen." /></details>
-**5.** Nimm deine warme ___ (jacket) mit! → <details><summary>Answer</summary>**Jacke** <SpeakButton text="Nimm deine warme Jacke mit!" /></details>
+**1.** Im Sommer ___ (one can) viel im See schwimmen. → <details><summary>Answer</summary>**kann man** <SpeakButton text="Im Sommer kann man viel im See schwimmen." /><br/><span class="ans-meaning">"Translation: Im Sommer kann man viel im See schwimmen."</span></details>
+**2.** Bei Regen sollte ___ (one) einen Schirm mitnehmen. → <details><summary>Answer</summary>**man** <SpeakButton text="Bei Regen sollte man einen Schirm mitnehmen." /><br/><span class="ans-meaning">"Translation: Bei Regen sollte man einen Schirm mitnehmen."</span></details>
+**3.** Es ist sehr kalt ___ (outside). → <details><summary>Answer</summary>**draußen** <SpeakButton text="Es ist sehr kalt draußen." /><br/><span class="ans-meaning">"Translation: Es ist sehr kalt draußen."</span></details>
+**4.** Wir bleiben heute ___ (inside). → <details><summary>Answer</summary>**drinnen** <SpeakButton text="Wir bleiben heute drinnen." /><br/><span class="ans-meaning">"Translation: Wir bleiben heute drinnen."</span></details>
+**5.** Nimm deine warme ___ (jacket) mit! → <details><summary>Answer</summary>**Jacke** <SpeakButton text="Nimm deine warme Jacke mit!" /><br/><span class="ans-meaning">"Translation: Nimm deine warme Jacke mit!"</span></details>
 
 ### 3B — Flash Cards
 

@@ -95,14 +95,14 @@
 ### German Noun Genders & Indefinite Articles
 
 ### The 3 Genders in German
-- **der** <SpeakButton text="der" />(Masculine): der Mann, der Tisch
-- **die** <SpeakButton text="die" />(Feminine): die Frau, die Tasche
-- **das** <SpeakButton text="das" />(Neuter): das Kind, das Buch
+• **der** <SpeakButton text="der" />(Masculine): der Mann, der Tisch
+• **die** <SpeakButton text="die" />(Feminine): die Frau, die Tasche
+• **das** <SpeakButton text="das" />(Neuter): das Kind, das Buch
 
 ### Indefinite Articles (a / an)
-- **Masculine <SpeakButton text="Masculine" />(der)** → **ein** (ein Mann, ein Tisch)
-- **Feminine <SpeakButton text="Feminine" />(die)** → **eine** (eine Frau, eine Tasche)
-- **Neuter <SpeakButton text="Neuter" />(das)** → **ein** (ein Kind, ein Buch)
+• **Masculine <SpeakButton text="Masculine" />(der)** → **ein** (ein Mann, ein Tisch)
+• **Feminine <SpeakButton text="Feminine" />(die)** → **eine** (eine Frau, eine Tasche)
+• **Neuter <SpeakButton text="Neuter" />(das)** → **ein** (ein Kind, ein Buch)
 
 > <Icon name="target" /> **Rule:** ALWAYS learn nouns together with their article (der/die/das)!
 
@@ -114,11 +114,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist ___ (a) Mann. → <details><summary>Answer</summary>**ein** <SpeakButton text="Das ist ein Mann." /></details>
-**2.** Das ist ___ (a) Frau. → <details><summary>Answer</summary>**eine** <SpeakButton text="Das ist eine Frau." /></details>
-**3.** Das ist ___ (a) Buch. → <details><summary>Answer</summary>**ein** <SpeakButton text="Das ist ein Buch." /></details>
-**4.** ___ (The) Tisch ist neu. → <details><summary>Answer</summary>**Der** <SpeakButton text="Der Tisch ist neu." /></details>
-**5.** ___ (The) Tasche ist schön. → <details><summary>Answer</summary>**Die** <SpeakButton text="Die Tasche ist schön." /></details>
+**1.** Das ist ___ (a) Mann. → <details><summary>Answer</summary>**ein** <SpeakButton text="Das ist ein Mann." /><br/><span class="ans-meaning">"That is a man."</span></details>
+**2.** Das ist ___ (a) Frau. → <details><summary>Answer</summary>**eine** <SpeakButton text="Das ist eine Frau." /><br/><span class="ans-meaning">"That is a woman."</span></details>
+**3.** Das ist ___ (a) Buch. → <details><summary>Answer</summary>**ein** <SpeakButton text="Das ist ein Buch." /><br/><span class="ans-meaning">"That is a book."</span></details>
+**4.** ___ (The) Tisch ist neu. → <details><summary>Answer</summary>**Der** <SpeakButton text="Der Tisch ist neu." /><br/><span class="ans-meaning">"The table is new."</span></details>
+**5.** ___ (The) Tasche ist schön. → <details><summary>Answer</summary>**Die** <SpeakButton text="Die Tasche ist schön." /><br/><span class="ans-meaning">"The bag is beautiful."</span></details>
 
 ### 3B — Flash Cards
 

@@ -113,11 +113,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich bin ___ (lost)! Wo ist das Zentrum? → <details><summary>Answer</summary>**verloren** <SpeakButton text="Ich bin verloren! Wo ist das Zentrum?" /></details>
-**2.** Wo ist der ___ (exit)? → <details><summary>Answer</summary>**Ausgang** <SpeakButton text="Wo ist der Ausgang?" /></details>
-**3.** Der ___ (entrance) ist vorne. → <details><summary>Answer</summary>**Eingang** <SpeakButton text="Der Eingang ist vorne." /></details>
-**4.** Die Post ist gleich ___ (around the corner). → <details><summary>Answer</summary>**um die Ecke** <SpeakButton text="Die Post ist gleich um die Ecke." /></details>
-**5.** Sie haben Ihr ___ (destination) erreicht. → <details><summary>Answer</summary>**Ziel** <SpeakButton text="Sie haben Ihr Ziel erreicht." /></details>
+**1.** Ich bin ___ (lost)! Wo ist das Zentrum? → <details><summary>Answer</summary>**verloren** <SpeakButton text="Ich bin verloren! Wo ist das Zentrum?" /><br/><span class="ans-meaning">"Translation: Ich bin verloren! Wo ist das Zentrum?"</span></details>
+**2.** Wo ist der ___ (exit)? → <details><summary>Answer</summary>**Ausgang** <SpeakButton text="Wo ist der Ausgang?" /><br/><span class="ans-meaning">"Translation: Wo ist der Ausgang?"</span></details>
+**3.** Der ___ (entrance) ist vorne. → <details><summary>Answer</summary>**Eingang** <SpeakButton text="Der Eingang ist vorne." /><br/><span class="ans-meaning">"Translation: Der Eingang ist vorne."</span></details>
+**4.** Die Post ist gleich ___ (around the corner). → <details><summary>Answer</summary>**um die Ecke** <SpeakButton text="Die Post ist gleich um die Ecke." /><br/><span class="ans-meaning">"Translation: Die Post ist gleich um die Ecke."</span></details>
+**5.** Sie haben Ihr ___ (destination) erreicht. → <details><summary>Answer</summary>**Ziel** <SpeakButton text="Sie haben Ihr Ziel erreicht." /><br/><span class="ans-meaning">"Translation: Sie haben Ihr Ziel erreicht."</span></details>
 
 ### 3B — Flash Cards
 

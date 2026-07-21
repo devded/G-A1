@@ -106,8 +106,8 @@ German uses adverbs right after the main verb to show how much you like an activ
 
 ### Comparison Structure with **als** (than)
 
-- *Ich trinke lieber Tee* **als** *Kaffee.* <SpeakButton text="Ich trinke lieber Tee als Kaffee." />(I prefer drinking tea to coffee.)
-- *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* <SpeakButton text="Er liest lieber Bücher als Fernsehen zu schauen." />(He prefers reading books to watching TV.)
+• *Ich trinke lieber Tee* **als** *Kaffee.* <SpeakButton text="Ich trinke lieber Tee als Kaffee." />(I prefer drinking tea to coffee.)
+• *Er liest lieber Bücher* **als** *Fernsehen zu schauen.* <SpeakButton text="Er liest lieber Bücher als Fernsehen zu schauen." />(He prefers reading books to watching TV.)
 
 > <Icon name="alert-triangle" /> **Difference between mögen & gern:**   <SpeakButton text="alert-triangle" />
 > • **mögen + Noun:** *Ich mag Pizza.* (I like pizza.)   <SpeakButton text="mögen + Noun:" />
@@ -121,11 +121,11 @@ German uses adverbs right after the main verb to show how much you like an activ
 
 ### 3A — Complete the sentences
 
-**1.** Ich trinke gerne Saft, aber ich trinke ___ (prefer) Wasser. → <details><summary>Answer</summary>**lieber** <SpeakButton text="Ich trinke gerne Saft, aber ich trinke lieber Wasser." /></details>
-**2.** ___ (Most of all) spiele ich Gitarre. → <details><summary>Answer</summary>**Am liebsten** <SpeakButton text="Am liebsten spiele ich Gitarre." /></details>
-**3.** Ich trinke lieber Tee ___ (than) Kaffee. → <details><summary>Answer</summary>**als** <SpeakButton text="Ich trinke lieber Tee als Kaffee." /></details>
-**4.** Ich ___ (like) Schokolade sehr. → <details><summary>Answer</summary>**mag** <SpeakButton text="Ich mag Schokolade sehr." /></details>
-**5.** Der Kurs ist nicht langweilig, er ist ___ (great). → <details><summary>Answer</summary>**toll** <SpeakButton text="Der Kurs ist nicht langweilig, er ist toll." /></details>
+**1.** Ich trinke gerne Saft, aber ich trinke ___ (prefer) Wasser. → <details><summary>Answer</summary>**lieber** <SpeakButton text="Ich trinke gerne Saft, aber ich trinke lieber Wasser." /><br/><span class="ans-meaning">"Translation: Ich trinke gerne Saft, aber ich trinke lieber Wasser."</span></details>
+**2.** ___ (Most of all) spiele ich Gitarre. → <details><summary>Answer</summary>**Am liebsten** <SpeakButton text="Am liebsten spiele ich Gitarre." /><br/><span class="ans-meaning">"Translation: Am liebsten spiele ich Gitarre."</span></details>
+**3.** Ich trinke lieber Tee ___ (than) Kaffee. → <details><summary>Answer</summary>**als** <SpeakButton text="Ich trinke lieber Tee als Kaffee." /><br/><span class="ans-meaning">"Translation: Ich trinke lieber Tee als Kaffee."</span></details>
+**4.** Ich ___ (like) Schokolade sehr. → <details><summary>Answer</summary>**mag** <SpeakButton text="Ich mag Schokolade sehr." /><br/><span class="ans-meaning">"Translation: Ich mag Schokolade sehr."</span></details>
+**5.** Der Kurs ist nicht langweilig, er ist ___ (great). → <details><summary>Answer</summary>**toll** <SpeakButton text="Der Kurs ist nicht langweilig, er ist toll." /><br/><span class="ans-meaning">"Translation: Der Kurs ist nicht langweilig, er ist toll."</span></details>
 
 ### 3B — Flash Cards
 

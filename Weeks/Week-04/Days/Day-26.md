@@ -115,11 +115,11 @@ Use **nicht** for EVERYTHING else (verbs, adjectives, names, adverbs, possessive
 
 ### 3A — Complete the sentences
 
-**1.** Ich habe ___ (no) Zeit. → <details><summary>Answer</summary>**keine** <SpeakButton text="Ich habe keine Zeit." /></details>
-**2.** Das ist ___ (not) gut. → <details><summary>Answer</summary>**nicht** <SpeakButton text="Das ist nicht gut." /></details>
-**3.** Er wohnt ___ (not) in Deutschland. → <details><summary>Answer</summary>**nicht** <SpeakButton text="Er wohnt nicht in Deutschland." /></details>
-**4.** Ich trinke ___ (no) Bier. → <details><summary>Answer</summary>**kein** <SpeakButton text="Ich trinke kein Bier." /></details>
-**5.** Ich bin ___ (not yet) fertig. → <details><summary>Answer</summary>**noch nicht** <SpeakButton text="Ich bin noch nicht fertig." /></details>
+**1.** Ich habe ___ (no) Zeit. → <details><summary>Answer</summary>**keine** <SpeakButton text="Ich habe keine Zeit." /><br/><span class="ans-meaning">"Translation: Ich habe keine Zeit."</span></details>
+**2.** Das ist ___ (not) gut. → <details><summary>Answer</summary>**nicht** <SpeakButton text="Das ist nicht gut." /><br/><span class="ans-meaning">"Translation: Das ist nicht gut."</span></details>
+**3.** Er wohnt ___ (not) in Deutschland. → <details><summary>Answer</summary>**nicht** <SpeakButton text="Er wohnt nicht in Deutschland." /><br/><span class="ans-meaning">"Translation: Er wohnt nicht in Deutschland."</span></details>
+**4.** Ich trinke ___ (no) Bier. → <details><summary>Answer</summary>**kein** <SpeakButton text="Ich trinke kein Bier." /><br/><span class="ans-meaning">"Translation: Ich trinke kein Bier."</span></details>
+**5.** Ich bin ___ (not yet) fertig. → <details><summary>Answer</summary>**noch nicht** <SpeakButton text="Ich bin noch nicht fertig." /><br/><span class="ans-meaning">"Translation: Ich bin noch nicht fertig."</span></details>
 
 ### 3B — Flash Cards
 

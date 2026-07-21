@@ -117,11 +117,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (haben) eine Frage. → <details><summary>Answer</summary>**habe** <SpeakButton text="Ich habe eine Frage." /></details>
-**2.** Er ___ (sein) müde. → <details><summary>Answer</summary>**ist** <SpeakButton text="Er ist müde." /></details>
-**3.** Hast du ___ (no) Geld? → <details><summary>Answer</summary>**kein** <SpeakButton text="Hast du kein Geld?" /></details>
-**4.** Wir ___ (haben) Zeit. → <details><summary>Answer</summary>**haben** <SpeakButton text="Wir haben Zeit." /></details>
-**5.** Bist du ___ (hungry)? → <details><summary>Answer</summary>**hungrig** <SpeakButton text="Bist du hungrig?" /></details>
+**1.** Ich ___ (haben) eine Frage. → <details><summary>Answer</summary>**habe** <SpeakButton text="Ich habe eine Frage." /><br/><span class="ans-meaning">"I have a question."</span></details>
+**2.** Er ___ (sein) müde. → <details><summary>Answer</summary>**ist** <SpeakButton text="Er ist müde." /><br/><span class="ans-meaning">"He is tired."</span></details>
+**3.** Hast du ___ (no) Geld? → <details><summary>Answer</summary>**kein** <SpeakButton text="Hast du kein Geld?" /><br/><span class="ans-meaning">"Do you have no money?"</span></details>
+**4.** Wir ___ (haben) Zeit. → <details><summary>Answer</summary>**haben** <SpeakButton text="Wir haben Zeit." /><br/><span class="ans-meaning">"We have time."</span></details>
+**5.** Bist du ___ (hungry)? → <details><summary>Answer</summary>**hungrig** <SpeakButton text="Bist du hungrig?" /><br/><span class="ans-meaning">"Are you hungry?"</span></details>
 
 ### 3B — Flash Cards
 

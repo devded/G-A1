@@ -99,12 +99,12 @@
 In English, both mean "to study". In German, they have **strict separate meanings**:
 
 1. **lernen** = to learn / study for a test / acquire any skill <SpeakButton text="lernen" />
-- *Ich lerne Deutsch.* <SpeakButton text="Ich lerne Deutsch." />(I am learning German.)
-- *Er lernt für die Prüfung.* <SpeakButton text="Er lernt für die Prüfung." />(He is studying for the exam.)
+• *Ich lerne Deutsch.* <SpeakButton text="Ich lerne Deutsch." />(I am learning German.)
+• *Er lernt für die Prüfung.* <SpeakButton text="Er lernt für die Prüfung." />(He is studying for the exam.)
 
 2. **studieren** = to be enrolled at university in a degree subject <SpeakButton text="studieren" />
-- *Sie studiert Medizin.* <SpeakButton text="Sie studiert Medizin." />(She is a university medicine student.)
-- *Ich studiere Informatik.* <SpeakButton text="Ich studiere Informatik." />(I major in Computer Science.)
+• *Sie studiert Medizin.* <SpeakButton text="Sie studiert Medizin." />(She is a university medicine student.)
+• *Ich studiere Informatik.* <SpeakButton text="Ich studiere Informatik." />(I major in Computer Science.)
 
 > <Icon name="alert-triangle" /> **Common Mistake:** Never say *Ich studiere Deutsch* unless you are doing a Bachelor's/Master's degree in German Philology at a university! <SpeakButton text="alert-triangle" />
 
@@ -116,11 +116,11 @@ In English, both mean "to study". In German, they have **strict separate meaning
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (learn) jeden Tag Deutsch. → <details><summary>Answer</summary>**lerne** <SpeakButton text="Ich lerne jeden Tag Deutsch." /></details>
-**2.** Meine Schwester ___ (majors in) Medizin in München. → <details><summary>Answer</summary>**studiert** <SpeakButton text="Meine Schwester studiert Medizin in München." /></details>
-**3.** Schüler gehen in die ___ (school). → <details><summary>Answer</summary>**Schule** <SpeakButton text="Schüler gehen in die Schule." /></details>
-**4.** Ich mache meine ___ (homework). → <details><summary>Answer</summary>**Hausaufgaben** <SpeakButton text="Ich mache meine Hausaufgaben." /></details>
-**5.** Was ist dein Lieblings___ (subject)? → <details><summary>Answer</summary>**fach** <SpeakButton text="Was ist dein Lieblingsfach?" /></details>
+**1.** Ich ___ (learn) jeden Tag Deutsch. → <details><summary>Answer</summary>**lerne** <SpeakButton text="Ich lerne jeden Tag Deutsch." /><br/><span class="ans-meaning">"Translation: Ich lerne jeden Tag Deutsch."</span></details>
+**2.** Meine Schwester ___ (majors in) Medizin in München. → <details><summary>Answer</summary>**studiert** <SpeakButton text="Meine Schwester studiert Medizin in München." /><br/><span class="ans-meaning">"Translation: Meine Schwester studiert Medizin in München."</span></details>
+**3.** Schüler gehen in die ___ (school). → <details><summary>Answer</summary>**Schule** <SpeakButton text="Schüler gehen in die Schule." /><br/><span class="ans-meaning">"Translation: Schüler gehen in die Schule."</span></details>
+**4.** Ich mache meine ___ (homework). → <details><summary>Answer</summary>**Hausaufgaben** <SpeakButton text="Ich mache meine Hausaufgaben." /><br/><span class="ans-meaning">"Translation: Ich mache meine Hausaufgaben."</span></details>
+**5.** Was ist dein Lieblings___ (subject)? → <details><summary>Answer</summary>**fach** <SpeakButton text="Was ist dein Lieblingsfach?" /><br/><span class="ans-meaning">"Translation: Was ist dein Lieblingsfach?"</span></details>
 
 ### 3B — Flash Cards
 

@@ -98,14 +98,14 @@
 
 When talking about food in general (without specifying a particular item), **do not use an article**:
 
-- *Ich esse gerne* **Brot**. <SpeakButton text="Ich esse gerne Brot." />(I like eating bread.)
-- *Ich esse kein* **Fleisch**. <SpeakButton text="Ich esse kein Fleisch." />(I eat no meat.)
-- **Obst und Gemüse** *sind gesund.* <SpeakButton text="Obst und Gemüse sind gesund." />(Fruit and vegetables are healthy.)
+• *Ich esse gerne* **Brot**. <SpeakButton text="Ich esse gerne Brot." />(I like eating bread.)
+• *Ich esse kein* **Fleisch**. <SpeakButton text="Ich esse kein Fleisch." />(I eat no meat.)
+• **Obst und Gemüse** *sind gesund.* <SpeakButton text="Obst und Gemüse sind gesund." />(Fruit and vegetables are healthy.)
 
 ### Collective Nouns in German
 
-- **das Obst** = fruit in general <SpeakButton text="das Obst = fruit in general" />(singular only!)
-- **das Gemüse** = vegetables in general <SpeakButton text="das Gemüse = vegetables in general" />(singular only!)
+• **das Obst** = fruit in general <SpeakButton text="das Obst = fruit in general" />(singular only!)
+• **das Gemüse** = vegetables in general <SpeakButton text="das Gemüse = vegetables in general" />(singular only!)
 
 </div>
 
@@ -115,11 +115,11 @@ When talking about food in general (without specifying a particular item), **do 
 
 ### 3A — Complete the sentences
 
-**1.** Ich esse morgens frisches ___ (bread). → <details><summary>Answer</summary>**Brot** <SpeakButton text="Ich esse morgens frisches Brot." /></details>
-**2.** Er isst kein ___ (meat), er ist Vegetarier. → <details><summary>Answer</summary>**Fleisch** <SpeakButton text="Er isst kein Fleisch, er ist Vegetarier." /></details>
-**3.** ___ (Fruit) und Gemüse sind sehr gesund. → <details><summary>Answer</summary>**Obst** <SpeakButton text="Obst und Gemüse sind sehr gesund." /></details>
-**4.** Ich kaufe ___ (cheese) und Wurst. → <details><summary>Answer</summary>**Käse** <SpeakButton text="Ich kaufe Käse und Wurst." /></details>
-**5.** Zum Mittagessen esse ich ___ (rice). → <details><summary>Answer</summary>**Reis** <SpeakButton text="Zum Mittagessen esse ich Reis." /></details>
+**1.** Ich esse morgens frisches ___ (bread). → <details><summary>Answer</summary>**Brot** <SpeakButton text="Ich esse morgens frisches Brot." /><br/><span class="ans-meaning">"Translation: Ich esse morgens frisches Brot."</span></details>
+**2.** Er isst kein ___ (meat), er ist Vegetarier. → <details><summary>Answer</summary>**Fleisch** <SpeakButton text="Er isst kein Fleisch, er ist Vegetarier." /><br/><span class="ans-meaning">"Translation: Er isst kein Fleisch, er ist Vegetarier."</span></details>
+**3.** ___ (Fruit) und Gemüse sind sehr gesund. → <details><summary>Answer</summary>**Obst** <SpeakButton text="Obst und Gemüse sind sehr gesund." /><br/><span class="ans-meaning">"Translation: Obst und Gemüse sind sehr gesund."</span></details>
+**4.** Ich kaufe ___ (cheese) und Wurst. → <details><summary>Answer</summary>**Käse** <SpeakButton text="Ich kaufe Käse und Wurst." /><br/><span class="ans-meaning">"Translation: Ich kaufe Käse und Wurst."</span></details>
+**5.** Zum Mittagessen esse ich ___ (rice). → <details><summary>Answer</summary>**Reis** <SpeakButton text="Zum Mittagessen esse ich Reis." /><br/><span class="ans-meaning">"Translation: Zum Mittagessen esse ich Reis."</span></details>
 
 ### 3B — Flash Cards
 

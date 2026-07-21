@@ -96,8 +96,8 @@
 
 ### Emergency Numbers in Germany
 
-- **110** = **Polizei** <SpeakButton text="110 = Polizei" />(Police)
-- **112** = **Feuerwehr & Rettungsdienst** <SpeakButton text="112 = Feuerwehr & Rettungsdienst" />(Fire & Ambulance)
+• **110** = **Polizei** <SpeakButton text="110 = Polizei" />(Police)
+• **112** = **Feuerwehr & Rettungsdienst** <SpeakButton text="112 = Feuerwehr & Rettungsdienst" />(Fire & Ambulance)
 
 ### The 5 'W' Questions of an Emergency Call
 
@@ -121,11 +121,11 @@ When calling 112/110, answer these 5 questions clearly:
 
 ### 3A — Complete the sentences
 
-**1.** Rufen Sie sofort die ___ (police, 110)! → <details><summary>Answer</summary>**Polizei** <SpeakButton text="Rufen Sie sofort die Polizei!" /></details>
-**2.** Der ___ (ambulance) ist unterwegs. → <details><summary>Answer</summary>**Krankenwagen** <SpeakButton text="Der Krankenwagen ist unterwegs." /></details>
-**3.** ___ (Help)! Helfen Sie mir! → <details><summary>Answer</summary>**Hilfe** <SpeakButton text="Hilfe! Helfen Sie mir!" /></details>
-**4.** Ein Mann ist schwer ___ (injured). → <details><summary>Answer</summary>**verletzt** <SpeakButton text="Ein Mann ist schwer verletzt." /></details>
-**5.** Rufen Sie die ___ (fire brigade, 112)! → <details><summary>Answer</summary>**Feuerwehr** <SpeakButton text="Rufen Sie die Feuerwehr!" /></details>
+**1.** Rufen Sie sofort die ___ (police, 110)! → <details><summary>Answer</summary>**Polizei** <SpeakButton text="Rufen Sie sofort die Polizei!" /><br/><span class="ans-meaning">"Translation: Rufen Sie sofort die Polizei!"</span></details>
+**2.** Der ___ (ambulance) ist unterwegs. → <details><summary>Answer</summary>**Krankenwagen** <SpeakButton text="Der Krankenwagen ist unterwegs." /><br/><span class="ans-meaning">"Translation: Der Krankenwagen ist unterwegs."</span></details>
+**3.** ___ (Help)! Helfen Sie mir! → <details><summary>Answer</summary>**Hilfe** <SpeakButton text="Hilfe! Helfen Sie mir!" /><br/><span class="ans-meaning">"Translation: Hilfe! Helfen Sie mir!"</span></details>
+**4.** Ein Mann ist schwer ___ (injured). → <details><summary>Answer</summary>**verletzt** <SpeakButton text="Ein Mann ist schwer verletzt." /><br/><span class="ans-meaning">"Translation: Ein Mann ist schwer verletzt."</span></details>
+**5.** Rufen Sie die ___ (fire brigade, 112)! → <details><summary>Answer</summary>**Feuerwehr** <SpeakButton text="Rufen Sie die Feuerwehr!" /><br/><span class="ans-meaning">"Translation: Rufen Sie die Feuerwehr!"</span></details>
 
 ### 3B — Flash Cards
 

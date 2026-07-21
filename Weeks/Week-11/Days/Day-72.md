@@ -118,11 +118,11 @@ Reflexive verbs use a **reflexive pronoun** (mich, dich, sich) that matches the 
 
 ### 3A — Complete the sentences
 
-**1.** Ich fühle ___ (myself) heute nicht gut. → <details><summary>Answer</summary>**mich** <SpeakButton text="Ich fühle mich heute nicht gut." /></details>
-**2.** Er hat 39 Grad ___ (fever). → <details><summary>Answer</summary>**Fieber** <SpeakButton text="Er hat 39 Grad Fieber." /></details>
-**3.** Ich habe eine starke ___ (cold). → <details><summary>Answer</summary>**Erkältung** <SpeakButton text="Ich habe eine starke Erkältung." /></details>
-**4.** Mein Sohn ist ___ (sick) und bleibt im Bett. → <details><summary>Answer</summary>**krank** <SpeakButton text="Mein Sohn ist krank und bleibt im Bett." /></details>
-**5.** Wie fühlst du ___ (yourself)? → <details><summary>Answer</summary>**dich** <SpeakButton text="Wie fühlst du dich?" /></details>
+**1.** Ich fühle ___ (myself) heute nicht gut. → <details><summary>Answer</summary>**mich** <SpeakButton text="Ich fühle mich heute nicht gut." /><br/><span class="ans-meaning">"Translation: Ich fühle mich heute nicht gut."</span></details>
+**2.** Er hat 39 Grad ___ (fever). → <details><summary>Answer</summary>**Fieber** <SpeakButton text="Er hat 39 Grad Fieber." /><br/><span class="ans-meaning">"Translation: Er hat 39 Grad Fieber."</span></details>
+**3.** Ich habe eine starke ___ (cold). → <details><summary>Answer</summary>**Erkältung** <SpeakButton text="Ich habe eine starke Erkältung." /><br/><span class="ans-meaning">"Translation: Ich habe eine starke Erkältung."</span></details>
+**4.** Mein Sohn ist ___ (sick) und bleibt im Bett. → <details><summary>Answer</summary>**krank** <SpeakButton text="Mein Sohn ist krank und bleibt im Bett." /><br/><span class="ans-meaning">"Translation: Mein Sohn ist krank und bleibt im Bett."</span></details>
+**5.** Wie fühlst du ___ (yourself)? → <details><summary>Answer</summary>**dich** <SpeakButton text="Wie fühlst du dich?" /><br/><span class="ans-meaning">"Translation: Wie fühlst du dich?"</span></details>
 
 ### 3B — Flash Cards
 

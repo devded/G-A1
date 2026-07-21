@@ -98,8 +98,8 @@
 
 In German, when saying what someone's job is after *sein* or *arbeiten als*, **DO NOT use an article**!
 
-- English: I am **a** doctor. <SpeakButton text="English: I am a doctor." />
-- German: Ich bin **Arzt**. <SpeakButton text="German: Ich bin Arzt." />(NOT: Ich bin *ein* Arzt.)
+• English: I am **a** doctor. <SpeakButton text="English: I am a doctor." />
+• German: Ich bin **Arzt**. <SpeakButton text="German: Ich bin Arzt." />(NOT: Ich bin *ein* Arzt.)
 
 ### Feminine Job Suffix: **-in**
 
@@ -124,11 +124,11 @@ Most female job titles are formed by adding **-in** to the masculine form (and s
 
 ### 3A — Complete the sentences
 
-**1.** Ich bin ___ (teacher, f). → <details><summary>Answer</summary>**Lehrerin** <SpeakButton text="Ich bin Lehrerin." /></details>
-**2.** Er arbeitet ___ (as) Arzt. → <details><summary>Answer</summary>**als** <SpeakButton text="Er arbeitet als Arzt." /></details>
-**3.** Was ___ (be) du von Beruf? → <details><summary>Answer</summary>**bist** <SpeakButton text="Was bist du von Beruf?" /></details>
-**4.** Meine Schwester ___ (arbeiten) in Berlin. → <details><summary>Answer</summary>**arbeitet** <SpeakButton text="Meine Schwester arbeitet in Berlin." /></details>
-**5.** Mein Vater ist ___ (no article) Ingenieur. → <details><summary>Answer</summary>**—** <SpeakButton text="Mein Vater ist — Ingenieur." /></details>
+**1.** Ich bin ___ (teacher, f). → <details><summary>Answer</summary>**Lehrerin** <SpeakButton text="Ich bin Lehrerin." /><br/><span class="ans-meaning">"I am a teacher."</span></details>
+**2.** Er arbeitet ___ (as) Arzt. → <details><summary>Answer</summary>**als** <SpeakButton text="Er arbeitet als Arzt." /><br/><span class="ans-meaning">"He works as a doctor."</span></details>
+**3.** Was ___ (be) du von Beruf? → <details><summary>Answer</summary>**bist** <SpeakButton text="Was bist du von Beruf?" /><br/><span class="ans-meaning">"What is your profession?"</span></details>
+**4.** Meine Schwester ___ (arbeiten) in Berlin. → <details><summary>Answer</summary>**arbeitet** <SpeakButton text="Meine Schwester arbeitet in Berlin." /><br/><span class="ans-meaning">"My sister works in Berlin."</span></details>
+**5.** Mein Vater ist ___ (no article) Ingenieur. → <details><summary>Answer</summary>**—** <SpeakButton text="Mein Vater ist — Ingenieur." /><br/><span class="ans-meaning">"My father is an engineer."</span></details>
 
 ### 3B — Flash Cards
 

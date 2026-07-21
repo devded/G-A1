@@ -96,16 +96,16 @@
 
 ### Key Reservation Formulas
 
-- **Ich möchte einen Tisch für [Number] Personen reservieren.** <SpeakButton text="Ich möchte einen Tisch für [Number] Personen reservieren." />
+• **Ich möchte einen Tisch für [Number] Personen reservieren.** <SpeakButton text="Ich möchte einen Tisch für [Number] Personen reservieren." />
   *(I would like to reserve a table for X people.)*  
-- **Für wie viel Uhr?** → *Für 19 Uhr, bitte.* <SpeakButton text="Für 19 Uhr, bitte." />
-- **Auf welchen Namen?** → *Auf den Namen [Surname].* <SpeakButton text="Auf den Namen [Surname]." />
+• **Für wie viel Uhr?** → *Für 19 Uhr, bitte.* <SpeakButton text="Für 19 Uhr, bitte." />
+• **Auf welchen Namen?** → *Auf den Namen [Surname].* <SpeakButton text="Auf den Namen [Surname]." />
 
 ### Arriving at the Restaurant
 
-- **Guten Abend! Wir haben einen Tisch reserviert.** <SpeakButton text="Guten Abend! Wir haben einen Tisch reserviert." />
+• **Guten Abend! Wir haben einen Tisch reserviert.** <SpeakButton text="Guten Abend! Wir haben einen Tisch reserviert." />
   *(Good evening! We have reserved a table.)*  
-- **Ist dieser Platz frei?** <SpeakButton text="Ist dieser Platz frei?" />
+• **Ist dieser Platz frei?** <SpeakButton text="Ist dieser Platz frei?" />
 *(Is this seat free?)* → *Ja, bitte nehmen Sie Platz!* <SpeakButton text="Ja, bitte nehmen Sie Platz!" />
 
 </div>
@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich möchte einen ___ (table) für zwei Personen reservieren. → <details><summary>Answer</summary>**Tisch** <SpeakButton text="Ich möchte einen Tisch für zwei Personen reservieren." /></details>
-**2.** Die ___ (menu), bitte! → <details><summary>Answer</summary>**Speisekarte** <SpeakButton text="Die Speisekarte, bitte!" /></details>
-**3.** Ist dieser ___ (seat) frei? → <details><summary>Answer</summary>**Platz** <SpeakButton text="Ist dieser Platz frei?" /></details>
-**4.** Auf welchen ___ (name)? → <details><summary>Answer</summary>**Namen** <SpeakButton text="Auf welchen Namen?" /></details>
-**5.** Der ___ (waiter) bringt das Essen. → <details><summary>Answer</summary>**Kellner** <SpeakButton text="Der Kellner bringt das Essen." /></details>
+**1.** Ich möchte einen ___ (table) für zwei Personen reservieren. → <details><summary>Answer</summary>**Tisch** <SpeakButton text="Ich möchte einen Tisch für zwei Personen reservieren." /><br/><span class="ans-meaning">"Translation: Ich möchte einen Tisch für zwei Personen reservieren."</span></details>
+**2.** Die ___ (menu), bitte! → <details><summary>Answer</summary>**Speisekarte** <SpeakButton text="Die Speisekarte, bitte!" /><br/><span class="ans-meaning">"Translation: Die Speisekarte, bitte!"</span></details>
+**3.** Ist dieser ___ (seat) frei? → <details><summary>Answer</summary>**Platz** <SpeakButton text="Ist dieser Platz frei?" /><br/><span class="ans-meaning">"Translation: Ist dieser Platz frei?"</span></details>
+**4.** Auf welchen ___ (name)? → <details><summary>Answer</summary>**Namen** <SpeakButton text="Auf welchen Namen?" /><br/><span class="ans-meaning">"Translation: Auf welchen Namen?"</span></details>
+**5.** Der ___ (waiter) bringt das Essen. → <details><summary>Answer</summary>**Kellner** <SpeakButton text="Der Kellner bringt das Essen." /><br/><span class="ans-meaning">"Translation: Der Kellner bringt das Essen."</span></details>
 
 ### 3B — Flash Cards
 

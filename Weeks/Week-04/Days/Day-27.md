@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich arbeite ___ (full-time). → <details><summary>Answer</summary>**Vollzeit** <SpeakButton text="Ich arbeite Vollzeit." /></details>
-**2.** Er sucht eine neue ___ (position). → <details><summary>Answer</summary>**Stelle** <SpeakButton text="Er sucht eine neue Stelle." /></details>
-**3.** Ich ___ (find/think) meine Arbeit sehr interessant. → <details><summary>Answer</summary>**finde** <SpeakButton text="Ich finde meine Arbeit sehr interessant." /></details>
-**4.** Die Arbeit ist manchmal ___ (exhausting). → <details><summary>Answer</summary>**anstrengend** <SpeakButton text="Die Arbeit ist manchmal anstrengend." /></details>
-**5.** Was machst du ___ (professionally)? → <details><summary>Answer</summary>**beruflich** <SpeakButton text="Was machst du beruflich?" /></details>
+**1.** Ich arbeite ___ (full-time). → <details><summary>Answer</summary>**Vollzeit** <SpeakButton text="Ich arbeite Vollzeit." /><br/><span class="ans-meaning">"Translation: Ich arbeite Vollzeit."</span></details>
+**2.** Er sucht eine neue ___ (position). → <details><summary>Answer</summary>**Stelle** <SpeakButton text="Er sucht eine neue Stelle." /><br/><span class="ans-meaning">"Translation: Er sucht eine neue Stelle."</span></details>
+**3.** Ich ___ (find/think) meine Arbeit sehr interessant. → <details><summary>Answer</summary>**finde** <SpeakButton text="Ich finde meine Arbeit sehr interessant." /><br/><span class="ans-meaning">"Translation: Ich finde meine Arbeit sehr interessant."</span></details>
+**4.** Die Arbeit ist manchmal ___ (exhausting). → <details><summary>Answer</summary>**anstrengend** <SpeakButton text="Die Arbeit ist manchmal anstrengend." /><br/><span class="ans-meaning">"Translation: Die Arbeit ist manchmal anstrengend."</span></details>
+**5.** Was machst du ___ (professionally)? → <details><summary>Answer</summary>**beruflich** <SpeakButton text="Was machst du beruflich?" /><br/><span class="ans-meaning">"Translation: Was machst du beruflich?"</span></details>
 
 ### 3B — Flash Cards
 

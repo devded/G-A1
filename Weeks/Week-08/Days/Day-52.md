@@ -100,10 +100,10 @@ In German, the **food is the subject**, and the **person is the dative object**!
 
 <Icon name="arrow-right" /> **Formula: Food (Subject) + schmeckt + Person (Dative Pronoun: mir)**
 
-- *Das Essen schmeckt* **mir** *gut.* <SpeakButton text="Das Essen schmeckt mir gut." />(The food tastes good to me = I like the food.)
-- *Die Suppe schmeckt* **mir** *nicht.* <SpeakButton text="Die Suppe schmeckt mir nicht." />(I don't like the soup.)
-- *Wie schmeckt es* **Ihnen**? <SpeakButton text="Wie schmeckt es Ihnen?" />(How does it taste to you? - formal)
-- *Hat es Ihnen geschmeckt?* <SpeakButton text="Hat es Ihnen geschmeckt?" />(Did you enjoy your meal?)
+• *Das Essen schmeckt* **mir** *gut.* <SpeakButton text="Das Essen schmeckt mir gut." />(The food tastes good to me = I like the food.)
+• *Die Suppe schmeckt* **mir** *nicht.* <SpeakButton text="Die Suppe schmeckt mir nicht." />(I don't like the soup.)
+• *Wie schmeckt es* **Ihnen**? <SpeakButton text="Wie schmeckt es Ihnen?" />(How does it taste to you? - formal)
+• *Hat es Ihnen geschmeckt?* <SpeakButton text="Hat es Ihnen geschmeckt?" />(Did you enjoy your meal?)
 
 > <Icon name="target" /> **Key Adjectives for Food:**  
 > • *lecker* (tasty/yummy), *köstlich* (exquisite), *süß* (sweet), *salzig* (salty), *scharf* (spicy). <SpeakButton text="lecker" />
@@ -116,11 +116,11 @@ In German, the **food is the subject**, and the **person is the dative object**!
 
 ### 3A — Complete the sentences
 
-**1.** Das Essen schmeckt ___ (to me) sehr gut. → <details><summary>Answer</summary>**mir** <SpeakButton text="Das Essen schmeckt mir sehr gut." /></details>
-**2.** Die Suppe ist zu ___ (salty). → <details><summary>Answer</summary>**salzig** <SpeakButton text="Die Suppe ist zu salzig." /></details>
-**3.** Das Schnitzel ist absolut ___ (delicious)! → <details><summary>Answer</summary>**lecker** <SpeakButton text="Das Schnitzel ist absolut lecker!" /></details>
-**4.** Pizza ist mein ___ (favourite food). → <details><summary>Answer</summary>**Lieblingsessen** <SpeakButton text="Pizza ist mein Lieblingsessen." /></details>
-**5.** Achtung, das Essen ist sehr ___ (spicy)! → <details><summary>Answer</summary>**scharf** <SpeakButton text="Achtung, das Essen ist sehr scharf!" /></details>
+**1.** Das Essen schmeckt ___ (to me) sehr gut. → <details><summary>Answer</summary>**mir** <SpeakButton text="Das Essen schmeckt mir sehr gut." /><br/><span class="ans-meaning">"Translation: Das Essen schmeckt mir sehr gut."</span></details>
+**2.** Die Suppe ist zu ___ (salty). → <details><summary>Answer</summary>**salzig** <SpeakButton text="Die Suppe ist zu salzig." /><br/><span class="ans-meaning">"Translation: Die Suppe ist zu salzig."</span></details>
+**3.** Das Schnitzel ist absolut ___ (delicious)! → <details><summary>Answer</summary>**lecker** <SpeakButton text="Das Schnitzel ist absolut lecker!" /><br/><span class="ans-meaning">"Translation: Das Schnitzel ist absolut lecker!"</span></details>
+**4.** Pizza ist mein ___ (favourite food). → <details><summary>Answer</summary>**Lieblingsessen** <SpeakButton text="Pizza ist mein Lieblingsessen." /><br/><span class="ans-meaning">"Translation: Pizza ist mein Lieblingsessen."</span></details>
+**5.** Achtung, das Essen ist sehr ___ (spicy)! → <details><summary>Answer</summary>**scharf** <SpeakButton text="Achtung, das Essen ist sehr scharf!" /><br/><span class="ans-meaning">"Translation: Achtung, das Essen ist sehr scharf!"</span></details>
 
 ### 3B — Flash Cards
 

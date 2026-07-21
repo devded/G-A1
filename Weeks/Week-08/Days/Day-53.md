@@ -96,21 +96,21 @@
 
 ### How to Ask for the Bill
 
-- **Zahlen, bitte!** / **Wir möchten bitte bezahlen.** <SpeakButton text="Zahlen, bitte! / Wir möchten bitte bezahlen." />
-- **Die Rechnung, bitte!** <SpeakButton text="Die Rechnung, bitte!" />
+• **Zahlen, bitte!** / **Wir möchten bitte bezahlen.** <SpeakButton text="Zahlen, bitte! / Wir möchten bitte bezahlen." />
+• **Die Rechnung, bitte!** <SpeakButton text="Die Rechnung, bitte!" />
 
 ### Together or Separately?
 Waiters in Germany will always ask: **Zusammen oder getrennt?**
 
-- **Getrennt, bitte.** = Each person pays for their own food. <SpeakButton text="Getrennt, bitte. = Each person pays for their own food." />
-- **Zusammen, bitte.** = One person pays the total bill. <SpeakButton text="Zusammen, bitte. = One person pays the total bill." />
+• **Getrennt, bitte.** = Each person pays for their own food. <SpeakButton text="Getrennt, bitte. = Each person pays for their own food." />
+• **Zusammen, bitte.** = One person pays the total bill. <SpeakButton text="Zusammen, bitte. = One person pays the total bill." />
 
 ### Tipping Culture in Germany (5–10%)
 
 In Germany, you tell the waiter the **total amount including tip** when handing over cash!
 
-- Bill is 18,20 € → *Hand over 20 € bill and say:* <SpeakButton text="Hand over 20 € bill and say:" />*"20 Euro, bitte!"** (or **"Stimmt so!"**)
-- The waiter will give you back 0 € change <SpeakButton text="The waiter will give you back 0 € change" />(tipping ~1.80 €).
+• Bill is 18,20 € → *Hand over 20 € bill and say:* <SpeakButton text="Hand over 20 € bill and say:" />*"20 Euro, bitte!"** (or **"Stimmt so!"**)
+• The waiter will give you back 0 € change <SpeakButton text="The waiter will give you back 0 € change" />(tipping ~1.80 €).
 
 </div>
 
@@ -120,11 +120,11 @@ In Germany, you tell the waiter the **total amount including tip** when handing 
 
 ### 3A — Complete the sentences
 
-**1.** Wir möchten bitte ___ (pay). → <details><summary>Answer</summary>**bezahlen** <SpeakButton text="Wir möchten bitte bezahlen." /></details>
-**2.** Zusammen oder ___ (separately)? → <details><summary>Answer</summary>**getrennt** <SpeakButton text="Zusammen oder getrennt?" /></details>
-**3.** 25 Euro, ___ (keep the change)! → <details><summary>Answer</summary>**stimmt so** <SpeakButton text="25 Euro, stimmt so!" /></details>
-**4.** Entschuldigung, die Suppe ist ___ (cold). → <details><summary>Answer</summary>**kalt** <SpeakButton text="Entschuldigung, die Suppe ist kalt." /></details>
-**5.** Hier ___ (is missing) ein Messer. → <details><summary>Answer</summary>**fehlt** <SpeakButton text="Hier fehlt ein Messer." /></details>
+**1.** Wir möchten bitte ___ (pay). → <details><summary>Answer</summary>**bezahlen** <SpeakButton text="Wir möchten bitte bezahlen." /><br/><span class="ans-meaning">"Translation: Wir möchten bitte bezahlen."</span></details>
+**2.** Zusammen oder ___ (separately)? → <details><summary>Answer</summary>**getrennt** <SpeakButton text="Zusammen oder getrennt?" /><br/><span class="ans-meaning">"Translation: Zusammen oder getrennt?"</span></details>
+**3.** 25 Euro, ___ (keep the change)! → <details><summary>Answer</summary>**stimmt so** <SpeakButton text="25 Euro, stimmt so!" /><br/><span class="ans-meaning">"Translation: 25 Euro, stimmt so!"</span></details>
+**4.** Entschuldigung, die Suppe ist ___ (cold). → <details><summary>Answer</summary>**kalt** <SpeakButton text="Entschuldigung, die Suppe ist kalt." /><br/><span class="ans-meaning">"Translation: Entschuldigung, die Suppe ist kalt."</span></details>
+**5.** Hier ___ (is missing) ein Messer. → <details><summary>Answer</summary>**fehlt** <SpeakButton text="Hier fehlt ein Messer." /><br/><span class="ans-meaning">"Translation: Hier fehlt ein Messer."</span></details>
 
 ### 3B — Flash Cards
 

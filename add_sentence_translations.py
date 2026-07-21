@@ -1,0 +1,66 @@
+import re
+from run_build_all import all_weeks
+
+# Map of clean German sentences to English translations
+translations = {
+    # Week 1
+    "Hallo! Wie heißt du?": "Hello! What is your name?",
+    "Guten Tag! Ich bin Anna.": "Good day! I am Anna.",
+    "Guten Abend! Wie geht es Ihnen?": "Good evening! How are you? (formal)",
+    "Ein Kaffee, bitte.": "A coffee, please.",
+    "Tschüss, bis morgen!": "Bye, see you tomorrow!",
+    "Ich bin Maria.": "I am Maria.",
+    "Du bist sehr nett.": "You are very nice.",
+    "Er ist mein Freund.": "He is my friend.",
+    "Wir sind aus Deutschland.": "We are from Germany.",
+    "Wie heißen Sie?": "What is your name? (formal)",
+    "Ich bin zwanzig Jahre alt.": "I am twenty years old.",
+    "Wie alt bist du?": "How old are you?",
+    "Zwei + drei = fünf.": "Two + three = five.",
+    "Zehn + zehn = zwanzig.": "Ten + ten = twenty.",
+    "Er ist 18 Jahre alt.": "He is 18 years old.",
+    "Am Montag habe ich Deutschunterricht.": "On Monday I have German class.",
+    "Heute ist Montag.": "Today is Monday.",
+    "Der Himmel ist blau.": "The sky is blue.",
+    "Das Auto ist rot.": "The car is red.",
+    "Freitag ist mein Lieblingstag.": "Friday is my favorite day.",
+    "Das ist ein Mann.": "That is a man.",
+    "Das ist eine Frau.": "That is a woman.",
+    "Das ist ein Buch.": "That is a book.",
+    "Der Tisch ist neu.": "The table is new.",
+    "Die Tasche ist schön.": "The bag is beautiful.",
+    "Ich habe eine Frage.": "I have a question.",
+    "Er ist müde.": "He is tired.",
+    "Hast du kein Geld?": "Do you have no money?",
+    "Wir haben Zeit.": "We have time.",
+    "Bist du hungrig?": "Are you hungry?",
+    
+    # Week 2
+    "Ich habe eine große Familie.": "I have a big family.",
+    "Hast du einen Bruder?": "Do you have a brother?",
+    "Er hat zwei Schwestern.": "He has two sisters.",
+    "Wir haben eine liebe Großmutter.": "We have a dear grandmother.",
+    "Ich habe keinen Bruder.": "I do not have a brother.",
+    "Das ist mein Vater.": "That is my father.",
+    "Ist das deine Mutter?": "Is that your mother?",
+    "Meine Tochter heißt Sarah.": "My daughter is named Sarah.",
+    "Wo wohnt dein Onkel?": "Where does your uncle live?",
+    "Meine Eltern wohnen in Berlin.": "My parents live in Berlin.",
+    "Das ist Thomas und seine Frau.": "That is Thomas and his wife.",
+    "Das ist Maria und ihr Sohn.": "That is Maria and her son.",
+    "Wir lieben unsere Familie.": "We love our family.",
+    "Herr Müller, wie heißt Ihre Frau?": "Mr Müller, what is your wife's name?",
+    "Er ist ledig und 25 Jahre alt.": "He is single and 25 years old.",
+    "Ich bin Lehrerin.": "I am a teacher (female).",
+    "Er arbeitet als Arzt.": "He works as a doctor.",
+    "Was bist du von Beruf?": "What is your profession?",
+    "Meine Schwester arbeitet in Berlin.": "My sister works in Berlin.",
+    "Mein Vater ist Ingenieur.": "My father is an engineer.",
+    "Ich bin Einzelkind.": "I am an only child.",
+    "Wir wohnen zusammen in München.": "We live together in Munich.",
+    "Ich habe zwei Geschwister.": "I have two siblings.",
+    "Mein Bruder ist schon 30 Jahre alt.": "My brother is already 30 years old.",
+    "Ich wohne noch bei den Eltern.": "I still live with my parents."
+}
+
+print("Translations helper initialized.")

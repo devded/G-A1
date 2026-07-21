@@ -96,16 +96,16 @@
 
 ### Seasons: All Masculine (der) + Preposition **im**
 
-- **im Frühling** <SpeakButton text="im Frühling" />(in spring)
-- **im Sommer** <SpeakButton text="im Sommer" />(in summer)
-- **im Herbst** <SpeakButton text="im Herbst" />(in autumn)
-- **im Winter** <SpeakButton text="im Winter" />(in winter)
+• **im Frühling** <SpeakButton text="im Frühling" />(in spring)
+• **im Sommer** <SpeakButton text="im Sommer" />(in summer)
+• **im Herbst** <SpeakButton text="im Herbst" />(in autumn)
+• **im Winter** <SpeakButton text="im Winter" />(in winter)
 
 ### Asking & Stating Dates
 
-- **Der wievielte ist heute?** * <SpeakButton text="Der wievielte ist heute?" />(What is the date today?)*
-- **Heute ist der 20. <SpeakButton text="Heute ist der 20." />(zwanzigste) Juli.** *(Today is the 20th of July.)*
-- **Wann hast du Geburtstag?** * <SpeakButton text="Wann hast du Geburtstag?" />(When is your birthday?)*
+• **Der wievielte ist heute?** * <SpeakButton text="Der wievielte ist heute?" />(What is the date today?)*
+• **Heute ist der 20. <SpeakButton text="Heute ist der 20." />(zwanzigste) Juli.** *(Today is the 20th of July.)*
+• **Wann hast du Geburtstag?** * <SpeakButton text="Wann hast du Geburtstag?" />(When is your birthday?)*
 - *Am 15. <SpeakButton text="Am 15." />(fünfzehnten) Mai.* (On the 15th of May.)
 
 </div>
@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** ___ (In summer) fahren wir ans Meer. → <details><summary>Answer</summary>**Im Sommer** <SpeakButton text="Im Sommer fahren wir ans Meer." /></details>
-**2.** Im ___ (winter) ist es sehr kalt. → <details><summary>Answer</summary>**Winter** <SpeakButton text="Im Winter ist es sehr kalt." /></details>
-**3.** Im Juli ist es wirklich ___ (hot). → <details><summary>Answer</summary>**heiß** <SpeakButton text="Im Juli ist es wirklich heiß." /></details>
-**4.** Heute ist der 10. ___ (October). → <details><summary>Answer</summary>**Oktober** <SpeakButton text="Heute ist der 10. Oktober." /></details>
-**5.** Im ___ (spring) scheint die Sonne. → <details><summary>Answer</summary>**Frühling** <SpeakButton text="Im Frühling scheint die Sonne." /></details>
+**1.** ___ (In summer) fahren wir ans Meer. → <details><summary>Answer</summary>**Im Sommer** <SpeakButton text="Im Sommer fahren wir ans Meer." /><br/><span class="ans-meaning">"Translation: Im Sommer fahren wir ans Meer."</span></details>
+**2.** Im ___ (winter) ist es sehr kalt. → <details><summary>Answer</summary>**Winter** <SpeakButton text="Im Winter ist es sehr kalt." /><br/><span class="ans-meaning">"Translation: Im Winter ist es sehr kalt."</span></details>
+**3.** Im Juli ist es wirklich ___ (hot). → <details><summary>Answer</summary>**heiß** <SpeakButton text="Im Juli ist es wirklich heiß." /><br/><span class="ans-meaning">"Translation: Im Juli ist es wirklich heiß."</span></details>
+**4.** Heute ist der 10. ___ (October). → <details><summary>Answer</summary>**Oktober** <SpeakButton text="Heute ist der 10. Oktober." /><br/><span class="ans-meaning">"Translation: Heute ist der 10. Oktober."</span></details>
+**5.** Im ___ (spring) scheint die Sonne. → <details><summary>Answer</summary>**Frühling** <SpeakButton text="Im Frühling scheint die Sonne." /><br/><span class="ans-meaning">"Translation: Im Frühling scheint die Sonne."</span></details>
 
 ### 3B — Flash Cards
 

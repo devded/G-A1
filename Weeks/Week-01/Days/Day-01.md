@@ -1,7 +1,7 @@
 # Day 01 — Alphabet, Sounds & First Greetings
 
 <div class="day-nav">
-  <a href="/Weeks/Week-01/">← Week 1</a>
+  <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>
   <span class="day-center"><Icon name="calendar" /> Week 1 · Day 1 of 84 <span class="day-meta">· A1.1 · 8 new words</span></span>
   <a href="/Weeks/Week-01/Days/Day-02">Day 02 →</a>
 </div>
@@ -97,18 +97,18 @@
 ### Key Sounds & Special Characters
 German uses the same 26 letters as English, plus 4 special characters: **ä, ö, ü, ß**
 
-- **ä** (like "e" in "bed"): Bäcker
-- **ö** (like "u" in "burn"): schön
-- **ü** (like "u" + pucker lips): über
-- **ß** (like double "ss"): Straße
-- **ei** (like "eye"): nein
-- **ie** (like "ee"): hier
-- **eu / äu** <SpeakButton text="eu / äu" />(like "oy"): neu
+• **ä** (like "e" in "bed"): Bäcker
+• **ö** (like "u" in "burn"): schön
+• **ü** (like "u" + pucker lips): über
+• **ß** (like double "ss"): Straße
+• **ei** (like "eye"): nein
+• **ie** (like "ee"): hier
+• **eu / äu** <SpeakButton text="eu / äu" />(like "oy"): neu
 
 ### Formal vs Informal Greetings
-- **Friends / family**: Hallo! Tschüss! <SpeakButton text="Friends / family: Hallo! Tschüss!" />
-- **Adults / strangers**: Guten Tag! Auf Wiedersehen! <SpeakButton text="Adults / strangers: Guten Tag! Auf Wiedersehen!" />
-- **On the phone**: Guten Tag! Auf Wiederhören! <SpeakButton text="On the phone: Guten Tag! Auf Wiederhören!" />
+• **Friends / family**: Hallo! Tschüss! <SpeakButton text="Friends / family: Hallo! Tschüss!" />
+• **Adults / strangers**: Guten Tag! Auf Wiedersehen! <SpeakButton text="Adults / strangers: Guten Tag! Auf Wiedersehen!" />
+• **On the phone**: Guten Tag! Auf Wiederhören! <SpeakButton text="On the phone: Guten Tag! Auf Wiederhören!" />
 
 </div>
 
@@ -118,11 +118,11 @@ German uses the same 26 letters as English, plus 4 special characters: **ä, ö,
 
 ### 3A — Complete the sentences
 
-**1.** ___! Wie heißt du? → <details><summary>Answer</summary>**Hallo** <SpeakButton text="Hallo! Wie heißt du?" /></details>
-**2.** Guten ___! Ich bin Anna. → <details><summary>Answer</summary>**Tag** <SpeakButton text="Guten Tag! Ich bin Anna." /></details>
-**3.** Guten ___! Wie geht es Ihnen? → <details><summary>Answer</summary>**Abend** <SpeakButton text="Guten Abend! Wie geht es Ihnen?" /></details>
-**4.** Ein Kaffee, ___. → <details><summary>Answer</summary>**bitte** <SpeakButton text="Ein Kaffee, bitte." /></details>
-**5.** ___, bis morgen! → <details><summary>Answer</summary>**Tschüss** <SpeakButton text="Tschüss, bis morgen!" /></details>
+**1.** ___! Wie heißt du? → <details><summary>Answer</summary>**Hallo** <SpeakButton text="Hallo! Wie heißt du?" /><br/><span class="ans-meaning">"Hello! What is your name?"</span></details>
+**2.** Guten ___! Ich bin Anna. → <details><summary>Answer</summary>**Tag** <SpeakButton text="Guten Tag! Ich bin Anna." /><br/><span class="ans-meaning">"Good day! I am Anna."</span></details>
+**3.** Guten ___! Wie geht es Ihnen? → <details><summary>Answer</summary>**Abend** <SpeakButton text="Guten Abend! Wie geht es Ihnen?" /><br/><span class="ans-meaning">"Good evening! How are you? (formal)"</span></details>
+**4.** Ein Kaffee, ___. → <details><summary>Answer</summary>**bitte** <SpeakButton text="Ein Kaffee, bitte." /><br/><span class="ans-meaning">"A coffee, please."</span></details>
+**5.** ___, bis morgen! → <details><summary>Answer</summary>**Tschüss** <SpeakButton text="Tschüss, bis morgen!" /><br/><span class="ans-meaning">"Bye, see you tomorrow!"</span></details>
 
 ### 3B — Flash Cards
 
@@ -149,7 +149,7 @@ German uses the same 26 letters as English, plus 4 special characters: **ä, ö,
 > <Icon name="arrow-right" /> **Tomorrow (Day 02):** Personal pronouns and introducing yourself!
 
 <div class="day-nav">
-  <a href="/Weeks/Week-01/">← Week 1</a>
+  <a href="/Weeks/Week-01/Days/Day-01">← Day 01</a>
   <span class="day-center">Day 1 of 84 · Week 1</span>
   <a href="/Weeks/Week-01/Days/Day-02">Day 02 →</a>
 </div>

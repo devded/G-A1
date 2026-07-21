@@ -31,6 +31,24 @@ all_weeks.append(w12)
 
 base_dir = '/home/thededar/Downloads/Workspace/test2/German-A1-Self-Study'
 
+# Auto-enrich fillIns with English translations
+from auto_enrich_fillins import TRANSLATIONS
+import re
+
+for w in all_weeks:
+    for d in w.get("days", []):
+        for f in d.get("fillIns", []):
+            q = f["q"].strip()
+            ans = f["a"].strip()
+            if "en" not in f or not f["en"]:
+                if q in TRANSLATIONS:
+                    f["en"] = TRANSLATIONS[q]
+                else:
+                    de = re.sub(r'___(?:\s*\([^)]*\))?', ans, q).strip()
+                    de_clean = re.sub(r'[*_`]', '', de)
+                    de_clean = re.sub(r'\s*\([^)]*\)', '', de_clean).strip()
+                    f["en"] = f"Translation: {de_clean}"
+
 total_days_written = 0
 total_readmes_written = 0
 

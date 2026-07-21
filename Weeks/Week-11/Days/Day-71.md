@@ -97,15 +97,15 @@
 ### 2 Ways to Say Something Hurts in German
 
 1. **[Body part] tut weh** (Singular) / **[Body parts] tun weh** (Plural): <SpeakButton text="[Body part] tut weh" />
-- *Mein Kopf **tut weh**.* <SpeakButton text="Mein Kopf tut weh." />(My head hurts.)
-- *Meine Augen **tun weh**.* <SpeakButton text="Meine Augen tun weh." />(My eyes hurt.)
+• *Mein Kopf **tut weh**.* <SpeakButton text="Mein Kopf tut weh." />(My head hurts.)
+• *Meine Augen **tun weh**.* <SpeakButton text="Meine Augen tun weh." />(My eyes hurt.)
 
 2. **Ich habe + [Body Part]schmerzen:** <SpeakButton text="Ich habe + [Body Part]schmerzen:" />
-- **Kopfschmerzen** = headache <SpeakButton text="Kopfschmerzen = headache" />(*Ich habe Kopfschmerzen.*)
-- **Bauchschmerzen** = stomach ache <SpeakButton text="Bauchschmerzen = stomach ache" />
-- **Rückenschmerzen** = back ache <SpeakButton text="Rückenschmerzen = back ache" />
-- **Zahnschmerzen** = toothache <SpeakButton text="Zahnschmerzen = toothache" />
-- **Halsschmerzen** = sore throat <SpeakButton text="Halsschmerzen = sore throat" />
+• **Kopfschmerzen** = headache <SpeakButton text="Kopfschmerzen = headache" />(*Ich habe Kopfschmerzen.*)
+• **Bauchschmerzen** = stomach ache <SpeakButton text="Bauchschmerzen = stomach ache" />
+• **Rückenschmerzen** = back ache <SpeakButton text="Rückenschmerzen = back ache" />
+• **Zahnschmerzen** = toothache <SpeakButton text="Zahnschmerzen = toothache" />
+• **Halsschmerzen** = sore throat <SpeakButton text="Halsschmerzen = sore throat" />
 
 </div>
 
@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Mein ___ (head) tut sehr weh. → <details><summary>Answer</summary>**Kopf** <SpeakButton text="Mein Kopf tut sehr weh." /></details>
-**2.** Ich habe starke ___ (headache). → <details><summary>Answer</summary>**Kopfschmerzen** <SpeakButton text="Ich habe starke Kopfschmerzen." /></details>
-**3.** Mein ___ (back) tut weh. → <details><summary>Answer</summary>**Rücken** <SpeakButton text="Mein Rücken tut weh." /></details>
-**4.** Meine Beine ___ (hurt, pl). → <details><summary>Answer</summary>**tun weh** <SpeakButton text="Meine Beine tun weh." /></details>
-**5.** Er hat ___ (toothache). → <details><summary>Answer</summary>**Zahnschmerzen** <SpeakButton text="Er hat Zahnschmerzen." /></details>
+**1.** Mein ___ (head) tut sehr weh. → <details><summary>Answer</summary>**Kopf** <SpeakButton text="Mein Kopf tut sehr weh." /><br/><span class="ans-meaning">"Translation: Mein Kopf tut sehr weh."</span></details>
+**2.** Ich habe starke ___ (headache). → <details><summary>Answer</summary>**Kopfschmerzen** <SpeakButton text="Ich habe starke Kopfschmerzen." /><br/><span class="ans-meaning">"Translation: Ich habe starke Kopfschmerzen."</span></details>
+**3.** Mein ___ (back) tut weh. → <details><summary>Answer</summary>**Rücken** <SpeakButton text="Mein Rücken tut weh." /><br/><span class="ans-meaning">"Translation: Mein Rücken tut weh."</span></details>
+**4.** Meine Beine ___ (hurt, pl). → <details><summary>Answer</summary>**tun weh** <SpeakButton text="Meine Beine tun weh." /><br/><span class="ans-meaning">"Translation: Meine Beine tun weh."</span></details>
+**5.** Er hat ___ (toothache). → <details><summary>Answer</summary>**Zahnschmerzen** <SpeakButton text="Er hat Zahnschmerzen." /><br/><span class="ans-meaning">"Translation: Er hat Zahnschmerzen."</span></details>
 
 ### 3B — Flash Cards
 

@@ -116,11 +116,11 @@ Only **masculine** articles change in the accusative case! Feminine, neuter, and
 
 ### 3A — Complete the sentences
 
-**1.** Ich kaufe ___ (a, m) Schrank. → <details><summary>Answer</summary>**einen** <SpeakButton text="Ich kaufe einen Schrank." /></details>
-**2.** Wir haben ___ (a, n) großes Bett. → <details><summary>Answer</summary>**ein** <SpeakButton text="Wir haben ein großes Bett." /></details>
-**3.** Ich suche ___ (the, f) Lampe. → <details><summary>Answer</summary>**die** <SpeakButton text="Ich suche die Lampe." /></details>
-**4.** Er hat ___ (no, m) Tisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Er hat keinen Tisch." /></details>
-**5.** Brauchst du ___ (the, m) Spiegel? → <details><summary>Answer</summary>**den** <SpeakButton text="Brauchst du den Spiegel?" /></details>
+**1.** Ich kaufe ___ (a, m) Schrank. → <details><summary>Answer</summary>**einen** <SpeakButton text="Ich kaufe einen Schrank." /><br/><span class="ans-meaning">"I am buying a wardrobe."</span></details>
+**2.** Wir haben ___ (a, n) großes Bett. → <details><summary>Answer</summary>**ein** <SpeakButton text="Wir haben ein großes Bett." /><br/><span class="ans-meaning">"We have a big bed."</span></details>
+**3.** Ich suche ___ (the, f) Lampe. → <details><summary>Answer</summary>**die** <SpeakButton text="Ich suche die Lampe." /><br/><span class="ans-meaning">"I am looking for the lamp."</span></details>
+**4.** Er hat ___ (no, m) Tisch. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Er hat keinen Tisch." /><br/><span class="ans-meaning">"He has no table."</span></details>
+**5.** Brauchst du ___ (the, m) Spiegel? → <details><summary>Answer</summary>**den** <SpeakButton text="Brauchst du den Spiegel?" /><br/><span class="ans-meaning">"Do you need the mirror?"</span></details>
 
 ### 3B — Flash Cards
 

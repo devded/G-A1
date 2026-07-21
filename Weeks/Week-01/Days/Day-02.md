@@ -118,11 +118,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ Maria. → <details><summary>Answer</summary>**bin** <SpeakButton text="Ich bin Maria." /></details>
-**2.** Du ___ sehr nett. → <details><summary>Answer</summary>**bist** <SpeakButton text="Du bist sehr nett." /></details>
-**3.** Er ___ mein Freund. → <details><summary>Answer</summary>**ist** <SpeakButton text="Er ist mein Freund." /></details>
-**4.** Wir ___ aus Deutschland. → <details><summary>Answer</summary>**sind** <SpeakButton text="Wir sind aus Deutschland." /></details>
-**5.** Wie heißen ___? (formal) → <details><summary>Answer</summary>**Sie** <SpeakButton text="Wie heißen Sie? (formal)" /></details>
+**1.** Ich ___ Maria. → <details><summary>Answer</summary>**bin** <SpeakButton text="Ich bin Maria." /><br/><span class="ans-meaning">"I am Maria."</span></details>
+**2.** Du ___ sehr nett. → <details><summary>Answer</summary>**bist** <SpeakButton text="Du bist sehr nett." /><br/><span class="ans-meaning">"You are very nice."</span></details>
+**3.** Er ___ mein Freund. → <details><summary>Answer</summary>**ist** <SpeakButton text="Er ist mein Freund." /><br/><span class="ans-meaning">"He is my friend."</span></details>
+**4.** Wir ___ aus Deutschland. → <details><summary>Answer</summary>**sind** <SpeakButton text="Wir sind aus Deutschland." /><br/><span class="ans-meaning">"We are from Germany."</span></details>
+**5.** Wie heißen ___? (formal) → <details><summary>Answer</summary>**Sie** <SpeakButton text="Wie heißen Sie? (formal)" /><br/><span class="ans-meaning">"What is your name? (formal)"</span></details>
 
 ### 3B — Flash Cards
 

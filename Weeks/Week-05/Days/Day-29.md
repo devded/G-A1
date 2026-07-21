@@ -98,10 +98,10 @@
 
 In official contexts (train stations, news, schedules), German uses the 24-hour clock:
 
-- 08:00 → **Es ist acht Uhr.** <SpeakButton text="08:00 → Es ist acht Uhr." />
-- 08:15 → **Es ist acht Uhr fünfzehn.** <SpeakButton text="08:15 → Es ist acht Uhr fünfzehn." />
-- 14:30 → **Es ist vierzehn Uhr dreißig.** <SpeakButton text="14:30 → Es ist vierzehn Uhr dreißig." />
-- 19:45 → **Es ist neunzehn Uhr fünfundvierzig.** <SpeakButton text="19:45 → Es ist neunzehn Uhr fünfundvierzig." />
+• 08:00 → **Es ist acht Uhr.** <SpeakButton text="08:00 → Es ist acht Uhr." />
+• 08:15 → **Es ist acht Uhr fünfzehn.** <SpeakButton text="08:15 → Es ist acht Uhr fünfzehn." />
+• 14:30 → **Es ist vierzehn Uhr dreißig.** <SpeakButton text="14:30 → Es ist vierzehn Uhr dreißig." />
+• 19:45 → **Es ist neunzehn Uhr fünfundvierzig.** <SpeakButton text="19:45 → Es ist neunzehn Uhr fünfundvierzig." />
 
 ### Time Prepositions
 
@@ -118,11 +118,11 @@ In official contexts (train stations, news, schedules), German uses the 24-hour 
 
 ### 3A — Complete the sentences
 
-**1.** Der Film beginnt ___ (at) 20 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="Der Film beginnt um 20 Uhr." /></details>
-**2.** 08:30 official: Es ist acht Uhr ___. → <details><summary>Answer</summary>**dreißig** <SpeakButton text="08:30 official: Es ist acht Uhr dreißig." /></details>
-**3.** ___ (In the morning) trinke ich Tee. → <details><summary>Answer</summary>**Am Morgen** <SpeakButton text="Am Morgen trinke ich Tee." /></details>
-**4.** 15:15 official: Es ist fünfzehn Uhr ___. → <details><summary>Answer</summary>**fünfzehn** <SpeakButton text="15:15 official: Es ist fünfzehn Uhr fünfzehn." /></details>
-**5.** In ___ (the night) ist es ruhig. → <details><summary>Answer</summary>**der Nacht** <SpeakButton text="In der Nacht ist es ruhig." /></details>
+**1.** Der Film beginnt ___ (at) 20 Uhr. → <details><summary>Answer</summary>**um** <SpeakButton text="Der Film beginnt um 20 Uhr." /><br/><span class="ans-meaning">"Translation: Der Film beginnt um 20 Uhr."</span></details>
+**2.** 08:30 official: Es ist acht Uhr ___. → <details><summary>Answer</summary>**dreißig** <SpeakButton text="08:30 official: Es ist acht Uhr dreißig." /><br/><span class="ans-meaning">"Translation: 08:30 official: Es ist acht Uhr dreißig."</span></details>
+**3.** ___ (In the morning) trinke ich Tee. → <details><summary>Answer</summary>**Am Morgen** <SpeakButton text="Am Morgen trinke ich Tee." /><br/><span class="ans-meaning">"Translation: Am Morgen trinke ich Tee."</span></details>
+**4.** 15:15 official: Es ist fünfzehn Uhr ___. → <details><summary>Answer</summary>**fünfzehn** <SpeakButton text="15:15 official: Es ist fünfzehn Uhr fünfzehn." /><br/><span class="ans-meaning">"Translation: 15:15 official: Es ist fünfzehn Uhr fünfzehn."</span></details>
+**5.** In ___ (the night) ist es ruhig. → <details><summary>Answer</summary>**der Nacht** <SpeakButton text="In der Nacht ist es ruhig." /><br/><span class="ans-meaning">"Translation: In der Nacht ist es ruhig."</span></details>
 
 ### 3B — Flash Cards
 

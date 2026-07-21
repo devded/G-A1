@@ -99,16 +99,16 @@
 Weather expressions in German use the **impersonal pronoun 'es'** (it):
 
 1. **Es ist + Adjective:** <SpeakButton text="Es ist + Adjective:" />
-- *Es ist warm.* <SpeakButton text="Es ist warm." />(It is warm.)
-- *Es ist kalt.* <SpeakButton text="Es ist kalt." />(It is cold.)
-- *Es ist sonnig.* <SpeakButton text="Es ist sonnig." />(It is sunny.)
-- *Es ist bewölkt.* <SpeakButton text="Es ist bewölkt." />(It is cloudy.)
-- *Es ist windig.* <SpeakButton text="Es ist windig." />(It is windy.)
+• *Es ist warm.* <SpeakButton text="Es ist warm." />(It is warm.)
+• *Es ist kalt.* <SpeakButton text="Es ist kalt." />(It is cold.)
+• *Es ist sonnig.* <SpeakButton text="Es ist sonnig." />(It is sunny.)
+• *Es ist bewölkt.* <SpeakButton text="Es ist bewölkt." />(It is cloudy.)
+• *Es ist windig.* <SpeakButton text="Es ist windig." />(It is windy.)
 
 2. **Es + Weather Verb:** <SpeakButton text="Es + Weather Verb:" />
-- *Es regnet.* <SpeakButton text="Es regnet." />(It is raining.)
-- *Es schneit.* <SpeakButton text="Es schneit." />(It is snowing.)
-- *Die Sonne scheint.* <SpeakButton text="Die Sonne scheint." />(The sun is shining.)
+• *Es regnet.* <SpeakButton text="Es regnet." />(It is raining.)
+• *Es schneit.* <SpeakButton text="Es schneit." />(It is snowing.)
+• *Die Sonne scheint.* <SpeakButton text="Die Sonne scheint." />(The sun is shining.)
 
 > <Icon name="message-square" /> **Asking about weather:**   <SpeakButton text="message-square" />
 > • *Wie ist das Wetter heute?* (What is the weather like today?)   <SpeakButton text="Wie ist das Wetter heute?" />
@@ -122,11 +122,11 @@ Weather expressions in German use the **impersonal pronoun 'es'** (it):
 
 ### 3A — Complete the sentences
 
-**1.** Wie ist das ___ (weather) heute? → <details><summary>Answer</summary>**Wetter** <SpeakButton text="Wie ist das Wetter heute?" /></details>
-**2.** ___ (It is raining) heute in Berlin. → <details><summary>Answer</summary>**Es regnet** <SpeakButton text="Es regnet heute in Berlin." /></details>
-**3.** Es ist heute sehr ___ (sunny) und warm. → <details><summary>Answer</summary>**sonnig** <SpeakButton text="Es ist heute sehr sonnig und warm." /></details>
-**4.** Im Dezember ___ (it is snowing) es oft. → <details><summary>Answer</summary>**schneit** <SpeakButton text="Im Dezember schneit es oft." /></details>
-**5.** Die ___ (sun) scheint den ganzen Tag. → <details><summary>Answer</summary>**Sonne** <SpeakButton text="Die Sonne scheint den ganzen Tag." /></details>
+**1.** Wie ist das ___ (weather) heute? → <details><summary>Answer</summary>**Wetter** <SpeakButton text="Wie ist das Wetter heute?" /><br/><span class="ans-meaning">"Translation: Wie ist das Wetter heute?"</span></details>
+**2.** ___ (It is raining) heute in Berlin. → <details><summary>Answer</summary>**Es regnet** <SpeakButton text="Es regnet heute in Berlin." /><br/><span class="ans-meaning">"Translation: Es regnet heute in Berlin."</span></details>
+**3.** Es ist heute sehr ___ (sunny) und warm. → <details><summary>Answer</summary>**sonnig** <SpeakButton text="Es ist heute sehr sonnig und warm." /><br/><span class="ans-meaning">"Translation: Es ist heute sehr sonnig und warm."</span></details>
+**4.** Im Dezember ___ (it is snowing) es oft. → <details><summary>Answer</summary>**schneit** <SpeakButton text="Im Dezember schneit es oft." /><br/><span class="ans-meaning">"Translation: Im Dezember schneit es oft."</span></details>
+**5.** Die ___ (sun) scheint den ganzen Tag. → <details><summary>Answer</summary>**Sonne** <SpeakButton text="Die Sonne scheint den ganzen Tag." /><br/><span class="ans-meaning">"Translation: Die Sonne scheint den ganzen Tag."</span></details>
 
 ### 3B — Flash Cards
 

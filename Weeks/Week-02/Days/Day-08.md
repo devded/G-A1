@@ -119,11 +119,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (haben) eine große Familie. → <details><summary>Answer</summary>**habe** <SpeakButton text="Ich habe eine große Familie." /></details>
-**2.** ___ (du / haben) einen Bruder? → <details><summary>Answer</summary>**Hast du** <SpeakButton text="Hast du einen Bruder?" /></details>
-**3.** Er ___ (haben) zwei Schwestern. → <details><summary>Answer</summary>**hat** <SpeakButton text="Er hat zwei Schwestern." /></details>
-**4.** Wir ___ (haben) eine liebe Großmutter. → <details><summary>Answer</summary>**haben** <SpeakButton text="Wir haben eine liebe Großmutter." /></details>
-**5.** Ich habe ___ (no / not a) Bruder. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Ich habe keinen Bruder." /></details>
+**1.** Ich ___ (haben) eine große Familie. → <details><summary>Answer</summary>**habe** <SpeakButton text="Ich habe eine große Familie." /><br/><span class="ans-meaning">"I have a big family."</span></details>
+**2.** ___ (du / haben) einen Bruder? → <details><summary>Answer</summary>**Hast du** <SpeakButton text="Hast du einen Bruder?" /><br/><span class="ans-meaning">"Do you have a brother?"</span></details>
+**3.** Er ___ (haben) zwei Schwestern. → <details><summary>Answer</summary>**hat** <SpeakButton text="Er hat zwei Schwestern." /><br/><span class="ans-meaning">"He has two sisters."</span></details>
+**4.** Wir ___ (haben) eine liebe Großmutter. → <details><summary>Answer</summary>**haben** <SpeakButton text="Wir haben eine liebe Großmutter." /><br/><span class="ans-meaning">"We have a dear grandmother."</span></details>
+**5.** Ich habe ___ (no / not a) Bruder. → <details><summary>Answer</summary>**keinen** <SpeakButton text="Ich habe keinen Bruder." /><br/><span class="ans-meaning">"I do not have a brother."</span></details>
 
 ### 3B — Flash Cards
 

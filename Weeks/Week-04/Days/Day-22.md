@@ -97,12 +97,12 @@
 ### 2 Ways to State a Job in German
 
 1. **sein + Profession (No article!):** <SpeakButton text="sein + Profession (No article!):" />
-- *Ich bin Ingenieur.* <SpeakButton text="Ich bin Ingenieur." />(I am an engineer.)
-- *Sie ist Köchin.* <SpeakButton text="Sie ist Köchin." />(She is a chef.)
+• *Ich bin Ingenieur.* <SpeakButton text="Ich bin Ingenieur." />(I am an engineer.)
+• *Sie ist Köchin.* <SpeakButton text="Sie ist Köchin." />(She is a chef.)
 
 2. **arbeiten als + Profession (No article!):** <SpeakButton text="arbeiten als + Profession (No article!):" />
-- *Er arbeitet als Mechaniker.* <SpeakButton text="Er arbeitet als Mechaniker." />(He works as a mechanic.)
-- *Ich arbeite als Verkäuferin.* <SpeakButton text="Ich arbeite als Verkäuferin." />(I work as a shop assistant.)
+• *Er arbeitet als Mechaniker.* <SpeakButton text="Er arbeitet als Mechaniker." />(He works as a mechanic.)
+• *Ich arbeite als Verkäuferin.* <SpeakButton text="Ich arbeite als Verkäuferin." />(I work as a shop assistant.)
 
 > <Icon name="alert-triangle" /> **Reminder:** Never say *Ich bin ein Ingenieur*. Keep it simple: **Ich bin Ingenieur**! <SpeakButton text="alert-triangle" />
 
@@ -114,11 +114,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Er arbeitet ___ (as) Koch. → <details><summary>Answer</summary>**als** <SpeakButton text="Er arbeitet als Koch." /></details>
-**2.** Meine Mutter ist ___ (nurse). → <details><summary>Answer</summary>**Krankenschwester** <SpeakButton text="Meine Mutter ist Krankenschwester." /></details>
-**3.** Sie ist ___ (engineer, f) bei BMW. → <details><summary>Answer</summary>**Ingenieurin** <SpeakButton text="Sie ist Ingenieurin bei BMW." /></details>
-**4.** Mein Bruder arbeitet als ___ (mechanic). → <details><summary>Answer</summary>**Mechaniker** <SpeakButton text="Mein Bruder arbeitet als Mechaniker." /></details>
-**5.** Ich bin ___ (no article needed) Polizist. → <details><summary>Answer</summary>**—** <SpeakButton text="Ich bin — Polizist." /></details>
+**1.** Er arbeitet ___ (as) Koch. → <details><summary>Answer</summary>**als** <SpeakButton text="Er arbeitet als Koch." /><br/><span class="ans-meaning">"Translation: Er arbeitet als Koch."</span></details>
+**2.** Meine Mutter ist ___ (nurse). → <details><summary>Answer</summary>**Krankenschwester** <SpeakButton text="Meine Mutter ist Krankenschwester." /><br/><span class="ans-meaning">"Translation: Meine Mutter ist Krankenschwester."</span></details>
+**3.** Sie ist ___ (engineer, f) bei BMW. → <details><summary>Answer</summary>**Ingenieurin** <SpeakButton text="Sie ist Ingenieurin bei BMW." /><br/><span class="ans-meaning">"Translation: Sie ist Ingenieurin bei BMW."</span></details>
+**4.** Mein Bruder arbeitet als ___ (mechanic). → <details><summary>Answer</summary>**Mechaniker** <SpeakButton text="Mein Bruder arbeitet als Mechaniker." /><br/><span class="ans-meaning">"Translation: Mein Bruder arbeitet als Mechaniker."</span></details>
+**5.** Ich bin ___ (no article needed) Polizist. → <details><summary>Answer</summary>**—** <SpeakButton text="Ich bin — Polizist." /><br/><span class="ans-meaning">"Translation: Ich bin — Polizist."</span></details>
 
 ### 3B — Flash Cards
 

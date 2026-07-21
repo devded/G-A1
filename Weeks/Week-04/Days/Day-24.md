@@ -117,11 +117,11 @@ In German present tense, irregular verbs change their vowel in the **2nd (du)** 
 
 ### 3A — Complete the sentences
 
-**1.** Er ___ (lesen) jeden Tag ein Buch. → <details><summary>Answer</summary>**liest** <SpeakButton text="Er liest jeden Tag ein Buch." /></details>
-**2.** ___ (du / fahren) nach Berlin? → <details><summary>Answer</summary>**Fährst du** <SpeakButton text="Fährst du nach Berlin?" /></details>
-**3.** Sie ___ (sprechen) sehr gut Deutsch. → <details><summary>Answer</summary>**spricht** <SpeakButton text="Sie spricht sehr gut Deutsch." /></details>
-**4.** Das Kind ___ (schlafen) schon. → <details><summary>Answer</summary>**schläft** <SpeakButton text="Das Kind schläft schon." /></details>
-**5.** Was ___ (essen) du gerne? → <details><summary>Answer</summary>**isst** <SpeakButton text="Was isst du gerne?" /></details>
+**1.** Er ___ (lesen) jeden Tag ein Buch. → <details><summary>Answer</summary>**liest** <SpeakButton text="Er liest jeden Tag ein Buch." /><br/><span class="ans-meaning">"Translation: Er liest jeden Tag ein Buch."</span></details>
+**2.** ___ (du / fahren) nach Berlin? → <details><summary>Answer</summary>**Fährst du** <SpeakButton text="Fährst du nach Berlin?" /><br/><span class="ans-meaning">"Translation: Fährst du nach Berlin?"</span></details>
+**3.** Sie ___ (sprechen) sehr gut Deutsch. → <details><summary>Answer</summary>**spricht** <SpeakButton text="Sie spricht sehr gut Deutsch." /><br/><span class="ans-meaning">"Translation: Sie spricht sehr gut Deutsch."</span></details>
+**4.** Das Kind ___ (schlafen) schon. → <details><summary>Answer</summary>**schläft** <SpeakButton text="Das Kind schläft schon." /><br/><span class="ans-meaning">"Translation: Das Kind schläft schon."</span></details>
+**5.** Was ___ (essen) du gerne? → <details><summary>Answer</summary>**isst** <SpeakButton text="Was isst du gerne?" /><br/><span class="ans-meaning">"Translation: Was isst du gerne?"</span></details>
 
 ### 3B — Flash Cards
 

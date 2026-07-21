@@ -109,9 +109,9 @@ Notice the **umlaut drops** in all singular forms!
 
 ### Negation Difference: nicht müssen vs. nicht dürfen!
 
-- **nicht müssen** = don't have to <SpeakButton text="nicht müssen = don't have to" />(no obligation)
+• **nicht müssen** = don't have to <SpeakButton text="nicht müssen = don't have to" />(no obligation)
 - *Du musst nicht kommen.* <SpeakButton text="Du musst nicht kommen." />(You don't have to come.)
-- **nicht dürfen** = MUST NOT <SpeakButton text="nicht dürfen = MUST NOT" />(prohibition!)
+• **nicht dürfen** = MUST NOT <SpeakButton text="nicht dürfen = MUST NOT" />(prohibition!)
 - *Du darfst hier nicht rauchen!* <SpeakButton text="Du darfst hier nicht rauchen!" />(You must not smoke here!)
 
 </div>
@@ -122,11 +122,11 @@ Notice the **umlaut drops** in all singular forms!
 
 ### 3A — Complete the sentences
 
-**1.** Ich ___ (must) morgen früh aufstehen. → <details><summary>Answer</summary>**muss** <SpeakButton text="Ich muss morgen früh aufstehen." /></details>
-**2.** ___ (May) ich hier sitzen? → <details><summary>Answer</summary>**Darf** <SpeakButton text="Darf ich hier sitzen?" /></details>
-**3.** Rauchen ist hier streng ___ (forbidden). → <details><summary>Answer</summary>**verboten** <SpeakButton text="Rauchen ist hier streng verboten." /></details>
-**4.** Hier ___ (must not) man nicht parken! → <details><summary>Answer</summary>**darf** <SpeakButton text="Hier darf man nicht parken!" /></details>
-**5.** Du ___ (don't have to) nicht kommen, wenn du krank bist. → <details><summary>Answer</summary>**musst** <SpeakButton text="Du musst nicht kommen, wenn du krank bist." /></details>
+**1.** Ich ___ (must) morgen früh aufstehen. → <details><summary>Answer</summary>**muss** <SpeakButton text="Ich muss morgen früh aufstehen." /><br/><span class="ans-meaning">"Translation: Ich muss morgen früh aufstehen."</span></details>
+**2.** ___ (May) ich hier sitzen? → <details><summary>Answer</summary>**Darf** <SpeakButton text="Darf ich hier sitzen?" /><br/><span class="ans-meaning">"Translation: Darf ich hier sitzen?"</span></details>
+**3.** Rauchen ist hier streng ___ (forbidden). → <details><summary>Answer</summary>**verboten** <SpeakButton text="Rauchen ist hier streng verboten." /><br/><span class="ans-meaning">"Translation: Rauchen ist hier streng verboten."</span></details>
+**4.** Hier ___ (must not) man nicht parken! → <details><summary>Answer</summary>**darf** <SpeakButton text="Hier darf man nicht parken!" /><br/><span class="ans-meaning">"Translation: Hier darf man nicht parken!"</span></details>
+**5.** Du ___ (don't have to) nicht kommen, wenn du krank bist. → <details><summary>Answer</summary>**musst** <SpeakButton text="Du musst nicht kommen, wenn du krank bist." /><br/><span class="ans-meaning">"Translation: Du musst nicht kommen, wenn du krank bist."</span></details>
 
 ### 3B — Flash Cards
 

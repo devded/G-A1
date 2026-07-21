@@ -97,12 +97,12 @@
 ### Direction vs. Location: **nach Hause** vs. **zu Hause**
 
 1. **nach Hause** = direction (going / driving / coming home) <SpeakButton text="nach Hause" />
-- *Ich gehe nach Hause.* <SpeakButton text="Ich gehe nach Hause." />(I am walking home.)
-- *Er fährt um 17 Uhr nach Hause.* <SpeakButton text="Er fährt um 17 Uhr nach Hause." />(He drives home at 5 pm.)
+• *Ich gehe nach Hause.* <SpeakButton text="Ich gehe nach Hause." />(I am walking home.)
+• *Er fährt um 17 Uhr nach Hause.* <SpeakButton text="Er fährt um 17 Uhr nach Hause." />(He drives home at 5 pm.)
 
 2. **zu Hause** = static location (being / staying / eating at home) <SpeakButton text="zu Hause" />
-- *Ich bin zu Hause.* <SpeakButton text="Ich bin zu Hause." />(I am at home.)
-- *Wir essen zu Hause.* <SpeakButton text="Wir essen zu Hause." />(We eat at home.)
+• *Ich bin zu Hause.* <SpeakButton text="Ich bin zu Hause." />(I am at home.)
+• *Wir essen zu Hause.* <SpeakButton text="Wir essen zu Hause." />(We eat at home.)
 
 ### Sample Daily Routine Text
 
@@ -116,11 +116,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Ich gehe jetzt ___ (home / direction). → <details><summary>Answer</summary>**nach Hause** <SpeakButton text="Ich gehe jetzt nach Hause." /></details>
-**2.** Am Sonntag bin ich ___ (at home / location). → <details><summary>Answer</summary>**zu Hause** <SpeakButton text="Am Sonntag bin ich zu Hause." /></details>
-**3.** Der Weg zur Arbeit ___ (takes) 20 Minuten. → <details><summary>Answer</summary>**dauert** <SpeakButton text="Der Weg zur Arbeit dauert 20 Minuten." /></details>
-**4.** Um 12 Uhr mache ich ___ (break). → <details><summary>Answer</summary>**Pause** <SpeakButton text="Um 12 Uhr mache ich Pause." /></details>
-**5.** Ich ziehe mich um 7 Uhr ___ (anziehen). → <details><summary>Answer</summary>**an** <SpeakButton text="Ich ziehe mich um 7 Uhr an." /></details>
+**1.** Ich gehe jetzt ___ (home / direction). → <details><summary>Answer</summary>**nach Hause** <SpeakButton text="Ich gehe jetzt nach Hause." /><br/><span class="ans-meaning">"Translation: Ich gehe jetzt nach Hause."</span></details>
+**2.** Am Sonntag bin ich ___ (at home / location). → <details><summary>Answer</summary>**zu Hause** <SpeakButton text="Am Sonntag bin ich zu Hause." /><br/><span class="ans-meaning">"Translation: Am Sonntag bin ich zu Hause."</span></details>
+**3.** Der Weg zur Arbeit ___ (takes) 20 Minuten. → <details><summary>Answer</summary>**dauert** <SpeakButton text="Der Weg zur Arbeit dauert 20 Minuten." /><br/><span class="ans-meaning">"Translation: Der Weg zur Arbeit dauert 20 Minuten."</span></details>
+**4.** Um 12 Uhr mache ich ___ (break). → <details><summary>Answer</summary>**Pause** <SpeakButton text="Um 12 Uhr mache ich Pause." /><br/><span class="ans-meaning">"Translation: Um 12 Uhr mache ich Pause."</span></details>
+**5.** Ich ziehe mich um 7 Uhr ___ (anziehen). → <details><summary>Answer</summary>**an** <SpeakButton text="Ich ziehe mich um 7 Uhr an." /><br/><span class="ans-meaning">"Translation: Ich ziehe mich um 7 Uhr an."</span></details>
 
 ### 3B — Flash Cards
 

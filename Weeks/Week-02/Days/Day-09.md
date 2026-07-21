@@ -115,11 +115,11 @@
 
 ### 3A — Complete the sentences
 
-**1.** Das ist ___ (my) Vater. → <details><summary>Answer</summary>**mein** <SpeakButton text="Das ist mein Vater." /></details>
-**2.** Ist das ___ (your) Mutter? → <details><summary>Answer</summary>**deine** <SpeakButton text="Ist das deine Mutter?" /></details>
-**3.** ___ (my) Tochter heißt Sarah. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine Tochter heißt Sarah." /></details>
-**4.** Wo wohnt ___ (your) Onkel? → <details><summary>Answer</summary>**dein** <SpeakButton text="Wo wohnt dein Onkel?" /></details>
-**5.** ___ (my) Eltern wohnen in Berlin. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine Eltern wohnen in Berlin." /></details>
+**1.** Das ist ___ (my) Vater. → <details><summary>Answer</summary>**mein** <SpeakButton text="Das ist mein Vater." /><br/><span class="ans-meaning">"That is my father."</span></details>
+**2.** Ist das ___ (your) Mutter? → <details><summary>Answer</summary>**deine** <SpeakButton text="Ist das deine Mutter?" /><br/><span class="ans-meaning">"Is that your mother?"</span></details>
+**3.** ___ (my) Tochter heißt Sarah. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine Tochter heißt Sarah." /><br/><span class="ans-meaning">"My daughter is named Sarah."</span></details>
+**4.** Wo wohnt ___ (your) Onkel? → <details><summary>Answer</summary>**dein** <SpeakButton text="Wo wohnt dein Onkel?" /><br/><span class="ans-meaning">"Where does your uncle live?"</span></details>
+**5.** ___ (my) Eltern wohnen in Berlin. → <details><summary>Answer</summary>**Meine** <SpeakButton text="Meine Eltern wohnen in Berlin." /><br/><span class="ans-meaning">"My parents live in Berlin."</span></details>
 
 ### 3B — Flash Cards
 
