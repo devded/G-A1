@@ -135,11 +135,11 @@ features:
 ## Your Perfect 30-Minute Daily Session
 
 <div class="day-timer-bar">
-  <div class="timer-segment vocab"><Icon name="book-open" /> Vocabulary <strong>8 min</strong></div>
+  <div class="timer-segment vocab"><Icon name="book-open" /> Vocab <strong>8 min</strong></div>
   <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>10 min</strong></div>
   <div class="timer-segment practice"><Icon name="edit-3" /> Practice <strong>9 min</strong></div>
   <div class="timer-segment review"><Icon name="check-circle" /> Review <strong>3 min</strong></div>
-  <div class="timer-segment total"><Icon name="clock" /> Total: <strong>30 min</strong></div>
+  <div class="timer-segment total"><Icon name="clock" /> <strong>30 min</strong></div>
 </div>
 
 | Step | Activity | Time | What you do |

@@ -7,9 +7,9 @@
 </div>
 
 <div class="day-timer-bar">
-  <div class="timer-segment vocab"><Icon name="repeat" /> Review Vocab <strong>8 min</strong></div>
-  <div class="timer-segment grammar"><Icon name="book" /> Grammar Recap <strong>7 min</strong></div>
-  <div class="timer-segment practice"><Icon name="target" /> Big Quiz <strong>12 min</strong></div>
+  <div class="timer-segment vocab"><Icon name="repeat" /> Vocab <strong>8 min</strong></div>
+  <div class="timer-segment grammar"><Icon name="book" /> Grammar <strong>7 min</strong></div>
+  <div class="timer-segment practice"><Icon name="target" /> Quiz <strong>12 min</strong></div>
   <div class="timer-segment review"><Icon name="message-square" /> Speaking <strong>3 min</strong></div>
   <div class="timer-segment total"><Icon name="clock" /> 30 min</div>
 </div>
