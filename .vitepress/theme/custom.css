@@ -296,35 +296,39 @@ body {
 .day-timer-bar {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   background: var(--g-card-bg);
   border: 1px solid var(--g-card-border);
   border-radius: 12px;
-  padding: 10px 14px;
+  padding: 8px 12px;
   margin: 1.5rem 0;
   box-shadow: var(--g-card-shadow);
-  flex-wrap: wrap;
-  gap: 8px;
+  flex-wrap: nowrap;
+  gap: 6px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .timer-segment {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  font-size: 0.8rem;
+  gap: 5px;
+  font-size: 0.76rem;
   font-weight: 600;
-  padding: 5px 12px;
+  padding: 4px 10px;
   border-radius: 8px;
   white-space: nowrap;
   background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-1);
   border: 1px solid var(--vp-c-divider);
+  flex-shrink: 0;
 }
 
 .timer-segment::before {
   content: '';
   display: inline-block;
-  width: 8px;
-  height: 8px;
+  width: 7px;
+  height: 7px;
   border-radius: 50%;
   flex-shrink: 0;
 }
@@ -335,7 +339,7 @@ body {
 .timer-segment.review::before   { background: var(--g-timer); }
 
 .timer-segment.total {
-  margin-left: auto;
+  margin-left: 0;
   font-weight: 700;
   color: var(--vp-c-text-1);
   background: var(--g-gold-soft);
