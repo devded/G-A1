@@ -5,8 +5,13 @@ export default defineConfig({
   title: "German A1 Self-Study",
   description: "Zero to Goethe A1 in 12 weeks — 30 minutes/day, 8 vocabulary words daily, interactive practice, and full exam prep.",
   cleanUrls: true,
-  lastUpdated: true,
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: false,
+
+  vite: {
+    build: {
+      chunkSizeWarningLimit: 1000,
+    }
+  },
 
   rewrites: {
     'README.md': 'readme-overview.md',
