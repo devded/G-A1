@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const baseDir = '/home/thededar/Downloads/Workspace/test2/German-A1-Self-Study';
+const baseDir = __dirname;
 
 function ensureDir(filePath) {
   const dirname = path.dirname(filePath);

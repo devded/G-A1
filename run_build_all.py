@@ -29,7 +29,7 @@ all_weeks.append(w10)
 all_weeks.append(w11)
 all_weeks.append(w12)
 
-base_dir = '/home/thededar/Downloads/Workspace/test2/German-A1-Self-Study'
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Auto-enrich fillIns with English translations
 from auto_enrich_fillins import TRANSLATIONS

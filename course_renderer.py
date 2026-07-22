@@ -104,7 +104,7 @@ def process_grammar_content(content):
         lines.append(line)
     return '\n'.join(lines)
 
-base_dir = '/home/thededar/Downloads/Workspace/test2/German-A1-Self-Study'
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 def ensure_dir(file_path):
     directory = os.path.dirname(file_path)

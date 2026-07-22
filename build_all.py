@@ -1,7 +1,7 @@
 import os
 import json
 
-base_dir = '/home/thededar/Downloads/Workspace/test2/German-A1-Self-Study'
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Full curriculum definition for Weeks 2-12
 weeks_data = [
