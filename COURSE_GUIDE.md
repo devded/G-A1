@@ -43,7 +43,7 @@ Use this default schedule:
 | 4 | seven days later |
 | 5 | fourteen days later |
 | 6 | thirty days later |
-| 7 | Week 8 final review |
+| 7 | Week 12 final review |
 
 The CSV decks in `Flashcards/` can be imported into Anki. Paper cards are also fine.
 

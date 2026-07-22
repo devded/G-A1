@@ -1,12 +1,12 @@
 # German A1 Self-Study Course
 
-> A complete, self-contained, eight-week German course for an absolute beginner, with English explanations and selective Bengali support.
+> A complete, self-contained, twelve-week German course for an absolute beginner, with English explanations and selective Bengali support.
 
 ![CEFR](https://img.shields.io/badge/CEFR-A1-blue)
-![Duration](https://img.shields.io/badge/Duration-8%20weeks-green)
-![Lessons](https://img.shields.io/badge/Daily%20lessons-56-purple)
+![Duration](https://img.shields.io/badge/Duration-12%20weeks-green)
+![Lessons](https://img.shields.io/badge/Daily%20lessons-84-purple)
 ![Vocabulary](https://img.shields.io/badge/Vocabulary-950-orange)
-![Study time](https://img.shields.io/badge/Guided%20study-112%20hours-brightgreen)
+![Study time](https://img.shields.io/badge/Guided%20study-168%20hours-brightgreen)
 
 ## Start here
 
@@ -19,10 +19,10 @@
 
 ## What is included
 
-- 56 complete daily lessons following one consistent template
-- Eight weekly courses with vocabulary, grammar, pronunciation, listening, reading, speaking, writing, exercises, quizzes, homework and revision
+- 84 complete daily lessons following one consistent template
+- Twelve weekly courses with vocabulary, grammar, pronunciation, listening, reading, speaking, writing, exercises, quizzes, homework and revision
 - 950 A1 lexical items with English and Bengali meanings, articles, plural notes, IPA, examples and review metadata
-- 56 generated German listening-audio files plus scripts
+- Generated German listening-audio files plus scripts
 - Complete A1 grammar and pronunciation references
 - Anki-ready CSV flashcards
 - Reading, writing, speaking and dictation banks
@@ -30,18 +30,22 @@
 - Two complete course-created mock examinations
 - Progress, error and exam-readiness trackers
 
-## Eight-week roadmap
+## Twelve-week roadmap
 
 | Week | Focus | Milestone |
 | --- | --- | --- |
-| [Week 1](Weeks/Week-01/README.md) | Sounds, Greetings and Identity | Introduce yourself, spell personal information and understand another beginner’s introduction. |
-| [Week 2](Weeks/Week-02/README.md) | Family, Possessions, Home and Work | Describe family, work or study, possessions and a simple living space. |
-| [Week 3](Weeks/Week-03/README.md) | Time, Routine, Hobbies and Verb Position | Tell time, describe a daily routine and arrange a simple meeting. |
-| [Week 4](Weeks/Week-04/README.md) | Food, Restaurants, Shopping and Accusative | Order food, shop for common items and express basic preferences. |
-| [Week 5](Weeks/Week-05/README.md) | City, Directions, Travel and Basic Dative | Ask for directions, understand basic travel information and complete a simple journey. |
-| [Week 6](Weeks/Week-06/README.md) | Descriptions, Weather, Nature and Modal Verbs | Describe people, places and weather, and discuss plans, abilities and obligations. |
-| [Week 7](Weeks/Week-07/README.md) | Health, Emergencies, Services and Recent Events | Handle a simple health issue, appointment or emergency interaction. |
-| [Week 8](Weeks/Week-08/README.md) | Integration and Goethe A1 Exam Readiness | Complete realistic Goethe A1 tasks confidently and independently. |
+| [Week 1](Weeks/Week-01/README.md) | Sounds, Alphabet & Greetings | Introduce yourself, spell personal information and understand basic greetings. |
+| [Week 2](Weeks/Week-02/README.md) | Personal Info & Identity | Discuss origin, languages, contact details and personal background. |
+| [Week 3](Weeks/Week-03/README.md) | Family & Possessives | Describe family members, relationships and possessive determiners. |
+| [Week 4](Weeks/Week-04/README.md) | Home, Rooms & Furniture | Describe living space, apartment rooms, furniture and plurals. |
+| [Week 5](Weeks/Week-05/README.md) | Work, Professions & Numbers 0-100 | State jobs, workplaces, age and count up to 100. |
+| [Week 6](Weeks/Week-06/README.md) | Time, Routine & Separable Verbs | Tell time, discuss daily routine, schedules and separable verbs. |
+| [Week 7](Weeks/Week-07/README.md) | Hobbies, Sports & Word Order | Talk about free time, sports activities and sentence structure (V2). |
+| [Week 8](Weeks/Week-08/README.md) | Food, Drinks & Accusative Case | Express food preferences, grocery shop and master accusative case. |
+| [Week 9](Weeks/Week-09/README.md) | Dining Out, Shopping & Prices | Order at restaurants, pay bills, ask prices and sizes. |
+| [Week 10](Weeks/Week-10/README.md) | City, Directions & Basic Dative | Navigate city places, ask directions and learn basic dative case. |
+| [Week 11](Weeks/Week-11/README.md) | Weather, Nature & Modal Verbs | Describe weather, seasons, nature, clothing and modal verbs. |
+| [Week 12](Weeks/Week-12/README.md) | Health, Past Tense & Exam Readiness | Discuss health, doctor visits, basic Perfekt tense and complete mock exams. |
 
 ## Daily time budget
 

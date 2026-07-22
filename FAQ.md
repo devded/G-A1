@@ -1,8 +1,8 @@
 # Frequently Asked Questions
 
-## Can I really reach A1 in eight weeks?
+## Can I really reach A1 in twelve weeks?
 
-The schedule provides 112 guided hours, which is an intensive beginner programme. Results depend on consistency, active practice and prior language-learning experience. Completion prepares you for A1 tasks but does not guarantee an examination score.
+The schedule provides 168 guided hours (30-35 mins/day across 84 days), which is a complete beginner programme. Results depend on consistency, active practice and prior language-learning experience. Completion prepares you for A1 tasks but does not guarantee an examination score.
 
 ## Must I memorise all 950 items?
 
@@ -42,7 +42,7 @@ A1 learners often need to understand or produce very simple statements about wha
 
 ## Can I take days off?
 
-The plan uses 56 consecutive study days for clarity. You may insert rest days, but continue in lesson order and keep the eight-week target only if your calendar still permits the full workload.
+The plan uses 84 consecutive study days for clarity. You may insert rest days, but continue in lesson order and keep the twelve-week target only if your calendar still permits the full workload.
 
 ## Which exam is the main target?
 

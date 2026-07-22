@@ -4,18 +4,17 @@ Build status: **PASS**
 
 | Artifact | Count |
 |---|---:|
-| Daily lessons | 56 |
+| Daily lessons | 84 |
 | Vocabulary items | 950 |
 | Markdown files | 393 |
-| CSV flashcard files | 9 |
+| CSV flashcard files | 13 |
 | WAV audio files | 66 |
 | JSON data/report files | 1 |
-| Total files before manifest recount | 469 |
 
 ## Integrity checks
 
-- Eight week folders and all required weekly files
-- 56 daily lesson files
+- Twelve week folders and all required weekly files
+- 84 daily lesson files
 - Exact 950-item vocabulary target
 - Non-empty files
 - Local Markdown link targets
