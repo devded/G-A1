@@ -1,0 +1,49 @@
+Front,Back,Week,Status,Frequency,PartOfSpeech
+German for: the head (pl: Köpfe),der Kopf | plural: — | IPA: /kɔpf/ | Mein Kopf tut weh. | My head hurts.,11,active,common,noun
+German for: the arm (pl: Arme),der Arm | plural: — | IPA: /aʁm/ | Mein Arm tut weh. | My arm hurts.,11,active,common,noun
+German for: the leg (pl: Beine),das Bein | plural: — | IPA: /baɪn/ | Mein Bein tut weh. | My leg hurts.,11,active,common,noun
+German for: the stomach / belly,der Bauch | plural: — | IPA: /baʊx/ | Ich habe Bauchschmerzen. | I have stomach pain.,11,active,common,noun
+German for: the back,der Rücken | plural: — | IPA: /ˈʁʏkən/ | Mein Rücken tut weh. | My back hurts.,11,active,common,noun
+German for: the heart,das Herz | plural: — | IPA: /hɛʁts/ | Das Herz schlägt schnell. | The heart beats fast.,11,active,common,noun
+German for: the throat / neck,der Hals | plural: — | IPA: /hals/ | Mein Hals tut weh. | My throat hurts.,11,active,common,noun
+German for: the tooth (pl: Zähne),der Zahn | plural: — | IPA: /tsaːn/ | Ich habe Zahnschmerzen. | I have a toothache.,11,active,common,noun
+German for: to have a fever,"Fieber haben | plural: — | IPA: /ˈfiːbɐ ˈhaːbən/ | Ich habe 38,5 Grad Fieber. | I have a 38.5 degree fever.",11,active,common,phrase
+German for: the cough,der Husten | plural: — | IPA: /ˈhʊstən/ | Er hat starken Husten. | He has a bad cough.,11,active,common,noun
+German for: the runny nose / cold,der Schnupfen | plural: — | IPA: /ˈʃnʊpfən/ | Ich habe Schnupfen. | I have a runny nose.,11,active,common,noun
+German for: to be tired,müde sein | plural: — | IPA: /ˈmyːdə zaɪn/ | Ich bin sehr müde. | I am very tired.,11,active,common,phrase
+German for: the cold (illness),die Erkältung | plural: — | IPA: /ɛɐ̯ˈkɛltʊŋ/ | Ich habe eine Erkältung. | I have a cold.,11,active,common,noun
+German for: to feel (reflexive),sich fühlen | plural: — | IPA: /zɪç ˈfyːlən/ | Ich fühle mich nicht gut. | I don't feel good.,11,active,common,verb
+German for: sick / ill,krank | plural: — | IPA: /kʁaŋk/ | Mein Kind ist krank. | My child is sick.,11,active,common,adj
+German for: healthy / well,gesund | plural: — | IPA: /ɡəˈzʊnt/ | Bleiben Sie gesund! | Stay healthy!,11,active,common,adj
+German for: the doctor (m),der Arzt | plural: — | IPA: /aːɐ̯tst/ | Ich habe einen Termin beim Arzt. | I have an appointment at the doctor's.,11,active,common,noun
+German for: the doctor (f),die Ärztin | plural: — | IPA: /ˈɛːɐ̯tstɪn/ | Die Ärztin untersucht das Kind. | The doctor examines the child.,11,active,common,noun
+German for: the appointment,der Termin | plural: — | IPA: /tɛʁˈmiːn/ | Ich brauche dringend einen Termin. | I urgently need an appointment.,11,active,common,noun
+German for: the prescription / recipe,das Rezept | plural: — | IPA: /ʁeˈtsɛpt/ | Der Arzt schreibt ein Rezept. | The doctor writes a prescription.,11,active,common,noun
+German for: the examination,die Untersuchung | plural: — | IPA: /ˈʊntɐˌzuːxʊŋ/ | Die Untersuchung dauert 15 Minuten. | The examination takes 15 minutes.,11,active,common,noun
+German for: to examine (medically),untersuchen | plural: — | IPA: /ˈʊntɐˌzuːxən/ | Der Arzt untersucht den Hals. | The doctor examines the throat.,11,active,common,verb
+German for: since when / how long,seit wann | plural: — | IPA: /zaɪt van/ | Seit wann haben Sie die Schmerzen? | Since when have you had the pain?,11,active,common,phrase
+German for: the problem,das Problem | plural: — | IPA: /pʁoˈbleːm/ | Was ist das Problem? | What is the problem?,11,active,common,noun
+German for: the pharmacy,die Apotheke | plural: — | IPA: /apoˈteːkə/ | Ich kaufe Tabletten in der Apotheke. | I buy tablets in the pharmacy.,11,active,common,noun
+German for: the medication / medicine,das Medikament | plural: — | IPA: /medikaˈmɛnt/ | Nehmen Sie dieses Medikament. | Take this medication.,11,active,common,noun
+German for: the tablet / pill (pl: Tabletten),die Tablette | plural: — | IPA: /taˈblɛtə/ | Nehmen Sie zwei Tabletten täglich. | Take two tablets daily.,11,active,common,noun
+German for: three times daily,dreimal täglich | plural: — | IPA: /ˈdʁaɪmaːl ˈtɛːklɪç/ | Nehmen Sie das dreimal täglich. | Take this three times daily.,11,active,common,phrase
+German for: before meals,vor dem Essen | plural: — | IPA: /foːɐ̯ deːm ˈɛsən/ | Nehmen Sie die Pillen vor dem Essen. | Take the pills before meals.,11,active,common,phrase
+German for: after meals,nach dem Essen | plural: — | IPA: /naːx deːm ˈɛsən/ | Trinken Sie das nach dem Essen. | Drink this after meals.,11,active,common,phrase
+German for: side effect (pl: Nebenwirkungen),die Nebenwirkung | plural: — | IPA: /ˈneːbənˌvɪʁkʊŋ/ | Gibt es Nebenwirkungen? | Are there side effects?,11,active,common,noun
+German for: allergic,allergisch | plural: — | IPA: /aˈlɛʁɡɪʃ/ | Ich bin allergisch gegen Penicillin. | I am allergic to penicillin.,11,active,common,adj
+German for: the fire brigade (112),die Feuerwehr | plural: — | IPA: /ˈfɔʏɐ̯ˌveːɐ̯/ | Rufen Sie die Feuerwehr! | Call the fire brigade!,11,active,common,noun
+German for: the police (110),die Polizei | plural: — | IPA: /poliˈtsaɪ/ | Rufen Sie sofort die Polizei! | Call the police immediately!,11,active,common,noun
+German for: the ambulance (112),der Krankenwagen | plural: — | IPA: /ˈkʁaŋkənˌvaːɡən/ | Der Krankenwagen kommt schnell. | The ambulance comes quickly.,11,active,common,noun
+German for: Help!,Hilfe! | plural: — | IPA: /ˈhɪlfə/ | Hilfe! Helfen Sie mir! | Help! Help me!,11,active,common,phrase
+German for: Call! (command),Rufen Sie! | plural: — | IPA: /ˈʁuːfən ziː/ | Rufen Sie einen Arzt! | Call a doctor!,11,active,common,phrase
+German for: the danger,die Gefahr | plural: — | IPA: /ɡəˈfaːɐ̯/ | Hier ist große Gefahr. | There is great danger here.,11,active,common,noun
+German for: injured / hurt,verletzt | plural: — | IPA: /fɛɐ̯ˈlɛtst/ | Ein Mann ist verletzt. | A man is injured.,11,active,common,adj
+German for: immediately / at once,sofort | plural: — | IPA: /zoˈfɔʁt/ | Kommen Sie sofort! | Come immediately!,11,active,common,phrase
+German for: done / made (ge-mach-t),gemacht | plural: — | IPA: /ɡəˈmaxt/ | Ich habe Hausaufgaben gemacht. | I have done homework.,11,active,common,verb
+German for: eaten (ge-gess-en),gegessen | plural: — | IPA: /ɡəˈɡɛsən/ | Ich habe Pizza gegessen. | I have eaten pizza.,11,active,common,verb
+German for: drunk (ge-trunk-en),getrunken | plural: — | IPA: /ɡəˈtʁʊŋkən/ | Er hat Wasser getrunken. | He has drunk water.,11,active,common,verb
+German for: slept (ge-schlaf-en),geschlafen | plural: — | IPA: /ɡəˈʃlaːfən/ | Ich habe gut geschlafen. | I slept well.,11,active,common,verb
+German for: worked (ge-arbeit-et),gearbeitet | plural: — | IPA: /ɡəˈaʁbaɪtət/ | Er hat viel gearbeitet. | He worked a lot.,11,active,common,verb
+German for: bought (ge-kauf-t),gekauft | plural: — | IPA: /ɡəˈkaʊft/ | Sie hat ein Buch gekauft. | She bought a book.,11,active,common,verb
+German for: seen / watched (ge-seh-en),gesehen | plural: — | IPA: /ɡəˈzeːən/ | Ich habe einen Film gesehen. | I watched a movie.,11,active,common,verb
+German for: driven / travelled (is + gefahren),gefahren | plural: — | IPA: /ɡəˈfaːʁən/ | Er ist nach Berlin gefahren. | He travelled to Berlin.,11,active,common,verb

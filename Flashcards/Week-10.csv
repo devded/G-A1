@@ -1,0 +1,49 @@
+Front,Back,Week,Status,Frequency,PartOfSpeech
+German for: the sun,die Sonne | plural: — | IPA: /ˈzɔnə/ | Die Sonne scheint. | The sun is shining.,10,active,common,noun
+German for: the rain,der Regen | plural: — | IPA: /ˈʁeːɡən/ | Der Regen ist stark. | The rain is heavy.,10,active,common,noun
+German for: the wind,der Wind | plural: — | IPA: /vɪnt/ | Der Wind weht. | The wind is blowing.,10,active,common,noun
+German for: the snow,der Schnee | plural: — | IPA: /ʃneː/ | Der Schnee ist weiß. | The snow is white.,10,active,common,noun
+German for: the thunderstorm,das Gewitter | plural: — | IPA: /ɡəˈvɪtɐ/ | Es gibt ein Gewitter. | There is a thunderstorm.,10,active,common,noun
+German for: cloudy,bewölkt | plural: — | IPA: /bəˈvœlkt/ | Es ist bewölkt. | It is cloudy.,10,active,common,adj
+German for: It is raining,Es regnet | plural: — | IPA: /ɛs ˈʁeːɡnət/ | Es regnet heute den ganzen Tag. | It is raining all day today.,10,active,common,phrase
+German for: It is snowing,Es schneit | plural: — | IPA: /ɛs ʃnaɪt/ | Es schneit im Winter. | It snows in winter.,10,active,common,phrase
+German for: spring,der Frühling | plural: — | IPA: /ˈfʁyːlɪŋ/ | Im Frühling blühen die Blumen. | In spring flowers bloom.,10,active,common,noun
+German for: summer,der Sommer | plural: — | IPA: /ˈzɔmɐ/ | Im Sommer ist es heiß. | In summer it is hot.,10,active,common,noun
+German for: autumn / fall,der Herbst | plural: — | IPA: /hɛʁpst/ | Im Herbst fallen die Blätter. | In autumn leaves fall.,10,active,common,noun
+German for: winter,der Winter | plural: — | IPA: /ˈvɪntɐ/ | Im Winter schneit es. | In winter it snows.,10,active,common,noun
+German for: warm,warm | plural: — | IPA: /vaʁm/ | Es ist angenehm warm. | It is pleasantly warm.,10,active,common,adj
+German for: hot,heiß | plural: — | IPA: /haɪs/ | Im Juli ist es sehr heiß. | In July it is very hot.,10,active,common,adj
+German for: cold,kalt | plural: — | IPA: /kalt/ | Im Januar ist es sehr kalt. | In January it is very cold.,10,active,common,adj
+German for: cool / chilly,kühl | plural: — | IPA: /kyːl/ | Am Abend ist es kühl. | In the evening it is cool.,10,active,common,adj
+German for: the tree (pl: Bäume),der Baum | plural: — | IPA: /baʊm/ | Der Baum ist sehr hoch. | The tree is very tall.,10,active,common,noun
+German for: the forest / woods,der Wald | plural: — | IPA: /valt/ | Wir spazieren im Wald. | We walk in the forest.,10,active,common,noun
+German for: the animal (pl: Tiere),das Tier | plural: — | IPA: /tiːɐ/ | Ich liebe Tiere. | I love animals.,10,active,common,noun
+German for: the dog (pl: Hunde),der Hund | plural: — | IPA: /hʊnt/ | Der Hund ist freundlich. | The dog is friendly.,10,active,common,noun
+German for: the cat (pl: Katzen),die Katze | plural: — | IPA: /ˈkatsə/ | Meine Katze schläft viel. | My cat sleeps a lot.,10,active,common,noun
+German for: the bird (pl: Vögel),der Vogel | plural: — | IPA: /ˈfoːɡəl/ | Der Vogel singt. | The bird is singing.,10,active,common,noun
+German for: the horse (pl: Pferde),das Pferd | plural: — | IPA: /pfeːɐ̯t/ | Sie reitet ein Pferd. | She is riding a horse.,10,active,common,noun
+German for: the flower (pl: Blumen),die Blume | plural: — | IPA: /ˈbluːmə/ | Die Blume ist rot. | The flower is red.,10,active,common,noun
+German for: must / to have to (necessity),müssen | plural: — | IPA: /ˈmʏsən/ | Ich muss heute arbeiten. | I must work today.,10,active,common,verb
+German for: may / allowed to (permission),dürfen | plural: — | IPA: /ˈdʏʁfən/ | Darf ich hier parken? | May I park here?,10,active,common,verb
+German for: the permission,die Erlaubnis | plural: — | IPA: /ɛɐ̯ˈlaʊbnɪs/ | Ich habe die Erlaubnis. | I have permission.,10,active,common,noun
+German for: forbidden / prohibited,verboten | plural: — | IPA: /fɛɐ̯ˈboːtən/ | Rauchen ist hier verboten. | Smoking is prohibited here.,10,active,common,adj
+German for: allowed / permitted,erlaubt | plural: — | IPA: /ɛɐ̯ˈlaʊpt/ | Hunde sind hier erlaubt. | Dogs are allowed here.,10,active,common,adj
+German for: possible,möglich | plural: — | IPA: /ˈmøːklɪç/ | Das ist leider nicht möglich. | That is unfortunately not possible.,10,active,common,adj
+German for: the duty / obligation,die Pflicht | plural: — | IPA: /pflɪçt/ | Das ist meine Pflicht. | That is my duty.,10,active,common,noun
+German for: the rule (pl: Regeln),die Regel | plural: — | IPA: /ˈʁeːɡəl/ | Das ist die Regel. | That is the rule.,10,active,common,noun
+German for: should / supposed to (advice/duty),"sollen | plural: — | IPA: /ˈzɔlən/ | Der Arzt sagt, ich soll viel trinken. | The doctor says I should drink a lot.",10,active,common,verb
+German for: want to (strong intention),wollen | plural: — | IPA: /ˈvɔlən/ | Ich will Deutsch lernen. | I want to learn German.,10,active,common,verb
+German for: to like (nouns),mögen | plural: — | IPA: /ˈmøːɡən/ | Ich mag Äpfel. | I like apples.,10,active,common,verb
+German for: the advice (pl: Ratschläge),der Ratschlag | plural: — | IPA: /ˈʁaːtˌʃlaːk/ | Danke für den Ratschlag! | Thanks for the advice!,10,active,common,noun
+German for: to try / attempt,versuchen | plural: — | IPA: /fɛɐ̯ˈzuːxən/ | Ich versuche es noch einmal. | I am trying it once more.,10,active,common,verb
+German for: to manage / succeed,schaffen | plural: — | IPA: /ˈʃafən/ | Wir schaffen das! | We can manage this!,10,active,common,verb
+German for: to need,brauchen | plural: — | IPA: /ˈbʁaʊxən/ | Brauchst du Hilfe? | Do you need help?,10,active,common,verb
+German for: necessary,nötig | plural: — | IPA: /ˈnøːtɪç/ | Das ist nicht nötig. | That is not necessary.,10,active,common,adj
+German for: the umbrella,der Regenschirm | plural: — | IPA: /ˈʁeːɡənˌʃɪʁm/ | Nimm einen Regenschirm mit! | Take an umbrella with you!,10,active,common,noun
+German for: the jacket,die Jacke | plural: — | IPA: /ˈjakə/ | Ich brauche eine warme Jacke. | I need a warm jacket.,10,active,common,noun
+German for: to put on (clothes),anziehen | plural: — | IPA: /ˈanˌtsiːən/ | Zieh eine Jacke an! | Put on a jacket!,10,active,common,verb
+German for: it is recommended,"Es empfiehlt sich | plural: — | IPA: /ɛs ɛmˈpfiːlt zɪç/ | Es empfiehlt sich, einen Schirm zu nehmen. | It is recommended to take an umbrella.",10,active,common,phrase
+German for: one can / you can,Man kann | plural: — | IPA: /man kan/ | Im Sommer kann man schwimmen. | In summer one can swim.,10,active,common,phrase
+German for: one should / you should,Man sollte | plural: — | IPA: /man ˈzɔltə/ | Man sollte viel Wasser trinken. | One should drink plenty of water.,10,active,common,phrase
+German for: outside / outdoors,draußen | plural: — | IPA: /ˈdʁaʊsən/ | Es ist kalt draußen. | It is cold outside.,10,active,common,phrase
+German for: inside / indoors,drinnen | plural: — | IPA: /ˈdʁɪnən/ | Wir bleiben drinnen. | We stay inside.,10,active,common,phrase
