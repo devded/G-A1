@@ -29,3 +29,9 @@ Write 5–8 A1 sentences. Include a time phrase, one connector and one personal 
 
 ## 10. Last weekend
 Write 5–8 A1 sentences. Include a time phrase, one connector and one personal opinion.
+
+## 11. My city and neighborhood
+Write 5–8 A1 sentences. Describe your favorite places in the city, public transport options, and how to get there.
+
+## 12. Exam day reflection & my German journey
+Write 5–8 A1 sentences. Reflect on what you learned across the 12 weeks and your future German learning goals.
