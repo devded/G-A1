@@ -991,3 +991,207 @@ This is the cumulative course vocabulary. Use the weekly files for first learnin
 | zwischen <SpeakButton text="zwischen" audioSrc="/audio/zwischen_f4b9e4c6.mp3" /> | — | between | মধ্যে | tsvˈɪʃən | common | 8 |
 | zwischen <SpeakButton text="zwischen" audioSrc="/audio/zwischen_f4b9e4c6.mp3" /> | — | between | মধ্যে | tsvˈɪʃən | common | 8 |
 | (sich) waschen <SpeakButton text="(sich) waschen" audioSrc="/audio/sichwaschen_39b240ad.mp3" /> | — | to wash | ধোওয়া | vˈaʃən | common | 8 |
+
+## Week 9
+
+| German | Plural | English | বাংলা | IPA | Frequency | Week |
+| --- | --- | --- | --- | --- | --- | --- |
+| der Bahnhof <SpeakButton text="der Bahnhof" /> | -..e | the train station | রেল স্টেশন | /ˈbaːnˌhoːf/ | common | 9 |
+| die Post <SpeakButton text="die Post" /> | — | the post office | ডাকঘর | /pɔst/ | common | 9 |
+| die Bank <SpeakButton text="die Bank" /> | -en | the bank | ব্যাংক | /baŋk/ | common | 9 |
+| das Krankenhaus <SpeakButton text="das Krankenhaus" /> | -..er | the hospital | হাসপাতাল | /ˈkʁaŋkənˌhaʊs/ | common | 9 |
+| die Apotheke <SpeakButton text="die Apotheke" /> | -n | the pharmacy | ফার্মেসি / ওষুধের দোকান | /apoˈteːkə/ | common | 9 |
+| das Rathaus <SpeakButton text="das Rathaus" /> | -..er | the town hall | সিটি হল | /ˈʁaːtˌhaʊs/ | common | 9 |
+| der Supermarkt <SpeakButton text="der Supermarkt" /> | -..e | the supermarket | সুপারমার্কেট | /ˈzuːpɐˌmaʁkt/ | common | 9 |
+| das Museum <SpeakButton text="das Museum" /> | Museen | the museum | জাদুঘর | /muˈzeːʊm/ | common | 9 |
+| geradeaus <SpeakButton text="geradeaus" /> | — | straight ahead | সোজা এগিয়ে | /ɡəˈʁaːdəˈaʊs/ | common | 9 |
+| links abbiegen <SpeakButton text="links abbiegen" /> | — | turn left | বামে মোড় নিন | /lɪŋks ˈapˌbiːɡən/ | common | 9 |
+| rechts abbiegen <SpeakButton text="rechts abbiegen" /> | — | turn right | ডানে মোড় নিন | /ʁɛçts ˈapˌbiːɡən/ | common | 9 |
+| die Kreuzung <SpeakButton text="die Kreuzung" /> | -en | the junction / intersection | চৌরাস্তা / মোড় | /ˈkʁɔʏtsʊŋ/ | common | 9 |
+| die Straße <SpeakButton text="die Straße" /> | -n | the street / road | রাস্তা | /ˈʃtʁaːsə/ | common | 9 |
+| die Ampel <SpeakButton text="die Ampel" /> | -n | the traffic lights | ট্রাফিক লাইট | /ˈampl̩/ | common | 9 |
+| wie weit <SpeakButton text="wie weit" /> | — | how far | কত দূর | /viː vaɪt/ | common | 9 |
+| zu Fuß <SpeakButton text="zu Fuß" /> | — | on foot / walking | পায়ে হেঁটে | /tsuː fuːs/ | common | 9 |
+| im <SpeakButton text="im" /> | — | in the (in + dem) | মধ্যে (পুং/ক্লী) | /ɪm/ | common | 9 |
+| am <SpeakButton text="am" /> | — | at/on the (an + dem) | পাশে / -তে | /am/ | common | 9 |
+| beim <SpeakButton text="beim" /> | — | at the / near (bei + dem) | কাছে / সমীপে | /baɪm/ | common | 9 |
+| vom <SpeakButton text="vom" /> | — | from the (von + dem) | থেকে | /fɔm/ | common | 9 |
+| zum <SpeakButton text="zum" /> | — | to the (m/n: zu + dem) | দিকে / প্রতি (পুং/ক্লী) | /tsʊm/ | common | 9 |
+| zur <SpeakButton text="zur" /> | — | to the (f: zu + der) | দিকে / প্রতি (স্ত্রী) | /tsuːɐ̯/ | common | 9 |
+| gegenüber von <SpeakButton text="gegenüber von" /> | — | opposite to | বিপরীতে | /ˈɡeːɡənˌyːbɐ fɔn/ | common | 9 |
+| in der Nähe von <SpeakButton text="in der Nähe von" /> | — | in the vicinity / near to | কাছাকাছি | /ɪn dɛːɐ̯ ˈnɛːə fɔn/ | common | 9 |
+| der Bus <SpeakButton text="der Bus" /> | -se | the bus | বাস | /bʊs/ | common | 9 |
+| die U-Bahn <SpeakButton text="die U-Bahn" /> | -en | the underground / metro | পাতাল রেল | /ˈuːˌbaːn/ | common | 9 |
+| die S-Bahn <SpeakButton text="die S-Bahn" /> | -en | suburban train | শহরতলী ট্রেন | /ˈɛsˌbaːn/ | common | 9 |
+| der Zug <SpeakButton text="der Zug" /> | -..e | the train | ট্রেন | /tsuːk/ | common | 9 |
+| das Ticket <SpeakButton text="das Ticket" /> | -s | the ticket | টিকেট | /ˈtɪkət/ | common | 9 |
+| die Fahrkarte <SpeakButton text="die Fahrkarte" /> | -n | the transit ticket | ভাড়া টিকেট | /ˈfaːɐ̯ˌkaʁtə/ | common | 9 |
+| die Haltestelle <SpeakButton text="die Haltestelle" /> | -n | the stop / station | বাস/ট্রাম স্টপ | /ˈhaltəˌʃtɛlə/ | common | 9 |
+| einsteigen <SpeakButton text="einsteigen" /> | — | to board / get in | ওঠা (গাড়িতে) | /ˈaɪnˌʃtaɪɡən/ | common | 9 |
+| aussteigen <SpeakButton text="aussteigen" /> | — | to get off / exit | নামা (গাড়ি থেকে) | /ˈaʊsˌʃtaɪɡən/ | common | 9 |
+| umsteigen <SpeakButton text="umsteigen" /> | — | to transfer / change | গাড়ি পরিবর্তন করা | /ˈʊmˌʃtaɪɡən/ | common | 9 |
+| abfahren <SpeakButton text="abfahren" /> | — | to depart / leave | রওনা হওয়া | /ˈapˌfaːʁən/ | common | 9 |
+| ankommen <SpeakButton text="ankommen" /> | — | to arrive | পৌঁছানো | /ˈanˌkɔmən/ | common | 9 |
+| die Abfahrt <SpeakButton text="die Abfahrt" /> | -en | the departure | প্রস্থান / যাত্রা | /ˈapˌfaːɐ̯t/ | common | 9 |
+| die Ankunft <SpeakButton text="die Ankunft" /> | -..e | the arrival | আগমন | /ˈanˌkʊnft/ | common | 9 |
+| das Gleis <SpeakButton text="das Gleis" /> | -e | the platform / track | প্ল্যাটফর্ম / রেললাইন | /ɡlaɪs/ | common | 9 |
+| die Verspätung <SpeakButton text="die Verspätung" /> | -en | the delay | দেরি / বিলম্ব | /fɛɐ̯ˈʃpɛːtʊŋ/ | common | 9 |
+| der Fahrplan <SpeakButton text="der Fahrplan" /> | -..e | the timetable / schedule | সময়সূচি | /ˈfaːɐ̯ˌplaːn/ | common | 9 |
+| die Auskunft <SpeakButton text="die Auskunft" /> | -..e | information / inquiry | তথ্য / অনুসন্ধান | /ˈaʊsˌkʊnft/ | common | 9 |
+| einfach <SpeakButton text="einfach" /> | — | one-way / simple | একমুখী / সহজ | /ˈaɪnfax/ | common | 9 |
+| hin und zurück <SpeakButton text="hin und zurück" /> | — | return / round trip | যাওয়া-আসা টিকেট | /hɪn ʊnt tsuˈʁʏk/ | common | 9 |
+| der Platz <SpeakButton text="der Platz" /> | -..e | the square / seat | চত্বর / স্থান | /plats/ | common | 9 |
+| der Weg <SpeakButton text="der Weg" /> | -e | the way / route | পথ / রাস্তা | /veːk/ | common | 9 |
+| zu Hause <SpeakButton text="zu Hause" /> | — | at home | বাড়িতে | /tsuː ˈhaʊzə/ | common | 9 |
+| nach Hause <SpeakButton text="nach Hause" /> | — | homewards / to home | বাড়ির দিকে | /naːx ˈhaʊzə/ | common | 9 |
+
+## Week 10
+
+| German | Plural | English | বাংলা | IPA | Frequency | Week |
+| --- | --- | --- | --- | --- | --- | --- |
+| die Sonne <SpeakButton text="die Sonne" /> | — | the sun | সূর্য | /ˈzɔnə/ | common | 10 |
+| der Regen <SpeakButton text="der Regen" /> | — | the rain | বৃষ্টি | /ˈʁeːɡən/ | common | 10 |
+| der Wind <SpeakButton text="der Wind" /> | -e | the wind | বাতাস / বায়ু | /vɪnt/ | common | 10 |
+| der Schnee <SpeakButton text="der Schnee" /> | — | the snow | তুষার / বরফ | /ʃneː/ | common | 10 |
+| das Gewitter <SpeakButton text="das Gewitter" /> | — | the thunderstorm | বজ্রঝড় | /ɡəˈvɪtɐ/ | common | 10 |
+| die Wolke <SpeakButton text="die Wolke" /> | -n | the cloud | মেঘ | /ˈvɔlkə/ | common | 10 |
+| das Wetter <SpeakButton text="das Wetter" /> | — | the weather | আবহাওয়া | /ˈvɛtɐ/ | common | 10 |
+| der Nebel <SpeakButton text="der Nebel" /> | — | the fog / mist | কুয়াশা | /ˈneːbl̩/ | common | 10 |
+| bewölkt <SpeakButton text="bewölkt" /> | — | cloudy / overcast | মেঘলা | /bəˈvœlkt/ | common | 10 |
+| sonnig <SpeakButton text="sonnig" /> | — | sunny | রৌদ্রোজ্জ্বল | /ˈzɔnɪç/ | common | 10 |
+| windig <SpeakButton text="windig" /> | — | windy | ঝড়ো / বাতাসযুক্ত | /ˈvɪndɪç/ | common | 10 |
+| kalt <SpeakButton text="kalt" /> | — | cold | ঠান্ডা | /kalt/ | common | 10 |
+| warm <SpeakButton text="warm" /> | — | warm | উষ্ণ | /vaʁm/ | common | 10 |
+| heiß <SpeakButton text="heiß" /> | — | hot | গরম | /haɪs/ | common | 10 |
+| kühl <SpeakButton text="kühl" /> | — | cool / chilly | শীতল | /kyːl/ | common | 10 |
+| scheinen <SpeakButton text="scheinen" /> | — | to shine | কিরণ দেওয়া / উজ্জ্বল হওয়া | /ˈʃaɪnən/ | common | 10 |
+| regnen <SpeakButton text="regnen" /> | — | to rain | বৃষ্টি হওয়া | /ˈʁeːɡnən/ | common | 10 |
+| schneien <SpeakButton text="schneien" /> | — | to snow | তুষারপাত হওয়া | /ˈʃnaɪən/ | common | 10 |
+| wehen <SpeakButton text="wehen" /> | — | to blow (wind) | প্রবাহিত হওয়া | /ˈveːən/ | common | 10 |
+| der Grad <SpeakButton text="der Grad" /> | -e | the degree (temp) | ডিগ্রি (তাপমাত্রা) | /ɡʁaːt/ | common | 10 |
+| der Frühling <SpeakButton text="der Frühling" /> | — | spring | বসন্তকাল | /ˈfʁyːlɪŋ/ | common | 10 |
+| der Sommer <SpeakButton text="der Sommer" /> | — | summer | গ্রীষ্মকাল | /ˈzɔmɐ/ | common | 10 |
+| der Herbst <SpeakButton text="der Herbst" /> | — | autumn / fall | শরৎ / হেমন্তকাল | /hɛʁpst/ | common | 10 |
+| der Winter <SpeakButton text="der Winter" /> | — | winter | শীতকাল | /ˈvɪntɐ/ | common | 10 |
+| das Jahr <SpeakButton text="das Jahr" /> | -e | the year | বছর | /jaːɐ̯/ | common | 10 |
+| der Monat <SpeakButton text="der Monat" /> | -e | the month | মাস | /ˈmoːnat/ | common | 10 |
+| die Jahreszeit <SpeakButton text="die Jahreszeit" /> | -en | the season | ঋতু | /ˈjaːʁəsˌtsaɪt/ | common | 10 |
+| der Baum <SpeakButton text="der Baum" /> | -..e | the tree | গাছ / বৃক্ষ | /baʊm/ | common | 10 |
+| der Wald <SpeakButton text="der Wald" /> | -..er | the forest / woods | বন / জঙ্গল | /valt/ | common | 10 |
+| der Berg <SpeakButton text="der Berg" /> | -e | the mountain | পাহাড় / পর্বত | /bɛʁk/ | common | 10 |
+| der Fluss <SpeakButton text="der Fluss" /> | -..e | the river | নদী | /flʊs/ | common | 10 |
+| der See <SpeakButton text="der See" /> | -n | the lake | হ্রদ | /zeː/ | common | 10 |
+| das Meer <SpeakButton text="das Meer" /> | -e | the sea / ocean | সমুদ্র | /meːɐ̯/ | common | 10 |
+| der Strand <SpeakButton text="der Strand" /> | -..e | the beach | সৈকত | /ʃtʁant/ | common | 10 |
+| die Natur <SpeakButton text="die Natur" /> | — | nature | প্রকৃতি | /naˈtuːɐ̯/ | common | 10 |
+| das Tier <SpeakButton text="das Tier" /> | -e | the animal | প্রাণী / পশু | /tiːɐ̯/ | common | 10 |
+| können <SpeakButton text="können" /> | — | can / to be able to | পারা / সক্ষম হওয়া | /ˈkœnən/ | common | 10 |
+| müssen <SpeakButton text="müssen" /> | — | must / to have to | বাধ্য হওয়া / অবশ্যই করা | /ˈmʏsən/ | common | 10 |
+| dürfen <SpeakButton text="dürfen" /> | — | may / to be allowed to | অনুমতি পাওয়া | /ˈdʏʁfən/ | common | 10 |
+| wollen <SpeakButton text="wollen" /> | — | to want / intend | চাওয়া / ইচ্ছা পোষণ করা | /ˈvɔlən/ | common | 10 |
+| sollen <SpeakButton text="sollen" /> | — | should / to be supposed to | উচিত হওয়া | /ˈzɔlən/ | common | 10 |
+| möchten <SpeakButton text="möchten" /> | — | would like to | পছন্দ করা / চাওয়া | /ˈmœçtən/ | common | 10 |
+| spazieren gehen <SpeakButton text="spazieren gehen" /> | — | to go for a walk | হাঁটতে যাওয়া | /ʃpaˈtsiːʁən ˈɡeːən/ | common | 10 |
+| wandern <SpeakButton text="wandern" /> | — | to hike | পাহাড় বা বনে হাঁটা | /ˈvandɐn/ | common | 10 |
+| schwimmen <SpeakButton text="schwimmen" /> | — | to swim | সাঁতার কাটা | /ˈʃvɪmən/ | common | 10 |
+| grillen <SpeakButton text="grillen" /> | — | to barbecue / grill | বারবিকিউ করা | /ˈɡʁɪlən/ | common | 10 |
+| der Ausflug <SpeakButton text="der Ausflug" /> | -..e | the excursion / day trip | ভ্রমণ / পিকনিক | /ˈaʊsˌfluːk/ | common | 10 |
+| zu Hause bleiben <SpeakButton text="zu Hause bleiben" /> | — | to stay at home | বাড়িতে থাকা | /tsuː ˈhaʊzə ˈblaɪbən/ | common | 10 |
+
+## Week 11
+
+| German | Plural | English | বাংলা | IPA | Frequency | Week |
+| --- | --- | --- | --- | --- | --- | --- |
+| der Kopf <SpeakButton text="der Kopf" /> | -..e | the head | মাথা | /kɔpf/ | common | 11 |
+| der Arm <SpeakButton text="der Arm" /> | -e | the arm | হাত (বাহু) | /aʁm/ | common | 11 |
+| das Bein <SpeakButton text="das Bein" /> | -e | the leg | পা | /baɪn/ | common | 11 |
+| der Bauch <SpeakButton text="der Bauch" /> | -..e | the stomach / belly | পেট | /baʊx/ | common | 11 |
+| der Rücken <SpeakButton text="der Rücken" /> | — | the back | পিঠ | /ˈʁʏkən/ | common | 11 |
+| das Herz <SpeakButton text="das Herz" /> | -en | the heart | হৃদয় / হার্ট | /hɛʁts/ | common | 11 |
+| der Hals <SpeakButton text="der Hals" /> | -..e | the throat / neck | গলা / ঘাড় | /hals/ | common | 11 |
+| der Zahn <SpeakButton text="der Zahn" /> | -..e | the tooth | দাঁত | /tsaːn/ | common | 11 |
+| die Hand <SpeakButton text="die Hand" /> | -..e | the hand | হাত (কবজি থেকে আঙুল) | /hant/ | common | 11 |
+| der Fuß <SpeakButton text="der Fuß" /> | -..e | the foot | পায়ের পাতা | /fuːs/ | common | 11 |
+| das Auge <SpeakButton text="das Auge" /> | -n | the eye | চোখ | /ˈaʊɡə/ | common | 11 |
+| das Ohr <SpeakButton text="das Ohr" /> | -en | the ear | কান | /oːɐ̯/ | common | 11 |
+| der Finger <SpeakButton text="der Finger" /> | — | the finger | হাতের আঙুল | /ˈfɪŋɐ/ | common | 11 |
+| der Mund <SpeakButton text="der Mund" /> | -..er | the mouth | মুখ | /mʊnt/ | common | 11 |
+| die Nase <SpeakButton text="die Nase" /> | -n | the nose | নাক | /ˈnaːzə/ | common | 11 |
+| die Schmerzen <SpeakButton text="die Schmerzen" /> | (pl) | pain / aches | ব্যথা / যন্ত্রণা | /ˈʃmɛʁtsən/ | common | 11 |
+| das Fieber <SpeakButton text="das Fieber" /> | — | the fever | জ্বর | /ˈfiːbɐ/ | common | 11 |
+| die Erkältung <SpeakButton text="die Erkältung" /> | -en | the common cold | সর্দি / ঠান্ডা লাগা | /ɛɐ̯ˈkɛltʊŋ/ | common | 11 |
+| der Husten <SpeakButton text="der Husten" /> | — | the cough | কাশি | /ˈhuːstn̩/ | common | 11 |
+| der Schnupfen <SpeakButton text="der Schnupfen" /> | — | runny nose / cold | সর্দি | /ˈʃnʊpfn̩/ | common | 11 |
+| die Grippe <SpeakButton text="die Grippe" /> | — | the flu / influenza | ফ্লু | /ˈɡʁɪpə/ | common | 11 |
+| krank <SpeakButton text="krank" /> | — | sick / ill | অসুস্থ | /kʁaŋk/ | common | 11 |
+| gesund <SpeakButton text="gesund" /> | — | healthy / well | সুস্থ | /ɡəˈzʊnt/ | common | 11 |
+| müde <SpeakButton text="müde" /> | — | tired | ক্লান্ত | /ˈmyːdə/ | common | 11 |
+| schwach <SpeakButton text="schwach" /> | — | weak | দুর্বল | /ʃvax/ | common | 11 |
+| weh tun <SpeakButton text="weh tun" /> | — | to hurt / ache | ব্যথা করা | /ˈveː tuːn/ | common | 11 |
+| husten <SpeakButton text="husten" /> | — | to cough | কাশি দেওয়া | /ˈhuːstn̩/ | common | 11 |
+| der Arzt <SpeakButton text="der Arzt" /> | -..e | the male doctor | ডাক্তার (পুরুষ) | /aːɐ̯tst/ | common | 11 |
+| die Ärztin <SpeakButton text="die Ärztin" /> | -nen | the female doctor | ডাক্তার (মহিলা) | /ˈɛːɐ̯tstɪn/ | common | 11 |
+| die Praxis <SpeakButton text="die Praxis" /> | Praxen | the doctor's surgery / clinic | ডাক্তারের চেম্বার | /ˈpʁaksɪs/ | common | 11 |
+| der Termin <SpeakButton text="der Termin" /> | -e | the appointment | অ্যাপয়েন্টমেন্ট | /tɛʁˈmiːn/ | common | 11 |
+| die Versichertenkarte <SpeakButton text="die Versichertenkarte" /> | -n | health insurance card | স্বাস্থ্য বীমা কার্ড | /fɛɐ̯ˈzɪçɐtn̩ˌkaʁtə/ | common | 11 |
+| untersuchen <SpeakButton text="untersuchen" /> | — | to examine | পরীক্ষা করা (চিকিৎসা) | /ˌʊntɐˈzuːxn̩/ | common | 11 |
+| die Apotheke <SpeakButton text="die Apotheke" /> | -n | the pharmacy | ফার্মেসি | /apoˈteːkə/ | common | 11 |
+| das Medikament <SpeakButton text="das Medikament" /> | -e | the medicine / medication | ওষুধ | /medikaˈmɛnt/ | common | 11 |
+| die Tablette <SpeakButton text="die Tablette" /> | -n | the pill / tablet | ট্যাবলেট / বড়ি | /taˈblɛtə/ | common | 11 |
+| der Tropfen <SpeakButton text="der Tropfen" /> | — | the drops (medicine) | ড্রপ | /ˈtʁɔpfn̩/ | common | 11 |
+| das Rezept <SpeakButton text="das Rezept" /> | -e | the prescription / recipe | প্রেসক্রিপশন | /ʁeˈtsɛpt/ | common | 11 |
+| die Salbe <SpeakButton text="die Salbe" /> | -n | the ointment / cream | মলম | /ˈzalbə/ | common | 11 |
+| einnehmen <SpeakButton text="einnehmen" /> | — | to take (medicine) | ওষুধ সেবন করা | /ˈaɪnˌneːmən/ | common | 11 |
+| die Hilfe <SpeakButton text="die Hilfe" /> | — | help / assistance | সাহায্য | /ˈhɪlfə/ | common | 11 |
+| der Notarzt <SpeakButton text="der Notarzt" /> | -..e | emergency doctor | জরুরি ডাক্তার | /ˈnoːtˌʔaːɐ̯tst/ | common | 11 |
+| der Unfall <SpeakButton text="der Unfall" /> | -..e | the accident | দুর্ঘটনা | /ˈʊnfal/ | common | 11 |
+| der Krankenwagen <SpeakButton text="der Krankenwagen" /> | — | the ambulance | অ্যাম্বুলেন্স | /ˈkʁaŋkn̩ˌvaːɡn̩/ | common | 11 |
+| anrufen <SpeakButton text="anrufen" /> | — | to call (phone) | ফোন করা | /ˈanˌʁuːfn̩/ | common | 11 |
+| gekauft <SpeakButton text="gekauft" /> | — | bought (Perfekt) | কিনেছিল | /ɡəˈkaʊft/ | common | 11 |
+| gearbeitet <SpeakButton text="gearbeitet" /> | — | worked (Perfekt) | কাজ করেছিল | /ɡəˈʔaʁbaɪtət/ | common | 11 |
+| gefahren <SpeakButton text="gefahren" /> | — | driven / travelled (Perfekt) | গিয়েছিল (গাড়িতে) | /ɡəˈfaːʁən/ | common | 11 |
+
+## Week 12
+
+| German | Plural | English | বাংলা | IPA | Frequency | Week |
+| --- | --- | --- | --- | --- | --- | --- |
+| die Prüfung <SpeakButton text="die Prüfung" /> | -en | the exam / examination | পরীক্ষা | /ˈpʁyːfʊŋ/ | common | 12 |
+| das Zertifikat <SpeakButton text="das Zertifikat" /> | -e | the certificate | সার্টিফিকেট / সনদপত্র | /tsɛʁtifiˈkaːt/ | common | 12 |
+| der Teil <SpeakButton text="der Teil" /> | -e | the part / section | অংশ / ভাগ | /taɪl/ | common | 12 |
+| die Aufgabe <SpeakButton text="die Aufgabe" /> | -n | the task / exercise | কাজ / প্রশ্ন | /ˈaʊfˌɡaːbə/ | common | 12 |
+| die Frage <SpeakButton text="die Frage" /> | -n | the question | প্রশ্ন | /ˈfʁaːɡə/ | common | 12 |
+| die Antwort <SpeakButton text="die Antwort" /> | -en | the answer | উত্তর | /ˈantvɔʁt/ | common | 12 |
+| richtig <SpeakButton text="richtig" /> | — | correct / right / true | সঠিক | /ˈʁɪçtɪç/ | common | 12 |
+| falsch <SpeakButton text="falsch" /> | — | wrong / false | ভুল / মিথ্যা | /falʃ/ | common | 12 |
+| ankreuzen <SpeakButton text="ankreuzen" /> | — | to tick / check a box | চিহ্নিত করা / টিক দেওয়া | /ˈanˌkʁɔʏtsən/ | common | 12 |
+| ausfüllen <SpeakButton text="ausfüllen" /> | — | to fill out / complete | পূরণ করা (ফরম) | /ˈaʊsˌfʏlən/ | common | 12 |
+| das Formular <SpeakButton text="das Formular" /> | -e | the form | ফরম | /fɔʁmuˈlaːɐ̯/ | common | 12 |
+| der Text <SpeakButton text="der Text" /> | -e | the text | পাঠ্য / অনুচ্ছেদ | /tɛkst/ | common | 12 |
+| der Hinweis <SpeakButton text="der Hinweis" /> | -e | the clue / hint / note | সংকেত / ইঙ্গিত | /ˈhɪnˌvaɪs/ | common | 12 |
+| die Zeit <SpeakButton text="die Zeit" /> | -en | the time | সময় | /tsaɪt/ | common | 12 |
+| die Minute <SpeakButton text="die Minute" /> | -n | the minute | মিনিট | /miˈnuːtə/ | common | 12 |
+| der Punkt <SpeakButton text="der Punkt" /> | -e | the point / score | পয়েন্ট / নম্বর | /pʊŋkt/ | common | 12 |
+| bestehen <SpeakButton text="bestehen" /> | — | to pass (an exam) | উত্তীর্ণ হওয়া / পাস করা | /bəˈʃteːən/ | common | 12 |
+| das Ergebnis <SpeakButton text="das Ergebnis" /> | -se | the result / score | ফলাফল | /ɛɐ̯ˈɡeːpnɪs/ | common | 12 |
+| die Vorbereitung <SpeakButton text="die Vorbereitung" /> | -en | the preparation | প্রস্তুতি | /ˈfoːɐ̯bəˌʁaɪtʊŋ/ | common | 12 |
+| sich vorstellen <SpeakButton text="sich vorstellen" /> | — | to introduce oneself | নিজের পরিচয় দেওয়া | /zɪç ˈfoːɐ̯ˌʃtɛlən/ | common | 12 |
+| buchstabieren <SpeakButton text="buchstabieren" /> | — | to spell | বানান করা | /bʊxʃtaˈbiːʁən/ | common | 12 |
+| wiederholen <SpeakButton text="wiederholen" /> | — | to repeat / revise | পুনরাবৃত্তি করা | /viːdɐˈhoːlən/ | common | 12 |
+| verstehen <SpeakButton text="verstehen" /> | — | to understand | বোঝা | /fɛɐ̯ˈʃteːən/ | common | 12 |
+| sprechen <SpeakButton text="sprechen" /> | — | to speak | কথা বলা | /ˈʃpʁɛçn̩/ | common | 12 |
+| schreiben <SpeakButton text="schreiben" /> | — | to write | লেখা | /ˈʃʁaɪbn̩/ | common | 12 |
+| lesen <SpeakButton text="lesen" /> | — | to read | পড়া | /ˈleːzn̩/ | common | 12 |
+| hören <SpeakButton text="hören" /> | — | to hear / listen | শোনা | /ˈhøːʁən/ | common | 12 |
+| bitten um <SpeakButton text="bitten um" /> | — | to ask for / request | অনুরোধ করা | /ˈbɪtn̩ ʊm/ | common | 12 |
+| die Nachricht <SpeakButton text="die Nachricht" /> | -en | the message / news | বার্তা / সংবাদ | /ˈnaːxˌʁɪçt/ | common | 12 |
+| der Sprecher <SpeakButton text="der Sprecher" /> | — | the speaker | বক্তা | /ˈʃpʁɛçɐ/ | common | 12 |
+| die Nummer <SpeakButton text="die Nummer" /> | -n | the number | নম্বর | /ˈnʊmɐ/ | common | 12 |
+| das Thema <SpeakButton text="das Thema" /> | Themen | the topic / subject | বিষয় | /ˈteːma/ | common | 12 |
+| die Karte <SpeakButton text="die Karte" /> | -n | the card / ticket | কার্ড / টিকেট | /ˈkaʁtə/ | common | 12 |
+| die Bitte <SpeakButton text="die Bitte" /> | -n | the request / plea | অনুরোধ | /ˈbɪtə/ | common | 12 |
+| der Grund <SpeakButton text="der Grund" /> | -..e | the reason / cause | কারণ | /ɡʁʊnt/ | common | 12 |
+| der Gruß <SpeakButton text="der Gruß" /> | -..e | the greeting | শুভেচ্ছা | /ɡʁuːs/ | common | 12 |
+| die Anrede <SpeakButton text="die Anrede" /> | -n | the salutation | সম্বোধন | /ˈanˌʁeːdə/ | common | 12 |
+| der Absender <SpeakButton text="der Absender" /> | — | the sender | প্রেরক | /ˈapˌzɛndɐ/ | common | 12 |
+| der Empfänger <SpeakButton text="der Empfänger" /> | — | the recipient | প্রাপক | /ɛmˈpfɛŋɐ/ | common | 12 |
+| herzlichen Glückwunsch <SpeakButton text="herzlichen Glückwunsch" /> | — | congratulations! | অভিনন্দন! | /ˈhɛʁtslɪçn̩ ˈɡlʏkˌvʊnʃ/ | common | 12 |

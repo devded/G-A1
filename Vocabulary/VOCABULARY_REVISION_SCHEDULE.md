@@ -11,7 +11,7 @@
 | R3 | +7 days | Weekly quiz and speaking reuse |
 | R4 | +14 days | Cumulative production review |
 | R5 | +30 days | Recognition audit and weak-card repair |
-| Final | Week 8 | Full active/recognition classification |
+| Final | Week 12 | Full active/recognition classification |
 
 ## Honest card rating
 
