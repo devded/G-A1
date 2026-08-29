@@ -172,7 +172,7 @@ Measure can-do skills, not pages read. Mark a skill as:
 
 You can mark “independently” only when you can perform without reading a complete model answer.
 
-## Eight-week commitment
+## Twelve-week commitment
 
 - Study at a consistent time when possible.
 - Speak German every day.

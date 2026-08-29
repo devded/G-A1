@@ -7,7 +7,7 @@
 ## 1. 🚀 Interactive Web App & UX Enhancements
 
 - [ ] **`localStorage` Progress Persistence**
-  - *Current State:* Custom Vue components ([VocabQuiz.vue](.vitepress/theme/components/VocabQuiz.vue) and [FlipDeck.vue](.vitepress/theme/components/FlipDeck.vue)) reset state upon page refresh.
+  - *Current State:* Custom Vue components (`VocabQuiz.vue` and `FlipDeck.vue`) reset state upon page refresh.
   - *Target:* Save completed flashcards, quiz scores, and daily checklist items in browser `localStorage` across study sessions.
 
 - [ ] **Audio-on-Flip in Flashcards**
@@ -21,7 +21,7 @@
 ## 2. 📝 Interactive Goethe A1 Examination Engine
 
 - [ ] **Interactive Mock Exam Component (`MockExam.vue`)**
-  - *Current State:* Mock exams in [Exams/Mock-Exam-01](Exams/Mock-Exam-01/README.md) and [Exams/Mock-Exam-02](Exams/Mock-Exam-02/README.md) are static Markdown files.
+  - *Current State:* Mock exams in [Exams/Mock-Exam-01](/Exams/Mock-Exam-01/) and [Exams/Mock-Exam-02](/Exams/Mock-Exam-02/) are static Markdown files.
   - *Target:* Build an interactive exam component with:
     1. A 65-minute countdown timer (matching official Goethe A1 timing).
     2. Interactive radio-button selection for Listening (*Hören*), Reading (*Lesen*), and Writing (*Schreiben*).
@@ -42,7 +42,7 @@
 ## 4. 🤖 CI/CD & Build Automation
 
 - [ ] **Automate Python Renderer in GitHub Actions**
-  - *Current State:* [.github/workflows/deploy.yml](.github/workflows/deploy.yml) only executes `npm run build`.
+  - *Current State:* `.github/workflows/deploy.yml` only executes `npm run build`.
   - *Target:* Update the workflow to set up Python 3.11 and run `python3 run_build_all.py` before building VitePress, ensuring generated content is validated on every commit:
     ```yaml
     - name: Setup Python

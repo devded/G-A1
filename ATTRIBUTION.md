@@ -6,7 +6,7 @@ The vocabulary foundation is derived from the public repository **patsytau/anki_
 - License: https://creativecommons.org/licenses/by-sa/4.0/
 - Official Goethe exam practice and word-list page: https://www.goethe.de/en/spr/prf/ueb/pa1.html
 
-This course reorganises vocabulary by an eight-week curriculum, adds Bengali learner support, IPA generation, status metadata, review schedules, course-created vocabulary and original lessons/exercises.
+This course reorganises vocabulary by a twelve-week curriculum, adds Bengali learner support, IPA generation, status metadata, review schedules, course-created vocabulary and original lessons/exercises.
 
 The Bengali lookup support used during generation references the open-source Ridmik Bangla Dictionary project based on Ankur.org data. The generated course does not redistribute that full database.
 

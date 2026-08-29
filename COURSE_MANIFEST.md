@@ -6,7 +6,7 @@ Build status: **PASS**
 |---|---:|
 | Daily lessons | 84 |
 | Vocabulary items | 950 |
-| Markdown files | 393 |
+| Markdown files | 516 |
 | CSV flashcard files | 13 |
 | WAV audio files | 66 |
 | JSON data/report files | 1 |

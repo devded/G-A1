@@ -2,7 +2,7 @@
 
 ## Course design
 
-All explanations, lesson sequences, reading passages, listening scripts, exercises, quizzes and mock exams in this repository were generated specifically for this self-study course and edited into a consistent eight-week progression.
+All explanations, lesson sequences, reading passages, listening scripts, exercises, quizzes and mock exams in this repository were generated specifically for this self-study course and edited into a consistent twelve-week progression.
 
 ## Vocabulary seed data
 
