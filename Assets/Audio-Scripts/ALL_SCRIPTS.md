@@ -183,3 +183,95 @@ Bitte prüfen Sie Ihre Fehler: War es ein Wort, eine Zahl, die Grammatik oder di
 
 ### Day 7
 Ich kann mich vorstellen, einfache Fragen stellen, kurze Nachrichten schreiben und wichtige Informationen verstehen.
+
+## Week 9
+
+### Day 1
+Entschuldigung, gibt es hier in der Nähe eine Apotheke? – Ja, direkt an der Ecke neben der Bank.
+
+### Day 2
+Gehen Sie immer geradeaus und an der zweiten Kreuzung biegen Sie rechts ab.
+
+### Day 3
+Ich bin heute beim Arzt und gehe danach zur Post und zum Supermarkt.
+
+### Day 4
+Eine Fahrkarte nach München, bitte. Einfach oder hin und zurück? – Einfach, bitte.
+
+### Day 5
+Der Zug nach Hamburg fährt um neun Uhr zwanzig von Gleis sieben ab.
+
+### Day 6
+Vom Hauptbahnhof nehmen Sie die U-Bahn Linie zwei bis zur Haltestelle Universität.
+
+### Day 7
+Ich fahre jeden Tag mit der S-Bahn zur Arbeit. Die Fahrt dauert zwanzig Minuten.
+
+## Week 10
+
+### Day 1
+Wie ist das Wetter heute? Es ist sonnig, aber der Wind weht ziemlich stark.
+
+### Day 2
+Im Sommer ist es in Berlin sehr warm, oft über dreißig Grad.
+
+### Day 3
+Können Sie mir bitte helfen? Ich kann die Adresse auf der Karte nicht finden.
+
+### Day 4
+Ich muss heute lange im Büro arbeiten und kann leider nicht zum Sport kommen.
+
+### Day 5
+Hier darf man nicht rauchen. Bitte gehen Sie nach draußen.
+
+### Day 6
+Am Wochenende wollen wir in die Berge fahren und eine lange Wanderung machen.
+
+### Day 7
+Der Arzt sagt, ich soll im Bett bleiben und viel warmen Tee mit Zitrone trinken.
+
+## Week 11
+
+### Day 1
+Guten Tag, Herr Doktor. Mein Rücken tut seit gestern schrecklich weh.
+
+### Day 2
+Ich habe Fieber, Husten und Halsschmerzen. Ich glaube, ich habe eine schwere Grippe.
+
+### Day 3
+Nehmen Sie diese Tabletten dreimal täglich vor dem Essen mit reichlich Wasser ein.
+
+### Day 4
+Gestern habe ich meine Hausaufgaben gemacht und zwei Stunden Deutsch gelernt.
+
+### Day 5
+Wir haben am Abend im Restaurant leckere Pasta gegessen und italienischen Wein getrunken.
+
+### Day 6
+Am Sonntag bin ich um acht Uhr aufgestanden und mit dem Fahrrad in den Park gefahren.
+
+### Day 7
+Ich bin gestern nach München gefahren und habe dort meine Großeltern besucht.
+
+## Week 12
+
+### Day 1
+Prüfungsteil Hören. Sie hören kurze Gespräche und Ansagen. Lesen Sie zuerst die Aufgaben.
+
+### Day 2
+Der Zug aus Frankfurt hat zwanzig Minuten Verspätung und kommt heute auf Gleis vier an.
+
+### Day 3
+Hallo Peter, hier ist Julia. Unser Deutschkurs beginnt am Montag schon um achtzehn Uhr, nicht um neunzehn Uhr.
+
+### Day 4
+Für Teil eins des Schreibens tragen Sie bitte die fünf fehlenden Informationen in das Formular ein.
+
+### Day 5
+Sprechen Teil eins: Bitte stellen Sie sich vor, buchstabieren Sie Ihren Nachnamen und nennen Sie Ihre Telefonnummer.
+
+### Day 6
+Thema Einkaufen: Wie viel kostet das Brot? — Das Brot kostet zwei Euro fünfzig.
+
+### Day 7
+Herzlichen Glückwunsch! Sie haben das gesamte A1-Programm erfolgreich abgeschlossen und sind prüfungsbereit!

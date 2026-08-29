@@ -73,3 +73,39 @@ Audio: [`Week-08-Day-52.wav`](../Assets/Audio/Week-08-Day-52.wav)
 2. Write on the second and third pass.
 3. Mark missing endings, noun capitals and numbers.
 4. Open the transcript in the corresponding daily lesson.
+
+## Week 9
+
+Audio: [`Week-09-Day-59.wav`](../Assets/Audio/Week-09-Day-59.wav)
+
+1. Listen once without writing.
+2. Write on the second and third pass.
+3. Mark missing endings, noun capitals and numbers.
+4. Open the transcript in the corresponding daily lesson.
+
+## Week 10
+
+Audio: [`Week-10-Day-66.wav`](../Assets/Audio/Week-10-Day-66.wav)
+
+1. Listen once without writing.
+2. Write on the second and third pass.
+3. Mark missing endings, noun capitals and numbers.
+4. Open the transcript in the corresponding daily lesson.
+
+## Week 11
+
+Audio: [`Week-11-Day-73.wav`](../Assets/Audio/Week-11-Day-73.wav)
+
+1. Listen once without writing.
+2. Write on the second and third pass.
+3. Mark missing endings, noun capitals and numbers.
+4. Open the transcript in the corresponding daily lesson.
+
+## Week 12
+
+Audio: [`Week-12-Day-80.wav`](../Assets/Audio/Week-12-Day-80.wav)
+
+1. Listen once without writing.
+2. Write on the second and third pass.
+3. Mark missing endings, noun capitals and numbers.
+4. Open the transcript in the corresponding daily lesson.
