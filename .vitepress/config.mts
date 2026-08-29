@@ -74,10 +74,10 @@ export default defineConfig({
           { text: 'Week 6: Time & Daily Routine', link: '/Weeks/Week-06/Days/Day-36' },
           { text: 'Week 7: Hobbies & Word Position', link: '/Weeks/Week-07/Days/Day-43' },
           { text: 'Week 8: Food & Accusative Case', link: '/Weeks/Week-08/Days/Day-50' },
-          { text: 'Week 9: Dining Out & Preferences', link: '/Weeks/Week-09/Days/Day-57' },
-          { text: 'Week 10: City, Directions & Dative', link: '/Weeks/Week-10/Days/Day-64' },
-          { text: 'Week 11: Weather & Modal Verbs', link: '/Weeks/Week-11/Days/Day-71' },
-          { text: 'Week 12: Health, Past Tense & Exams', link: '/Weeks/Week-12/Days/Day-78' }
+          { text: 'Week 9: City, Transport & Directions', link: '/Weeks/Week-09/Days/Day-57' },
+          { text: 'Week 10: Weather, Seasons & Modal Verbs', link: '/Weeks/Week-10/Days/Day-64' },
+          { text: 'Week 11: Health & Present Perfect Tense', link: '/Weeks/Week-11/Days/Day-71' },
+          { text: 'Week 12: Goethe A1 Exam Prep & Mock Exams', link: '/Weeks/Week-12/Days/Day-78' }
         ]
       },
       {
@@ -216,54 +216,54 @@ export default defineConfig({
           ]
         },
         {
-          text: 'Week 9: Dining Out & Preferences',
+          text: 'Week 9: City, Transport & Directions',
           collapsed: true,
           items: [
-            { text: 'Day 57 — Restaurant Menu', link: '/Weeks/Week-09/Days/Day-57' },
-            { text: 'Day 58 — Ordering Food', link: '/Weeks/Week-09/Days/Day-58' },
-            { text: 'Day 59 — Asking for the Bill', link: '/Weeks/Week-09/Days/Day-59' },
-            { text: 'Day 60 — Verb Mögen & Möchte', link: '/Weeks/Week-09/Days/Day-60' },
-            { text: 'Day 61 — Preferences', link: '/Weeks/Week-09/Days/Day-61' },
-            { text: 'Day 62 — Dining Out Dialogue', link: '/Weeks/Week-09/Days/Day-62' },
+            { text: 'Day 57 — City Places & es gibt', link: '/Weeks/Week-09/Days/Day-57' },
+            { text: 'Day 58 — Asking & Giving Directions', link: '/Weeks/Week-09/Days/Day-58' },
+            { text: 'Day 59 — Location Prepositions & Contractions', link: '/Weeks/Week-09/Days/Day-59' },
+            { text: 'Day 60 — Public Transportation', link: '/Weeks/Week-09/Days/Day-60' },
+            { text: 'Day 61 — Train Travel & Timetables', link: '/Weeks/Week-09/Days/Day-61' },
+            { text: 'Day 62 — At the Station Dialogue', link: '/Weeks/Week-09/Days/Day-62' },
             { text: 'Day 63 — Week 9 Review', link: '/Weeks/Week-09/Days/Day-63' }
           ]
         },
         {
-          text: 'Week 10: City, Directions & Dative',
+          text: 'Week 10: Weather, Seasons & Modal Verbs',
           collapsed: true,
           items: [
-            { text: 'Day 64 — City Places', link: '/Weeks/Week-10/Days/Day-64' },
-            { text: 'Day 65 — Asking Directions (Wo ist...?)', link: '/Weeks/Week-10/Days/Day-65' },
-            { text: 'Day 66 — Giving Directions', link: '/Weeks/Week-10/Days/Day-66' },
-            { text: 'Day 67 — Public Transportation', link: '/Weeks/Week-10/Days/Day-67' },
-            { text: 'Day 68 — Basic Dative Case (Dem, Der)', link: '/Weeks/Week-10/Days/Day-68' },
-            { text: 'Day 69 — Dative Prepositions', link: '/Weeks/Week-10/Days/Day-69' },
+            { text: 'Day 64 — Weather & Impersonal es', link: '/Weeks/Week-10/Days/Day-64' },
+            { text: 'Day 65 — Seasons, Months & Temperature', link: '/Weeks/Week-10/Days/Day-65' },
+            { text: 'Day 66 — Modal Verb Können', link: '/Weeks/Week-10/Days/Day-66' },
+            { text: 'Day 67 — Modal Verb Müssen', link: '/Weeks/Week-10/Days/Day-67' },
+            { text: 'Day 68 — Modal Verbs Wollen & Dürfen', link: '/Weeks/Week-10/Days/Day-68' },
+            { text: 'Day 69 — Outdoor Activities & Weather', link: '/Weeks/Week-10/Days/Day-69' },
             { text: 'Day 70 — Week 10 Review', link: '/Weeks/Week-10/Days/Day-70' }
           ]
         },
         {
-          text: 'Week 11: Weather & Modal Verbs',
+          text: 'Week 11: Health & Present Perfect Tense',
           collapsed: true,
           items: [
-            { text: 'Day 71 — Weather & Seasons', link: '/Weeks/Week-11/Days/Day-71' },
-            { text: 'Day 72 — Clothing & Colors', link: '/Weeks/Week-11/Days/Day-72' },
-            { text: 'Day 73 — Modal Verb Können (Can)', link: '/Weeks/Week-11/Days/Day-73' },
-            { text: 'Day 74 — Modal Verb Müssen (Must)', link: '/Weeks/Week-11/Days/Day-74' },
-            { text: 'Day 75 — Modal Verb Wollen & Sollen', link: '/Weeks/Week-11/Days/Day-75' },
-            { text: 'Day 76 — Describing Personality', link: '/Weeks/Week-11/Days/Day-76' },
+            { text: 'Day 71 — Body Parts & tut weh', link: '/Weeks/Week-11/Days/Day-71' },
+            { text: 'Day 72 — Symptoms & Illness', link: '/Weeks/Week-11/Days/Day-72' },
+            { text: 'Day 73 — Doctor & Pharmacy', link: '/Weeks/Week-11/Days/Day-73' },
+            { text: 'Day 74 — Perfekt with Haben (Regular)', link: '/Weeks/Week-11/Days/Day-74' },
+            { text: 'Day 75 — Perfekt with Irregular Verbs', link: '/Weeks/Week-11/Days/Day-75' },
+            { text: 'Day 76 — Perfekt with Sein (Movement)', link: '/Weeks/Week-11/Days/Day-76' },
             { text: 'Day 77 — Week 11 Review', link: '/Weeks/Week-11/Days/Day-77' }
           ]
         },
         {
-          text: 'Week 12: Health, Past Tense & Exams',
+          text: 'Week 12: Goethe A1 Exam Prep & Mock Exams',
           collapsed: true,
           items: [
-            { text: 'Day 78 — Body Parts & Symptoms', link: '/Weeks/Week-12/Days/Day-78' },
-            { text: 'Day 79 — Doctor Appointment', link: '/Weeks/Week-12/Days/Day-79' },
-            { text: 'Day 80 — Past Tense (Perfekt mit Haben)', link: '/Weeks/Week-12/Days/Day-80' },
-            { text: 'Day 81 — Past Tense (Perfekt mit Sein)', link: '/Weeks/Week-12/Days/Day-81' },
-            { text: 'Day 82 — Goethe A1 Exam Overview', link: '/Weeks/Week-12/Days/Day-82' },
-            { text: 'Day 83 — Full Mock Practice Check', link: '/Weeks/Week-12/Days/Day-83' },
+            { text: 'Day 78 — Goethe A1 Listening Strategies', link: '/Weeks/Week-12/Days/Day-78' },
+            { text: 'Day 79 — Goethe A1 Reading Strategies', link: '/Weeks/Week-12/Days/Day-79' },
+            { text: 'Day 80 — Goethe A1 Writing Strategies', link: '/Weeks/Week-12/Days/Day-80' },
+            { text: 'Day 81 — Goethe A1 Speaking Strategies', link: '/Weeks/Week-12/Days/Day-81' },
+            { text: 'Day 82 — Full A1 Grammar Synthesis', link: '/Weeks/Week-12/Days/Day-82' },
+            { text: 'Day 83 — Mock Exam Practice Check', link: '/Weeks/Week-12/Days/Day-83' },
             { text: 'Day 84 — Course Completion & Celebration', link: '/Weeks/Week-12/Days/Day-84' }
           ]
         }
@@ -445,6 +445,7 @@ export default defineConfig({
         },
         {
           text: 'Vocabulary Exercises',
+          collapsed: true,
           items: [
             { text: 'Week 1 Vocabulary', link: '/Exercises/Vocabulary/Week-01' },
             { text: 'Week 2 Vocabulary', link: '/Exercises/Vocabulary/Week-02' },
@@ -453,11 +454,34 @@ export default defineConfig({
             { text: 'Week 5 Vocabulary', link: '/Exercises/Vocabulary/Week-05' },
             { text: 'Week 6 Vocabulary', link: '/Exercises/Vocabulary/Week-06' },
             { text: 'Week 7 Vocabulary', link: '/Exercises/Vocabulary/Week-07' },
-            { text: 'Week 8 Vocabulary', link: '/Exercises/Vocabulary/Week-08' }
+            { text: 'Week 8 Vocabulary', link: '/Exercises/Vocabulary/Week-08' },
+            { text: 'Week 9 Vocabulary', link: '/Exercises/Vocabulary/Week-09' },
+            { text: 'Week 10 Vocabulary', link: '/Exercises/Vocabulary/Week-10' },
+            { text: 'Week 11 Vocabulary', link: '/Exercises/Vocabulary/Week-11' },
+            { text: 'Week 12 Vocabulary', link: '/Exercises/Vocabulary/Week-12' }
+          ]
+        },
+        {
+          text: 'Grammar Drills',
+          collapsed: true,
+          items: [
+            { text: 'Week 1 Grammar', link: '/Exercises/Grammar/Week-01' },
+            { text: 'Week 2 Grammar', link: '/Exercises/Grammar/Week-02' },
+            { text: 'Week 3 Grammar', link: '/Exercises/Grammar/Week-03' },
+            { text: 'Week 4 Grammar', link: '/Exercises/Grammar/Week-04' },
+            { text: 'Week 5 Grammar', link: '/Exercises/Grammar/Week-05' },
+            { text: 'Week 6 Grammar', link: '/Exercises/Grammar/Week-06' },
+            { text: 'Week 7 Grammar', link: '/Exercises/Grammar/Week-07' },
+            { text: 'Week 8 Grammar', link: '/Exercises/Grammar/Week-08' },
+            { text: 'Week 9 Grammar', link: '/Exercises/Grammar/Week-09' },
+            { text: 'Week 10 Grammar', link: '/Exercises/Grammar/Week-10' },
+            { text: 'Week 11 Grammar', link: '/Exercises/Grammar/Week-11' },
+            { text: 'Week 12 Grammar', link: '/Exercises/Grammar/Week-12' }
           ]
         },
         {
           text: 'Reading Exercises',
+          collapsed: true,
           items: [
             { text: 'Week 1 Reading', link: '/Exercises/Reading/Week-01' },
             { text: 'Week 2 Reading', link: '/Exercises/Reading/Week-02' },
@@ -466,11 +490,34 @@ export default defineConfig({
             { text: 'Week 5 Reading', link: '/Exercises/Reading/Week-05' },
             { text: 'Week 6 Reading', link: '/Exercises/Reading/Week-06' },
             { text: 'Week 7 Reading', link: '/Exercises/Reading/Week-07' },
-            { text: 'Week 8 Reading', link: '/Exercises/Reading/Week-08' }
+            { text: 'Week 8 Reading', link: '/Exercises/Reading/Week-08' },
+            { text: 'Week 9 Reading', link: '/Exercises/Reading/Week-09' },
+            { text: 'Week 10 Reading', link: '/Exercises/Reading/Week-10' },
+            { text: 'Week 11 Reading', link: '/Exercises/Reading/Week-11' },
+            { text: 'Week 12 Reading', link: '/Exercises/Reading/Week-12' }
+          ]
+        },
+        {
+          text: 'Listening Exercises',
+          collapsed: true,
+          items: [
+            { text: 'Week 1 Listening', link: '/Exercises/Listening/Week-01' },
+            { text: 'Week 2 Listening', link: '/Exercises/Listening/Week-02' },
+            { text: 'Week 3 Listening', link: '/Exercises/Listening/Week-03' },
+            { text: 'Week 4 Listening', link: '/Exercises/Listening/Week-04' },
+            { text: 'Week 5 Listening', link: '/Exercises/Listening/Week-05' },
+            { text: 'Week 6 Listening', link: '/Exercises/Listening/Week-06' },
+            { text: 'Week 7 Listening', link: '/Exercises/Listening/Week-07' },
+            { text: 'Week 8 Listening', link: '/Exercises/Listening/Week-08' },
+            { text: 'Week 9 Listening', link: '/Exercises/Listening/Week-09' },
+            { text: 'Week 10 Listening', link: '/Exercises/Listening/Week-10' },
+            { text: 'Week 11 Listening', link: '/Exercises/Listening/Week-11' },
+            { text: 'Week 12 Listening', link: '/Exercises/Listening/Week-12' }
           ]
         },
         {
           text: 'Dictation Exercises',
+          collapsed: true,
           items: [
             { text: 'Week 1 Dictation', link: '/Exercises/Dictation/Week-01' },
             { text: 'Week 2 Dictation', link: '/Exercises/Dictation/Week-02' },
@@ -479,11 +526,70 @@ export default defineConfig({
             { text: 'Week 5 Dictation', link: '/Exercises/Dictation/Week-05' },
             { text: 'Week 6 Dictation', link: '/Exercises/Dictation/Week-06' },
             { text: 'Week 7 Dictation', link: '/Exercises/Dictation/Week-07' },
-            { text: 'Week 8 Dictation', link: '/Exercises/Dictation/Week-08' }
+            { text: 'Week 8 Dictation', link: '/Exercises/Dictation/Week-08' },
+            { text: 'Week 9 Dictation', link: '/Exercises/Dictation/Week-09' },
+            { text: 'Week 10 Dictation', link: '/Exercises/Dictation/Week-10' },
+            { text: 'Week 11 Dictation', link: '/Exercises/Dictation/Week-11' },
+            { text: 'Week 12 Dictation', link: '/Exercises/Dictation/Week-12' }
+          ]
+        },
+        {
+          text: 'Speaking Practice',
+          collapsed: true,
+          items: [
+            { text: 'Week 1 Speaking', link: '/Exercises/Speaking/Week-01' },
+            { text: 'Week 2 Speaking', link: '/Exercises/Speaking/Week-02' },
+            { text: 'Week 3 Speaking', link: '/Exercises/Speaking/Week-03' },
+            { text: 'Week 4 Speaking', link: '/Exercises/Speaking/Week-04' },
+            { text: 'Week 5 Speaking', link: '/Exercises/Speaking/Week-05' },
+            { text: 'Week 6 Speaking', link: '/Exercises/Speaking/Week-06' },
+            { text: 'Week 7 Speaking', link: '/Exercises/Speaking/Week-07' },
+            { text: 'Week 8 Speaking', link: '/Exercises/Speaking/Week-08' },
+            { text: 'Week 9 Speaking', link: '/Exercises/Speaking/Week-09' },
+            { text: 'Week 10 Speaking', link: '/Exercises/Speaking/Week-10' },
+            { text: 'Week 11 Speaking', link: '/Exercises/Speaking/Week-11' },
+            { text: 'Week 12 Speaking', link: '/Exercises/Speaking/Week-12' }
+          ]
+        },
+        {
+          text: 'Translation Practice',
+          collapsed: true,
+          items: [
+            { text: 'Week 1 Translation', link: '/Exercises/Translation/Week-01' },
+            { text: 'Week 2 Translation', link: '/Exercises/Translation/Week-02' },
+            { text: 'Week 3 Translation', link: '/Exercises/Translation/Week-03' },
+            { text: 'Week 4 Translation', link: '/Exercises/Translation/Week-04' },
+            { text: 'Week 5 Translation', link: '/Exercises/Translation/Week-05' },
+            { text: 'Week 6 Translation', link: '/Exercises/Translation/Week-06' },
+            { text: 'Week 7 Translation', link: '/Exercises/Translation/Week-07' },
+            { text: 'Week 8 Translation', link: '/Exercises/Translation/Week-08' },
+            { text: 'Week 9 Translation', link: '/Exercises/Translation/Week-09' },
+            { text: 'Week 10 Translation', link: '/Exercises/Translation/Week-10' },
+            { text: 'Week 11 Translation', link: '/Exercises/Translation/Week-11' },
+            { text: 'Week 12 Translation', link: '/Exercises/Translation/Week-12' }
+          ]
+        },
+        {
+          text: 'Writing Practice',
+          collapsed: true,
+          items: [
+            { text: 'Week 1 Writing', link: '/Exercises/Writing/Week-01' },
+            { text: 'Week 2 Writing', link: '/Exercises/Writing/Week-02' },
+            { text: 'Week 3 Writing', link: '/Exercises/Writing/Week-03' },
+            { text: 'Week 4 Writing', link: '/Exercises/Writing/Week-04' },
+            { text: 'Week 5 Writing', link: '/Exercises/Writing/Week-05' },
+            { text: 'Week 6 Writing', link: '/Exercises/Writing/Week-06' },
+            { text: 'Week 7 Writing', link: '/Exercises/Writing/Week-07' },
+            { text: 'Week 8 Writing', link: '/Exercises/Writing/Week-08' },
+            { text: 'Week 9 Writing', link: '/Exercises/Writing/Week-09' },
+            { text: 'Week 10 Writing', link: '/Exercises/Writing/Week-10' },
+            { text: 'Week 11 Writing', link: '/Exercises/Writing/Week-11' },
+            { text: 'Week 12 Writing', link: '/Exercises/Writing/Week-12' }
           ]
         },
         {
           text: 'Mixed Revision',
+          collapsed: true,
           items: [
             { text: 'Week 1 Revision', link: '/Exercises/Mixed-Revision/Week-01' },
             { text: 'Week 2 Revision', link: '/Exercises/Mixed-Revision/Week-02' },
@@ -492,7 +598,29 @@ export default defineConfig({
             { text: 'Week 5 Revision', link: '/Exercises/Mixed-Revision/Week-05' },
             { text: 'Week 6 Revision', link: '/Exercises/Mixed-Revision/Week-06' },
             { text: 'Week 7 Revision', link: '/Exercises/Mixed-Revision/Week-07' },
-            { text: 'Week 8 Revision', link: '/Exercises/Mixed-Revision/Week-08' }
+            { text: 'Week 8 Revision', link: '/Exercises/Mixed-Revision/Week-08' },
+            { text: 'Week 9 Revision', link: '/Exercises/Mixed-Revision/Week-09' },
+            { text: 'Week 10 Revision', link: '/Exercises/Mixed-Revision/Week-10' },
+            { text: 'Week 11 Revision', link: '/Exercises/Mixed-Revision/Week-11' },
+            { text: 'Week 12 Revision', link: '/Exercises/Mixed-Revision/Week-12' }
+          ]
+        },
+        {
+          text: 'Answer Keys & Evaluation',
+          collapsed: true,
+          items: [
+            { text: 'Week 1 Answers', link: '/Exercises/Answer-Keys/Week-01' },
+            { text: 'Week 2 Answers', link: '/Exercises/Answer-Keys/Week-02' },
+            { text: 'Week 3 Answers', link: '/Exercises/Answer-Keys/Week-03' },
+            { text: 'Week 4 Answers', link: '/Exercises/Answer-Keys/Week-04' },
+            { text: 'Week 5 Answers', link: '/Exercises/Answer-Keys/Week-05' },
+            { text: 'Week 6 Answers', link: '/Exercises/Answer-Keys/Week-06' },
+            { text: 'Week 7 Answers', link: '/Exercises/Answer-Keys/Week-07' },
+            { text: 'Week 8 Answers', link: '/Exercises/Answer-Keys/Week-08' },
+            { text: 'Week 9 Answers', link: '/Exercises/Answer-Keys/Week-09' },
+            { text: 'Week 10 Answers', link: '/Exercises/Answer-Keys/Week-10' },
+            { text: 'Week 11 Answers', link: '/Exercises/Answer-Keys/Week-11' },
+            { text: 'Week 12 Answers', link: '/Exercises/Answer-Keys/Week-12' }
           ]
         }
       ],
