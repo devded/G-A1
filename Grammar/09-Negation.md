@@ -1,78 +1,69 @@
-# Negation with Nicht and Kein
+# 09 — Negation in German: *nicht* vs *kein* (*Verneinung*)
 
-## Learning purpose
+## 1. Overview & Core Decision Rule
 
-Use this structure accurately in practical A1 communication.
+German uses two primary words to negate sentences: **`kein`** and **`nicht`**.
 
+> 🎯 **The Quick Decision Rule:**
+> - Use **`kein`** (*no / not a*) to negate **NOUNS preceded by an indefinite article (*ein/eine*) or NO article (zero article)**.
+> - Use **`nicht`** (*not*) to negate **everything else** (verbs, adjectives, adverbs, proper names, nouns with definite articles *der/die/das*, possessives *mein/dein*, or entire clauses).
 
-### Concept
+---
 
-kein usually negates an indefinite or article-less noun; nicht negates verbs, adjectives, adverbs or specific information.
+## 2. When to Use `kein` (Declined like `ein`)
 
-### Purpose
+`kein` takes the same endings as `ein` (plus the plural form `keine`):
 
-Say what you do not have, do not want, cannot do or what is not true.
+| Case | Masculine | Feminine | Neuter | Plural |
+|:---|:---:|:---:|:---:|:---:|
+| **Nominative** | **kein** Mann | **keine** Frau | **kein** Kind | **keine** Kinder |
+| **Accusative** | **keinen** Mann | **keine** Frau | **kein** Kind | **keine** Kinder |
+| **Dative** | **keinem** Mann | **keiner** Frau | **keinem** Kind | **keinen** Kindern |
 
-### Sentence structure
+**Examples:**
+- *Ich habe **ein** Auto.* → *Ich habe **kein** Auto.* (Negating indefinite neuter noun)
+- *Ich esse Fleisch.* → *Ich esse **kein** Fleisch.* (Negating noun with zero article)
+- *Wir haben Zeit.* → *Wir haben **keine** Zeit.* (Negating feminine zero article)
+- *Ich habe **einen** Bruder.* → *Ich habe **keinen** Bruder.* (Accusative masculine)
 
-```text
-kein + noun; nicht often appears late in a simple clause or directly before the element being contrasted.
-```
+---
 
-### Core examples
+## 3. When and Where to Use `nicht`
 
-| German | English |
-| --- | --- |
-| Ich habe kein Auto. <SpeakButton text="Ich habe kein Auto." audioSrc="/audio/ichhabekeinauto_c7703864.mp3" /> | I do not have a car. |
-| Das ist keine Suppe. <SpeakButton text="Das ist keine Suppe." audioSrc="/audio/dasistkeinesuppe_aeb9fbfb.mp3" /> | That is not soup. |
-| Ich komme heute nicht. <SpeakButton text="Ich komme heute nicht." audioSrc="/audio/ichkommeheutenicht_25417cba.mp3" /> | I am not coming today. |
-| Der Kaffee ist nicht heiß. <SpeakButton text="Der Kaffee ist nicht heiß." audioSrc="/audio/derkaffeeistnichthei_6f2f2d8f.mp3" /> | The coffee is not hot. |
+### Position of `nicht` in the sentence:
+1. **Negating a Verb (General sentence negation):** `nicht` goes to the **end of the clause** (or right before separable prefixes / infinitives / participles).
+   - *Ich arbeite heute **nicht**.*
+   - *Er kommt morgen **nicht**.*
+   - *Ich kann heute **nicht** kommen.* (Before infinitive)
+   - *Er ruft mich heute **nicht** an.* (Before separable prefix)
+2. **Negating an Adjective or Adverb:** `nicht` sits **directly before the adjective/adverb**.
+   - *Das Hotel ist **nicht teuer**.*
+   - *Der Zug fährt **nicht schnell**.*
+3. **Negating a Specific Prepositional Phrase:** `nicht` sits **directly before the preposition**.
+   - *Ich fahre **nicht nach Berlin**, sondern nach Hamburg.*
+   - *Der Brief ist **nicht für mich**.*
+4. **Negating Nouns with Definite (*der/die/das*) or Possessive Articles:**
+   - *Das ist **nicht der Chef**.*
+   - *Das ist **nicht meine Tasche**.*
 
-### Common mistakes
+---
 
-- Using nicht ein instead of kein.
-- Placing nicht mechanically after the subject.
-- Forgetting gender and case endings on kein.
+## 4. Interactive Practice & Exercises
 
-### English/Bengali comparison
+### Choose between `nicht` or the correct form of `kein` (*kein, keine, keinen*):
+1. Ich trinke ___ Kaffee. (zero article, m)
+2. Das ist ___ mein Buch. (possessive)
+3. Wir haben heute ___ Zeit. (zero article, f)
+4. Er versteht die Frage ___. (verb negation)
+5. Ich habe ___ (m, akk) Stift dabei.
+6. Das Zimmer ist ___ groß. (adjective)
 
-English uses “not” and “no/not any”; German makes a similar distinction but expresses it through nicht and the ein-like word kein.
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **keinen** (masculine accusative zero-article noun)
+2. **nicht** (negating possessive *mein Buch*)
+3. **keine** (feminine zero-article noun)
+4. **nicht** (negating verb *verstehen*, placed at end)
+5. **keinen** (masculine accusative noun)
+6. **nicht** (negating adjective *groß*)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

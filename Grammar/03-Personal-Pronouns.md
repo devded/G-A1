@@ -1,82 +1,66 @@
-# Personal Pronouns
+# 03 — Personal Pronouns (*Personalpronomen*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+Personal pronouns replace nouns to avoid repetition. In German, pronouns must match the **grammatical gender** of the noun they replace:
+- A masculine noun (*der Tisch*) is replaced by **er** (*he/it*).
+- A feminine noun (*die Lampe*) is replaced by **sie** (*she/it*).
+- A neuter noun (*das Buch*) is replaced by **es** (*it*).
 
+---
 
-### Concept
+## 2. Master Pronoun Table (Nominative & Accusative)
 
-Personal pronouns show who performs or experiences an action. sein means “to be” and is irregular.
+| German Pronoun | Meaning | Person | Nominative (Subject) | Accusative (Direct Object) | Dative (Indirect Object - Basic) |
+|:---|:---|:---:|:---:|:---:|:---:|
+| **ich** | *I* | 1st sing. | **ich** | **mich** (me) | **mir** (to/for me) |
+| **du** | *you (informal)* | 2nd sing. | **du** | **dich** (you) | **dir** (to/for you) |
+| **er** | *he / it (masc)* | 3rd sing. (m) | **er** | **ihn** (him/it) | **ihm** (to/for him) |
+| **sie** | *she / it (fem)* | 3rd sing. (f) | **sie** | **sie** (her/it) | **ihr** (to/for her) |
+| **es** | *it (neuter)* | 3rd sing. (n) | **es** | **es** (it) | **ihm** (to/for it) |
+| **wir** | *we* | 1st plural | **wir** | **uns** (us) | **uns** (to/for us) |
+| **ihr** | *you all (informal)* | 2nd plural | **ihr** | **euch** (you all) | **euch** (to/for you all) |
+| **sie** | *they* | 3rd plural | **sie** | **sie** (them) | **ihnen** (to/for them) |
+| **Sie** | *you (formal s/pl)*| Formal | **Sie** | **Sie** (you formal) | **Ihnen** (to/for you formal)|
 
-### Purpose
+---
 
-Identify yourself and describe people, nationality, profession and basic states.
+## 3. Crucial Distinctions: `du` vs `ihr` vs `Sie`
 
-### Sentence structure
+German has 3 different ways to say "you":
+1. **`du` (Informal singular):** For 1 friend, family member, child, or classmate.
+   - *Lernst **du** Deutsch?* (Are you studying German?)
+2. **`ihr` (Informal plural):** For 2 or more friends, family members, or children ("you guys / y'all").
+   - *Kommt **ihr** heute Abend?* (Are you guys coming tonight?)
+3. **`Sie` (Formal singular & plural — ALWAYS Capitalized):** For strangers, bosses, doctors, teachers, store clerks, or officials.
+   - *Wie heißen **Sie**?* (What is your name, sir/madam?)
+   - *Sprechen **Sie** Englisch?* (Do you speak English?)
 
-```text
-Subject + conjugated form of sein + information. ich bin, du bist, er/sie/es ist, wir sind, ihr seid, Sie/sie sind.
-```
+---
 
-### Core examples
+## 4. Replacing Nouns by Grammatical Gender
 
-| German | English |
-| --- | --- |
-| Ich bin Shatil. <SpeakButton text="Ich bin Shatil." audioSrc="/audio/ichbinshatil_6aede053.mp3" /> | I am Shatil. |
-| Du bist Studentin. <SpeakButton text="Du bist Studentin." audioSrc="/audio/dubiststudentin_6cbabb32.mp3" /> | You are a student. |
-| Sie sind Herr Weber. <SpeakButton text="Sie sind Herr Weber." audioSrc="/audio/siesindherrweber_1219e967.mp3" /> | You are Mr Weber. |
-| Wir sind müde. <SpeakButton text="Wir sind müde." audioSrc="/audio/wirsindmde_44ae60a5.mp3" /> | We are tired. |
+In English, objects are always called "it". In German, look at the noun's article:
+- *Wo ist **der** Schlüssel? — **Er** liegt auf dem Tisch.* (Where is the key? — It is lying on the table.)
+- *Wo ist **die** Brille? — **Sie** ist in der Tasche.* (Where are the glasses? — It is in the bag.)
+- *Wo ist **das** Handy? — **Es** ist hier.* (Where is the mobile phone? — It is here.)
 
-### Common mistakes
+---
 
-- Saying ich sein instead of ich bin.
-- Writing formal Sie with a lowercase letter.
-- Omitting the verb because Bengali can express some present states differently.
+## 5. Interactive Practice & Exercises
 
-### English/Bengali comparison
+### Exercise: Replace the underlined noun with the correct pronoun (*er, sie, es, wir, ihr, sie, Sie*)
+1. <u>Der Schreibtisch</u> ist sehr modern. → ___ ist sehr modern.
+2. <u>Die Lampe</u> kostet 30 Euro. → ___ kostet 30 Euro.
+3. <u>Das Kind</u> spielt im Garten. → ___ spielt im Garten.
+4. <u>Anna und Peter</u> kommen aus Spanien. → ___ kommen aus Spanien.
+5. Herr Müller, wo wohnen <u>Herr Müller</u>? → Wo wohnen ___?
 
-English also changes “to be” heavily: am/is/are. Bengali may omit an equivalent copula in some present descriptions, but German requires the verb.
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-## Formal and informal address
-
-Use `du` informally with one person, `ihr` informally with several people, and capitalised `Sie` formally for one or more people. The verb with `Sie` uses the same form as `sie` (they), but context and capitalisation clarify meaning.
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **Er** (*der Schreibtisch* is masculine)
+2. **Sie** (*die Lampe* is feminine)
+3. **Es** (*das Kind* is neuter)
+4. **Sie** (*Anna und Peter* is 3rd person plural = they)
+5. **Sie** (polite address = formal you)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

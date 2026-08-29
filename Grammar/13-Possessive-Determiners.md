@@ -1,92 +1,58 @@
-# Possessive Determiners
+# 13 — Possessive Determiners (*Possessivartikel: mein, dein, sein, ihr...*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Talk about more than one item and show relationships or ownership.
+Possessive determiners indicate ownership or relationship ("my, your, his, her, our, their").
+In German, possessive determiners take the **exact same grammatical endings as the indefinite article `ein / eine / ein`**!
 
+---
 
-### Concept
+## 2. Base Possessive Stems
 
-German plural forms vary. Possessive determiners behave like ein-words and agree with the noun context.
+| Person | Pronoun | Possessive Stem | Meaning |
+|:---|:---|:---:|:---|
+| 1st sing. | **ich** | **mein-** | my |
+| 2nd sing. | **du** | **dein-** | your (informal) |
+| 3rd sing. (m) | **er** | **sein-** | his / its |
+| 3rd sing. (f) | **sie** | **ihr-** | her |
+| 3rd sing. (n) | **es** | **sein-** | its |
+| 1st plural | **wir** | **unser-** | our |
+| 2nd plural | **ihr** | **euer- / eur-** ⚠️ | your (plural informal) |
+| 3rd plural | **sie** | **ihr-** | their |
+| Formal | **Sie** | **Ihr-** (Capitalized) | your (formal singular/plural) |
 
-### Purpose
+> ⚠️ **Special Spelling Rule for *euer*:** When *euer* takes an ending (*-e, -en, -em, -er*), it drops the middle 'e':  
+> *euer + e → **eure** Mutter* (not ❌ *euere*)  
+> *euer + en → **euren** Vater*
 
-Talk about several people or objects and show ownership or relationships.
+---
 
-### Sentence structure
+## 3. Complete Possessive Declension Table (Example: *mein*)
 
-```text
-mein/dein/sein/ihr/Ihr + noun; learn plural individually rather than relying on one rule.
-```
+| Case | Masculine (m) | Feminine (f) | Neuter (n) | Plural (pl) |
+|:---|:---:|:---:|:---:|:---:|
+| **Nominative** | mein Vater | mein**e** Mutter | mein Kind | mein**e** Eltern |
+| **Accusative** | mein**en** Vater | mein**e** Mutter | mein Kind | mein**e** Eltern |
+| **Dative** | mein**em** Vater | mein**er** Mutter | mein**em** Kind | mein**en** Eltern |
 
-### Core examples
+---
 
-| German | English |
-| --- | --- |
-| mein Bruder <SpeakButton text="mein Bruder" audioSrc="/audio/meinbruder_6c6c4e82.mp3" /> | my brother |
-| meine Schwester <SpeakButton text="meine Schwester" audioSrc="/audio/meineschwester_7ea317aa.mp3" /> | my sister |
-| meine Eltern <SpeakButton text="meine Eltern" audioSrc="/audio/meineeltern_2f0b92df.mp3" /> | my parents |
-| Ihr Name <SpeakButton text="Ihr Name" audioSrc="/audio/ihrname_209b6913.mp3" /> | your name, formal |
+## 4. Interactive Practice & Exercises
 
-### Common mistakes
+### Fill in the blanks with the correct possessive form:
+1. Das ist Anna. Das ist ___ (her) Bruder.
+2. Das ist Peter. Das ist ___ (his) Schwester.
+3. Ich suche ___ (my, masc akk) Schlüssel.
+4. Wie ist ___ (your, formal) Name, Herr Weber?
+5. Kinder, wo ist ___ (your pl, fem) Mutter?
+6. Wir lieben ___ (our, neuter) Haus.
 
-- Adding -s to every plural.
-- Using mein before every noun regardless of gender.
-- Confusing ihr meaning her/their with Ihr meaning your, formal.
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-### English/Bengali comparison
-
-Bengali possessives do not change for grammatical gender. German mein/meine changes according to the following noun.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-## Core forms
-
-| Person | Base form | Example |
-|---|---|---|
-| ich | mein- | mein Bruder / meine Schwester |
-| du | dein- | dein Buch / deine Tasche |
-| er | sein- | sein Beruf / seine Wohnung |
-| sie | ihr- | ihr Name / ihre Familie |
-| wir | unser- | unser Haus / unsere Stadt |
-| ihr | euer- | euer Kurs / eure Schule |
-| Sie | Ihr- | Ihr Pass / Ihre Adresse |
-
-The ending follows the article pattern: `mein Vater`, `meine Mutter`, `mein Kind`, `meine Eltern`.
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **ihr** Bruder (her brother, nominative masc)
+2. **seine** Schwester (his sister, nominative fem adds *-e*)
+3. **meinen** Schlüssel (my key, accusative masc adds *-en*)
+4. **Ihr** Name (formal your, capitalized)
+5. **eure** Mutter (*euer* + fem *-e* becomes *eure*)
+6. **unser** Haus (our house, neuter nominative/akk has no ending)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

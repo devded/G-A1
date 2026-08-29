@@ -1,78 +1,76 @@
-# Separable Verbs
+# 15 — Separable Verbs (*Trennbare Verben*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+Many German verbs have a **prefix** attached to their base stem that alters their meaning. In the present tense, these prefixes **separate from the verb** and move to the **very end of the clause**.
 
+- *stehen* (to stand) → **auf**stehen (to get up / wake up)
+  - *Ich **stehe** jeden Morgen um 7 Uhr **auf**.*
+- *kaufen* (to buy) → **ein**kaufen (to go grocery shopping)
+  - *Er **kauft** im Supermarkt **ein**.*
 
-### Concept
+---
 
-In a main clause, the prefix of a separable verb moves to the end.
+## 2. Common Separable Prefixes (Always Separable)
 
-### Purpose
+| Prefix | Base Verb | Separable Verb | Meaning | Example in Sentence |
+|:---|:---|:---|:---|:---|
+| **ab-** | fahren | **abfahren** | to depart | *Der Zug **fährt** um 9:00 Uhr **ab**.* |
+| **an-** | rufen | **anrufen** | to call (phone) | *Ich **rufe** dich heute Abend **an**.* |
+| **an-** | kommen | **ankommen** | to arrive | *Wann **kommt** der Zug **an**?* |
+| **an-** | fangen | **anfangen** | to begin | *Der Film **fängt** um 20 Uhr **an**.* |
+| **auf-** | stehen | **aufstehen** | to get up | *Ich **stehe** um 6:30 Uhr **auf**.* |
+| **auf-** | machen | **aufmachen** | to open | *Bitte **machen** Sie das Fenster **auf**.* |
+| **zu-** | machen | **zumachen** | to close | *Er **macht** die Tür **zu**.* |
+| **aus-** | steigen | **aussteigen** | to get off/exit | *Sie **steigt** am Hauptbahnhof **aus**.* |
+| **ein-** | steigen | **einsteigen** | to board | *Wir **steigen** in den Bus **ein**.* |
+| **um-** | steigen | **umsteigen** | to transfer/change | *Hier **steigen** wir in die U-Bahn **um**.* |
+| **ein-** | kaufen | **einkaufen** | to shop | *Am Samstag **kaufen** wir **ein**.* |
+| **ein-** | laden | **einladen** | to invite | *Ich **lade** dich zu meiner Party **ein**.* |
+| **mit-** | bringen | **mitbringen** | to bring along | *Ich **bringe** einen Kuchen **mit**.* |
+| **mit-** | kommen | **mitkommen** | to come along | * **Kommst** du heute ins Kino **mit**?* |
+| **fern-** | sehen | **fernsehen** | to watch TV | *Am Abend **sieht** er zwei Stunden **fern**.* |
 
-Describe everyday routines such as getting up, shopping, calling and arriving.
+---
 
-### Sentence structure
+## 3. When Separable Verbs DO NOT Separate!
 
-```text
-Subject + conjugated verb stem + … + prefix. aufstehen → Ich stehe um sieben Uhr auf.
-```
+A separable verb stays together as **one word at the end** in two key situations:
 
-### Core examples
+1. **With Modal Verbs:**
+   - *Ich muss morgen um 6 Uhr **aufstehen**.* (NOT ❌ *Ich muss aufstehen um 6 Uhr auf*)
+   - *Kannst du mich am Bahnhof **abholen**?*
+2. **In Future or Compound Infinitives:**
+   - *Ich möchte dich herzlich **einladen**.*
 
-| German | English |
-| --- | --- |
-| Ich stehe früh auf. <SpeakButton text="Ich stehe früh auf." audioSrc="/audio/ichstehefrhauf_07c0ceac.mp3" /> | I get up early. |
-| Wir kaufen am Samstag ein. <SpeakButton text="Wir kaufen am Samstag ein." audioSrc="/audio/wirkaufenamsamstagei_9a063c7c.mp3" /> | We shop on Saturday. |
-| Rufst du mich an? <SpeakButton text="Rufst du mich an?" audioSrc="/audio/rufstdumichan_0d742287.mp3" /> | Are you calling me? |
-| Der Zug kommt um zehn Uhr an. <SpeakButton text="Der Zug kommt um zehn Uhr an." audioSrc="/audio/derzugkommtumzehnuhr_e42f7f38.mp3" /> | The train arrives at ten. |
+---
 
-### Common mistakes
+## 4. Inseparable Prefixes (*Untrennbare Präfixe*)
 
-- Keeping the whole infinitive together in a main clause.
-- Putting the prefix immediately after the verb.
-- Forgetting that a modal verb keeps the infinitive together at the end.
+These prefixes **NEVER separate** from the verb:
+> 💡 Mnemonic: **be-, ge-, er-, ver-, zer-, ent-, emp-, miss-**  
+> (e.g. *bekommen, verstehen, erklären, bezahlen, gefallen*)
+- *Ich **verstehe** den Satz.* (NOT ❌ *Ich stehe den Satz ver*)
+- *Er **bezahlt** die Rechnung.*
 
-### English/Bengali comparison
+---
 
-English phrasal verbs provide a loose comparison, but German prefix placement follows a stricter sentence rule.
+## 5. Interactive Practice & Exercises
 
-### Quick grammar check
+### Conjugate the separable verb in the present tense:
+1. Der Deutschkurs ___ um 18 Uhr ___ (anfangen).
+2. Ich ___ jeden Tag um 7 Uhr ___ (aufstehen).
+3. ___ du mich morgen ___ (anrufen)?
+4. Sie ___ am Bahnhof in die U-Bahn ___ (umsteigen).
+5. Was ___ du zur Party ___ (mitbringen)?
+6. Er ___ am Abend gerne ___ (fernsehen).
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **fängt** ... **an** (*anfangen* has vowel change *a → ä*)
+2. **stehe** ... **auf**
+3. **Rufst** ... **an**
+4. **steigt** ... **um**
+5. **bringst** ... **mit**
+6. **sieht** ... **fern** (*fernsehen* has vowel change *e → ie*)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

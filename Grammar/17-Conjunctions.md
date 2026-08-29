@@ -1,78 +1,47 @@
-# Conjunctions
+# 17 — Coordinating Conjunctions: ADUSO (*Konjunktionen*)
 
-## Learning purpose
+## 1. Overview & Position 0 Rule
 
-Use this structure accurately in practical A1 communication.
+Coordinating conjunctions connect two main clauses (*Hauptsätze*) without changing the standard word order of either sentence.
+> 👑 **The Position 0 Rule:**  
+> The 5 coordinating conjunctions (**ADUSO**) occupy **Position 0**. The clause following them has normal **Position 1 (Subject) + Position 2 (Conjugated Verb)** order!
 
+---
 
-### Concept
+## 2. The 5 ADUSO Conjunctions
 
-The coordinating conjunctions und, aber, oder and denn connect equal sentence parts without sending the finite verb to the end.
+| Conjunction | Meaning | Function / Usage | Example |
+|:---|:---|:---|:---|
+| **A — aber** | *but* | Contrast | *Ich lerne Deutsch, **aber** mein Bruder lernt Englisch.* |
+| **D — denn** | *because / for* | Reason | *Ich bleibe zu Hause, **denn** ich bin krank.* |
+| **U — und** | *and* | Addition | *Ich kaufe Brot **und** Maria kauft Obst.* |
+| **S — sondern** | *but rather / instead* | Correction after negation | *Er kommt nicht aus Spanien, **sondern** er kommt aus Italien.* |
+| **O — oder** | *or* | Alternative | *Trinken wir Kaffee **oder** gehen wir spazieren?* |
 
-### Purpose
+---
 
-Join ideas and give simple reasons or contrasts.
+## 3. Crucial Distinction: *denn* vs *weil*
 
-### Sentence structure
+- **`denn` (A1 level):** Position 0, verb stays on Position 2.  
+  *Ich trinke Tee, **denn** ich **habe** Halsschmerzen.*
+- **`weil` (A2 level):** Subordinating conjunction, kicks conjugated verb to the very end!  
+  *Ich trinke Tee, **weil** ich Halsschmerzen **habe**.*  
+At A1, always master **`denn`** for clear, simple reasoning without word-order complications!
 
-```text
-Clause + und/aber/oder/denn + clause with normal main-clause order.
-```
+---
 
-### Core examples
+## 4. Interactive Practice & Exercises
 
-| German | English |
-| --- | --- |
-| Ich trinke Tee und er trinkt Kaffee. <SpeakButton text="Ich trinke Tee und er trinkt Kaffee." audioSrc="/audio/ichtrinketeeundertri_9ddbc85d.mp3" /> | I drink tea and he drinks coffee. |
-| Es ist kalt, aber sonnig. <SpeakButton text="Es ist kalt, aber sonnig." audioSrc="/audio/esistkaltabersonnig_ea519f20.mp3" /> | It is cold but sunny. |
-| Kommst du heute oder morgen? <SpeakButton text="Kommst du heute oder morgen?" audioSrc="/audio/kommstduheuteodermor_e4072f39.mp3" /> | Are you coming today or tomorrow? |
-| Ich bleibe zu Hause, denn ich bin krank. <SpeakButton text="Ich bleibe zu Hause, denn ich bin krank." audioSrc="/audio/ichbleibezuhausedenn_23b3886d.mp3" /> | I stay home because I am ill. |
+### Connect the two sentences with the suitable ADUSO conjunction (*und, aber, denn, oder, sondern*):
+1. Ich möchte ins Kino gehen. Ich habe keine Zeit. → Ich möchte ins Kino gehen, ___ ich habe keine Zeit.
+2. Er trinkt keinen Kaffee. Er trinkt Tee. → Er trinkt keinen Kaffee, ___ er trinkt Tee.
+3. Wir gehen heute nicht spazieren. Es regnet stark. → Wir gehen heute nicht spazieren, ___ es regnet stark.
+4. Kommst du heute mit? Bleibst du zu Hause? → Kommst du heute mit ___ bleibst du zu Hause?
 
-### Common mistakes
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-- Moving the verb to the end after these four conjunctions.
-- Using denn as if it were a question word in every context.
-- Writing extremely long sentences instead of two clear A1 clauses.
-
-### English/Bengali comparison
-
-These work similarly to common English/Bengali coordinating connectors, but punctuation and word order still need attention.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **aber** (contrast)
+2. **sondern** (correction following negation *keinen*)
+3. **denn** (reason)
+4. **oder** (alternative)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

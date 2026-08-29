@@ -1,87 +1,69 @@
-# Common A1 Prepositions
+# 16 — Prepositions Reference (*Präpositionen: Akkusativ, Dativ & Wechselpräpositionen*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+In German, every preposition dictates the **grammatical case** of the noun or pronoun that follows it. There are 3 main groups:
+1. **Accusative Prepositions (*DOGFU*)** — Always Accusative.
+2. **Dative Prepositions (*aus, bei, mit, nach, seit, von, zu*)** — Always Dative.
+3. **Two-Way Prepositions (*Wechselpräpositionen*)** — Dative for static location (*Wo?*); Accusative for movement/direction (*Wohin?*).
 
+---
 
-### Concept
+## 2. Group 1: Strictly Accusative Prepositions
 
-At A1, learn common prepositions as complete chunks with their case and meaning.
+| Preposition | Meaning | Example |
+|:---|:---|:---|
+| **durch** | through | *Wir gehen **durch den** Park.* |
+| **ohne** | without | *Kaffee **ohne** Milch und Zucker.* |
+| **gegen** | against / around (time) | *Er fährt **gegen einen** Baum.* / *Gegen 15 Uhr.* |
+| **für** | for | *Das ist **für meinen** Vater.* |
+| **um** | around / at (time) | *Wir sitzen **um den** Tisch.* / *Um 8 Uhr.* |
+| **bis** | until / up to | *Der Zug fährt **bis** Hamburg.* |
 
-### Purpose
+---
 
-Describe location, direction, origin, destination and transport.
+## 3. Group 2: Strictly Dative Prepositions
 
-### Sentence structure
+| Preposition | Meaning | Example | Contraction |
+|:---|:---|:---|:---|
+| **aus** | from (origin) / out of | *Ich komme **aus der** Türkei / **aus dem** Haus.* | — |
+| **bei** | at / near / with | *Ich wohne **bei meinen** Eltern.* / *Er arbeitet **beim** Arzt.* | *bei + dem = **beim*** |
+| **mit** | with / by (transport) | *Ich fahre **mit dem** Bus / **mit der** Bahn.* | — |
+| **nach** | to (places) / after | *Nach dem Essen fahre ich **nach** Berlin.* | — |
+| **seit** | since / for (duration) | *Ich lerne **seit einem** Jahr Deutsch.* | — |
+| **von** | from / of | *Ich komme gerade **vom** Supermarkt.* | *von + dem = **vom*** |
+| **zu** | to (places/people) | *Wie komme ich **zum** Bahnhof / **zur** Post?* | *zu + dem = **zum***<br>*zu + der = **zur*** |
 
-```text
-mit + dative; nach + place/direction; zu + dative; von + dative; in/auf with memorised A1 location patterns.
-```
+---
 
-### Core examples
+## 4. Group 3: Two-Way Prepositions (*Wechselpräpositionen*)
 
-| German | English |
-| --- | --- |
-| Ich fahre nach Berlin. <SpeakButton text="Ich fahre nach Berlin." audioSrc="/audio/ichfahrenachberlin_256a261f.mp3" /> | I travel to Berlin. |
-| Wir gehen zum Bahnhof. <SpeakButton text="Wir gehen zum Bahnhof." audioSrc="/audio/wirgehenzumbahnhof_40a9e444.mp3" /> | We go to the station. |
-| Der Brief ist von Anna. <SpeakButton text="Der Brief ist von Anna." audioSrc="/audio/derbriefistvonanna_7c194929.mp3" /> | The letter is from Anna. |
-| Das Buch liegt auf dem Tisch. <SpeakButton text="Das Buch liegt auf dem Tisch." audioSrc="/audio/dasbuchliegtaufdemti_dffe4b75.mp3" /> | The book is on the table. |
+The 9 two-way prepositions are: **an, auf, hinter, in, neben, über, unter, vor, zwischen**.
 
-### Common mistakes
+> 🎯 **The A1 Rule:**
+> - **Wo? (Static Position / Location):** Use **DATIVE** (*im, am, auf dem, neben der*).  
+>   - *Das Buch liegt **auf dem** Tisch.* (Where is it? On the table.)
+>   - *Ich bin **im** Supermarkt.*
+> - **Wohin? (Movement / Destination):** Use **ACCUSATIVE** (*ins, ans, auf den, in die*).  
+>   - *Ich lege das Buch **auf den** Tisch.* (Where to? Onto the table.)
+>   - *Ich gehe **in den** Supermarkt / **ins** Kino.* (*in + das = ins*)
 
-- Translating one English preposition into one fixed German preposition.
-- Forgetting contractions such as zu dem → zum.
-- Ignoring the case required by the phrase.
+---
 
-### English/Bengali comparison
+## 5. Interactive Practice & Exercises
 
-Bengali often uses postpositions after the noun; German prepositions come before the noun phrase.
+### Fill in the missing preposition and correct article form:
+1. Ich fahre jeden Tag mit ___ (the, m) Bus zur Arbeit.
+2. Das Geschenk ist für ___ (my, f) Mutter.
+3. Wo ist Peter? — Er ist ___ (in the = in + dem) Büro.
+4. Wir gehen heute Abend ___ (into the = in + das) Kino.
+5. Wie komme ich ___ (to the = zu + dem) Bahnhof?
 
-### Quick grammar check
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-## High-frequency groups
-
-- Time: `um 8 Uhr`, `am Montag`, `im Juli`
-- Accusative: `für`, `ohne`, `durch` in common A1 phrases
-- Dative: `mit`, `nach`, `von`, `zu`, `bei`, `aus`
-- Place chunks: `in der Stadt`, `auf dem Tisch`, `an der Haltestelle`
-
-Learn preposition + phrase as a unit. Do not attempt the complete advanced two-way-preposition system at once.
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **mit dem** (*mit* requires Dative masculine)
+2. **für meine** (*für* requires Accusative feminine)
+3. **im** (*in + dem* = static location Dative)
+4. **ins** (*in + das* = destination movement Accusative)
+5. **zum** (*zu + dem* = destination Dative)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

@@ -1,89 +1,52 @@
-# Commands and Polite Requests
+# 21 — Imperative & Polite Requests (*Imperativ & Höfliche Bitten*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+In German, commands and requests vary depending on who you are addressing:
+1. **Formal (*Sie*):** Used in offices, shops, doctor visits, exams.
+2. **Informal Singular (*du*):** Used with 1 friend, family member, child.
+3. **Informal Plural (*ihr*):** Used with 2+ friends or children.
+4. **Polite Request with *Könnten Sie / Würden Sie*:** The most polite way to ask for anything.
 
+---
 
+## 2. Forming the Imperative
 
+| Target Audience | Rule for Formation | Example: *kommen* | Example: *lesen* | Example: *sein* ⚠️ |
+|:---|:---|:---|:---|:---|
+| **Formal (*Sie*)** | Infinitive + *Sie* + *bitte* (Verb at Pos 1) | **Kommen Sie bitte!** | **Lesen Sie bitte!** | **Seien Sie bitte ruhig!** |
+| **Informal (*du*)** | Verb stem without *-st* and without pronoun *du* | **Komm!** | **Lies!** *(e→i changes remain!)* | **Sei leise!** |
+| **Plural (*ihr*)** | Conjugated *ihr*-form without pronoun *ihr* | **Kommt!** | **Lest!** | **Seid pünktlich!** |
 
-### Concept
+---
 
-möchte is the most useful polite A1 form for saying what you would like.
+## 3. Ultra-Polite Requests in A1 Exam (Sprechen Teil 3)
 
-### Purpose
+In the Goethe A1 Speaking exam (Teil 3), you must ask for objects politely using card prompts. Use these **universal polite templates**:
 
-Order food, request a service and state a polite wish.
+- **Template 1:** `Können Sie mir bitte [das Buch / das Glas Wasser] geben?` (Can you please give me...?)
+- **Template 2:** `Ich möchte bitte [einen Kaffee].` (I would like...)
+- **Template 3:** `Haben Sie bitte [einen Stift] für mich?` (Do you have a pen for me?)
 
-### Sentence structure
+### Polite Responses:
+- *Ja, natürlich!* (Yes, of course!)
+- *Hier, bitte schön!* (Here you go!)
+- *Tut mir leid, das habe ich leider nicht.* (Sorry, unfortunately I don't have that.)
 
-```text
-Subject + möchte + object/complement. With another verb: möchte + … + infinitive at the end.
-```
+---
 
-### Core examples
+## 4. Interactive Practice & Exercises
 
-| German | English |
-| --- | --- |
-| Ich möchte einen Tee. <SpeakButton text="Ich möchte einen Tee." audioSrc="/audio/ichmchteeinentee_a43a79ed.mp3" /> | I would like a tea. |
-| Wir möchten bezahlen. <SpeakButton text="Wir möchten bezahlen." audioSrc="/audio/wirmchtenbezahlen_65f4cb72.mp3" /> | We would like to pay. |
-| Möchten Sie etwas essen? <SpeakButton text="Möchten Sie etwas essen?" audioSrc="/audio/mchtensieetwasessen_c455b42a.mp3" /> | Would you like something to eat? |
-| Ich möchte ein Einzelzimmer reservieren. <SpeakButton text="Ich möchte ein Einzelzimmer reservieren." audioSrc="/audio/ichmchteeineinzelzim_bf24fe00.mp3" /> | I would like to reserve a single room. |
+### Form the requested imperative:
+1. *Sie-Form:* (öffnen / das Fenster) → ___
+2. *du-Form:* (fahren / vorsichtig) → ___
+3. *ihr-Form:* (arbeiten / schneller) → ___
+4. *Polite request:* (geben / mir / die Rechnung) → Können Sie ___?
 
-### Common mistakes
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-- Using ich will in every polite service situation.
-- Adding bin before möchte.
-- Forgetting the infinitive at the end when a second verb is present.
-
-### English/Bengali comparison
-
-Like Bengali polite requests, tone and wording matter. möchte is safer and softer than a direct command.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-## Useful requests
-
-- `Kommen Sie bitte herein.`
-- `Warten Sie bitte.`
-- `Bitte sprechen Sie langsam.`
-- `Gib mir bitte das Buch.` (informal)
-- `Gebt mir bitte die Karten.` (informal plural)
-
-For beginner communication, polite `Sie` patterns are especially useful in shops, offices and travel situations.
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **Öffnen Sie bitte das Fenster!**
+2. **Fahr vorsichtig!** (no *-st*, no Umlaut on *fahr*)
+3. **Arbeitet schneller!** (conjugated *ihr* form without pronoun)
+4. **Können Sie mir bitte die Rechnung geben?**
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

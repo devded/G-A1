@@ -1,82 +1,76 @@
-# Sentence Structure and Verb Position
+# 07 — Sentence Structure & Verb-Second Rule (*Satzbau & Verbposition*)
 
-## Learning purpose
+## 1. Overview & The Golden Verb Rule
 
-Use this structure accurately in practical A1 communication.
+In standard German declarative main clauses (*Aussagesätze*), there is one **strict, inviolable rule**:
 
-
-### Concept
-
-The conjugated verb stays in position two in a normal main clause, even when time or place comes first.
-
-### Purpose
-
-Vary sentences naturally and emphasise when or where something happens.
-
-### Sentence structure
+> 👑 **The Verb-Second Rule (V2):**  
+> In a normal main sentence, the **conjugated finite verb MUST ALWAYS occupy POSITION 2**!
 
 ```text
-Position 1 + conjugated verb + subject + rest. Heute lerne ich Deutsch.
+[POSITION 1]        [POSITION 2 (VERB)]        [POSITION 3 (SUBJECT)]        [REST OF SENTENCE]
+Ich                 lerne                      —                             heute Deutsch.
+Heute               lerne                      ich                           Deutsch.
+In Berlin           wohne                      ich                           seit zwei Jahren.
 ```
 
-### Core examples
+---
 
-| German | English |
-| --- | --- |
-| Ich arbeite heute. <SpeakButton text="Ich arbeite heute." audioSrc="/audio/icharbeiteheute_2537e5b2.mp3" /> | I work today. |
-| Heute arbeite ich. <SpeakButton text="Heute arbeite ich." audioSrc="/audio/heutearbeiteich_ef392ac0.mp3" /> | Today I work. |
-| Am Abend sehe ich fern. <SpeakButton text="Am Abend sehe ich fern." audioSrc="/audio/amabendseheichfern_f1819ed2.mp3" /> | In the evening I watch television. |
-| In Berlin wohnt meine Schwester. <SpeakButton text="In Berlin wohnt meine Schwester." audioSrc="/audio/inberlinwohntmeinesc_82c1d891.mp3" /> | My sister lives in Berlin. |
+## 2. Inversion (Starting with Time, Place, or Object)
 
-### Common mistakes
+In English, if you start with time, the subject still precedes the verb (*Today I learn German*).  
+In German, if Position 1 is occupied by anything other than the subject (e.g. time, place, adverb), **the subject is pushed to Position 3 immediately after the verb**:
 
-- Writing Heute ich arbeite.
-- Counting each individual word instead of sentence elements.
-- Moving the verb to the end because Bengali is often SOV.
+- **Subject at start:** *Ich gehe am Montag ins Kino.*
+- **Time at start (Inversion):** *Am Montag **gehe ich** ins Kino.* (NOT ❌ *Am Montag ich gehe...*)
+- **Place at start:** *In Hamburg **regnet es** oft.*
 
-### English/Bengali comparison
+---
 
-Bengali commonly places the verb near the end. German main clauses normally require the finite verb in the second slot.
+## 3. The 4 Main Clause Sentence Types
 
-### Quick grammar check
+| Sentence Type | Position 1 | Position 2 | Remainder | Example |
+|:---|:---|:---:|:---|:---|
+| **1. Statement (*Aussage*)** | Subject OR Adverb | **Finite Verb** | Objects, Time, Place | *Wir trinken jetzt Kaffee.*<br>*Jetzt trinken wir Kaffee.* |
+| **2. W-Question (*W-Frage*)** | Question Word (*Wann, Wo, Wie*) | **Finite Verb** | Subject + Details | *Wo wohnst du?*<br>*Wann fängt der Kurs an?* |
+| **3. Yes/No Question (*Ja/Nein-Frage*)** | **Finite Verb** | Subject | Details | *Trinkst du Kaffee?*<br>*Kommen Sie aus Spanien?* |
+| **4. Imperative / Command (*Imperativ*)** | **Verb Stem / Form** | (Subject) | Details | *Kommen Sie bitte herein!*<br>*Lies den Text!* |
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
+---
 
+## 4. Coordinating Conjunctions: Position 0 (*ADUSO*)
 
+When connecting two independent clauses with the 5 coordinating conjunctions **ADUSO**, the conjunction occupies **Position 0**. It does **NOT** count as Position 1 and does **NOT** cause inversion:
 
-## Bengali comparison
+- **A** — *aber* (but)
+- **D** — *denn* (because / for)
+- **U** — *und* (and)
+- **S** — *sondern* (but rather / instead)
+- **O** — *oder* (or)
 
-A common Bengali order is Subject–Object–Verb. A basic German main clause usually places the conjugated verb in position 2: `Ich lerne Deutsch.` When a time phrase comes first, the verb remains second: `Heute lerne ich Deutsch.`
+```text
+[Clause 1]                    [Pos 0]    [Pos 1]    [Pos 2 (Verb)]    [Rest]
+Ich lerne heute Deutsch,      denn       ich        habe              morgen eine Prüfung.
+Er kommt nicht aus Spanien,   sondern    er         kommt             aus Italien.
+Ich spiele gern Fußball,      aber       mein       Bruder            spielt Tennis.
+```
 
+---
 
-## Guided practice
+## 5. Interactive Practice & Exercises
 
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
+### Put the scrambled words into a correct German sentence:
+1. Deutsch / ich / lerne / heute / .
+2. am Samstag / wir / nach Berlin / fahren / .
+3. woher / Sie / kommen / ?
+4. nicht / heute / er / arbeiten / kann / .
+5. aber / ich / gern / Kaffee / trinke / , / Tee / mag / ich / nicht / .
 
-## Mini quiz
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **Heute lerne ich Deutsch.** (or *Ich lerne heute Deutsch.*)
+2. **Am Samstag fahren wir nach Berlin.** (Time at Pos 1 triggers verb at Pos 2, subject at Pos 3)
+3. **Woher kommen Sie?** (W-Word Pos 1, Verb Pos 2, Subject Pos 3)
+4. **Er kann heute nicht arbeiten.** (Modal verb at Pos 2, infinitive *arbeiten* at the very end)
+5. **Ich trinke gern Kaffee, aber ich mag keinen Tee.** (*aber* is Pos 0)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

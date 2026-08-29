@@ -1,78 +1,70 @@
-# Present Tense: Regular Verbs
+# 05 — Present Tense of Regular Verbs (*Präsens regelmäßiger Verben*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Build present-tense statements and questions about everyday actions.
-
-
-### Concept
-
-Most present-tense verbs use a stem plus a person ending.
-
-### Purpose
-
-Describe work, study, residence, learning and regular actions.
-
-### Sentence structure
+In German, regular verbs follow a strict mathematical conjugation rule in the present tense (*Präsens*).
+To conjugate any regular verb:
+1. Take the **Infinitive** (e.g. *kommen, lernen, wohnen*).
+2. Remove the **`-en`** ending to find the **Verb Stem** (*komm-, lern-, wohn-*).
+3. Add the **Personal Ending** matching the subject pronoun:
 
 ```text
-Remove -en: lernen → lern-. Add -e, -st, -t, -en, -t, -en.
+ich       →  -e
+du        →  -st
+er/sie/es →  -t
+wir       →  -en
+ihr       →  -t
+sie/Sie   →  -en
 ```
 
-### Core examples
+---
 
-| German | English |
-| --- | --- |
-| Ich lerne Deutsch. <SpeakButton text="Ich lerne Deutsch." audioSrc="/audio/ichlernedeutsch_d9f0109f.mp3" /> | I learn German. |
-| Du arbeitest heute. <SpeakButton text="Du arbeitest heute." audioSrc="/audio/duarbeitestheute_70373e09.mp3" /> | You work today. |
-| Sie wohnt in Ankara. <SpeakButton text="Sie wohnt in Ankara." audioSrc="/audio/siewohntinankara_9e942afd.mp3" /> | She lives in Ankara. |
-| Wir machen die Aufgabe. <SpeakButton text="Wir machen die Aufgabe." audioSrc="/audio/wirmachendieaufgabe_c7f5bf14.mp3" /> | We do the task. |
+## 2. Regular Conjugation Examples
 
-### Common mistakes
+| Pronoun | Ending | **lernen** (*to learn*) | **wohnen** (*to live*) | **trinken** (*to drink*) | **machen** (*to do/make*) |
+|:---|:---:|:---|:---|:---|:---|
+| **ich** | **-e** | ich lern**e** | ich wohn**e** | ich trink**e** | ich mach**e** |
+| **du** | **-st** | du lern**st** | du wohn**st** | du trink**st** | du mach**st** |
+| **er / sie / es** | **-t** | er lern**t** | er wohn**t** | er trink**t** | er mach**t** |
+| **wir** | **-en** | wir lern**en** | wir wohn**en** | wir trink**en** | wir mach**en** |
+| **ihr** | **-t** | ihr lern**t** | ihr wohn**t** | ihr trink**t** | ihr mach**t** |
+| **sie / Sie** | **-en** | sie lern**en** | sie wohn**en** | sie trink**en** | sie mach**en** |
 
-- Leaving the infinitive unchanged after ich or du.
-- Dropping an extra e in verbs such as arbeiten: du arbeitest.
-- Using English continuous forms unnecessarily.
+---
 
-### English/Bengali comparison
+## 3. Special Stem-Ending Rules (Spelling Adjustments)
 
-Bengali verbs also change according to person and politeness, but the German ending pattern is different and should be memorised as a table.
+### Rule A: Stems ending in `-t` or `-d` (e.g. *arbeiten, finden, antworten, kosten*)
+To make pronunciation natural, insert an extra **`-e-`** before the endings for `du`, `er/sie/es`, and `ihr`:
+- *ich arbeite*
+- *du arbeit**est*** (not ❌ *arbeitst*)
+- *er arbeit**et*** (not ❌ *arbeitt*)
+- *wir arbeiten*
+- *ihr arbeit**et***
+- *sie/Sie arbeiten*
 
-### Quick grammar check
+### Rule B: Stems ending in `-s`, `-ss`, `-ß`, or `-z` (e.g. *heißen, reisen, tanzen*)
+Because the stem already ends in an "s" sound, the `du` ending drops the "s" and simply adds **`-t`**:
+- *du heiß**t*** (not ❌ *heißst*)
+- *du reis**t***
+- *du tanz**t***
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
+---
 
+## 4. Interactive Practice & Exercises
 
+### Conjugate the verb in brackets:
+1. Wo ___ (wohnen) du? — Ich ___ (wohnen) in Hamburg.
+2. Maria ___ (lernen) jeden Tag Deutsch.
+3. Wo ___ (arbeiten) Sie, Herr Klein? — Ich ___ (arbeiten) bei Siemens.
+4. Was ___ (trinken) ihr gern? — Wir ___ (trinken) Orangensaft.
+5. Wie ___ (heißen) du? — Ich ___ (heißen) Sarah.
 
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **wohnst** / **wohne**
+2. **lernt** (3rd person singular adds *-t*)
+3. **arbeiten** (formal Sie) / **arbeite** (ich)
+4. **trinkt** (ihr adds *-t*) / **trinken** (wir adds *-en*)
+5. **heißt** (stem in *-ß* takes *-t*) / **heiße**
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

@@ -1,78 +1,60 @@
-# Question Formation
+# 08 — Asking Questions (*Fragesätze: W-Fragen, Ja/Nein-Fragen & Doch*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+In German, questions are formed in two distinct ways:
+1. **W-Questions (*W-Fragen / Informationsfragen*):** Start with a question word (*W-Wort*) on Position 1, followed immediately by the **conjugated verb on Position 2**.
+2. **Yes/No Questions (*Ja/Nein-Fragen / Entscheidungsfragen*):** Start with the **conjugated verb on Position 1**, followed immediately by the **subject on Position 2**.
 
+---
 
-### Concept
+## 2. The 10 Essential A1 Question Words (*W-Wörter*)
 
-German has yes/no questions and W-questions. The conjugated verb moves to first position in a yes/no question.
+| W-Word | Meaning | Usage Focus | Example Question & Answer |
+|:---|:---|:---|:---|
+| **Wer?** | *Who?* (Subject) | People | *Wer ist das? — Das ist mein Bruder Peter.* |
+| **Wen?** | *Whom?* (Accusative)| Direct Object | *Wen suchst du? — Ich suche meinen Schlüssel.* |
+| **Was?** | *What?* | Things, Actions | *Was machst du? — Ich lerne Deutsch.* |
+| **Wo?** | *Where?* (Location) | Static location (Dative) | *Wo wohnst du? — Ich wohne in Berlin.* |
+| **Woher?** | *Where from?* | Origin (*aus*) | *Woher kommen Sie? — Ich komme aus Spanien.* |
+| **Wohin?** | *Where to?* | Destination (*nach/in*)| *Wohin fährst du? — Ich fahre nach München.* |
+| **Wann?** | *When?* | Time, Dates | *Wann fängt der Kurs an? — Um 18:00 Uhr.* |
+| **Warum?** | *Why?* | Reason (*denn/weil*)| *Warum lernst du Deutsch? — Ich brauche es für die Arbeit.* |
+| **Wie?** | *How? / What?* | Name, Manner, State | *Wie heißen Sie?* / *Wie geht es dir?* |
+| **Wie viel?** | *How much?* | Uncountable / Price | *Wie viel kostet das Brot? — Zwei Euro.* |
+| **Wie viele?**| *How many?* | Countable Plural | *Wie viele Kinder haben Sie? — Zwei Kinder.* |
+| **Wie lange?**| *How long?* | Duration | *Wie lange dauert die Fahrt? — 30 Minuten.* |
 
-### Purpose
+---
 
-Ask for names, origin, residence, language, prices, times and locations.
+## 3. Yes/No Questions and The Special German Word *Doch*
 
-### Sentence structure
+When someone asks a Yes/No question:
+- If the question is **POSITIVE**: Answer with **Ja** (*Yes*) or **Nein** (*No*).
+  - *Kommst du aus Deutschland? — **Ja**, ich komme aus Deutschland. / **Nein**, ich komme aus Österreich.*
+- If the question is **NEGATIVE** (*Trinkst du **keinen** Kaffee?*):
+  - To agree with the negative: Answer **Nein** (*Nein, ich trinke keinen Kaffee.*)
+  - To contradict the negative and say "Actually, YES I do!": Answer with **DOCH**!
+  - *Lernst du nicht Deutsch? — **Doch**, ich lerne Deutsch!* (Contradicting: Yes, I do!)
 
-```text
-Yes/no: Verb + subject + …? W-question: W-word + verb + subject + …?
-```
+---
 
-### Core examples
+## 4. Interactive Practice & Exercises
 
-| German | English |
-| --- | --- |
-| Kommst du aus Dhaka? <SpeakButton text="Kommst du aus Dhaka?" audioSrc="/audio/kommstduausdhaka_02f9c81e.mp3" /> | Do you come from Dhaka? |
-| Wie heißen Sie? <SpeakButton text="Wie heißen Sie?" audioSrc="/audio/wieheiensie_c5208528.mp3" /> | What is your name? |
-| Wo wohnst du? <SpeakButton text="Wo wohnst du?" audioSrc="/audio/wowohnstdu_8ae6764e.mp3" /> | Where do you live? |
-| Welche Sprachen sprichst du? <SpeakButton text="Welche Sprachen sprichst du?" audioSrc="/audio/welchesprachensprich_d3612e52.mp3" /> | Which languages do you speak? |
+### Form the correct question for the given answer:
+1. ___? — Ich heiße Maria.
+2. ___? — Das Konzert beginnt um 20 Uhr.
+3. ___? — Ich komme aus Italien.
+4. ___? — Der Rock kostet 45 Euro.
+5. ___? — Ja, ich habe zwei Brüder.
+6. Trinkst du keinen Tee? — ___ (contradicting: "Yes I do!"), ich trinke sehr gerne Tee!
 
-### Common mistakes
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-- Keeping statement order in yes/no questions.
-- Mixing du and Sie forms.
-- Using woher for current residence instead of origin.
-
-### English/Bengali comparison
-
-English often uses do/does; German normally moves the existing verb and does not add an equivalent helper.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **Wie heißen Sie?** (or *Wie heißt du?*)
+2. **Wann beginnt das Konzert?**
+3. **Woher kommen Sie?** (or *Woher kommst du?*)
+4. **Wie viel kostet der Rock?**
+5. **Hast du Geschwister / Brüder?**
+6. **Doch** (used to contradict a negative question)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

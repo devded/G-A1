@@ -1,57 +1,50 @@
-# Common A1 Grammar Mistakes
+# 23 — Top 10 German A1 Grammar Mistakes & How to Fix Them
 
-## Learning purpose
+## 1. Mistake 1: Forgetting Capitalization of Nouns
+- ❌ *ich habe ein buch gekauft.*
+- ✅ *Ich habe ein **B**uch gekauft.*
+- **Fix:** In German, ALL nouns are capitalized.
 
-Use this structure accurately in practical A1 communication.
+## 2. Mistake 2: Inversion Failure (Verb not in Position 2)
+- ❌ *Am Montag ich fahre nach Berlin.*
+- ✅ *Am Montag **fahre ich** nach Berlin.*
+- **Fix:** If sentence starts with Time/Place, Verb remains in Position 2 and Subject shifts to Position 3!
 
+## 3. Mistake 3: The Accusative Masculine Oversight
+- ❌ *Ich möchte ein Kaffee und der Salat.*
+- ✅ *Ich möchte **einen** Kaffee und **den** Salat.*
+- **Fix:** Direct objects of *möchten, haben, brauchen, kaufen, essen* change masculine *der/ein* to *den/einen*!
 
+## 4. Mistake 4: Using Accusative after the Verb *sein*
+- ❌ *Das ist einen schönen Tisch.*
+- ✅ *Das ist **ein schöner Tisch**.*
+- **Fix:** *sein* is an equals sign; both sides are always Nominative!
 
+## 5. Mistake 5: Translating Age Literally from French/Spanish/Bengali
+- ❌ *Ich habe 25 Jahre.*
+- ✅ *Ich **bin** 25 Jahre alt.*
+- **Fix:** German uses *sein* for age.
 
-## Repair list
+## 6. Mistake 6: The Modal Verb Bracket (*Satzklammer*)
+- ❌ *Ich kann sprechen gut Deutsch.*
+- ✅ *Ich kann gut Deutsch **sprechen**.*
+- **Fix:** The infinitive verb must be at the VERY END of the clause.
 
-| Mistake | Correct | Reason |
-|---|---|---|
-| `Ich kommen aus ...` | `Ich komme aus ...` | `ich` uses `-e` |
-| `Ich Deutsch lerne.` | `Ich lerne Deutsch.` | finite verb in position 2 |
-| `das buch` | `das Buch` | nouns are capitalised |
-| `Ich habe nicht Auto.` | `Ich habe kein Auto.` | negate an indefinite noun with `kein` |
-| `Ich kaufe ein Apfel.` | `Ich kaufe einen Apfel.` | masculine direct object is accusative |
-| `Heute ich arbeite.` | `Heute arbeite ich.` | verb stays second |
-| `Ich kann schwimme.` | `Ich kann schwimmen.` | modal + infinitive at the end |
-| `Ich habe gegangen.` | `Ich bin gegangen.` | movement verb uses `sein` here |
-| `Wo du wohnst?` | `Wo wohnst du?` | W-word + verb + subject |
-| `Ich bin 25 Jahre.` | `Ich bin 25 Jahre alt.` | fixed age expression |
+## 7. Mistake 7: Misinterpreting Clock Time with *halb*
+- ❌ Thinking *halb acht* is 8:30.
+- ✅ *halb acht* = **7:30** (halfway to 8).
 
-## Weekly repair method
+## 8. Mistake 8: Forgetting to Separate Separable Verbs
+- ❌ *Ich aufstehe um 7 Uhr.*
+- ✅ *Ich **stehe** um 7 Uhr **auf**.*
+- **Fix:** The prefix moves to the very end of the sentence in present tense.
 
-Choose three repeated errors. Write one explanation and three new correct examples for each. Retest after 48 hours without looking.
+## 9. Mistake 9: Using *zu* with Modal Verbs
+- ❌ *Ich muss zu arbeiten.*
+- ✅ *Ich muss **arbeiten**.*
+- **Fix:** Modal verbs take bare infinitives without *zu*.
 
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
-</details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.
+## 10. Mistake 10: Mixing up *nicht* and *kein*
+- ❌ *Ich habe nicht Auto.*
+- ✅ *Ich habe **kein** Auto.*
+- **Fix:** Use *kein* for nouns that have no article or an indefinite article *ein*.

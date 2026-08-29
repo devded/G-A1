@@ -1,78 +1,81 @@
-# Modal Verbs
+# 14 — Modal Verbs (*Die Modalverben*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+Modal verbs express ability, necessity, permission, obligation, or desire.
+German has **6 core modal verbs** at A1 level:
+1. **können** (*can, to be able to*)
+2. **müssen** (*must, to have to*)
+3. **dürfen** (*may, to be allowed to / prohibition with nicht*)
+4. **wollen** (*to want to, intend*)
+5. **sollen** (*should, to be supposed to / advice*)
+6. **möchten / mögen** (*would like to / to like*)
 
+---
 
-### Concept
+## 2. Complete Conjugation Chart of All 6 Modal Verbs
 
-A modal verb is conjugated in position two; the main verb remains an infinitive at the end.
+> 💡 **Pattern in Modal Verbs:**
+> - `ich` and `er/sie/es` have **NO ENDING** and are **ALWAYS IDENTICAL**!
+> - The singular forms (`ich, du, er/sie/es`) change their root vowel (except *sollen*).
 
-### Purpose
+| Pronoun | **können** (*can*) | **müssen** (*must*) | **dürfen** (*may*) | **wollen** (*want*) | **sollen** (*should*) | **möchten** (*would like*) |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| **ich** | **kann** | **muss** | **darf** | **will** | **soll** | **möchte** |
+| **du** | **kannst** | **musst** | **darfst** | **willst** | **sollst** | **möchtest** |
+| **er / sie / es** | **kann** | **muss** | **darf** | **will** | **soll** | **möchte** |
+| **wir** | **können** | **müssen** | **dürfen** | **wollen** | **sollen** | **möchten** |
+| **ihr** | **könnt** | **müsst** | **dürft** | **wollt** | **sollt** | **möchtet** |
+| **sie / Sie** | **können** | **müssen** | **dürfen** | **wollen** | **sollen** | **möchten** |
 
-Express ability, necessity, intention and permission.
+---
 
-### Sentence structure
+## 3. The Modal Sentence Bracket (*Satzklammer*)
+
+When a modal verb is used with a main verb:
+1. The **Modal Verb** is conjugated and sits on **Position 2**.
+2. The **Main Action Verb** stays in its **INFINITIVE** form (ending in *-en*) and is kicked to the **VERY END of the sentence**!
 
 ```text
-Subject + modal verb + … + infinitive. Ich kann heute kommen.
+[Position 1]    [Position 2 (Modal)]    [Middle Information]              [End (Infinitive)]
+Ich             kann                    sehr gut Deutsch                  sprechen.
+Wir             müssen                  heute bis 18 Uhr                  arbeiten.
+Hier            darf                    man                               nicht rauchen.
+Am Samstag      wollen                  wir Freunde in Berlin             besuchen.
+Der Arzt sagt,  ich                     soll viel Tee                     trinken.
 ```
 
-### Core examples
+---
 
-| German | English |
-| --- | --- |
-| Ich kann Deutsch sprechen. <SpeakButton text="Ich kann Deutsch sprechen." audioSrc="/audio/ichkanndeutschsprech_292e8844.mp3" /> | I can speak German. |
-| Du musst früh aufstehen. <SpeakButton text="Du musst früh aufstehen." audioSrc="/audio/dumusstfrhaufstehen_a7a86e75.mp3" /> | You must get up early. |
-| Wir wollen ins Kino gehen. <SpeakButton text="Wir wollen ins Kino gehen." audioSrc="/audio/wirwolleninskinogehe_eff2d98f.mp3" /> | We want to go to the cinema. |
-| Darf ich hier sitzen? <SpeakButton text="Darf ich hier sitzen?" audioSrc="/audio/darfichhiersitzen_c67bac71.mp3" /> | May I sit here? |
+## 4. Nuances & Meanings of Each Modal Verb
 
-### Common mistakes
+- **können (Ability & Possibility):** *Ich kann schwimmen.* / *Kannst du mir helfen?*
+- **müssen (Strict Obligation):** *Ich bin krank, ich muss zum Arzt gehen.*
+- **nicht müssen (Lack of obligation = don't have to):** *Du musst heute nicht kochen.*
+- **dürfen (Permission):** *Darf ich hier ein Foto machen?*
+- **nicht dürfen (Strict Prohibition = forbidden!):** *Hier darf man nicht parken!*
+- **wollen (Strong Determination/Plan):** *Ich will dieses Jahr die Prüfung bestehen.*
+- **möchten (Polite Wish):** *Ich möchte ein Glas Wasser trinken.*
+- **sollen (Recommendation, Doctor's Orders, Duty):** *Was soll ich tun? — Du sollst im Bett bleiben.*
 
-- Conjugating both verbs.
-- Putting the infinitive immediately after the modal.
-- Using zu before the infinitive in these basic modal structures.
+---
 
-### English/Bengali comparison
+## 5. Interactive Practice & Exercises
 
-English also combines modals with a base verb, but German sends the second verb to the end.
+### Fill in the blanks with the correct form of the modal verb:
+1. ___ (können) du mir bitte die Adresse geben?
+2. Entschuldigung, ___ (dürfen) man hier fotografieren? — Nein, das ist verboten.
+3. Ich bin krank und ___ (müssen) heute zu Hause bleiben.
+4. Wir ___ (wollen) am Wochenende einen Ausflug machen.
+5. Der Arzt sagt, ich ___ (sollen) die Tabletten dreimal täglich nehmen.
+6. Was ___ (möchten) Sie trinken, Frau Weber?
 
-### Quick grammar check
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **Kannst** (du)
+2. **darf** (man = 3rd person singular)
+3. **muss** (ich)
+4. **wollen** (wir)
+5. **soll** (ich)
+6. **möchten** (formal Sie)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

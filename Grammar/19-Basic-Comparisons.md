@@ -1,78 +1,62 @@
-# Basic Comparisons
+# 19 — Comparisons (*Komparativ und Superlativ*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+In German, adjectives can compare items on three levels:
+1. **Positive (Equality):** `so ... wie` (*as ... as*)
+2. **Comparative (Inequality):** `[Adjective] + -er` + `als` (*...-er than*)
+3. **Superlative (Highest Degree):** `am [Adjective] + -(e)sten` (*the most ...*)
 
+---
 
-### Concept
+## 2. Regular Comparison Patterns
 
-Many adjectives form the comparative with -er; common irregular forms include gut → besser and gern → lieber.
+| Positive | Comparative (+er als) | Superlative (am ...-sten) | Meaning |
+|:---|:---|:---|:---|
+| **schnell** | schnell**er als** | **am** schnell**sten** | fast → faster → fastest |
+| **klein** | klein**er als** | **am** klein**sten** | small → smaller → smallest |
+| **billig** | billig**er als** | **am** billig**sten** | cheap → cheaper → cheapest |
+| **schön** | schön**er als** | **am** schön**sten** | beautiful → more beautiful |
 
-### Purpose
+---
 
-Compare sizes, prices, weather and preferences.
+## 3. Short Adjectives with Umlaut Shift (*a → ä, o → ö, u → ü*)
 
-### Sentence structure
+Short 1-syllable adjectives with vowels *a, o, u* usually take an **Umlaut**:
 
-```text
-A ist größer als B. Ich trinke lieber Tee.
-```
+| Positive | Comparative | Superlative | Meaning |
+|:---|:---|:---|:---|
+| **alt** | **ä**lt**er als** | **am** **ä**lt**esten** | old → older → oldest |
+| **jung** | j**ü**ng**er als** | **am** j**ü**ng**sten** | young → younger → youngest |
+| **groß** | gr**ö**ß**er als** | **am** gr**ö**ß**ten** | big/tall → bigger → biggest |
+| **warm** | w**ä**rm**er als** | **am** w**ä**rm**sten** | warm → warmer → warmest |
+| **kalt** | k**ä**lt**er als** | **am** k**ä**lt**esten** | cold → colder → coldest |
 
-### Core examples
+---
 
-| German | English |
-| --- | --- |
-| Berlin ist größer als Bonn. <SpeakButton text="Berlin ist größer als Bonn." audioSrc="/audio/berlinistgreralsbonn_b567e2fa.mp3" /> | Berlin is bigger than Bonn. |
-| Der Bus ist billiger als das Taxi. <SpeakButton text="Der Bus ist billiger als das Taxi." audioSrc="/audio/derbusistbilligerals_139127a9.mp3" /> | The bus is cheaper than the taxi. |
-| Heute ist das Wetter besser. <SpeakButton text="Heute ist das Wetter besser." audioSrc="/audio/heuteistdaswetterbes_84716b8a.mp3" /> | The weather is better today. |
-| Ich spiele lieber Fußball. <SpeakButton text="Ich spiele lieber Fußball." audioSrc="/audio/ichspielelieberfubal_e73692bf.mp3" /> | I prefer playing football. |
+## 4. The 4 Essential Irregular Superlatives for A1
 
-### Common mistakes
+| Positive | Comparative | Superlative | Meaning | Example |
+|:---|:---|:---|:---|:---|
+| **gut** | **besser als** | **am besten** | good → better → best | *Tee schmeckt gut, aber Kaffee ist **besser**.* |
+| **viel** | **mehr als** | **am meisten** | much → more → most | *Er arbeitet **mehr als** ich.* |
+| **gern** | **lieber als** | **am liebsten** | gladly → prefer → like most | *Ich esse Pizza, aber Pasta esse ich **lieber**.* |
+| **hoch** | **höher als** | **am höchsten** | high → higher → highest | *Der Berg ist **höher als** der Hügel.* |
 
-- Using mehr before every adjective.
-- Forgetting als after a comparison.
-- Confusing lieber with besser.
+---
 
-### English/Bengali comparison
+## 5. Interactive Practice & Exercises
 
-English often uses -er or more; German also has both patterns but A1 focuses on common forms.
+### Complete the comparisons:
+1. Mein Bruder ist 20 Jahre alt. Ich bin 25. → Ich bin ___ (alt) als mein Bruder.
+2. Das Auto fährt schnell, aber der Zug ist ___ (schnell).
+3. Ich trinke gern Tee, aber Kaffee trinke ich ___ (gern).
+4. Das ist der beste Kuchen! Er schmeckt ___ (gut).
 
-### Quick grammar check
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **älter** (*alt* takes Umlaut *ä*)
+2. **schneller** (comparative adds *-er*)
+3. **lieber** (irregular comparative of *gern*)
+4. **am besten** (superlative of *gut*)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

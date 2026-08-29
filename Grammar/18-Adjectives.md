@@ -1,82 +1,72 @@
-# Adjectives at A1
+# 18 — Adjectives at A1 (*Adjektive: Prädikativ & Attributiv*)
 
-## Learning purpose
+## 1. Overview & The Fundamental A1 Rule
 
-Use this structure accurately in practical A1 communication.
+In German, adjectives describe nouns or states. There are two primary ways adjectives are used:
 
+1. **Predicative Adjectives (After *sein, werden, finden*):**  
+   > 🌟 **The Rule:** When the adjective comes **AFTER** the verb *sein* (as a description), it **NEVER takes any ending**! It stays in its base form regardless of gender or number!
+   - *Der Mann ist **alt**.*
+   - *Die Frau ist **alt**.*
+   - *Das Haus ist **alt**.*
+   - *Die Kinder sind **alt**.*
+   *(Notice: no -e, no -en, no change!)*
 
-### Concept
+2. **Attributive Adjectives (Directly before a noun):**  
+   When placed directly in front of a noun (*ein schönes Haus, eine gute Idee*), adjectives take specific declension endings. At A1, these are mastered primarily through **high-frequency communicative chunks**.
 
-Predicate adjectives after sein remain unchanged. Basic noun-before adjective forms are learned mainly as useful chunks at A1.
+---
 
-### Purpose
+## 2. Essential A1 Adjective Opposite Pairs (*Gegenteile*)
 
-Describe people, weather, objects and places.
+| Adjective | Meaning | Opposite | Meaning |
+|:---|:---|:---|:---|
+| **groß** | big / tall | **klein** | small / short |
+| **alt** | old | **neu** / **jung** | new / young |
+| **gut** | good | **schlecht** | bad |
+| **teuer** | expensive | **billig** / **günstig** | cheap / affordable |
+| **warm** / **heiß** | warm / hot | **kalt** | cold |
+| **schön** | beautiful | **hässlich** | ugly |
+| **hell** | bright / light | **dunkel** | dark |
+| **schnell** | fast | **langsam** | slow |
+| **früh** | early | **spät** | late |
+| **sauber** | clean | **schmutzig** | dirty |
+| **einfach** / **leicht** | easy / simple | **schwer** / **schwierig** | difficult / heavy |
+| **müde** | tired | **fit** / **wach** | fit / awake |
+| **gesund** | healthy | **krank** | sick |
+| **lecker** | delicious | **ungenießbar** | unpalatable |
 
-### Sentence structure
+---
 
-```text
-Das Haus ist groß. A common chunk: ein großes Haus.
-```
+## 3. High-Frequency A1 Attributive Formula Chunks
 
-### Core examples
+Master these standard set phrases used in everyday German and the Goethe A1 exam:
 
-| German | English |
-| --- | --- |
-| Das Wetter ist schön. <SpeakButton text="Das Wetter ist schön." audioSrc="/audio/daswetteristschn_1a820f22.mp3" /> | The weather is nice. |
-| Der Mann ist freundlich. <SpeakButton text="Der Mann ist freundlich." audioSrc="/audio/dermannistfreundlich_6b43da55.mp3" /> | The man is friendly. |
-| Sie hat blaue Augen. <SpeakButton text="Sie hat blaue Augen." audioSrc="/audio/siehatblaueaugen_d718485c.mp3" /> | She has blue eyes. |
-| Das ist ein kleines Zimmer. <SpeakButton text="Das ist ein kleines Zimmer." audioSrc="/audio/dasisteinkleineszimm_0bb08ebe.mp3" /> | That is a small room. |
+- **Greetings & Wishes:**
+  - *Guten Morgen! / Guten Tag! / Guten Abend!* (Accusative masculine)
+  - *Gute Nacht! / Gute Besserung!* (Feminine)
+  - *Schönes Wochenende!* (Neuter)
+  - *Herzlichen Glückwunsch!* (Accusative masculine)
+- **Everyday Objects & Food:**
+  - *ein schöner Tag* (m) / *ein großes Zimmer* (n) / *eine moderne Wohnung* (f)
+  - *frisches Brot* (n) / *kaltes Wasser* (n) / *heißer Kaffee* (m)
 
-### Common mistakes
+---
 
-- Adding an ending to a predicate adjective after sein.
-- Trying to memorise the complete adjective-declension system at A1.
-- Using an English word unchanged as a German adjective.
+## 4. Interactive Practice & Exercises
 
-### English/Bengali comparison
+### Choose the correct adjective or opposite:
+1. Das Hotel ist nicht billig, es ist sehr ___.
+2. Der Kaffee ist nicht heiß, er ist ___.
+3. Ich wünsche dir ein ___ (schön) Wochenende!
+4. Die Wohnung ist sehr ___ (hell), sie hat viele große Fenster.
+5. Die Aufgabe ist nicht schwer, sie ist ganz ___.
 
-German adjective endings before nouns carry grammatical information not normally marked the same way in Bengali or English.
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-## Safe A1 progression
-
-Start with adjectives after `sein`: `Das Zimmer ist groß.` Then learn frequent noun phrases as chunks: `ein großes Zimmer`, `eine kleine Wohnung`. Complete adjective-declension theory is outside this course's core scope.
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **teuer** (opposite of *billig*)
+2. **kalt** (opposite of *heiß*)
+3. **schönes** (*Schönes Wochenende!* — set chunk)
+4. **hell** (predicative adjective after *ist* takes no ending)
+5. **einfach** / **leicht** (opposite of *schwer*)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

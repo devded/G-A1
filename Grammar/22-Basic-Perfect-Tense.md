@@ -1,78 +1,126 @@
-# Basic Spoken Perfect Tense
+# 22 — Present Perfect Tense (*Das Perfekt*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+In German, **`das Perfekt`** is the standard, primary tense used in spoken German and everyday emails to talk about the **past**.
 
-
-### Concept
-
-The spoken perfect uses haben or sein plus a past participle at the end. At A1, learn only frequent forms and communication patterns.
-
-### Purpose
-
-Say briefly what happened or what you did.
-
-### Sentence structure
-
+A Perfekt sentence is built with **2 components**:
 ```text
-Subject + auxiliary + … + participle. Ich habe gearbeitet. Ich bin gefahren.
+[Position 2: Auxiliary Verb (haben or sein)] + [Sentence End: Past Participle (Partizip II)]
 ```
 
-### Core examples
+- *Ich **habe** Deutsch **gelernt**.* (I learned / have learned German.)
+- *Ich **bin** nach Berlin **gefahren**.* (I traveled / have traveled to Berlin.)
 
-| German | English |
-| --- | --- |
-| Ich habe gestern gearbeitet. <SpeakButton text="Ich habe gestern gearbeitet." audioSrc="/audio/ichhabegesterngearbe_4cc17658.mp3" /> | I worked yesterday. |
-| Wir haben einen Film gesehen. <SpeakButton text="Wir haben einen Film gesehen." audioSrc="/audio/wirhabeneinenfilmges_ea333e31.mp3" /> | We watched a film. |
-| Sie ist nach Hause gegangen. <SpeakButton text="Sie ist nach Hause gegangen." audioSrc="/audio/sieistnachhausegegan_a29c9807.mp3" /> | She went home. |
-| Was ist passiert? <SpeakButton text="Was ist passiert?" audioSrc="/audio/wasistpassiert_82685a41.mp3" /> | What happened? |
+---
 
-### Common mistakes
+## 2. Choosing the Auxiliary Verb: `haben` vs `sein`
 
-- Trying to narrate long stories before controlling the present tense.
-- Using sein with every movement-related sentence without learning the verb form.
-- Forgetting the participle at the end.
+### When to use `sein` (approx. 10% of verbs):
+Use **`sein`** ONLY for:
+1. **Verbs of movement from point A to point B:**
+   - *fahren → ist gefahren*
+   - *gehen → ist gegangen*
+   - *kommen → ist gekommen*
+   - *fliegen → ist geflogen*
+   - *laufen → ist gelaufen*
+2. **Verbs of change of state/condition:**
+   - *aufstehen → ist aufgestanden* (wake up / rise)
+   - *einschlafen → ist eingeschlafen* (fall asleep)
+   - *sterben → ist gestorben* (die)
+3. **The two exceptions:**
+   - *sein → ist gewesen* (was / has been)
+   - *bleiben → ist geblieben* (stayed / remained)
 
-### English/Bengali comparison
+### When to use `haben` (approx. 90% of verbs):
+Use **`haben`** for all transitive verbs (verbs taking an Accusative object) and all stationary actions:
+- *Ich habe gegessen, getrunken, geschlafen, gearbeitet, gekauft, gemacht.*
 
-English past forms are often a single word; German spoken past commonly splits the auxiliary and participle.
+---
 
-### Quick grammar check
+## 3. How to Form the Past Participle (*Partizip II*)
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
+### 1. Regular Weak Verbs: `ge-` + [Verb Stem] + `-t`
+- *lernen → **ge**lern**t***
+- *kaufen → **ge**kauf**t***
+- *machen → **ge**mach**t***
+- *hören → **ge**hör**t***
+- *kochen → **ge**koch**t***
+*(Stems ending in -t or -d add `-et`: arbeiten → gearbeit**et**, warten → gewart**et**)*
 
+### 2. Irregular Strong Verbs: `ge-` + [Stem Change] + `-en`
+- *essen → **ge**gess**en***
+- *trinken → **ge**trunk**en***
+- *schreiben → **ge**schrieb**en***
+- *lesen → **ge**les**en***
+- *sehen → **ge**seh**en***
+- *fahren → **ge**fahr**en***
+- *gehen → **ge**gang**en***
+- *kommen → **ge**komm**en***
 
+### 3. Verbs ending in `-ieren` (Never take `ge-`!): [Verb Stem] + `-t`
+- *studieren → studier**t*** (not ❌ *gestudiert*)
+- *telefonieren → telefonier**t***
+- *reservieren → reservier**t***
+- *reparieren → reparier**t***
 
+### 4. Separable Verbs: [Prefix] + `ge-` + [Stem] + `-t/-en`
+- *aufstehen → auf**ge**standen*
+- *einkaufen → ein**ge**kauft*
+- *anrufen → an**ge**rufen*
+- *mitbringen → mit**ge**bracht*
 
-## Guided practice
+### 5. Inseparable Verbs (Never take `ge-`!): [Prefix] + [Stem] + `-t/-en`
+- *besuchen → besuch**t***
+- *verstehen → verstand**en***
+- *bezahlen → bezahl**t***
 
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
+---
 
-## Mini quiz
+## 4. Master Irregular Partizip II List for Goethe A1
 
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
+| Infinitive | Auxiliary | Partizip II | Example Sentence |
+|:---|:---:|:---|:---|
+| **essen** | *haben* | **gegessen** | *Ich habe Pizza gegessen.* |
+| **trinken** | *haben* | **getrunken** | *Wir haben Kaffee getrunken.* |
+| **schreiben** | *haben* | **geschrieben** | *Er hat eine E-Mail geschrieben.* |
+| **lesen** | *haben* | **gelesen** | *Hast du die Nachricht gelesen?* |
+| **sehen** | *haben* | **gesehen** | *Ich habe einen Film gesehen.* |
+| **treffen** | *haben* | **getroffen** | *Ich habe Freunde getroffen.* |
+| **sprechen** | *haben* | **gesprochen** | *Wir haben mit dem Arzt gesprochen.* |
+| **schlafen** | *haben* | **geschlafen** | *Ich habe gut geschlafen.* |
+| **fahren** | *sein* | **gefahren** | *Ich bin nach München gefahren.* |
+| **gehen** | *sein* | **gegangen** | *Er ist nach Hause gegangen.* |
+| **kommen** | *sein* | **gekommen** | *Wann bist du gekommen?* |
+| **bleiben** | *sein* | **geblieben** | *Wir sind zu Hause geblieben.* |
+| **aufstehen**| *sein* | **aufgestanden** | *Ich bin um 7 Uhr aufgestanden.* |
 
-<details>
-<summary>Evaluation guide</summary>
+---
 
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
+## 5. Simple Past (*Präteritum*) in A1: Only *war* and *hatte*!
 
+In A1 German, you do **not** use the written simple past for most verbs. You only need the Präteritum of **sein** (*war = was*) and **haben** (*hatte = had*):
+- *Ich **war** gestern krank.* (I was sick yesterday.)
+- *Gestern **hatte** ich keine Zeit.* (Yesterday I had no time.)
+
+---
+
+## 6. Interactive Practice & Exercises
+
+### Put the sentence into the Perfekt past tense:
+1. Ich lerne Deutsch. → Ich ___ Deutsch ___ (lernen).
+2. Er kauft ein Auto. → Er ___ ein Auto ___ (kaufen).
+3. Wir fahren nach Berlin. → Wir ___ nach Berlin ___ (fahren).
+4. Was trinkst du? → Was ___ du ___ (trinken)?
+5. Sie steht um 6 Uhr auf. → Sie ___ um 6 Uhr ___ (aufstehen).
+6. Ich esse eine Suppe. → Ich ___ eine Suppe ___ (essen).
+
+<details><summary>Click here for Answer Key & Explanations</summary>
+
+1. Ich **habe** Deutsch **gelernt**.
+2. Er **hat** ein Auto **gekauft**.
+3. Wir **sind** nach Berlin **gefahren**. (movement → *sein*)
+4. Was **hast** du **getrunken**?
+5. Sie **ist** um 6 Uhr **aufgestanden**. (state change → *sein*)
+6. Ich **habe** eine Suppe **gegessen**.
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

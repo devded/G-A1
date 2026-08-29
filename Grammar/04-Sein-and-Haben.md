@@ -1,120 +1,71 @@
-# Sein and Haben
+# 04 — The Verbs *sein* (to be) and *haben* (to have)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+The two most essential irregular auxiliary verbs in German are **`sein`** (*to be*) and **`haben`** (*to have*). They are used constantly in everyday conversation to describe identity, origin, age, family, possessions, and later form the compound past tense (*Perfekt*).
 
+---
 
+## 2. Complete Conjugation Tables
 
+| Subject Pronoun | **sein** (*to be*) | IPA | **haben** (*to have*) | IPA |
+|:---|:---:|:---:|:---:|:---:|
+| **ich** | **bin** *(I am)* | /bɪn/ | **habe** *(I have)* | /ˈhaːbə/ |
+| **du** | **bist** *(you are)* | /bɪst/ | **hast** *(you have)* | /hast/ |
+| **er / sie / es** | **ist** *(he/she/it is)* | /ɪst/ | **hat** *(he/she/it has)* | /hat/ |
+| **wir** | **sind** *(we are)* | /zɪnt/ | **haben** *(we have)* | /ˈhaːbən/ |
+| **ihr** | **seid** *(you all are)* | /zaɪt/ | **habt** *(you all have)* | /hapt/ |
+| **sie / Sie** | **sind** *(they/you are)* | /zɪnt/ | **haben** *(they/you have)* | /ˈhaːbən/ |
 
-### Concept
+---
 
-Personal pronouns show who performs or experiences an action. sein means “to be” and is irregular.
+## 3. Practical Usage & Common Idiomatic Formulas
 
-### Purpose
+### When to use `sein`:
+- **Identity & Name:** *Ich bin Marco.* / *Das ist Sarah.*
+- **Profession (No article after sein!):** *Ich bin Arzt.* / *Sie ist Studentin.*
+- **Origin & Nationality:** *Wir sind aus Berlin.* / *Er ist Deutscher.*
+- **Age:** *Ich bin 25 Jahre alt.* (Note: German uses *sein* for age, NOT *have*!)
+- **State & Adjectives:** *Das Wetter ist schön.* / *Ich bin müde.*
 
-Identify yourself and describe people, nationality, profession and basic states.
+### When to use `haben`:
+- **Possessions & Objects (Requires Accusative):**  
+  - *Ich habe **einen** Computer.* (masc → einen)  
+  - *Ich habe **eine** Schwester.* (fem → eine)  
+  - *Ich habe **ein** Auto.* (neuter → ein)  
+  - *Ich habe **zwei** Kinder.* (plural)
+- **Idiomatic physical sensations:**
+  - *Ich habe Hunger.* (I am hungry - literally: I have hunger)
+  - *Ich habe Durst.* (I am thirsty)
+  - *Ich habe Zeit / keine Zeit.* (I have time / no time)
+  - *Ich habe Kopfschmerzen.* (I have a headache)
+  - *Ich habe Fieber.* (I have a fever)
 
-### Sentence structure
+---
 
-```text
-Subject + conjugated form of sein + information. ich bin, du bist, er/sie/es ist, wir sind, ihr seid, Sie/sie sind.
-```
+## 4. English & Bengali Comparative Notes
 
-### Core examples
+- **Age:** In Bengali, we say 'আমার বয়স ২৫ বছর' (literally: *My age is 25*). In English: *I am 25*. In German, you say *Ich bin 25 Jahre alt* with **sein** (Never say ❌ *Ich habe 25 Jahre*).
+- **Hunger & Thirst:** In English, we use adjectives (*I am hungry*). In German, we use nouns with **haben** (*Ich habe Hunger*).
 
-| German | English |
-| --- | --- |
-| Ich bin Shatil. <SpeakButton text="Ich bin Shatil." audioSrc="/audio/ichbinshatil_6aede053.mp3" /> | I am Shatil. |
-| Du bist Studentin. <SpeakButton text="Du bist Studentin." audioSrc="/audio/dubiststudentin_6cbabb32.mp3" /> | You are a student. |
-| Sie sind Herr Weber. <SpeakButton text="Sie sind Herr Weber." audioSrc="/audio/siesindherrweber_1219e967.mp3" /> | You are Mr Weber. |
-| Wir sind müde. <SpeakButton text="Wir sind müde." audioSrc="/audio/wirsindmde_44ae60a5.mp3" /> | We are tired. |
+---
 
-### Common mistakes
+## 5. Interactive Practice & Exercises
 
-- Saying ich sein instead of ich bin.
-- Writing formal Sie with a lowercase letter.
-- Omitting the verb because Bengali can express some present states differently.
+### Fill in the blanks with the correct form of `sein` or `haben`:
+1. Wie alt ___ du? — Ich ___ 20 Jahre alt.
+2. ___ Sie Kinder, Frau Schmidt? — Ja, ich ___ zwei Töchter.
+3. Wir ___ heute keine Zeit.
+4. Wo ___ die Schlüssel? — Sie ___ auf dem Schreibtisch.
+5. Mein Bruder ___ Kopfschmerzen und er ___ sehr müde.
+6. ___ ihr morgen zu Hause?
 
-### English/Bengali comparison
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-English also changes “to be” heavily: am/is/are. Bengali may omit an equivalent copula in some present descriptions, but German requires the verb.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-### Concept
-
-haben means “to have” and is irregular in du and er/sie/es forms.
-
-### Purpose
-
-Talk about family, possessions, appointments, hunger, thirst and many everyday states.
-
-### Sentence structure
-
-```text
-ich habe, du hast, er/sie/es hat, wir haben, ihr habt, Sie/sie haben.
-```
-
-### Core examples
-
-| German | English |
-| --- | --- |
-| Ich habe eine Schwester. <SpeakButton text="Ich habe eine Schwester." audioSrc="/audio/ichhabeeineschwester_280aa6e3.mp3" /> | I have a sister. |
-| Hast du Kinder? <SpeakButton text="Hast du Kinder?" audioSrc="/audio/hastdukinder_87d57a6f.mp3" /> | Do you have children? |
-| Er hat einen Termin. <SpeakButton text="Er hat einen Termin." audioSrc="/audio/erhateinentermin_3a2dab8c.mp3" /> | He has an appointment. |
-| Wir haben Hunger. <SpeakButton text="Wir haben Hunger." audioSrc="/audio/wirhabenhunger_4b67c84e.mp3" /> | We are hungry. |
-
-### Common mistakes
-
-- Using du habe instead of du hast.
-- Translating English “I am hungry” word for word; German commonly says Ich habe Hunger.
-- Forgetting the article before a countable noun.
-
-### English/Bengali comparison
-
-Like Bengali, German sometimes expresses states through possession: Ich habe Hunger literally means I have hunger.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **bist** (du) / **bin** (ich) — age uses *sein*
+2. **Haben** (Sie) / **habe** (ich) — family uses *haben*
+3. **haben** (wir) — *haben keine Zeit*
+4. **sind** (die Schlüssel = pl) / **sind** (sie) — location uses *sein*
+5. **hat** (er) / **ist** (er) — pain uses *haben*, physical state uses *sein*
+6. **Seid** (ihr) — state/location uses *sein*
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

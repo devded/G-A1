@@ -1,78 +1,78 @@
-# Accusative Case
+# 11 — The Accusative Case (*Der Akkusativ*)
 
-## Learning purpose
+## 1. Overview & Core Concept
 
-Use this structure accurately in practical A1 communication.
+The **Accusative Case** (*Akkusativ*) is used for the **Direct Object** of a sentence — the person or thing directly receiving the action of the verb.
 
+> 🌟 **The Magic Secret of Accusative:**  
+> In the Accusative case, **ONLY MASCULINE NOUNS CHANGE**!  
+> Feminine (*die/eine*), Neuter (*das/ein*), and Plural (*die/-*) stay **EXACTLY THE SAME** as in the Nominative!
 
-### Concept
+---
 
-The accusative marks the direct object. Only masculine singular articles visibly change in the basic article set.
+## 2. Complete Accusative Article Matrix
 
-### Purpose
+| Article Type | Masculine (m) ⚡️ *(CHANGES!)* | Feminine (f) *(Same)* | Neuter (n) *(Same)* | Plural (pl) *(Same)* |
+|:---|:---:|:---:|:---:|:---:|
+| **Definite (*the*)** | **den** Tisch | **die** Lampe | **das** Bett | **die** Stühle |
+| **Indefinite (*a/an*)** | **einen** Tisch | **eine** Lampe | **ein** Bett | *— (keine Form)* |
+| **Negative (*no/none*)** | **keinen** Tisch | **keine** Lampe | **kein** Bett | **keine** Stühle |
+| **Possessive (*my*)** | **meinen** Tisch | **meine** Lampe | **mein** Bett | **meine** Stühle |
+| **Possessive (*your*)**| **deinen** Tisch | **deine** Lampe | **dein** Bett | **deine** Stühle |
+| **Possessive (*his*)** | **seinen** Tisch | **seine** Lampe | **sein** Bett | **seine** Stühle |
+| **Possessive (*her*)** | **ihren** Tisch | **ihre** Lampe | **ihr** Bett | **ihre** Stühle |
 
-Say what you buy, eat, need, see or want.
+---
 
-### Sentence structure
+## 3. High-Frequency Verbs that ALWAYS Take the Accusative
 
-```text
-der → den; ein → einen. die/das/eine/ein normally remain unchanged in the basic accusative.
-```
+Whenever you use these common A1 verbs with an object, apply the Accusative:
 
-### Core examples
+- **haben** (*to have*): *Ich habe **einen** Bruder.*
+- **brauchen** (*to need*): *Wir brauchen **einen** neuen Fernseher.*
+- **kaufen** (*to buy*): *Er kauft **einen** Apfel.*
+- **essen / trinken** (*to eat / drink*): *Ich esse **einen** Salat und trinke **einen** Kaffee.*
+- **bestellen** (*to order*): *Ich bestelle **einen** Tee.*
+- **möchten** (*would like*): *Ich möchte **einen** Orangensaft, bitte.*
+- **sehen** (*to see*): *Siehst du **den** Mann dort?*
+- **nehmen** (*to take*): *Ich nehme **den** Bus.*
+- **suchen** (*to search/look for*): *Ich suche **meinen** Schlüssel.*
+- **finden** (*to find/think of*): *Wie findest du **den** Film?*
+- **kennen** (*to know a person/place*): *Kennst du **den** Lehrer?*
+- **es gibt** (*there is/are*): *Gibt es hier **einen** Supermarkt?*
 
-| German | English |
-| --- | --- |
-| Ich kaufe einen Apfel. <SpeakButton text="Ich kaufe einen Apfel." audioSrc="/audio/ichkaufeeinenapfel_8bb12326.mp3" /> | I buy an apple. |
-| Sie nimmt den Bus. <SpeakButton text="Sie nimmt den Bus." audioSrc="/audio/sienimmtdenbus_f0f13ff0.mp3" /> | She takes the bus. |
-| Wir brauchen eine Fahrkarte. <SpeakButton text="Wir brauchen eine Fahrkarte." audioSrc="/audio/wirbraucheneinefahrk_f0b8d995.mp3" /> | We need a ticket. |
-| Er bestellt das Menü. <SpeakButton text="Er bestellt das Menü." audioSrc="/audio/erbestelltdasmen_603cf865.mp3" /> | He orders the menu. |
+---
 
-### Common mistakes
+## 4. Accusative Prepositions (*DOGFU*)
 
-- Changing every article in the accusative.
-- Forgetting den/einen with masculine direct objects.
-- Trying to identify case only by word order.
+These prepositions **ALWAYS trigger the Accusative case**, regardless of the verb:
 
-### English/Bengali comparison
+| Preposition | Meaning | Example |
+|:---|:---|:---|
+| **für** | for | *Das Geschenk ist **für meinen** Vater.* |
+| **ohne** | without | *Ich trinke Kaffee **ohne Zucker** (ohne Milch).* |
+| **durch** | through | *Wir gehen **durch den** Park.* |
+| **um** | around / at (time)| *Der Bus fährt **um die** Ecke.* / *Um 8 Uhr.* |
+| **gegen** | against / towards | *Er fährt **gegen den** Baum.* |
 
-Bengali often marks objects with suffixes or context. German frequently shows the role through the article.
+---
 
-### Quick grammar check
+## 5. Interactive Practice & Exercises
 
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
+### Fill in the blanks with the correct Accusative form:
+1. Ich möchte bitte ___ (a, m) Kaffee und ___ (a, n) Brötchen.
+2. Hast du ___ (a, m) Bruder oder ___ (a, f) Schwester?
+3. Wir suchen ___ (the, m) Bahnhof.
+4. Das Geschenk ist für ___ (my, m) Sohn.
+5. Er hat ___ (no, m) Hund, aber er hat ___ (a, f) Katze.
+6. Wie findest du ___ (the, m) neuen Lehrer?
 
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **einen** Kaffee (masc) / **ein** Brötchen (neuter)
+2. **einen** Bruder (masc) / **eine** Schwester (fem)
+3. **den** Bahnhof (masc direct object of *suchen*)
+4. **meinen** Sohn (preposition *für* triggers accusative masculine)
+5. **keinen** Hund (masc negative) / **eine** Katze (fem)
+6. **den** neuen Lehrer (masc direct object of *finden*)
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.

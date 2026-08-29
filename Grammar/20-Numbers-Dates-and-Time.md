@@ -1,120 +1,65 @@
-# Numbers, Dates and Time
+# 20 — Numbers, Dates and Time (*Zahlen, Datum und Uhrzeit*)
 
-## Learning purpose
+## 1. Numbers 0 to 1,000,000 (*Kardinalzahlen*)
 
-Use this structure accurately in practical A1 communication.
+### 0 to 12 (Base units):
+`0 null`, `1 eins`, `2 zwei`, `3 drei`, `4 vier`, `5 fünf`, `6 sechs`, `7 sieben`, `8 acht`, `9 neun`, `10 zehn`, `11 elf`, `12 zwölf`.
 
+### 13 to 19 (Unit + zehn):
+`13 dreizehn`, `14 vierzehn`, `15 fünfzehn`, `16 sechzehn` (drops -s), `17 siebzehn` (drops -en), `18 achtzehn`, `19 neunzehn`.
 
+### 20 to 99 (Tens + unit with *und*):
+> 💡 **German Order:** Say the **units first, then *und*, then the tens**! (e.g. 21 = *einundzwanzig* — one-and-twenty).
+- `20 zwanzig` → `21 einundzwanzig`, `22 zweiundzwanzig`
+- `30 dreißig`, `40 vierzig`, `50 fünfzig`, `60 sechzig`, `70 siebzig`, `80 achtzig`, `90 neunzig`
+- `100 (ein)hundert`, `1.000 (ein)tausend`, `1.000.000 eine Million`.
 
+---
 
-### Concept
+## 2. Telling Time (*Die Uhrzeit: Offiziell vs Inoffiziell*)
 
-German numbers from 21 to 99 normally state the unit before the ten: einundzwanzig, literally one-and-twenty.
+| Clock | Official Time (24h - Announcements / Timetables) | Informal Spoken Time (12h - Daily Conversation) |
+|:---:|:---|:---|
+| **08:00** | *acht Uhr* | *acht Uhr* |
+| **08:15** | *acht Uhr fünfzehn* | **Viertel nach acht** |
+| **08:30** | *acht Uhr dreißig* | **halb neun** *(half before nine!)* ⚠️ |
+| **08:45** | *acht Uhr fünfundvierzig* | **Viertel vor neun** |
+| **08:20** | *acht Uhr zwanzig* | *zwanzig nach acht* |
+| **08:40** | *acht Uhr vierzig* | *zwanzig vor neun* |
+| **14:30** | *vierzehn Uhr dreißig* | *halb drei* |
 
-### Purpose
+> ⚠️ **The *halb* Trap:** In German, *halb neun* means **halfway TO nine** (8:30), NOT half past nine!
 
-Give ages, prices, telephone numbers, dates and addresses.
+---
 
-### Sentence structure
+## 3. Dates and Ordinal Numbers (*Das Datum*)
 
-```text
-unit + und + ten: zweiunddreißig; telephone numbers are usually spoken in small groups or individual digits.
-```
+To state dates, use the preposition **`am`** + Ordinal Number ending in **`-ten`** (or **`-sten`** from 20 onwards):
+- *am 1. Mai* → **am ersten Mai**
+- *am 3. Oktober* → **am dritten Oktober**
+- *am 15. Juli* → **am fünfzehnten Juli**
+- *am 24. Dezember* → **am vierundzwanzigsten Dezember**
 
-### Core examples
+### Prepositions for Time, Days, Months:
+- **`um`** + Clock Time: *um 8 Uhr, um halb neun*
+- **`am`** + Days & Dates: *am Montag, am Wochenende, am 5. Mai*
+- **`im`** + Months & Seasons: *im Juli, im Sommer, im Winter*
+- **`von ... bis`** + Span: *von 9 bis 17 Uhr*
 
-| German | English |
-| --- | --- |
-| Ich bin dreißig Jahre alt. <SpeakButton text="Ich bin dreißig Jahre alt." audioSrc="/audio/ichbindreiigjahrealt_9ef148c3.mp3" /> | I am thirty years old. |
-| Meine Nummer ist null eins sieben … <SpeakButton text="Meine Nummer ist null eins sieben …" audioSrc="/audio/meinenummeristnullei_568c0b06.mp3" /> | My number is zero one seven … |
-| Das kostet vierundzwanzig Euro. <SpeakButton text="Das kostet vierundzwanzig Euro." audioSrc="/audio/daskostetvierundzwan_66307334.mp3" /> | That costs twenty-four euros. |
-| Heute ist der dritte Mai. <SpeakButton text="Heute ist der dritte Mai." audioSrc="/audio/heuteistderdrittemai_4a5b666b.mp3" /> | Today is the third of May. |
+---
 
-### Common mistakes
+## 4. Interactive Practice & Exercises
 
-- Reversing the order in 21–99.
-- Confusing zwei and drei in fast speech.
-- Using eins before a noun where ein/eine is needed.
+### Write the time in informal German:
+1. 07:15 → Es ist ___
+2. 09:30 → Es ist ___
+3. 18:45 → Es ist ___
+4. Wann hast du Geburtstag? (12. August) → Ich habe ___ Geburtstag.
 
-### English/Bengali comparison
+<details><summary>Click here for Answer Key & Explanations</summary>
 
-The reversed order resembles older English forms such as “four-and-twenty,” but must become automatic in German.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-
-### Concept
-
-German uses um for clock time, am for days and dates, and im for months and seasons.
-
-### Purpose
-
-Arrange appointments and understand schedules.
-
-### Sentence structure
-
-```text
-um 8 Uhr; am Montag; am dritten Mai; im Juli; im Winter.
-```
-
-### Core examples
-
-| German | English |
-| --- | --- |
-| Der Kurs beginnt um neun Uhr. <SpeakButton text="Der Kurs beginnt um neun Uhr." audioSrc="/audio/derkursbeginntumneun_f746f274.mp3" /> | The course starts at nine. |
-| Am Montag arbeite ich. <SpeakButton text="Am Montag arbeite ich." audioSrc="/audio/ammontagarbeiteich_edeedd36.mp3" /> | I work on Monday. |
-| Im August habe ich Urlaub. <SpeakButton text="Im August habe ich Urlaub." audioSrc="/audio/imaugusthabeichurlau_444bcb1c.mp3" /> | I have vacation in August. |
-| Heute ist der fünfte Juni. <SpeakButton text="Heute ist der fünfte Juni." audioSrc="/audio/heuteistderfnftejuni_c30c4edd.mp3" /> | Today is the fifth of June. |
-
-### Common mistakes
-
-- Using one preposition for all time expressions.
-- Forgetting ordinal endings in dates.
-- Confusing halb acht with 8:30; it means 7:30.
-
-### English/Bengali comparison
-
-German halb acht looks forward to the next hour, which can be surprising to English and Bengali speakers.
-
-### Quick grammar check
-
-1. Copy one example and change one detail.
-2. Say the new sentence aloud twice.
-3. Write one sentence about your real life.
-4. Cover the rule and explain it in your own words.
-
-
-## Guided practice
-
-1. Read each model aloud twice.
-2. Cover the model and rebuild it from the English cue.
-3. Change the subject, time, place or object.
-4. Write two true sentences about your own life.
-5. Ask one related question and answer it aloud.
-
-## Mini quiz
-
-1. Write one correct statement using this topic.
-2. Turn that statement into a question where possible.
-3. Write one negative version.
-4. Correct one likely beginner mistake.
-
-<details>
-<summary>Evaluation guide</summary>
-
-A successful answer communicates the intended meaning, contains a conjugated verb in the expected position, uses taught articles/cases where relevant, and keeps nouns capitalised. Compare with the model patterns above rather than attempting advanced alternatives.
-
+1. **Viertel nach sieben**
+2. **halb zehn** (8:30 is *halb neun*, 9:30 is *halb zehn*)
+3. **Viertel vor sieben** (or *Viertel vor neunzehn*)
+4. **am zwölften August**
 </details>
-
-## Revision tips
-
-- Revisit this file after 1, 3, 7 and 14 days.
-- Add repeated errors to `PROGRESS_TRACKER.md`.
-- Practise through a complete phrase, not an isolated table.
-- Use the topic in the next speaking checkpoint.
