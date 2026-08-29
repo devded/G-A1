@@ -71,7 +71,7 @@ Avoid memorising large tables without sentences. Prefer simple correct German to
 6. Compare one feature: vowel length, stress, rhythm or final sound.
 7. Repeat the whole line naturally.
 
-Use five to ten focused minutes. All 56 daily lessons include a local audio file and transcript.
+Use five to ten focused minutes. All 84 daily lessons include a local audio file and transcript.
 
 ## Speaking alone
 

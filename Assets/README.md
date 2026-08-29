@@ -1,6 +1,6 @@
 # Assets
 
-- `Audio/` contains locally generated German WAV tracks for all 56 daily lessons and both mock exams.
+- `Audio/` contains locally generated German WAV tracks for daily lessons and mock exams.
 - `Audio-Scripts/` contains a consolidated script index.
 - `Printable-Trackers/` contains printable Markdown trackers.
 - `Templates/` contains reusable lesson and error-log templates.

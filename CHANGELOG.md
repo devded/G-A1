@@ -2,7 +2,7 @@
 
 ## 1.0.0 — Complete course release
 
-- Added full eight-week curriculum and 56 daily lessons
+- Added full twelve-week curriculum and 84 daily lessons
 - Added 950-item vocabulary system and weekly Anki-compatible CSV files
 - Added generated listening audio and scripts for every daily lesson
 - Added global grammar, pronunciation, skill and resource references
