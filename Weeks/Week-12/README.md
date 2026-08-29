@@ -1,9 +1,9 @@
 # Week 12 — Goethe A1 Exam Prep & Mock Exams
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 12 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
-  <a href="/">Course Home →</a>
+  <a :href="$withBase('/')">Course Home →</a>
 </div>
 
 > **Week 12 Goal:** Master exam strategies for Listening (Hören), Reading (Lesen), Writing (Schreiben), and Speaking (Sprechen), and complete two full A1 Mock Exams.

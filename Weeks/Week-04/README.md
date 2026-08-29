@@ -1,7 +1,7 @@
 # Week 4 — Jobs, School & Irregular Verbs
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 4 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-05/Days/Day-29">Week 5 →</a>
 </div>

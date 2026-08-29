@@ -1,7 +1,7 @@
 # Week 9 — City, Transport & Directions
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 9 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-10/Days/Day-64">Week 10 →</a>
 </div>

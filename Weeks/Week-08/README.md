@@ -1,7 +1,7 @@
 # Week 8 — Restaurants & Preferences
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 8 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-09/Days/Day-57">Week 9 →</a>
 </div>

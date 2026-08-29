@@ -1,7 +1,7 @@
 # Week 5 — Time, Days & Daily Routine
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 5 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-06/Days/Day-36">Week 6 →</a>
 </div>

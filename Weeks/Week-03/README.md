@@ -1,7 +1,7 @@
 # Week 3 — Home, Rooms & Furniture
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 3 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-04/Days/Day-22">Week 4 →</a>
 </div>

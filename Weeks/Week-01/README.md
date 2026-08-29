@@ -1,7 +1,7 @@
 # Week 1 — Alphabet, Greetings & First Words
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 1 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-02/Days/Day-08">Week 2 →</a>
 </div>

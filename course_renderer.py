@@ -307,12 +307,12 @@ def render_readme(w):
     lines = []
     lines.append(f'# Week {week_num} — {w["title"]}\n')
     lines.append('<div class="day-nav">')
-    lines.append('  <a href="/">← Course Home</a>')
+    lines.append('  <a :href="$withBase(\'/\')">← Course Home</a>')
     lines.append(f'  <span class="day-center">Week {week_num} of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>')
     if week_num < 12:
         lines.append(f'  <a href="/Weeks/Week-{fmt_day(next_week)}/Days/Day-{fmt_day(end_day+1)}">Week {next_week} →</a>')
     else:
-        lines.append('  <a href="/">Course Home →</a>')
+        lines.append('  <a :href="$withBase(\'/\')">Course Home →</a>')
     lines.append('</div>\n')
 
     lines.append(f'> **Week {week_num} Goal:** {w["goal"]}\n')

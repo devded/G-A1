@@ -1,7 +1,7 @@
 # Week 7 — Food, Drinks & Shopping
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 7 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-08/Days/Day-50">Week 8 →</a>
 </div>

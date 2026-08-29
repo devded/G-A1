@@ -1,7 +1,7 @@
 # Week 11 — Health & Present Perfect Tense
 
 <div class="day-nav">
-  <a href="/">← Course Home</a>
+  <a :href="$withBase('/')">← Course Home</a>
   <span class="day-center">Week 11 of 12 <span class="day-meta">· 7 days · 56 words · 6 grammar points</span></span>
   <a href="/Weeks/Week-12/Days/Day-78">Week 12 →</a>
 </div>
